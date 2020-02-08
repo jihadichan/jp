@@ -24,6 +24,8 @@ public class DjtGrammarPage {
     private static final Pattern latinSpacePattern = Pattern.compile(" ");
     private static final Pattern imagePathPattern = Pattern.compile("^<img src=\\\\\"|\\\\\" ?/?>");
     private static final Pattern escapedQuotePattern = Pattern.compile("\\\\\"");
+    private static final Pattern relatedExpressionCleaningPattern = Pattern.compile("【Related Expression: ?|】");
+    private static final Pattern antonymExpressionCleaningPattern = Pattern.compile("【Antonym Expression: ?|】");
     private static final Set<String> uniqueSentences = new HashSet<>();
     private static final AtomicInteger fileNameCount = new AtomicInteger(1);
 
@@ -51,9 +53,11 @@ public class DjtGrammarPage {
         this.grammarBookHtml = removeEscapedQuotes(getAtIndexOrNull(36, cells));
         this.syntaxHtml = removeEscapedQuotes(getAtIndexOrNull(37, cells));
         this.partOfSpeech = getAtIndexOrNull(38, cells);
-        this.relatedExpression = getAtIndexOrNull(39, cells);
-        this.antonymExpression = getAtIndexOrNull(40, cells);
-        this.markdownFileName = fileNameCount.getAndIncrement() + ".md";
+        String relExp = getAtIndexOrNull(39, cells);
+        this.relatedExpression = relExp != null ? relatedExpressionCleaningPattern.matcher(relExp).replaceAll("") : null;
+        String antExp = getAtIndexOrNull(40, cells);
+        this.antonymExpression = antExp != null ? antonymExpressionCleaningPattern.matcher(antExp).replaceAll("") : null;
+        this.markdownFileName = String.valueOf(fileNameCount.getAndIncrement());
     }
 
     private static String removeEscapedQuotes(final String html) {

@@ -77,8 +77,10 @@ public class RunDjtToMarkDownConverter {
                 "<table>";
 
         for (final DjtSentence djtSentence : djtGrammarPage.sentences) {
-            page += "<tr><td>" + djtSentence.japanese + "</td></tr>" +
-                    "<tr><td>" + djtSentence.english + "</td></tr>";
+            page += "<tr>" +
+                    "   <td>" + djtSentence.japanese + "</td>" +
+                    "   <td>" + djtSentence.english + "</td>" +
+                    "</tr>";
         }
         page += "</table>\n\n";
 
@@ -108,7 +110,7 @@ public class RunDjtToMarkDownConverter {
         for (final DjtGrammarPage grammarPage : grammarPages) {
             page += "<tr>" +
                     "<td>" + grammarPage.markdownFileName + ". " +
-                    "<a href='items/" + grammarPage.markdownFileName + "'>" + grammarPage.grammarItem + "</a>" +
+                    "<a href='items/" + grammarPage.markdownFileName + "'>" + grammarPage.grammarItem + ".md</a>" +
                     "</td>" +
                     "<td>" +
                     "<ul>";
