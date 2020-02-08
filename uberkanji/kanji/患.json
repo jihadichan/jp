@@ -1,0 +1,3691 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "患者",
+      "is_common": true,
+      "tags": [
+        "wanikani37"
+      ],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "患者",
+          "reading": "かんじゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "patient"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Patient"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Patient” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Patient?oldid\u003d481865295"
+            },
+            {
+              "text": "Read “患者” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/患者?oldid\u003d41642446"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Patient"
+      }
+    },
+    {
+      "slug": "患う",
+      "is_common": true,
+      "tags": [
+        "wanikani37"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "患う",
+          "reading": "わずらう"
+        },
+        {
+          "word": "煩う",
+          "reading": "わずらう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to be ill",
+            "to suffer from"
+          ],
+          "parts_of_speech": [
+            "Godan verb with u ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "esp. 患う"
+          ]
+        },
+        {
+          "english_definitions": [
+            "to worry about",
+            "to be concerned about"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "煩う"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to have trouble doing ...",
+            "to be unable to ...",
+            "to fail to ..."
+          ],
+          "parts_of_speech": [
+            "Auxiliary verb",
+            "Godan verb with u ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "esp. 煩う, after the -masu stem of a verb"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "急患",
+      "is_common": false,
+      "tags": [
+        "wanikani37"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "急患",
+          "reading": "きゅうかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "emergency case"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "呼吸器疾患",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "呼吸器疾患",
+          "reading": "こきゅうきしっかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "respiratory illness"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Respiratory disease"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Respiratory disease” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Respiratory_disease?oldid\u003d495270407"
+            },
+            {
+              "text": "Read “呼吸器疾患” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/呼吸器疾患?oldid\u003d42734982"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Respiratory_disease"
+      }
+    },
+    {
+      "slug": "入院患者",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "入院患者",
+          "reading": "にゅういんかんじゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "in-patients"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "The Adventure of the Resident Patient"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “The Adventure of the Resident Patient” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/The_Adventure_of_the_Resident_Patient?oldid\u003d488072321"
+            },
+            {
+              "text": "Read “入院患者” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/入院患者?oldid\u003d42285018"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/The_Adventure_of_the_Resident_Patient"
+      }
+    },
+    {
+      "slug": "長患い",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "長患い",
+          "reading": "ながわずらい"
+        },
+        {
+          "word": "長煩い",
+          "reading": "ながわずらい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "long illness",
+            "protracted illness"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "無患子",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "無患子",
+          "reading": "むくろじ"
+        },
+        {
+          "reading": "ムクロジ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Indian soapberry (Sapindus mukorossi)",
+            "Chinese soapberry",
+            "washnut",
+            "soapnut tree"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "罹患率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "罹患率",
+          "reading": "りかんりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "disease rate",
+            "infection rate",
+            "morbidity rate"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "憂い-1",
+      "is_common": false,
+      "tags": [
+        "wanikani57"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "憂い",
+          "reading": "うれい"
+        },
+        {
+          "word": "愁い",
+          "reading": "うれい"
+        },
+        {
+          "word": "患い",
+          "reading": "うれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sorrow",
+            "grief",
+            "anguish",
+            "distress"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "trouble",
+            "affliction",
+            "anxiety",
+            "fear",
+            "misgivings"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "疾患",
+      "is_common": true,
+      "tags": [
+        "wanikani54"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "疾患",
+          "reading": "しっかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "disease",
+            "ailment",
+            "illness"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "罹患",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "罹患",
+          "reading": "りかん"
+        },
+        {
+          "word": "羅患",
+          "reading": "りかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "contracting a disease"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "患部",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "患部",
+          "reading": "かんぶ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "affected part",
+            "diseased part",
+            "wound"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "病患",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "病患",
+          "reading": "びょうかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sickness",
+            "disease"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "内憂外患",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "内憂外患",
+          "reading": "ないゆうがいかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "troubles both at home and abroad"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "備えあれば憂いなし",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "備えあれば憂いなし",
+          "reading": "そなえあればうれいなし"
+        },
+        {
+          "word": "備えあればうれいなし",
+          "reading": "そなえあればうれいなし"
+        },
+        {
+          "word": "備えあれば患いなし",
+          "reading": "そなえあればうれいなし"
+        },
+        {
+          "word": "備えあれば患なし",
+          "reading": "そなえあればうれいなし"
+        },
+        {
+          "word": "備えあれば憂い無し",
+          "reading": "そなえあればうれいなし"
+        },
+        {
+          "word": "備えあれば患い無し",
+          "reading": "そなえあればうれいなし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "if you are prepared you don\u0027t have to worry",
+            "it\u0027s good to have a shelter against every storm"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [
+            "Proverb"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "脱髄疾患",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "脱髄疾患",
+          "reading": "だつずいしっかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "demyelinating disease"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Demyelinating disease"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Demyelinating disease” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Demyelinating_disease?oldid\u003d454261338"
+            },
+            {
+              "text": "Read “脱髄疾患” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/脱髄疾患?oldid\u003d41276505"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Demyelinating_disease"
+      }
+    },
+    {
+      "slug": "腸疾患",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "腸疾患",
+          "reading": "ちょうしっかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "enteropathy"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Enteropathy"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Enteropathy” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Enteropathy?oldid\u003d442626713"
+            },
+            {
+              "text": "Read “腸疾患” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/腸疾患?oldid\u003d36831517"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Enteropathy"
+      }
+    },
+    {
+      "slug": "精神疾患",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "精神疾患",
+          "reading": "せいしんしっかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "mental disorder",
+            "mental disease"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Mental disorder"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Mental disorder” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Mental_disorder?oldid\u003d495266697"
+            },
+            {
+              "text": "Read “精神疾患” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/精神疾患?oldid\u003d42548671"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Mental_disorder"
+      }
+    },
+    {
+      "slug": "遺伝子疾患",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遺伝子疾患",
+          "reading": "いでんししっかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "genetic disorder"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Genetic disorder"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Genetic disorder” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Genetic_disorder?oldid\u003d494796261"
+            },
+            {
+              "text": "Read “遺伝子疾患” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/遺伝子疾患?oldid\u003d42781377"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Genetic_disorder"
+      }
+    },
+    {
+      "slug": "炎症性腸疾患",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "炎症性腸疾患",
+          "reading": "えんしょうせいちょうしっかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "inflammatory bowel disease",
+            "IBD"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Medicine, etc. term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Inflammatory bowel disease"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Inflammatory bowel disease” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Inflammatory_bowel_disease?oldid\u003d490013966"
+            },
+            {
+              "text": "Read “炎症性腸疾患” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/炎症性腸疾患?oldid\u003d40955914"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Inflammatory_bowel_disease"
+      }
+    },
+    {
+      "slug": "慢性閉塞性肺疾患",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "慢性閉塞性肺疾患",
+          "reading": "まんせいへいそくせいはいしっかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "chronic obstructive pulmonary disease",
+            "COPD"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Chronic obstructive pulmonary disease"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Chronic obstructive pulmonary disease” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Chronic_obstructive_pulmonary_disease?oldid\u003d495372418"
+            },
+            {
+              "text": "Read “慢性閉塞性肺疾患” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/慢性閉塞性肺疾患?oldid\u003d42417265"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Chronic_obstructive_pulmonary_disease"
+      }
+    },
+    {
+      "slug": "炎症性腸疾患",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "炎症性腸疾患",
+          "reading": "えんしょうせいちょうしっかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "inflammatory bowel disease",
+            "IBD"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Medicine, etc. term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Inflammatory bowel disease"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Inflammatory bowel disease” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Inflammatory_bowel_disease?oldid\u003d490013966"
+            },
+            {
+              "text": "Read “炎症性腸疾患” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/炎症性腸疾患?oldid\u003d40955914"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Inflammatory_bowel_disease"
+      }
+    },
+    {
+      "slug": "自己免疫疾患",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "自己免疫疾患",
+          "reading": "じこめんえきしっかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "autoimmune disorder"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Autoimmunity"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Autoimmunity” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Autoimmunity?oldid\u003d491587721"
+            },
+            {
+              "text": "Read “自己免疫疾患” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/自己免疫疾患?oldid\u003d42743654"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Autoimmunity"
+      }
+    },
+    {
+      "slug": "新生児溶血性疾患",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "新生児溶血性疾患",
+          "reading": "しんせいじようけつせいしっかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "hemolytic disease of the newborn (haemolytic)",
+            "erythroblastosis fetalis"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "重患",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "重患",
+          "reading": "じゅうかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "serious illness"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "冠状動脈疾患",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "冠状動脈疾患",
+          "reading": "かんじょうどうみゃくしっかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "coronary-artery disease"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "慢性閉塞性呼吸器疾患",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "慢性閉塞性呼吸器疾患",
+          "reading": "まんせいへいそくせいこきゅうきしっかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "chronic obstructive respiratory disease"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "後患",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "後患",
+          "reading": "こうかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "future trouble",
+            "future problems"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "遺伝性疾患",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遺伝性疾患",
+          "reading": "いでんせいしっかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "hereditary disease",
+            "hereditary disorder"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "基礎疾患",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "基礎疾患",
+          "reading": "きそしっかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "underlying disease",
+            "primary illness",
+            "underlying condition"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Medicine, etc. term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "肺患",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "肺患",
+          "reading": "はいかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "lung disease",
+            "pulmonary illness"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "肺病"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "神経筋疾患",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "神経筋疾患",
+          "reading": "しんけいきんしっかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "neuromuscular disease"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Medicine, etc. term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "胸部疾患",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "胸部疾患",
+          "reading": "きょうぶしっかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "chest disease"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "変性疾患",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "変性疾患",
+          "reading": "へんせいしっかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "degenerative disease"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "全身性疾患",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "全身性疾患",
+          "reading": "ぜんしんせいしっかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "systemic disease",
+            "systemic disorder"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "歯牙疾患",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歯牙疾患",
+          "reading": "しがしっかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dental disease"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "内患",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "内患",
+          "reading": "ないかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "internal trouble",
+            "domestic trouble"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "慢性疾患",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "慢性疾患",
+          "reading": "まんせいしっかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "chronic disease",
+            "chronic illness"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "脳血管疾患",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "脳血管疾患",
+          "reading": "のうけっかんしっかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "cerebrovascular disease"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "大患",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "大患",
+          "reading": "たいかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "serious illness",
+            "travails"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "苦患",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "苦患",
+          "reading": "くげん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "hellish pain",
+            "suffering",
+            "distress",
+            "agony"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Buddhist term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "切断患者",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "切断患者",
+          "reading": "せつだんかんじゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "amputee"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "歯牙疾患",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歯牙疾患",
+          "reading": "しがしっかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dental disease"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "内患",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "内患",
+          "reading": "ないかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "internal trouble",
+            "domestic trouble"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "神経変性疾患",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "神経変性疾患",
+          "reading": "しんけいへんせいしっかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "neurodegenerative disease",
+            "neurodegenerative disorder"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Medicine, etc. term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "眼疾患",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "眼疾患",
+          "reading": "がんしっかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "eye disease"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "大患",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "大患",
+          "reading": "たいかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "serious illness",
+            "travails"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "脳血管疾患",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "脳血管疾患",
+          "reading": "のうけっかんしっかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "cerebrovascular disease"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "肝疾患",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "肝疾患",
+          "reading": "かんしっかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "liver disease"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "恋煩い",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "恋煩い",
+          "reading": "こいわずらい"
+        },
+        {
+          "word": "恋患い",
+          "reading": "こいわずらい"
+        },
+        {
+          "word": "恋わずらい",
+          "reading": "こいわずらい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "lovesickness"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "恋の病 こいのやまい"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "気煩い",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "気煩い",
+          "reading": "きわずらい"
+        },
+        {
+          "word": "気患い",
+          "reading": "きわずらい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "nervous breakdown",
+            "neurosis",
+            "sickness from anxiety"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Obscure term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "外患",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "外患",
+          "reading": "がいかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "external pressure",
+            "foreign threat"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "患いつく",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "患いつく",
+          "reading": "わずらいつく"
+        },
+        {
+          "word": "患い付く",
+          "reading": "わずらいつく"
+        },
+        {
+          "word": "煩い付く",
+          "reading": "わずらいつく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to become sick",
+            "to fall ill",
+            "to be confined to bed"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ku ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "特定疾患",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "特定疾患",
+          "reading": "とくていしっかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "diseases specified by the Japanese government as being worrisome, having no known treatment and of unknown causes"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "新患",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "新患",
+          "reading": "しんかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "new patient"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "憂え",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "憂え",
+          "reading": "うれえ"
+        },
+        {
+          "word": "愁え",
+          "reading": "うれえ"
+        },
+        {
+          "word": "患え",
+          "reading": "うれえ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "lamentation"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "grief",
+            "anguish"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "anxiety"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "illness"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "mourning"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "血友病患者",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "血友病患者",
+          "reading": "けつゆうびょうかんじゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "hemophiliac",
+            "haemophiliac"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "癩病患者",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "癩病患者",
+          "reading": "らいびょうかんじゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "leper"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Sensitive"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "収容患者",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "収容患者",
+          "reading": "しゅうようかんじゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "in-patients"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "内臓疾患",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "内臓疾患",
+          "reading": "ないぞうしっかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "internal disease"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "特定疾患",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "特定疾患",
+          "reading": "とくていしっかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "diseases specified by the Japanese government as being worrisome, having no known treatment and of unknown causes"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "患難",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "患難",
+          "reading": "かんなん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "affliction"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "精神神経症患者",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "精神神経症患者",
+          "reading": "せいしんしんけいしょうかんじゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "psychoneurotic"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "新患",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "新患",
+          "reading": "しんかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "new patient"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "憂え",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "憂え",
+          "reading": "うれえ"
+        },
+        {
+          "word": "愁え",
+          "reading": "うれえ"
+        },
+        {
+          "word": "患え",
+          "reading": "うれえ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "lamentation"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "grief",
+            "anguish"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "anxiety"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "illness"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "mourning"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "癩病患者",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "癩病患者",
+          "reading": "らいびょうかんじゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "leper"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Sensitive"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "肺患",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "肺患",
+          "reading": "はいかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "lung disease",
+            "pulmonary illness"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "肺病"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "麻薬患者",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "麻薬患者",
+          "reading": "まやくかんじゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "drug addict"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "精神分裂病患者",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "精神分裂病患者",
+          "reading": "せいしんぶんれつびょうかんじゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "schizophrenic"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Sensitive"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "憂患",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "憂患",
+          "reading": "ゆうかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sorrow",
+            "worry",
+            "distress"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "心疾患",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "心疾患",
+          "reading": "しんしっかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "heart disease"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "内臓疾患",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "内臓疾患",
+          "reading": "ないぞうしっかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "internal disease"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "煩い-1",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "煩い",
+          "reading": "わずらい"
+        },
+        {
+          "word": "患い",
+          "reading": "わずらい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "worry",
+            "agony",
+            "vexation"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "esp. 煩い"
+          ]
+        },
+        {
+          "english_definitions": [
+            "illness",
+            "sickness"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "esp. 患い"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "外患罪",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "外患罪",
+          "reading": "がいかんざい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "treason",
+            "conspiracy against one\u0027s country"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Treason"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Treason” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Treason?oldid\u003d495288242"
+            },
+            {
+              "text": "Read “外患罪” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/外患罪?oldid\u003d42760108"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Treason"
+      }
+    },
+    {
+      "slug": "虚血性心疾患",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "虚血性心疾患",
+          "reading": "きょけつせいしんしっかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "ischemic heart disease",
+            "ischaemic heart disease"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Ischaemic heart disease"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Ischaemic heart disease” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Ischaemic_heart_disease?oldid\u003d490615542"
+            },
+            {
+              "text": "Read “虚血性心疾患” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/虚血性心疾患?oldid\u003d42595282"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Ischaemic_heart_disease"
+      }
+    },
+    {
+      "slug": "血管疾患",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "血管疾患",
+          "reading": "けっかんしっかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "vascular disease",
+            "valvular disease"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Medicine, etc. term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Vascular disease"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Vascular disease” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Vascular_disease?oldid\u003d495410372"
+            },
+            {
+              "text": "Read “血管疾患” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/血管疾患?oldid\u003d40548578"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Vascular_disease"
+      }
+    },
+    {
+      "slug": "運動ニューロン疾患",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "運動ニューロン疾患",
+          "reading": "うんどうニューロンしっかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "motor neurone disease",
+            "MND"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "ウイルス性疾患",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ウイルス性疾患",
+          "reading": "ウイルスせいしっかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "viral disease"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "ハンセン病患者",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ハンセン病患者",
+          "reading": "ハンセンびょうかんじゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "leper"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "ペイ患",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ペイ患",
+          "reading": "ペイかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "drug addict"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Obscure term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "ペイ患",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ペイ患",
+          "reading": "ペイかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "drug addict"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Obscure term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "養虎の患い",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "養虎の患い",
+          "reading": "ようこのうれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rear a tiger and court disaster"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [
+            "Proverb"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "アレルギー性疾患",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "アレルギー性疾患",
+          "reading": "アレルギーせいしっかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "allergic disease"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "胸を患う",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "胸を患う",
+          "reading": "むねをわずらう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to suffer from pulmonary tuberculosis",
+            "to have trouble in one\u0027s lungs"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with u ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "養虎の患え",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "養虎の患え",
+          "reading": "ようこのうれえ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rear a tiger and court disaster"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [
+            "Proverb"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "ヒト疾患モデル",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ヒト疾患モデル",
+          "reading": "ヒトしっかんモデル"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "human disease model (e.g. using experimental animals)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "ヒト疾患モデルマウス",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ヒト疾患モデルマウス",
+          "reading": "ヒトしっかんモデルマウス"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "mouse model for human disease"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

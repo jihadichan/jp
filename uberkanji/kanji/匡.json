@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "匡救",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "匡救",
+          "reading": "きょうきゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "delivering from sin",
+            "succor",
+            "succour"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "匡正",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "匡正",
+          "reading": "きょうせい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "correction (of error, mistake, etc.)",
+            "reform",
+            "training"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "矯正 きょうせい"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

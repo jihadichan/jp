@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "杉",
+      "is_common": true,
+      "tags": [
+        "wanikani35"
+      ],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "杉",
+          "reading": "すぎ"
+        },
+        {
+          "word": "椙",
+          "reading": "すぎ"
+        },
+        {
+          "reading": "スギ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Japanese cedar (Cryptomeria japonica)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Cryptomeria"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Cryptomeria” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Cryptomeria?oldid\u003d495417544"
+            },
+            {
+              "text": "Read “スギ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/スギ?oldid\u003d42150062"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Cryptomeria"
+      }
+    }
+  ]
+}

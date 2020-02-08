@@ -1,0 +1,163 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "渚",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "渚",
+          "reading": "なぎさ"
+        },
+        {
+          "word": "汀",
+          "reading": "なぎさ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "water\u0027s edge",
+            "beach",
+            "shore"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "汀",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "汀",
+          "reading": "みぎわ"
+        },
+        {
+          "word": "渚",
+          "reading": "みぎわ"
+        },
+        {
+          "word": "水際",
+          "reading": "みぎわ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "water\u0027s edge",
+            "shore",
+            "waterside"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "渚畔",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "渚畔",
+          "reading": "しょはん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "shore",
+            "waterside"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "汀渚",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "汀渚",
+          "reading": "ていしょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sand bar",
+            "waters edge"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

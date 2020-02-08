@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "港",
+      "is_common": true,
+      "tags": [
+        "wanikani12"
+      ],
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "港",
+          "reading": "みなと"
+        },
+        {
+          "word": "湊",
+          "reading": "みなと"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "harbour",
+            "harbor",
+            "port"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "輻輳",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "輻輳",
+          "reading": "ふくそう"
+        },
+        {
+          "word": "輻湊",
+          "reading": "ふくそう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "congestion (e.g. traffic)",
+            "overcrowding"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "convergence (esp. optical)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "春の湊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "春の湊",
+          "reading": "はるのみなと"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "end of spring"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

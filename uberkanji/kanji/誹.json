@@ -1,0 +1,420 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "誹謗",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誹謗",
+          "reading": "ひぼう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "slander",
+            "abuse"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "俳諧",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "俳諧",
+          "reading": "はいかい"
+        },
+        {
+          "word": "誹諧",
+          "reading": "はいかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "haikai",
+            "collective name for haiku, haibun, haiga, senryū, etc."
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "humorous or vulgar renga poetry"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Abbreviation"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "俳諧の連歌"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Haikai"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Haikai” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Haikai?oldid\u003d491725808"
+            },
+            {
+              "text": "Read “俳諧” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/俳諧?oldid\u003d42135603"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Haikai"
+      }
+    },
+    {
+      "slug": "誹毀",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誹毀",
+          "reading": "ひき"
+        },
+        {
+          "word": "非毀",
+          "reading": "ひき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "defamation",
+            "libel",
+            "calumny",
+            "slander"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "中傷"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "俳風",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "俳風",
+          "reading": "はいふう"
+        },
+        {
+          "word": "誹風",
+          "reading": "はいふう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "style of a haikai or haiku poem"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "俳諧",
+            "俳句"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "誹議",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誹議",
+          "reading": "ひぎ"
+        },
+        {
+          "word": "非議",
+          "reading": "ひぎ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "criticism",
+            "censure"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "謗り",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謗り",
+          "reading": "そしり"
+        },
+        {
+          "word": "誹り",
+          "reading": "そしり"
+        },
+        {
+          "word": "譏り",
+          "reading": "そしり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "censure",
+            "criticism",
+            "blame",
+            "disparagement",
+            "vilification"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "譏誹",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "譏誹",
+          "reading": "きひ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "abuse",
+            "slander"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "謗る",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謗る",
+          "reading": "そしる"
+        },
+        {
+          "word": "誹る",
+          "reading": "そしる"
+        },
+        {
+          "word": "譏る",
+          "reading": "そしる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to slander",
+            "to libel",
+            "to criticize",
+            "to criticise"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "誹謗中傷",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誹謗中傷",
+          "reading": "ひぼうちゅうしょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "slander",
+            "calumny"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

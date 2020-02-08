@@ -1,0 +1,4338 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "助手",
+      "is_common": true,
+      "tags": [
+        "wanikani10"
+      ],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "助手",
+          "reading": "じょしゅ"
+        },
+        {
+          "word": "助手",
+          "reading": "すけて"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "assistant",
+            "helper"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "assistant (to a professor)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "じょしゅ"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Assistant"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Assistant” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Assistant?oldid\u003d488336029"
+            },
+            {
+              "text": "Read “助手” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/助手?oldid\u003d37087505"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Assistant"
+      }
+    },
+    {
+      "slug": "助言",
+      "is_common": true,
+      "tags": [
+        "wanikani8"
+      ],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "助言",
+          "reading": "じょげん"
+        },
+        {
+          "word": "助言",
+          "reading": "じょごん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "advice",
+            "suggestion"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Advice (constitutional)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Advice (constitutional)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Advice_(constitutional)?oldid\u003d490706889"
+            },
+            {
+              "text": "Read “助言” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/助言?oldid\u003d33027329"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Advice_(constitutional)"
+      }
+    },
+    {
+      "slug": "助詞",
+      "is_common": true,
+      "tags": [
+        "wanikani19"
+      ],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "助詞",
+          "reading": "じょし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "particle",
+            "postpositional word in Japanese grammar that functions as an auxiliary to a main word"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "linguistics terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Japanese particles"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Japanese particles” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Japanese_particles?oldid\u003d495238449"
+            },
+            {
+              "text": "Read “助詞” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/助詞?oldid\u003d42543139"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Japanese_particles"
+      }
+    },
+    {
+      "slug": "助ける",
+      "is_common": true,
+      "tags": [
+        "wanikani8"
+      ],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "助ける",
+          "reading": "たすける"
+        },
+        {
+          "word": "援ける",
+          "reading": "たすける"
+        },
+        {
+          "word": "救ける",
+          "reading": "たすける"
+        },
+        {
+          "word": "扶ける",
+          "reading": "たすける"
+        },
+        {
+          "word": "佐ける",
+          "reading": "たすける"
+        },
+        {
+          "word": "佑ける",
+          "reading": "たすける"
+        },
+        {
+          "word": "輔ける",
+          "reading": "たすける"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to save",
+            "to rescue"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to help",
+            "to assist"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to support (financially)",
+            "to contribute (to)",
+            "to provide aid"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to facilitate",
+            "to stimulate",
+            "to promote",
+            "to contribute to"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "援助",
+      "is_common": true,
+      "tags": [
+        "wanikani22",
+        "wanikani24"
+      ],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "援助",
+          "reading": "えんじょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "assistance",
+            "aid",
+            "support"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "救助",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "救助",
+          "reading": "きゅうじょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "relief",
+            "aid",
+            "rescue"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "助教授",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "助教授",
+          "reading": "じょきょうじゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "assistant professor",
+            "associate professor"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "助かる",
+      "is_common": true,
+      "tags": [
+        "wanikani10"
+      ],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "助かる",
+          "reading": "たすかる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to be saved",
+            "to be rescued",
+            "to survive"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to escape harm",
+            "to be spared damage"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to be helped",
+            "to be saved trouble"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "助け",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "助け",
+          "reading": "たすけ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "assistance",
+            "help",
+            "aid",
+            "support",
+            "reinforcement"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "補助",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "補助",
+          "reading": "ほじょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "assistance",
+            "support",
+            "aid",
+            "help"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "subsidy",
+            "supplement",
+            "subvention",
+            "grant-in-aid"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "auxiliary",
+            "subsidiary"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "spot (in bodybuilding)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "手助け",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "手助け",
+          "reading": "てだすけ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "a help",
+            "assistance"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "助動詞",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "助動詞",
+          "reading": "じょどうし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "auxiliary verb"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "linguistics terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "助演",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "助演",
+          "reading": "じょえん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "co-star"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "自助",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "自助",
+          "reading": "じじょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "self-help"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "助力",
+      "is_common": false,
+      "tags": [
+        "wanikani8"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "助力",
+          "reading": "じょりょく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "assistance",
+            "support"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "助け合う",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "助け合う",
+          "reading": "たすけあう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to help each other",
+            "to cooperate"
+          ],
+          "parts_of_speech": [
+            "Godan verb with u ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "大助かり",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "大助かり",
+          "reading": "おおだすかり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "great help"
+          ],
+          "parts_of_speech": [
+            "Na-adjective",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "助け船",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "助け舟",
+          "reading": "たすけぶね"
+        },
+        {
+          "word": "助け船",
+          "reading": "たすけぶね"
+        },
+        {
+          "word": "助けぶね",
+          "reading": "たすけぶね"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "lifeboat"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "friend in need",
+            "helping hand",
+            "timely help"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "助産師",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "助産師",
+          "reading": "じょさんし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "midwife"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "助産婦"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Midwifery"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Midwifery” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Midwifery?oldid\u003d492279897"
+            },
+            {
+              "text": "Read “助産師” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/助産師?oldid\u003d42428091"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Midwifery"
+      }
+    },
+    {
+      "slug": "助く",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "助く",
+          "reading": "たすく"
+        },
+        {
+          "word": "輔く",
+          "reading": "たすく"
+        },
+        {
+          "word": "扶く",
+          "reading": "たすく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to help",
+            "to save",
+            "to rescue"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ku ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "助ける"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "救助隊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "救助隊",
+          "reading": "きゅうじょたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rescue team or party"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "助成金",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "助成金",
+          "reading": "じょせいきん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "subsidy",
+            "grant-in-aid"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "助け出す",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "助け出す",
+          "reading": "たすけだす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to help out of (trouble)",
+            "to extricate"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "助けて",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "助けて",
+          "reading": "たすけて"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "help!"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "低所得者医療扶助",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "低所得者医療扶助",
+          "reading": "ていしょとくしゃいりょうふじょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "support for medical treatment for those on low income",
+            "Medicaid"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Obscure term"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "メディケイド"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "人命救助",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "人命救助",
+          "reading": "じんめいきゅうじょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "lifesaving"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "救助艇",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "救助艇",
+          "reading": "きゅうじょてい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "lifeboat",
+            "rescue boat"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "助手席",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "助手席",
+          "reading": "じょしゅせき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "passenger seat",
+            "assistant driver\u0027s seat"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "人道的援助",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "人道的援助",
+          "reading": "じんどうてきえんじょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "humanitarian aid"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "介助",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "介助",
+          "reading": "かいじょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "help",
+            "assistance",
+            "aid"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Personal assistant"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Personal assistant” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Personal_assistant?oldid\u003d495119421"
+            },
+            {
+              "text": "Read “介助” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/介助?oldid\u003d40477860"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Personal_assistant"
+      }
+    },
+    {
+      "slug": "扶助",
+      "is_common": true,
+      "tags": [
+        "wanikani58"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "扶助",
+          "reading": "ふじょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "aid",
+            "help",
+            "assistance",
+            "support"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Riding aids"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Riding aids” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Riding_aids?oldid\u003d493701927"
+            },
+            {
+              "text": "Read “扶助” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/扶助?oldid\u003d42056357"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Riding_aids"
+      }
+    },
+    {
+      "slug": "援助交際",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "援助交際",
+          "reading": "えんじょこうさい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "paid dating (esp. with an underage girl; oft. involving selling of sex)",
+            "compensated dating"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "援交"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Enjo kōsai"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Enjo kōsai” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Enjo_kōsai?oldid\u003d494354334"
+            },
+            {
+              "text": "Read “援助交際” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/援助交際?oldid\u003d41504203"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Enjo_kōsai"
+      }
+    },
+    {
+      "slug": "助成",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "助成",
+          "reading": "じょせい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "assisting",
+            "assistance",
+            "fostering",
+            "aiding"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "福助",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "福助",
+          "reading": "ふくすけ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "large-headed dwarf statue, bringer of good luck"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "助役",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "助役",
+          "reading": "じょやく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "assistant official"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "互助",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "互助",
+          "reading": "ごじょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "mutual aid",
+            "cooperation",
+            "benefit"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "助産婦",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "助産婦",
+          "reading": "じょさんぷ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "midwife"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "助産師"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "助",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "助",
+          "reading": "じょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "help",
+            "rescue",
+            "assistant"
+          ],
+          "parts_of_speech": [
+            "Prefix"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "助け合い",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "助け合い",
+          "reading": "たすけあい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "cooperation",
+            "mutual aid (help)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "一助",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "一助",
+          "reading": "いちじょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "help",
+            "assistance"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "助っ人",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "助っ人",
+          "reading": "すけっと"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "helper",
+            "supporter",
+            "second",
+            "backer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "foreign player (hired to strengthen a team)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "助長",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "助長",
+          "reading": "じょちょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "promotion",
+            "encouragement",
+            "fostering",
+            "furtherance"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "unwanted help (usu. unintentionally harmful)",
+            "unnecessary help"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "助走",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "助走",
+          "reading": "じょそう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "approach run",
+            "run-up"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "内助",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "内助",
+          "reading": "ないじょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "wife\u0027s help"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "助産",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "助産",
+          "reading": "じょさん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "midwifery"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "賛助",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賛助",
+          "reading": "さんじょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "support",
+            "patronage"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "補助金",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "補助金",
+          "reading": "ほじょきん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "assistance payment",
+            "subsidiary aid"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Subsidy"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Subsidy” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Subsidy?oldid\u003d495103764"
+            },
+            {
+              "text": "Read “補助金” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/補助金?oldid\u003d42729337"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Subsidy"
+      }
+    },
+    {
+      "slug": "相互扶助",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "相互扶助",
+          "reading": "そうごふじょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "mutual aid"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Mutual aid (organization theory)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Mutual aid (organization theory)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Mutual_aid_(organization_theory)?oldid\u003d455361112"
+            },
+            {
+              "text": "Read “相互扶助” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/相互扶助?oldid\u003d39594085"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Mutual_aid_(organization_theory)"
+      }
+    },
+    {
+      "slug": "補助輪",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "補助輪",
+          "reading": "ほじょりん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "training wheels",
+            "stabilizers"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Training wheels"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Training wheels” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Training_wheels?oldid\u003d463322220"
+            },
+            {
+              "text": "Read “補助輪” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/補助輪?oldid\u003d41153910"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Training_wheels"
+      }
+    },
+    {
+      "slug": "補助翼",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "補助翼",
+          "reading": "ほじょよく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "aileron"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Aileron"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Aileron” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Aileron?oldid\u003d494219219"
+            },
+            {
+              "text": "Read “補助翼” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/補助翼?oldid\u003d42770897"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Aileron"
+      }
+    },
+    {
+      "slug": "災害救助犬",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "災害救助犬",
+          "reading": "さいがいきゅうじょけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rescue dog"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Search and rescue dog"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Search and rescue dog” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Search_and_rescue_dog?oldid\u003d493717073"
+            },
+            {
+              "text": "Read “災害救助犬” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/災害救助犬?oldid\u003d42684232"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Search_and_rescue_dog"
+      }
+    },
+    {
+      "slug": "三助",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "三助",
+          "reading": "さんすけ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "male bathhouse attendant"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Sansuke"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Sansuke” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Sansuke?oldid\u003d445364911"
+            },
+            {
+              "text": "Read “三助” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/三助?oldid\u003d40009500"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Sansuke"
+      }
+    },
+    {
+      "slug": "政府開発援助",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "政府開発援助",
+          "reading": "せいふかいはつえんじょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Official Development Assistance",
+            "ODA"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Official development assistance"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Official development assistance” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Official_development_assistance?oldid\u003d494077725"
+            },
+            {
+              "text": "Read “政府開発援助” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/政府開発援助?oldid\u003d41492389"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Official_development_assistance"
+      }
+    },
+    {
+      "slug": "介助犬",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "介助犬",
+          "reading": "かいじょけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "service dog (for the disabled, etc.)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Service dog"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Service dog” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Service_dog?oldid\u003d495011830"
+            },
+            {
+              "text": "Read “介助犬” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/介助犬?oldid\u003d39978855"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Service_dog"
+      }
+    },
+    {
+      "slug": "補助漢字",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "補助漢字",
+          "reading": "ほじょかんじ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "supplementary kanji",
+            "5,801 kanji coded in JIS X 0212 to supplement those in JIS X 0208"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Computer terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "JIS X 0212"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “JIS X 0212” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/JIS_X_0212?oldid\u003d482704676"
+            },
+            {
+              "text": "Read “補助漢字” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/補助漢字?oldid\u003d42329558"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/JIS_X_0212"
+      }
+    },
+    {
+      "slug": "助数詞",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "助数詞",
+          "reading": "じょすうし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "counters for various categories",
+            "counter suffix"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "linguistics terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Measure word"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Measure word” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Measure_word?oldid\u003d476500912"
+            },
+            {
+              "text": "Read “助数詞” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/助数詞?oldid\u003d40995215"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Measure_word"
+      }
+    },
+    {
+      "slug": "助教諭",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "助教諭",
+          "reading": "じょきょうゆ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "assistant or associate professor"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Assistant teacher"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Assistant teacher” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Assistant_teacher?oldid\u003d331978667"
+            },
+            {
+              "text": "Read “助教諭” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/助教諭?oldid\u003d39091156"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Assistant_teacher"
+      }
+    },
+    {
+      "slug": "神助",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "神助",
+          "reading": "しんじょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "assistance from the gods"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "経済援助",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "経済援助",
+          "reading": "けいざいえんじょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "economic assistance"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "芋助",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "芋助",
+          "reading": "いもすけ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "hick",
+            "country bumpkin",
+            "yokel"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Derogatory",
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "経済援助",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "経済援助",
+          "reading": "けいざいえんじょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "economic assistance"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "生活扶助",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "生活扶助",
+          "reading": "せいかつふじょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "livelihood assistance"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "人助け",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "人助け",
+          "reading": "ひとだすけ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "act of mercy",
+            "helping another person"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "天助",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "天助",
+          "reading": "てんじょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "divine aid"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "天の助け",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "天の助け",
+          "reading": "てんのたすけ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "godsend",
+            "gift from providence"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "民事法律扶助",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "民事法律扶助",
+          "reading": "みんじほうりつふじょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "civil legal aid system (e.g. legal aid for poor people)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "助け手",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "助け手",
+          "reading": "たすけて"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "helper"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "天佑神助",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "天佑神助",
+          "reading": "てんゆうしんじょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "divine grace",
+            "God\u0027s help"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "国庫補助",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "国庫補助",
+          "reading": "こっこほじょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "government subsidy",
+            "state aid",
+            "state assistance"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "田助すいか",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "田助すいか",
+          "reading": "でんすけすいか"
+        },
+        {
+          "word": "田助スイカ",
+          "reading": "でんすけスイカ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "black-skinned variety of watermelon"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "補助人",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "補助人",
+          "reading": "ほじょにん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "limited guardian"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "公助",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "公助",
+          "reading": "こうじょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rescue and assistance (by public bodies) (e.g. in time of disaster)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "陀羅尼助",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "陀羅尼助",
+          "reading": "だらにすけ"
+        },
+        {
+          "word": "陀羅助",
+          "reading": "だらすけ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "traditional \"Chinese\" medicine for the stomach (usually prepared as small dark spherical pills)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "助け上げる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "助け上げる",
+          "reading": "たすけあげる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to help up",
+            "to pick up",
+            "to bring safely to land"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "芋助",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "芋助",
+          "reading": "いもすけ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "hick",
+            "country bumpkin",
+            "yokel"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Derogatory",
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "接助",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "接助",
+          "reading": "せつじょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "conjunctive particle"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "linguistics terminology",
+            "Abbreviation"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "接続助詞"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "住宅扶助",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "住宅扶助",
+          "reading": "じゅうたくふじょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "housing assistance"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "寝坊助",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "寝坊助",
+          "reading": "ねぼすけ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "person who oversleeps",
+            "sleepyhead"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "朝寝坊"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "被補助人",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "被補助人",
+          "reading": "ひほじょじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "person subject to a limited guardianship"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飲助",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飲助",
+          "reading": "のみすけ"
+        },
+        {
+          "word": "飲み助",
+          "reading": "のみすけ"
+        },
+        {
+          "word": "呑み助",
+          "reading": "のみすけ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "tippler",
+            "drunkard",
+            "heavy drinker"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "助動",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "助動",
+          "reading": "じょどう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "auxiliary verb"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Abbreviation"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "助動詞"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "used in dictionaries"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "自助努力",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "自助努力",
+          "reading": "じじょどりょく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "self-help efforts",
+            "self-supporting endeavor"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "接助",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "接助",
+          "reading": "せつじょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "conjunctive particle"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "linguistics terminology",
+            "Abbreviation"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "接続助詞"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "助け手",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "助け手",
+          "reading": "たすけて"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "helper"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "寝坊助",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "寝坊助",
+          "reading": "ねぼすけ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "person who oversleeps",
+            "sleepyhead"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "朝寝坊"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "田助すいか",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "田助すいか",
+          "reading": "でんすけすいか"
+        },
+        {
+          "word": "田助スイカ",
+          "reading": "でんすけスイカ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "black-skinned variety of watermelon"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "補助券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "補助券",
+          "reading": "ほじょけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "voucher",
+            "coupon"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "民事法律扶助制度",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "民事法律扶助制度",
+          "reading": "みんじほうりつふじょせいど"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "civil legal aid system (e.g. legal aid for poor people)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "内助の功",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "内助の功",
+          "reading": "ないじょのこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "fruits of one\u0027s wife\u0027s labour (in assisting her husband\u0027s career, e.g. by running the household)"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "補助参加",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "補助参加",
+          "reading": "ほじょさんか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "auxiliary intervention (in a lawsuit)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "技術援助",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "技術援助",
+          "reading": "ぎじゅつえんじょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "technological assistance"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飲助",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飲助",
+          "reading": "のみすけ"
+        },
+        {
+          "word": "飲み助",
+          "reading": "のみすけ"
+        },
+        {
+          "word": "呑み助",
+          "reading": "のみすけ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "tippler",
+            "drunkard",
+            "heavy drinker"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "佑助",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "佑助",
+          "reading": "ゆうじょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "assistance"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "強盗幇助",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "強盗幇助",
+          "reading": "ごうとうほうじょ"
+        },
+        {
+          "word": "強盗ほう助",
+          "reading": "ごうとうほうじょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "aiding and abetting a robbery"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "補助人",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "補助人",
+          "reading": "ほじょにん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "limited guardian"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "権助",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "権助",
+          "reading": "ごんすけ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "manservant"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "下男",
+            "しもべ"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "被補助人",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "被補助人",
+          "reading": "ひほじょじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "person subject to a limited guardianship"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "互助会",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "互助会",
+          "reading": "ごじょかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "benefit society"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "幇助",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "幇助",
+          "reading": "ほうじょ"
+        },
+        {
+          "word": "ほう助",
+          "reading": "ほうじょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "assistance",
+            "backing",
+            "support"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "aiding and abetting (a crime)",
+            "abetment"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Law, etc. term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "学費援助",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "学費援助",
+          "reading": "がくひえんじょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "student aid",
+            "tuition assistance"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1046 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "運搬",
+      "is_common": true,
+      "tags": [
+        "wanikani50"
+      ],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "運搬",
+          "reading": "うんぱん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "transport",
+            "transportation",
+            "conveyance",
+            "carriage"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "搬送",
+      "is_common": true,
+      "tags": [
+        "wanikani50"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "搬送",
+          "reading": "はんそう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "transportation",
+            "conveyance",
+            "delivery"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "hospitalization",
+            "transfer to hospital"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "搬入",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "搬入",
+          "reading": "はんにゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "carrying in (esp. heavy objects, artwork, furniture)",
+            "bringing in",
+            "taking in"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [
+            "搬出"
+          ],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "搬出",
+      "is_common": false,
+      "tags": [
+        "wanikani50"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "搬出",
+          "reading": "はんしゅつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "carrying out (esp. heavy objects, artwork, furniture)",
+            "taking out"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [
+            "搬入"
+          ],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "搬送波",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "搬送波",
+          "reading": "はんそうは"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "carrier wave"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Carrier wave"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Carrier wave” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Carrier_wave?oldid\u003d493277512"
+            },
+            {
+              "text": "Read “搬送波” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/搬送波?oldid\u003d42219087"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Carrier_wave"
+      }
+    },
+    {
+      "slug": "往復伝搬時間",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "往復伝搬時間",
+          "reading": "おうふくでんぱんじかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "round-trip propagation time"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Computer terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "搬入口",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "搬入口",
+          "reading": "はんにゅうぐち"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "service entrance",
+            "delivery entrance"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "自動車運搬船",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "自動車運搬船",
+          "reading": "じどうしゃうんぱんせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "car carrier ship"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "運搬費",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "運搬費",
+          "reading": "うんぱんひ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "transportation charge"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "搬入日",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "搬入日",
+          "reading": "はんにゅうび"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "days (period) (designated) for the seeding in of exhibits"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "運搬船",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "運搬船",
+          "reading": "うんぱんせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "freighter",
+            "cargo ship",
+            "carrier"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "制約伝搬",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "制約伝搬",
+          "reading": "せいやくでんぱん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "constraint propagation"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "可搬型",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "可搬型",
+          "reading": "かはんがた"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "portable"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Computer terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "運搬管理",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "運搬管理",
+          "reading": "うんぱんかんり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "materials management or handling"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "伝搬",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "伝搬",
+          "reading": "でんぱん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "transmission",
+            "propagation",
+            "spread"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "運搬人",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "運搬人",
+          "reading": "うんぱんにん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "carrier",
+            "conveyor"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "可搬式",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "可搬式",
+          "reading": "かはんしき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "portable"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "装甲人員運搬車",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "装甲人員運搬車",
+          "reading": "そうこうじんいんうんぱんしゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "armored personnel carrier",
+            "armoured personnel carrier"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "可搬性",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "可搬性",
+          "reading": "かはんせい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "portability"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "運搬作用",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "運搬作用",
+          "reading": "うんぱんさよう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "transportation"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "救急搬送",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "救急搬送",
+          "reading": "きゅうきゅうはんそう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "emergency transport",
+            "ambulance transport"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "可搬型",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "可搬型",
+          "reading": "かはんがた"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "portable"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Computer terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "伝搬遅延",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "伝搬遅延",
+          "reading": "でんぱんちえん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "propagation delay"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Computer terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "運搬作用",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "運搬作用",
+          "reading": "うんぱんさよう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "transportation"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "群伝搬時間",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "群伝搬時間",
+          "reading": "ぐんでんぱんじかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "group delay (in fibre optics, fiber optics)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "運搬ＲＮＡ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "運搬ＲＮＡ",
+          "reading": "うんぱんアールエヌエー"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "transfer RNA",
+            "tRNA"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "ビーム伝搬法",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ビーム伝搬法",
+          "reading": "ビームでんぱんほう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "beam propagation method",
+            "BPM"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "運搬クラス",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "運搬クラス",
+          "reading": "うんぱんクラス"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "bearer class"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Computer terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

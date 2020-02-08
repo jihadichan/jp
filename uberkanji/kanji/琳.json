@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "琳派",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "琳派",
+          "reading": "りんぱ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Rimpa school (of painting, 17th-early 20th century)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Abbreviation"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "光琳派"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Rimpa school"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Rimpa school” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Rimpa_school?oldid\u003d494507249"
+            },
+            {
+              "text": "Read “琳派” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/琳派?oldid\u003d41475899"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Rimpa_school"
+      }
+    },
+    {
+      "slug": "光琳派",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "光琳派",
+          "reading": "こうりんは"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Korin school",
+            "Rimpa school (of painting, 17th-early 20th century)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

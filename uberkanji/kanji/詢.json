@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "交詢",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "交詢",
+          "reading": "こうじゅん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "promotion of social intercourse"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "諮詢",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "諮詢",
+          "reading": "しじゅん"
+        },
+        {
+          "word": "咨詢",
+          "reading": "しじゅん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "question",
+            "enquiry",
+            "inquiry",
+            "consultation",
+            "advice-seeking"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "諮詢機関",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "諮詢機関",
+          "reading": "しじゅんきかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "consultative body",
+            "advisory committee",
+            "advisory organ",
+            "advisory body"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "諮問機関"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

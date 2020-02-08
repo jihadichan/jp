@@ -1,0 +1,3129 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "季節",
+      "is_common": true,
+      "tags": [
+        "wanikani19"
+      ],
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "季節",
+          "reading": "きせつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "season",
+            "time of year"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Season"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Season” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Season?oldid\u003d495282854"
+            },
+            {
+              "text": "Read “季節” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/季節?oldid\u003d42693140"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Season"
+      }
+    },
+    {
+      "slug": "四季",
+      "is_common": true,
+      "tags": [
+        "wanikani14"
+      ],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "四季",
+          "reading": "しき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "four seasons"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "末期-1",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "末期",
+          "reading": "まっき"
+        },
+        {
+          "word": "末季",
+          "reading": "まっき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "closing years (period, days)",
+            "last stage",
+            "end stage",
+            "end-of-life (care, decision making, etc.)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "terminal (e.g. cancer, disease, etc.)",
+            "final"
+          ],
+          "parts_of_speech": [
+            "Noun or verb acting prenominally"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "雨期",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "雨季",
+          "reading": "うき"
+        },
+        {
+          "word": "雨期",
+          "reading": "うき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rainy season"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [
+            "乾季"
+          ],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Wet season"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Wet season” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Wet_season?oldid\u003d494416354"
+            },
+            {
+              "text": "Read “雨季” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/雨季?oldid\u003d42554106"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Wet_season"
+      }
+    },
+    {
+      "slug": "乾期",
+      "is_common": true,
+      "tags": [
+        "wanikani29"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "乾季",
+          "reading": "かんき"
+        },
+        {
+          "word": "乾期",
+          "reading": "かんき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dry season"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [
+            "雨期"
+          ],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Dry season"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Dry season” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Dry_season?oldid\u003d493914689"
+            },
+            {
+              "text": "Read “乾季” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/乾季?oldid\u003d42553846"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Dry_season"
+      }
+    },
+    {
+      "slug": "冬季",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "冬季",
+          "reading": "とうき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(season of) winter"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "季節調整",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "季節調整",
+          "reading": "きせつちょうせい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "seasonal adjustment"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Seasonal adjustment"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Seasonal adjustment” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Seasonal_adjustment?oldid\u003d488235930"
+            },
+            {
+              "text": "Read “季節調整” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/季節調整?oldid\u003d33667926"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Seasonal_adjustment"
+      }
+    },
+    {
+      "slug": "季刊",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "季刊",
+          "reading": "きかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "quarterly (e.g. magazine)"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "季節調整済み",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "季節調整済み",
+          "reading": "きせつちょうせいずみ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "seasonally adjusted"
+          ],
+          "parts_of_speech": [
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "季節的",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "季節的",
+          "reading": "きせつてき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "seasonal"
+          ],
+          "parts_of_speech": [
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "季節感",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "季節感",
+          "reading": "きせつかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "a sense of the seasons"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "季語",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "季語",
+          "reading": "きご"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "seasonal word (in haiku)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Kigo"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Kigo” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Kigo?oldid\u003d495263016"
+            },
+            {
+              "text": "Read “季語” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/季語?oldid\u003d42262742"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Kigo"
+      }
+    },
+    {
+      "slug": "今季",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "今季",
+          "reading": "こんき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "this season"
+          ],
+          "parts_of_speech": [
+            "Adverbial noun",
+            "Temporal noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "夏季",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "夏季",
+          "reading": "かき"
+        },
+        {
+          "word": "夏季",
+          "reading": "なつき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "summer season"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "秋季",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "秋季",
+          "reading": "しゅうき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "fall season",
+            "autumn season"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "春季",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "春季",
+          "reading": "しゅんき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "spring season"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "時季",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "時季",
+          "reading": "じき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "season",
+            "time of year"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "季節風",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "季節風",
+          "reading": "きせつふう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "seasonal winds"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "花期",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "花期",
+          "reading": "かき"
+        },
+        {
+          "word": "花季",
+          "reading": "かき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "flowering season"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "季節性情動障害",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "季節性情動障害",
+          "reading": "きせつせいじょうどうしょうがい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Seasonal Affective Disorder",
+            "SAD"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Seasonal affective disorder"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Seasonal affective disorder” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Seasonal_affective_disorder?oldid\u003d494859275"
+            },
+            {
+              "text": "Read “季節性情動障害” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/季節性情動障害?oldid\u003d41067102"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Seasonal_affective_disorder"
+      }
+    },
+    {
+      "slug": "季節性情動障害",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "季節性情動障害",
+          "reading": "きせつせいじょうどうしょうがい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Seasonal Affective Disorder",
+            "SAD"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Seasonal affective disorder"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Seasonal affective disorder” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Seasonal_affective_disorder?oldid\u003d494859275"
+            },
+            {
+              "text": "Read “季節性情動障害” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/季節性情動障害?oldid\u003d41067102"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Seasonal_affective_disorder"
+      }
+    },
+    {
+      "slug": "季候",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "季候",
+          "reading": "きこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "season",
+            "climate"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "季",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "季",
+          "reading": "き"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "season"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "seasonal word or phrase (in haiku)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "year"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "一季",
+            "半季"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "季冬",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "季冬",
+          "reading": "きとう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "end of winter"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Obsolete term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "twelfth month of the lunar calendar"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "季刊雑誌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "季刊雑誌",
+          "reading": "きかんざっし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "quarterly (magazine)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "季刊誌"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "半季",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "半季",
+          "reading": "はんき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "half-year (sometimes esp. as an Edo-period duration of employment)"
+          ],
+          "parts_of_speech": [
+            "Adverbial noun",
+            "Temporal noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "一季"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "half of a season"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "澆季",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "澆季",
+          "reading": "ぎょうき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "frivolous age",
+            "degenerate period in history",
+            "decadent age"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "四季報",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "四季報",
+          "reading": "しきほう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "quarterly (journal)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "夏季休暇",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "夏季休暇",
+          "reading": "かききゅうか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "summer vacation"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "猟期",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "猟期",
+          "reading": "りょうき"
+        },
+        {
+          "word": "猟季",
+          "reading": "りょうき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "hunting season"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "季刊誌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "季刊誌",
+          "reading": "きかんし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "a quarterly (magazine)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "季刊雑誌"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "乾燥季",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "乾燥季",
+          "reading": "かんそうき"
+        },
+        {
+          "word": "乾燥期",
+          "reading": "かんそうき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dry season",
+            "dry spell",
+            "dry period"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "四季咲き",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "四季咲き",
+          "reading": "しきざき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "blooming in each season"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "来季",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "来季",
+          "reading": "らいき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "next season (esp. in sports)",
+            "next year"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "季夏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "季夏",
+          "reading": "きか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "end of summer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Obsolete term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "sixth month of the lunar calendar"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "夏季料金",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "夏季料金",
+          "reading": "かきりょうきん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "summer rate"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "季寄せ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "季寄せ",
+          "reading": "きよせ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dictionary of seasonal words (for haiku and haikai)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "歳時記"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "昨季",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "昨季",
+          "reading": "さくき"
+        },
+        {
+          "word": "昨季",
+          "reading": "さっき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "last season (e.g. in sports)",
+            "equivalent season last year"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "節季",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "節季",
+          "reading": "せっき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "end of the year or season",
+            "year end"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "四季の移ろい",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "四季の移ろい",
+          "reading": "しきのうつろい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "passage of the seasons",
+            "change of the four seasons"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "昨季",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "昨季",
+          "reading": "さくき"
+        },
+        {
+          "word": "昨季",
+          "reading": "さっき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "last season (e.g. in sports)",
+            "equivalent season last year"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "季春",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "季春",
+          "reading": "きしゅん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "late spring"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "third month of the lunar calendar"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Obsolete term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "年期明け",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "年季明け",
+          "reading": "ねんきあけ"
+        },
+        {
+          "word": "年期明け",
+          "reading": "ねんきあけ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "expiration of a term of service"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "冬季五輪",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "冬季五輪",
+          "reading": "とうきごりん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Winter Olympic Games",
+            "Winter Olympics"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "冬季オリンピック とうきオリンピック"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "季節回遊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "季節回遊",
+          "reading": "きせつかいゆう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "seasonal migration (of fish, etc.)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "季末",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "季末",
+          "reading": "きまつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "end of the season"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "節季",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "節季",
+          "reading": "せっき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "end of the year or season",
+            "year end"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "夏季熱",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "夏季熱",
+          "reading": "かきねつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "summer fever"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "春季皇霊祭",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "春季皇霊祭",
+          "reading": "しゅんきこうれいさい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "imperial ceremony of ancestor worship formerly held on the vernal equinox"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "春分の日"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "四季の移ろい",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "四季の移ろい",
+          "reading": "しきのうつろい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "passage of the seasons",
+            "change of the four seasons"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "秋季皇霊祭",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "秋季皇霊祭",
+          "reading": "しゅうきこうれいさい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "imperial ceremony of ancestor worship formerly held on the autumnal equinox"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "秋分の日"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "季節変異",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "季節変異",
+          "reading": "きせつへんい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "seasonal variation"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "季秋",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "季秋",
+          "reading": "きしゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "end of autumn"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Obsolete term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "ninth month of the lunar calendar"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "時季外れ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "時季外れ",
+          "reading": "じきはずれ"
+        },
+        {
+          "word": "時季はずれ",
+          "reading": "じきはずれ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "out of season",
+            "unseasonal"
+          ],
+          "parts_of_speech": [
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "季節の便り",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "季節の便り",
+          "reading": "きせつのたより"
+        },
+        {
+          "word": "季節のたより",
+          "reading": "きせつのたより"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "season\u0027s tidings",
+            "seasonal letter"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "年季",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "年季",
+          "reading": "ねんき"
+        },
+        {
+          "word": "年期",
+          "reading": "ねんき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "period of an apprentice\u0027s contract (usu. ten years)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "apprenticeship",
+            "indentureship",
+            "indenture"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Abbreviation"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "年季奉公"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "one-year period"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "年期"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "季節の移り変わり",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "季節の移り変わり",
+          "reading": "きせつのうつりかわり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "changing seasons",
+            "season\u0027s transition",
+            "transition from one season to the next",
+            "turn of the seasons",
+            "turning of the seasons"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "移り変わり うつりかわり"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "季節外れ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "季節外れ",
+          "reading": "きせつはずれ"
+        },
+        {
+          "word": "季節はずれ",
+          "reading": "きせつはずれ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "unseasonable",
+            "out of season"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Na-adjective",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "季節柄",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "季節柄",
+          "reading": "きせつがら"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "in these times",
+            "in times likes these",
+            "the season being what it is"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "時節柄"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "季節労働",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "季節労働",
+          "reading": "きせつろうどう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "seasonal labor",
+            "seasonal labour"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "季",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "季",
+          "reading": "き"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "season"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "seasonal word or phrase (in haiku)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "year"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "一季",
+            "半季"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "季節回遊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "季節回遊",
+          "reading": "きせつかいゆう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "seasonal migration (of fish, etc.)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "節季仕舞い",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "節季仕舞い",
+          "reading": "せっきじまい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "end-of-year settling of accounts"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "季節変異",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "季節変異",
+          "reading": "きせつへんい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "seasonal variation"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "夏季オリンピック",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "夏季オリンピック",
+          "reading": "かきオリンピック"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Summer Olympics"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Summer Olympic Games"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Summer Olympic Games” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Summer_Olympic_Games?oldid\u003d495117268"
+            },
+            {
+              "text": "Read “夏季オリンピック” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/夏季オリンピック?oldid\u003d42661596"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Summer_Olympic_Games"
+      }
+    },
+    {
+      "slug": "冬季オリンピック",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "冬季オリンピック",
+          "reading": "とうきオリンピック"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Winter Olympics"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Winter Olympic Games"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Winter Olympic Games” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Winter_Olympic_Games?oldid\u003d494794299"
+            },
+            {
+              "text": "Read “冬季オリンピック” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/冬季オリンピック?oldid\u003d42637130"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Winter_Olympic_Games"
+      }
+    },
+    {
+      "slug": "季節現象",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "季節現象",
+          "reading": "きせつげんしょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "seasonal (weather) phenomenon"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "一季",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "一季",
+          "reading": "いっき"
+        },
+        {
+          "word": "一季",
+          "reading": "ひとき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "one season"
+          ],
+          "parts_of_speech": [
+            "Adverbial noun",
+            "Temporal noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "one year (esp. as an Edo-period duration of employment)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "半季"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "季子",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "季子",
+          "reading": "きし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "last child"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "熱帯夏季少雨気候",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "熱帯夏季少雨気候",
+          "reading": "ねったいかきしょううきこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "tropical wet and dry climate",
+            "tropical savannah climate"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "年季が入る",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "年季が入る",
+          "reading": "ねんきがはいる"
+        },
+        {
+          "word": "年期が入る",
+          "reading": "ねんきがはいる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to become experienced (after many years of practice)"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with ru ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "オリンピック冬季競技大会",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "オリンピック冬季競技大会",
+          "reading": "オリンピックとうききょうぎたいかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Winter Olympic Games",
+            "Winter Olympics"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "春季キャンプ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "春季キャンプ",
+          "reading": "しゅんきキャンプ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "spring training camp"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Baseball term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "夏季五輪",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "夏季五輪",
+          "reading": "かきごりん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Summer Olympics"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "夏季オリンピック"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "季節労働者",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "季節労働者",
+          "reading": "きせつろうどうしゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "seasonal laborer",
+            "seasonal labourer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

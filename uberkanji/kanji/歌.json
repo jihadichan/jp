@@ -1,0 +1,5062 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "歌",
+      "is_common": true,
+      "tags": [
+        "wanikani10",
+        "wanikani60"
+      ],
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "歌",
+          "reading": "うた"
+        },
+        {
+          "word": "唄",
+          "reading": "うた"
+        },
+        {
+          "word": "詩",
+          "reading": "うた"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "song"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "歌",
+            "唄"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "唄 is primarily used for shamisen songs"
+          ]
+        },
+        {
+          "english_definitions": [
+            "classical Japanese poetry (esp. tanka)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "歌"
+          ],
+          "see_also": [
+            "短歌"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "modern poetry"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "歌",
+            "詩"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Song"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Song” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Song?oldid\u003d493361844"
+            },
+            {
+              "text": "Read “歌” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/歌?oldid\u003d42711902"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Song"
+      }
+    },
+    {
+      "slug": "歌う",
+      "is_common": true,
+      "tags": [
+        "wanikani12",
+        "wanikani60"
+      ],
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "歌う",
+          "reading": "うたう"
+        },
+        {
+          "word": "唄う",
+          "reading": "うたう"
+        },
+        {
+          "word": "謡う",
+          "reading": "うたう"
+        },
+        {
+          "word": "詠う",
+          "reading": "うたう"
+        },
+        {
+          "word": "唱う",
+          "reading": "うたう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to sing"
+          ],
+          "parts_of_speech": [
+            "Godan verb with u ending",
+            "Transitive verb",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to sing (one\u0027s praises in a poem, etc.)",
+            "to compose a poem",
+            "to recite a poem"
+          ],
+          "parts_of_speech": [
+            "Godan verb with u ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "esp. 歌う, 詠う"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "歌手",
+      "is_common": true,
+      "tags": [
+        "wanikani10"
+      ],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "歌手",
+          "reading": "かしゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "singer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "歌舞伎",
+      "is_common": true,
+      "tags": [
+        "wanikani36"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歌舞伎",
+          "reading": "かぶき"
+        },
+        {
+          "word": "歌舞妓",
+          "reading": "かぶき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "kabuki",
+            "Japanese classical drama"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Kabuki"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Kabuki"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Kabuki” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Kabuki?oldid\u003d495151621"
+            },
+            {
+              "text": "Read “歌舞伎” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/歌舞伎?oldid\u003d42594649"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "http://dbpedia.org/resource/Kabuki"
+      }
+    },
+    {
+      "slug": "国歌",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "国歌",
+          "reading": "こっか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "national anthem"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "National anthem"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “National anthem” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/National_anthem?oldid\u003d493442533"
+            },
+            {
+              "text": "Read “国歌” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/国歌?oldid\u003d42779210"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/National_anthem"
+      }
+    },
+    {
+      "slug": "歌詞",
+      "is_common": true,
+      "tags": [
+        "wanikani19"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歌詞",
+          "reading": "かし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "song lyrics",
+            "words of a song",
+            "libretto"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Lyrics"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Lyrics” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Lyrics?oldid\u003d495203633"
+            },
+            {
+              "text": "Read “歌詞” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/歌詞?oldid\u003d42711766"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Lyrics"
+      }
+    },
+    {
+      "slug": "校歌",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "校歌",
+          "reading": "こうか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "school song"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "School song"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “School song” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/School_song?oldid\u003d481235362"
+            },
+            {
+              "text": "Read “校歌” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/校歌?oldid\u003d40582065"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/School_song"
+      }
+    },
+    {
+      "slug": "歌唱",
+      "is_common": true,
+      "tags": [
+        "wanikani40"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歌唱",
+          "reading": "かしょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "song",
+            "singing"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Singing"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Singing” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Singing?oldid\u003d495132986"
+            },
+            {
+              "text": "Read “歌唱” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/歌唱?oldid\u003d42636214"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Singing"
+      }
+    },
+    {
+      "slug": "歌留多",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "歌留多",
+          "reading": "かるた"
+        },
+        {
+          "word": "骨牌",
+          "reading": "かるた"
+        },
+        {
+          "word": "加留多",
+          "reading": "かるた"
+        },
+        {
+          "word": "嘉留太",
+          "reading": "かるた"
+        },
+        {
+          "reading": "カルタ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "karuta",
+            "traditional Japanese playing cards"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [
+            {
+              "language": "Portuguese",
+              "word": "“carta”"
+            }
+          ],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Carta"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Carta” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Carta?oldid\u003d486278232"
+            },
+            {
+              "text": "Read “カルタ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/カルタ?oldid\u003d30570494"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Carta"
+      }
+    },
+    {
+      "slug": "子守歌",
+      "is_common": false,
+      "tags": [
+        "wanikani18"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "子守唄",
+          "reading": "こもりうた"
+        },
+        {
+          "word": "子守歌",
+          "reading": "こもりうた"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "lullaby"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Lullaby"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Lullaby” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Lullaby?oldid\u003d491726610"
+            },
+            {
+              "text": "Read “子守唄” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/子守唄?oldid\u003d42770257"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Lullaby"
+      }
+    },
+    {
+      "slug": "歌声",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歌声",
+          "reading": "うたごえ"
+        },
+        {
+          "word": "歌声",
+          "reading": "かせい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "singing voice",
+            "(sound of) singing"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "歌劇",
+      "is_common": true,
+      "tags": [
+        "wanikani17"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歌劇",
+          "reading": "かげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "opera"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "オペラ"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "歌い手",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歌い手",
+          "reading": "うたいて"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "singer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "鼻歌",
+      "is_common": false,
+      "tags": [
+        "wanikani17"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鼻歌",
+          "reading": "はなうた"
+        },
+        {
+          "word": "鼻唄",
+          "reading": "はなうた"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "humming",
+            "crooning"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "賛美歌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賛美歌",
+          "reading": "さんびか"
+        },
+        {
+          "word": "讚美歌",
+          "reading": "さんびか"
+        },
+        {
+          "word": "讃美歌",
+          "reading": "さんびか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "hymn",
+            "hymnal"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "恋歌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "恋歌",
+          "reading": "こいうた"
+        },
+        {
+          "word": "恋歌",
+          "reading": "れんか"
+        },
+        {
+          "word": "恋歌",
+          "reading": "こいか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "love song",
+            "love poem"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "mating call (animals)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "求愛鳴き"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "歌謡",
+      "is_common": true,
+      "tags": [
+        "wanikani54"
+      ],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "歌謡",
+          "reading": "かよう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "song",
+            "ballad"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "歌舞伎座",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歌舞伎座",
+          "reading": "かぶきざ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "kabuki troupe",
+            "kabuki theater (theatre)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Kabuki-za (theatre in Tokyo)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Kabuki-za"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Kabuki-za” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Kabuki-za?oldid\u003d473519305"
+            },
+            {
+              "text": "Read “歌舞伎座” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/歌舞伎座?oldid\u003d42782522"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Kabuki-za"
+      }
+    },
+    {
+      "slug": "流行歌",
+      "is_common": true,
+      "tags": [
+        "wanikani14"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "流行歌",
+          "reading": "りゅうこうか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "popular song",
+            "hit song"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Ryūkōka"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Ryūkōka” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Ryūkōka?oldid\u003d492061544"
+            },
+            {
+              "text": "Read “流行歌” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/流行歌?oldid\u003d41978286"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Ryūkōka"
+      }
+    },
+    {
+      "slug": "短歌",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "短歌",
+          "reading": "たんか"
+        },
+        {
+          "word": "短歌",
+          "reading": "みじかうた"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "tanka",
+            "31-mora Japanese poem"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "長歌 ちょうか"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "四面楚歌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "四面楚歌",
+          "reading": "しめんそか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "being surrounded by enemies on all sides",
+            "being betrayed (forsaken) by everybody"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "流行歌手",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "流行歌手",
+          "reading": "りゅうこうかしゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "popular singer",
+            "singer of pop songs"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "新人歌手",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "新人歌手",
+          "reading": "しんじんかしゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "new singer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "放歌高吟",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "放歌高吟",
+          "reading": "ほうかこうぎん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "loud singing"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "詩歌",
+      "is_common": true,
+      "tags": [
+        "wanikani13"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詩歌",
+          "reading": "しいか"
+        },
+        {
+          "word": "詩歌",
+          "reading": "しか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Japanese and Chinese poetry"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "poetry",
+            "poems"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "歌合",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歌合",
+          "reading": "うたあわせ"
+        },
+        {
+          "word": "歌合わせ",
+          "reading": "うたあわせ"
+        },
+        {
+          "word": "歌合せ",
+          "reading": "うたあわせ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "poetry contest"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Utaawase"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Utaawase” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Utaawase?oldid\u003d494840561"
+            },
+            {
+              "text": "Read “歌合” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/歌合?oldid\u003d42705066"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Utaawase"
+      }
+    },
+    {
+      "slug": "演歌",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "演歌",
+          "reading": "えんか"
+        },
+        {
+          "word": "艶歌",
+          "reading": "えんか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "enka",
+            "traditional-style Japanese popular ballad"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "troubadour"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "艶歌"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Enka"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Enka” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Enka?oldid\u003d490974564"
+            },
+            {
+              "text": "Read “演歌” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/演歌?oldid\u003d42117259"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Enka"
+      }
+    },
+    {
+      "slug": "歌謡曲",
+      "is_common": true,
+      "tags": [
+        "wanikani56"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歌謡曲",
+          "reading": "かようきょく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "kayōkyoku",
+            "form of Japanese popular music that developed during the Showa era"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "(Western) pop song"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "early Showa era term"
+          ]
+        },
+        {
+          "english_definitions": [
+            "Kayōkyoku"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Kayōkyoku” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Kayōkyoku?oldid\u003d495460478"
+            },
+            {
+              "text": "Read “歌謡曲” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/歌謡曲?oldid\u003d41867451"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Kayōkyoku"
+      }
+    },
+    {
+      "slug": "歌曲",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歌曲",
+          "reading": "かきょく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "melody",
+            "tune",
+            "song"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Lied"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Lied” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Lied?oldid\u003d494946246"
+            },
+            {
+              "text": "Read “歌曲” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/歌曲?oldid\u003d41725039"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Lied"
+      }
+    },
+    {
+      "slug": "連歌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "連歌",
+          "reading": "れんが"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "early Japanese poetry form",
+            "poetic dialogue"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Renga"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Renga” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Renga?oldid\u003d495204405"
+            },
+            {
+              "text": "Read “連歌” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/連歌?oldid\u003d41465286"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Renga"
+      }
+    },
+    {
+      "slug": "聖歌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聖歌",
+          "reading": "せいか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "hymn",
+            "chant",
+            "sacred song"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Hymn"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Hymn” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Hymn?oldid\u003d493603752"
+            },
+            {
+              "text": "Read “聖歌” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/聖歌?oldid\u003d42594364"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Hymn"
+      }
+    },
+    {
+      "slug": "地唄",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "地唄",
+          "reading": "じうた"
+        },
+        {
+          "word": "地歌",
+          "reading": "じうた"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(style of) folk song"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Jiuta"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Jiuta” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Jiuta?oldid\u003d472203814"
+            },
+            {
+              "text": "Read “地歌” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/地歌?oldid\u003d42326410"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Jiuta"
+      }
+    },
+    {
+      "slug": "軍歌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "軍歌",
+          "reading": "ぐんか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "war song"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "War song"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “War song” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/War_song?oldid\u003d489232230"
+            },
+            {
+              "text": "Read “軍歌” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/軍歌?oldid\u003d42511949"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/War_song"
+      }
+    },
+    {
+      "slug": "賛歌",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賛歌",
+          "reading": "さんか"
+        },
+        {
+          "word": "讃歌",
+          "reading": "さんか"
+        },
+        {
+          "word": "讚歌",
+          "reading": "さんか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "song of praise",
+            "eulogy",
+            "paean",
+            "hymn"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "歌人",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歌人",
+          "reading": "かじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "poet (of tanka poems)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "和歌",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "和歌",
+          "reading": "わか"
+        },
+        {
+          "word": "倭歌",
+          "reading": "わか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "waka",
+            "classic Japanese poem, esp. a tanka, often 31 morae"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "短歌"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "歌集",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歌集",
+          "reading": "かしゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "anthology",
+            "book of poetry"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "凱歌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "凱歌",
+          "reading": "がいか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "victory song",
+            "victory"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "謳歌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謳歌",
+          "reading": "おうか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rejoicing",
+            "glorification",
+            "exultation",
+            "celebration",
+            "enjoyment",
+            "singing praises"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "替え歌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "替え歌",
+          "reading": "かえうた"
+        },
+        {
+          "word": "替歌",
+          "reading": "かえうた"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "parody (of a song)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "替え歌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "替え歌",
+          "reading": "かえうた"
+        },
+        {
+          "word": "替歌",
+          "reading": "かえうた"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "parody (of a song)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "歌会",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歌会",
+          "reading": "うたかい"
+        },
+        {
+          "word": "歌会",
+          "reading": "かかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "poetry party or competition",
+            "gathering of tanka poets"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "唱歌",
+      "is_common": false,
+      "tags": [
+        "wanikani40"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "唱歌",
+          "reading": "しょうか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "singing",
+            "songs"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "歌姫",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歌姫",
+          "reading": "うたひめ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "songstress",
+            "diva"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "歌会始め",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歌会始め",
+          "reading": "うたかいはじめ"
+        },
+        {
+          "word": "歌会始",
+          "reading": "うたかいはじめ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "annual New Year\u0027s poetry reading"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "悲歌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "悲歌",
+          "reading": "ひか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "elegy",
+            "dirge",
+            "mournful melody"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "歌い上げる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歌い上げる",
+          "reading": "うたいあげる"
+        },
+        {
+          "word": "歌いあげる",
+          "reading": "うたいあげる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to sing at the top of one\u0027s voice",
+            "to belt out a song"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to express one\u0027s feelings fully in a poem",
+            "to praise in poetry"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "歌舞",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歌舞",
+          "reading": "かぶ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "singing and dancing"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "牧歌的",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "牧歌的",
+          "reading": "ぼっかてき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "pastoral",
+            "idyllic"
+          ],
+          "parts_of_speech": [
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "名歌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "名歌",
+          "reading": "めいか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "excellent poem",
+            "famous poem"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "作歌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "作歌",
+          "reading": "さっか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "writing songs or poems",
+            "poem"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "挽歌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "挽歌",
+          "reading": "ばんか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "elegy",
+            "funeral song"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "歌心",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歌心",
+          "reading": "うたごころ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(waka) poetic sentiment",
+            "waka-composing mood",
+            "solid grounding in waka",
+            "meaning of a waka poem"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "紡ぎ歌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紡ぎ歌",
+          "reading": "つむぎうた"
+        },
+        {
+          "word": "紡ぎ唄",
+          "reading": "つむぎうた"
+        },
+        {
+          "word": "つむぎ唄",
+          "reading": "つむぎうた"
+        },
+        {
+          "word": "つむぎ歌",
+          "reading": "つむぎうた"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "spinning song"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "歌劇場",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歌劇場",
+          "reading": "かげきじょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "opera house"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Kagekijou"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Opera house"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Opera house” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Opera_house?oldid\u003d487019348"
+            },
+            {
+              "text": "Read “歌劇場” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/歌劇場?oldid\u003d42784379"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "http://dbpedia.org/resource/Opera_house"
+      }
+    },
+    {
+      "slug": "和歌山県",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "和歌山県",
+          "reading": "わかやまけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Wakayama prefecture (Kinki area)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Wakayama Prefecture"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Wakayama Prefecture"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Wakayama Prefecture” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Wakayama_Prefecture?oldid\u003d490902410"
+            },
+            {
+              "text": "Read “和歌山県” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/和歌山県?oldid\u003d42781249"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "http://dbpedia.org/resource/Wakayama_Prefecture"
+      }
+    },
+    {
+      "slug": "歌い捲る",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歌いまくる",
+          "reading": "うたいまくる"
+        },
+        {
+          "word": "歌い捲る",
+          "reading": "うたいまくる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to sing energetically",
+            "to sing with abandon"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "捲る まくる"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "オペラ歌手",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "オペラ歌手",
+          "reading": "オペラかしゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "opera singer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "労働歌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "労働歌",
+          "reading": "ろうどうか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "songs of labor",
+            "songs of labour"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Work song"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Work song” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Work_song?oldid\u003d492420320"
+            },
+            {
+              "text": "Read “労働歌” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/労働歌?oldid\u003d42269040"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Work_song"
+      }
+    },
+    {
+      "slug": "主題歌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "主題歌",
+          "reading": "しゅだいか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "theme song"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "テーマ曲"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Theme music"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Theme music” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Theme_music?oldid\u003d485457910"
+            },
+            {
+              "text": "Read “主題歌” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/主題歌?oldid\u003d41341504"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Theme_music"
+      }
+    },
+    {
+      "slug": "労働歌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "労働歌",
+          "reading": "ろうどうか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "songs of labor",
+            "songs of labour"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Work song"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Work song” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Work_song?oldid\u003d492420320"
+            },
+            {
+              "text": "Read “労働歌” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/労働歌?oldid\u003d42269040"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Work_song"
+      }
+    },
+    {
+      "slug": "白鳥の歌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "白鳥の歌",
+          "reading": "はくちょうのうた"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "swan song"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Schwanengesang"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Schwanengesang” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Schwanengesang?oldid\u003d491684758"
+            },
+            {
+              "text": "Read “白鳥の歌” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/白鳥の歌?oldid\u003d40492525"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Schwanengesang"
+      }
+    },
+    {
+      "slug": "主題歌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "主題歌",
+          "reading": "しゅだいか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "theme song"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "テーマ曲"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Theme music"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Theme music” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Theme_music?oldid\u003d485457910"
+            },
+            {
+              "text": "Read “主題歌” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/主題歌?oldid\u003d41341504"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Theme_music"
+      }
+    },
+    {
+      "slug": "歌舞伎十八番",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歌舞伎十八番",
+          "reading": "かぶきじゅうはちばん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "repertoire of 18 kabuki plays"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Kabuki Jūhachiban"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Kabuki Jūhachiban” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Kabuki_Jūhachiban?oldid\u003d439194211"
+            },
+            {
+              "text": "Read “歌舞伎十八番” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/歌舞伎十八番?oldid\u003d42095961"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Kabuki_Jūhachiban"
+      }
+    },
+    {
+      "slug": "歌枕",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歌枕",
+          "reading": "うたまくら"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "oft-repeated descriptive epithets in poetry"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Utamakura"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Utamakura” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Utamakura?oldid\u003d433541375"
+            },
+            {
+              "text": "Read “歌枕” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/歌枕?oldid\u003d38040042"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Utamakura"
+      }
+    },
+    {
+      "slug": "革命歌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "革命歌",
+          "reading": "かくめいか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "revolutionary song"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Revolutionary song"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Revolutionary song” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Revolutionary_song?oldid\u003d485556368"
+            },
+            {
+              "text": "Read “革命歌” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/革命歌?oldid\u003d42147108"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Revolutionary_song"
+      }
+    },
+    {
+      "slug": "勅撰和歌集",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勅撰和歌集",
+          "reading": "ちょくせんわかしゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "poems collected at the behest of the Emperor (from 905 to 1439)",
+            "Imperial collection of poetry"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Nijūichidaishū"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Nijūichidaishū” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Nijūichidaishū?oldid\u003d474493434"
+            },
+            {
+              "text": "Read “勅撰和歌集” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/勅撰和歌集?oldid\u003d41430412"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Nijūichidaishū"
+      }
+    },
+    {
+      "slug": "応援歌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "応援歌",
+          "reading": "おうえんか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "cheering song",
+            "supporters\u0027 song"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Fight song"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Fight song” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Fight_song?oldid\u003d494763861"
+            },
+            {
+              "text": "Read “応援歌” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/応援歌?oldid\u003d42182819"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Fight_song"
+      }
+    },
+    {
+      "slug": "数え歌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "数え歌",
+          "reading": "かぞえうた"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "counting song"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "enumerative form (of waka)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "六義"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Counting-out game"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Counting-out game” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Counting-out_game?oldid\u003d493295750"
+            },
+            {
+              "text": "Read “数え歌” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/数え歌?oldid\u003d38397151"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Counting-out_game"
+      }
+    },
+    {
+      "slug": "わらべ歌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "わらべ歌",
+          "reading": "わらべうた"
+        },
+        {
+          "word": "わらべ唄",
+          "reading": "わらべうた"
+        },
+        {
+          "word": "童歌",
+          "reading": "わらべうた"
+        },
+        {
+          "word": "童唄",
+          "reading": "わらべうた"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "children\u0027s song",
+            "nursery song"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Warabe uta"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Warabe uta” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Warabe_uta?oldid\u003d495326940"
+            },
+            {
+              "text": "Read “童歌” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/童歌?oldid\u003d39957412"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Warabe_uta"
+      }
+    },
+    {
+      "slug": "道歌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "道歌",
+          "reading": "どうか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "moral poem"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Douka"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Douka” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Douka?oldid\u003d485786536"
+            },
+            {
+              "text": "Read “道歌” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/道歌?oldid\u003d41872232"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Douka"
+      }
+    },
+    {
+      "slug": "舟歌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "舟歌",
+          "reading": "ふなうた"
+        },
+        {
+          "word": "船歌",
+          "reading": "ふなうた"
+        },
+        {
+          "word": "舟唄",
+          "reading": "ふなうた"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sailor\u0027s song",
+            "boat song",
+            "sea shanty"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "barcarolle"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "バルカロール"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Barcarole"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Barcarole” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Barcarole?oldid\u003d493395428"
+            },
+            {
+              "text": "Read “舟歌” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/舟歌?oldid\u003d41360303"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Barcarole"
+      }
+    },
+    {
+      "slug": "仏足石歌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "仏足石歌",
+          "reading": "ぶっそくせきか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "poems inscribed beside the stone Buddha Foot monument at Yakushi Temple in Nara"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Bussokusekika"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Bussokusekika” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Bussokusekika?oldid\u003d486290827"
+            },
+            {
+              "text": "Read “仏足石歌” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/仏足石歌?oldid\u003d42006673"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Bussokusekika"
+      }
+    },
+    {
+      "slug": "黒歌鳥",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "黒歌鳥",
+          "reading": "くろうたどり"
+        },
+        {
+          "reading": "クロウタドリ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "blackbird (Turdus merula)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "ブラックバード"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Common Blackbird"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Common Blackbird” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Common_Blackbird?oldid\u003d495215480"
+            },
+            {
+              "text": "Read “クロウタドリ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/クロウタドリ?oldid\u003d41856511"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Common_Blackbird"
+      }
+    },
+    {
+      "slug": "歌垣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歌垣",
+          "reading": "うたがき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "gathering of men and women who sang courtship songs to each other and danced",
+            "dancing and singing feast of young men and women in ancient Japan"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Utagaki"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Utagaki” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Utagaki?oldid\u003d491084459"
+            },
+            {
+              "text": "Read “歌垣” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/歌垣?oldid\u003d41342232"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Utagaki"
+      }
+    },
+    {
+      "slug": "琉歌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "琉歌",
+          "reading": "りゅうか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Okinawan fixed form poetry"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Ryuka (poetry)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Ryuka (poetry)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Ryuka_(poetry)?oldid\u003d491122063"
+            },
+            {
+              "text": "Read “琉歌” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/琉歌?oldid\u003d42583151"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Ryuka_(poetry)"
+      }
+    },
+    {
+      "slug": "哀歌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "哀歌",
+          "reading": "あいか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "lament (song)",
+            "elegy",
+            "dirge",
+            "sad song"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Lamentations (book of the Bible)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Book of Lamentations"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Book of Lamentations” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Book_of_Lamentations?oldid\u003d493417294"
+            },
+            {
+              "text": "Read “哀歌” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/哀歌?oldid\u003d42577899"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Book_of_Lamentations"
+      }
+    },
+    {
+      "slug": "いろは歌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "いろは歌",
+          "reading": "いろはうた"
+        },
+        {
+          "word": "伊呂波歌",
+          "reading": "いろはうた"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "iroha poem"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Iroha"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Iroha” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Iroha?oldid\u003d483936706"
+            },
+            {
+              "text": "Read “いろは歌” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/いろは歌?oldid\u003d42116009"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Iroha"
+      }
+    },
+    {
+      "slug": "雅歌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "雅歌",
+          "reading": "がか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Song of Solomon (book of the Bible)",
+            "Song of Songs",
+            "Canticle of Canticles"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Song of Songs"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Song of Songs” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Song_of_Songs?oldid\u003d495185670"
+            },
+            {
+              "text": "Read “雅歌” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/雅歌?oldid\u003d42636977"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Song_of_Songs"
+      }
+    },
+    {
+      "slug": "歌神",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歌神",
+          "reading": "かしん"
+        },
+        {
+          "word": "歌神",
+          "reading": "うたがみ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "god of waka",
+            "god of song",
+            "muse"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "和歌"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Kashin"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "流行り歌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "流行り歌",
+          "reading": "はやりうた"
+        },
+        {
+          "word": "流行り唄",
+          "reading": "はやりうた"
+        },
+        {
+          "word": "流行唄",
+          "reading": "はやりうた"
+        },
+        {
+          "word": "流行歌",
+          "reading": "はやりうた"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "popular song"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "選歌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "選歌",
+          "reading": "せんか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "selection of poems",
+            "selected poems"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "鄙歌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鄙歌",
+          "reading": "ひなうた"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "folk song"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "田植え歌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "田植え歌",
+          "reading": "たうえうた"
+        },
+        {
+          "word": "田植歌",
+          "reading": "たうえうた"
+        },
+        {
+          "word": "田植え唄",
+          "reading": "たうえうた"
+        },
+        {
+          "word": "田植唄",
+          "reading": "たうえうた"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rice-planting song",
+            "rice planters\u0027 song"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "弦歌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "弦歌",
+          "reading": "げんか"
+        },
+        {
+          "word": "絃歌",
+          "reading": "げんか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "singing and (string) music"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "木挽き歌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "木挽き歌",
+          "reading": "こびきうた"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sawyer\u0027s song"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "大歌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "大歌",
+          "reading": "おおうた"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Heian period court song"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "佗歌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "佗歌",
+          "reading": "わびうた"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sad song",
+            "singing in a lonesome tone"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "春歌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "春歌",
+          "reading": "しゅんか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "bawdy song",
+            "lewd song",
+            "obscene song"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "本歌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "本歌",
+          "reading": "ほんか"
+        },
+        {
+          "word": "本歌",
+          "reading": "もとうた"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "original verse poem"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "譚歌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "譚歌",
+          "reading": "たんか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "ballad"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "仏足石の歌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "仏足石の歌",
+          "reading": "ぶっそくせきのうた"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "poems inscribed beside the stone Buddha Foot monument at Yakushi Temple in Nara"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "愛唱歌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "愛唱歌",
+          "reading": "あいしょうか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(one\u0027s) favourite song",
+            "(one\u0027s) favorite song"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "戯れ歌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "戯れ歌",
+          "reading": "ざれうた"
+        },
+        {
+          "word": "戯歌",
+          "reading": "ざれうた"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "funny song",
+            "comic song",
+            "limerick"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "俳諧の連歌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "俳諧の連歌",
+          "reading": "はいかいのれんが"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "haikai (humorous or vulgar renga poetry)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "挿入歌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "挿入歌",
+          "reading": "そうにゅうか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "background music",
+            "(movie or commercial) soundtrack",
+            "featured songs"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "ど演歌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ど演歌",
+          "reading": "どえんか"
+        },
+        {
+          "word": "ド演歌",
+          "reading": "ドえんか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "quintessential enka",
+            "enka with age-old lyrical themes set to a haunting traditional-style melody"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "演歌"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "社歌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "社歌",
+          "reading": "しゃか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "company song"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "達磨歌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "達磨歌",
+          "reading": "だるまうた"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "confusing song or poem (esp. used derogatorily to describe a style of middle-age Japanese poetry popularized by Fujiwara no Teika)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Obscure term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "巻頭歌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "巻頭歌",
+          "reading": "かんとうか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "prefatory song or poem",
+            "opening song"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

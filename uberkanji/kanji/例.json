@@ -1,0 +1,4118 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "例えば",
+      "is_common": true,
+      "tags": [
+        "wanikani14"
+      ],
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "例えば",
+          "reading": "たとえば"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "for example",
+            "for instance",
+            "e.g."
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "比例",
+      "is_common": true,
+      "tags": [
+        "wanikani19"
+      ],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "比例",
+          "reading": "ひれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "proportion"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Proportionality (mathematics)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Proportionality (mathematics)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Proportionality_(mathematics)?oldid\u003d494459914"
+            },
+            {
+              "text": "Read “比例” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/比例?oldid\u003d40807277"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Proportionality_(mathematics)"
+      }
+    },
+    {
+      "slug": "例",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "例",
+          "reading": "れい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "custom",
+            "practice",
+            "habit",
+            "usual"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Noun - used as a prefix",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "said",
+            "aforementioned"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "instance",
+            "example",
+            "case",
+            "illustration",
+            "usage"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "precedent"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "例え",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "例え",
+          "reading": "たとえ"
+        },
+        {
+          "word": "喩え",
+          "reading": "たとえ"
+        },
+        {
+          "word": "譬え",
+          "reading": "たとえ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "example"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "esp. 例え"
+          ]
+        },
+        {
+          "english_definitions": [
+            "simile",
+            "metaphor",
+            "allegory",
+            "fable",
+            "parable"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "esp. 喩え, 譬え"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "例外",
+      "is_common": true,
+      "tags": [
+        "wanikani14"
+      ],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "例外",
+          "reading": "れいがい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "exception"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "実例",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "実例",
+          "reading": "じつれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "example",
+            "illustration",
+            "precedent"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "例える",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "例える",
+          "reading": "たとえる"
+        },
+        {
+          "word": "喩える",
+          "reading": "たとえる"
+        },
+        {
+          "word": "譬える",
+          "reading": "たとえる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to compare (something) to",
+            "to liken",
+            "to speak figuratively",
+            "to use a simile",
+            "to use a metaphor"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "前例",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "前例",
+          "reading": "ぜんれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "precedent"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "先例",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "先例",
+          "reading": "せんれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "precedent"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Precedent"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Precedent” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Precedent?oldid\u003d494457716"
+            },
+            {
+              "text": "Read “先例” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/先例?oldid\u003d41211707"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Precedent"
+      }
+    },
+    {
+      "slug": "事例",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "事例",
+          "reading": "じれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "example",
+            "precedent",
+            "case"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "通例",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "通例",
+          "reading": "つうれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "custom",
+            "general rule",
+            "convention"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "usually",
+            "generally",
+            "as a rule"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "例年",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "例年",
+          "reading": "れいねん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "average (normal, ordinary) year"
+          ],
+          "parts_of_speech": [
+            "Adverbial noun",
+            "Temporal noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "every year",
+            "annually"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "毎年"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "一例",
+      "is_common": true,
+      "tags": [
+        "wanikani14"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "一例",
+          "reading": "いちれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "example",
+            "an instance"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "例外的",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "例外的",
+          "reading": "れいがいてき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "exceptional"
+          ],
+          "parts_of_speech": [
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "月例",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "月例",
+          "reading": "げつれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "monthly"
+          ],
+          "parts_of_speech": [
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "異例",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "異例",
+          "reading": "いれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "exceptional",
+            "unusual",
+            "extraordinary",
+            "unprecedented",
+            "singular"
+          ],
+          "parts_of_speech": [
+            "No-adjective",
+            "Na-adjective",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "例文",
+      "is_common": true,
+      "tags": [
+        "wanikani14"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "例文",
+          "reading": "れいぶん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "example sentence",
+            "illustrative sentence",
+            "model sentence"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "用例",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "用例",
+          "reading": "ようれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "example",
+            "illustration"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "例題",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "例題",
+          "reading": "れいだい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "example",
+            "exercise (for the reader)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "例証",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "例証",
+          "reading": "れいしょう"
+        },
+        {
+          "word": "例證",
+          "reading": "れいしょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "exemplification",
+            "illustration",
+            "example"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "慣例",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "慣例",
+          "reading": "かんれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "custom",
+            "precedent",
+            "of convention"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "例年になく",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "例年になく",
+          "reading": "れいねんになく"
+        },
+        {
+          "word": "例年に無く",
+          "reading": "れいねんになく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "unusually (compared to a typical year)"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "例年"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "月例会",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "月例会",
+          "reading": "げつれいかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "monthly meeting"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "使用例",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "使用例",
+          "reading": "しようれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "example of use",
+            "usage example",
+            "use example"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "凡例",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "凡例",
+          "reading": "はんれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "explanatory notes (at the start of a book)",
+            "introductory remarks",
+            "usage guide (e.g. of a dictionary)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "legend (on maps, drawings, etc.)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "キャプション"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "判例",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "判例",
+          "reading": "はんれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(judicial) precedent"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Case law"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Case law” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Case_law?oldid\u003d485032122"
+            },
+            {
+              "text": "Read “判例” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/判例?oldid\u003d40826231"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Case_law"
+      }
+    },
+    {
+      "slug": "条例",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "条例",
+          "reading": "じょうれい"
+        },
+        {
+          "word": "条令",
+          "reading": "じょうれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "regulations",
+            "rules"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "(local) regulation",
+            "ordinance",
+            "bylaw",
+            "law"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "条例"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "By-law"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “By-law” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/By-law?oldid\u003d494118261"
+            },
+            {
+              "text": "Read “条例” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/条例?oldid\u003d42784091"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/By-law"
+      }
+    },
+    {
+      "slug": "特例",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "特例",
+          "reading": "とくれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "special case",
+            "exception"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "症例",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "症例",
+          "reading": "しょうれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "case"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Medicine, etc. term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "例会",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "例会",
+          "reading": "れいかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "regular meeting"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "定例",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "定例",
+          "reading": "ていれい"
+        },
+        {
+          "word": "定例",
+          "reading": "じょうれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "regular",
+            "ordinary (e.g. session of parliament)"
+          ],
+          "parts_of_speech": [
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "usu. ていれい"
+          ]
+        },
+        {
+          "english_definitions": [
+            "established usage",
+            "precedent",
+            "regular practice"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "恒例",
+      "is_common": true,
+      "tags": [
+        "wanikani52"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "恒例",
+          "reading": "こうれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "established practice",
+            "custom"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "事例集",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "事例集",
+          "reading": "じれいしゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "collection of cases",
+            "collection of instances"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "反比例",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "反比例",
+          "reading": "はんぴれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "inverse proportion"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "文例",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "文例",
+          "reading": "ぶんれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sample sentence"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "比例配分",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "比例配分",
+          "reading": "ひれいはいぶん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "proportional distribution"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "例示",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "例示",
+          "reading": "れいじ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "exemplification",
+            "illustrating by example"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "類例",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "類例",
+          "reading": "るいれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "similar instance",
+            "similar case",
+            "parallel case",
+            "analogy"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "好例",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "好例",
+          "reading": "こうれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "good example"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "例によって",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "例によって",
+          "reading": "れいによって"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "as usual",
+            "as is one\u0027s habit"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "例を挙げる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "例を挙げる",
+          "reading": "れいをあげる"
+        },
+        {
+          "word": "例をあげる",
+          "reading": "れいをあげる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to cite an example"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Ichidan verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "反例",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "反例",
+          "reading": "はんれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "counterexample",
+            "counter-example"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Counterexample"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Counterexample” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Counterexample?oldid\u003d493879511"
+            },
+            {
+              "text": "Read “反例” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/反例?oldid\u003d42617615"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Counterexample"
+      }
+    },
+    {
+      "slug": "例外処理",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "例外処理",
+          "reading": "れいがいしょり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "exception handling"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Computer terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Exception handling"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Exception handling” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Exception_handling?oldid\u003d494735177"
+            },
+            {
+              "text": "Read “例外処理” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/例外処理?oldid\u003d42640908"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Exception_handling"
+      }
+    },
+    {
+      "slug": "例外状態",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "例外状態",
+          "reading": "れいがいじょうたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "exception condition"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Computer terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "State of exception"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “State of exception” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/State_of_exception?oldid\u003d465160309"
+            },
+            {
+              "text": "Read “例外状態” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/例外状態?oldid\u003d38353416"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/State_of_exception"
+      }
+    },
+    {
+      "slug": "比例代表制",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "比例代表制",
+          "reading": "ひれいだいひょうせい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "proportional representation"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Proportional representation"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Proportional representation” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Proportional_representation?oldid\u003d494533280"
+            },
+            {
+              "text": "Read “比例代表制” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/比例代表制?oldid\u003d42615549"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Proportional_representation"
+      }
+    },
+    {
+      "slug": "小選挙区比例代表並立制",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "小選挙区比例代表並立制",
+          "reading": "しょうせんきょくひれいだいひょうへいりつせい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "electoral system comprised of single-seat constituencies and proportionally represented multiple-seat constituencies"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Parallel voting"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Parallel voting” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Parallel_voting?oldid\u003d494587156"
+            },
+            {
+              "text": "Read “小選挙区比例代表並立制” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/小選挙区比例代表並立制?oldid\u003d41103982"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Parallel_voting"
+      }
+    },
+    {
+      "slug": "倍数比例の法則",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "倍数比例の法則",
+          "reading": "ばいすうひれいのほうそく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "law of multiple proportions"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Law of multiple proportions"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Law of multiple proportions” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Law_of_multiple_proportions?oldid\u003d488445806"
+            },
+            {
+              "text": "Read “倍数比例の法則” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/倍数比例の法則?oldid\u003d41300649"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Law_of_multiple_proportions"
+      }
+    },
+    {
+      "slug": "特例市",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "特例市",
+          "reading": "とくれいし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "special city"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Special cities of Japan"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Special cities of Japan” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Special_cities_of_Japan?oldid\u003d484913302"
+            },
+            {
+              "text": "Read “特例市” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/特例市?oldid\u003d41884054"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Special_cities_of_Japan"
+      }
+    },
+    {
+      "slug": "定比例の法則",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "定比例の法則",
+          "reading": "ていひれいのほうそく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "law of definite proportions"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Law of definite proportions"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Law of definite proportions” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Law_of_definite_proportions?oldid\u003d488344815"
+            },
+            {
+              "text": "Read “定比例の法則” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/定比例の法則?oldid\u003d42783148"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Law_of_definite_proportions"
+      }
+    },
+    {
+      "slug": "譬え話",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "譬え話",
+          "reading": "たとえばなし"
+        },
+        {
+          "word": "たとえ話",
+          "reading": "たとえばなし"
+        },
+        {
+          "word": "譬話",
+          "reading": "たとえばなし"
+        },
+        {
+          "word": "例え話",
+          "reading": "たとえばなし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "allegory",
+            "fable",
+            "parable"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Parable"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Parable” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Parable?oldid\u003d495216000"
+            },
+            {
+              "text": "Read “たとえ話” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/たとえ話?oldid\u003d41347360"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Parable"
+      }
+    },
+    {
+      "slug": "例-1",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "例",
+          "reading": "ためし"
+        },
+        {
+          "word": "様",
+          "reading": "ためし"
+        },
+        {
+          "word": "例し",
+          "reading": "ためし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "precedent",
+            "example"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "実施例",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "実施例",
+          "reading": "じっしれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "example of execution (e.g. in patents)",
+            "practical example",
+            "working example",
+            "embodiment"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "範例",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "範例",
+          "reading": "はんれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "example"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "不例",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "不例",
+          "reading": "ふれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "indisposition",
+            "sickness"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "佳例",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "佳例",
+          "reading": "かれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "good example"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "旧例",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旧例",
+          "reading": "きゅうれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "old custom",
+            "tradition"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "重症例",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "重症例",
+          "reading": "じゅうしょうれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "serious cases (of illness)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "常例",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "常例",
+          "reading": "じょうれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "usual practice",
+            "custom",
+            "common usage"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "上例",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "上例",
+          "reading": "じょうれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "above example"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "吉例",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "吉例",
+          "reading": "きちれい"
+        },
+        {
+          "word": "吉例",
+          "reading": "きつれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "festive annual custom"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "作例",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "作例",
+          "reading": "さくれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "model of writing"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "比例に応じて",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "比例に応じて",
+          "reading": "ひれいにおうじて"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "proportional"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Computer terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "悪例",
+      "is_common": false,
+      "tags": [
+        "wanikani14"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "悪例",
+          "reading": "あくれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "bad example",
+            "bad precedent"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "例に無く",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "例に無く",
+          "reading": "れいになく"
+        },
+        {
+          "word": "例になく",
+          "reading": "れいになく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "contrary to one\u0027s habit",
+            "unusually"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "重症例",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "重症例",
+          "reading": "じゅうしょうれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "serious cases (of illness)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "旧例",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旧例",
+          "reading": "きゅうれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "old custom",
+            "tradition"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "常例",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "常例",
+          "reading": "じょうれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "usual practice",
+            "custom",
+            "common usage"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "違例",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "違例",
+          "reading": "いれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "unconventionality"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "吉例",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "吉例",
+          "reading": "きちれい"
+        },
+        {
+          "word": "吉例",
+          "reading": "きつれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "festive annual custom"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "佳例",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "佳例",
+          "reading": "かれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "good example"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "上例",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "上例",
+          "reading": "じょうれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "above example"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "逆比例",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "逆比例",
+          "reading": "ぎゃくひれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "inverse proportion"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "反比例"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "例の",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "例の",
+          "reading": "れいの"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "the usual",
+            "as it always is"
+          ],
+          "parts_of_speech": [
+            "Pre-noun adjectival"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "said",
+            "that (previously-mentioned person or object)",
+            "aforementioned",
+            "you-know-(who, what, etc.)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "in the usual way"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "具体例",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "具体例",
+          "reading": "ぐたいれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "concrete example"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "正比例",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "正比例",
+          "reading": "せいひれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "direct proportion",
+            "direct ratio"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "除外例",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "除外例",
+          "reading": "じょがいれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "exception"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "保安条例",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "保安条例",
+          "reading": "ほあんじょうれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "regulations for the preservation of law and order"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "法例",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "法例",
+          "reading": "ほうれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rules concerning application of laws"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "複比例",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "複比例",
+          "reading": "ふくひれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "compound proportion"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "新例",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "新例",
+          "reading": "しんれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "new example (precedent)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "違例",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "違例",
+          "reading": "いれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "unconventionality"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "比例に応じて",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "比例に応じて",
+          "reading": "ひれいにおうじて"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "proportional"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Computer terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "非拘束名簿式比例代表制",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "非拘束名簿式比例代表制",
+          "reading": "ひこうそくめいぼしきひれいだいひょうせい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "proportional representation system in which both party and individual votes are cast, seats are distributed amongst parties by proportion of vote obtained, and candidates are elected in descending order of number of votes obtained"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "拘束名簿式比例代表制"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "除外例",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "除外例",
+          "reading": "じょがいれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "exception"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "複比例",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "複比例",
+          "reading": "ふくひれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "compound proportion"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "名簿式比例代表制",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "名簿式比例代表制",
+          "reading": "めいぼしきひれいだいひょうせい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "proportional representation system in which votes are cast for a publicly available list of party members or for individual members of that list"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "比例中項",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "比例中項",
+          "reading": "ひれいちゅうこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "mean proportional (i.e. geometric mean)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "新例",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "新例",
+          "reading": "しんれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "new example (precedent)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "古例",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "古例",
+          "reading": "これい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "old precedent",
+            "tradition",
+            "custom"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "代表例",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "代表例",
+          "reading": "だいひょうれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "representative example"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "情報公開条例",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "情報公開条例",
+          "reading": "じょうほうこうかいじょうれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "information-disclosure ordinance"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "法例",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "法例",
+          "reading": "ほうれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rules concerning application of laws"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "語例",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "語例",
+          "reading": "ごれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "example of a word or phrase"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "単比例",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "単比例",
+          "reading": "たんぴれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "simple proportion"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "死亡例",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "死亡例",
+          "reading": "しぼうれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "incident of death",
+            "fatal case"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "家例",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "家例",
+          "reading": "かれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "family custom"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "感染例",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "感染例",
+          "reading": "かんせんれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "case of infection"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "報告例",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "報告例",
+          "reading": "ほうこくれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "reported case (instance)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "悪例",
+      "is_common": false,
+      "tags": [
+        "wanikani14"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "悪例",
+          "reading": "あくれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "bad example",
+            "bad precedent"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "定比例",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "定比例",
+          "reading": "ていひれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "fixed proportion"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "誠に",
+      "is_common": true,
+      "tags": [
+        "wanikani43"
+      ],
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "誠に",
+          "reading": "まことに"
+        },
+        {
+          "word": "真に",
+          "reading": "まことに"
+        },
+        {
+          "word": "寔に",
+          "reading": "まことに"
+        },
+        {
+          "word": "洵に",
+          "reading": "まことに"
+        },
+        {
+          "word": "真に",
+          "reading": "しんに"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "indeed",
+            "really",
+            "absolutely",
+            "truly",
+            "actually",
+            "very",
+            "quite"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "実に じつに"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "洵美",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "洵美",
+          "reading": "じゅんび"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "exquisite",
+            "truly beautiful"
+          ],
+          "parts_of_speech": [
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Obscure term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <style>
+
+    </style>
+</head>
+<body>
+<!-------------------------------------------------->
+<!-------------- BACK TEMPLATE START --------------->
+<!-------------------------------------------------->
+<link rel="stylesheet" type="text/css" href="uberkanji/statics/datatables.min.css">
+<link rel="stylesheet" type="text/css" href="uberkanji/statics/style.css">
+<div id="debug"></div>
+<div class="wrapper">
+    <div class="layout">
+        <table>
+            <tr>
+                <td id="side-fonts" class="font-cell">
+
+                </td>
+                <td>
+                    <table class="manual-edits">
+                        <tr>
+                            <td>Concept</td>
+                            <td>{{concept}}</td>
+                        </tr>
+                        <tr>
+                            <td>Meanings</td>
+                            <td id="meanings">{{meanings}}</td>
+                        </tr>
+                        <tr>
+                            <td class="manual-edits-key" onclick="toggleFurigana()">
+                                Mnemonic
+                                <div class="toggle-furigana">Toggle</div>
+                            </td>
+                            <td id="manual-edits-mnemonic">
+                                {{mnemonic}}
+                            </td>
+                        </tr>
+                        <tr>
+                            <td onclick="playCompoundReading()">Play &#9658;</td>
+                            <td>
+                                {{play sound}}
+                            </td>
+                        </tr>
+                        <tr class="no-border">
+                            <td colspan="2">
+                                <table class="readings-overview">
+                                    <tr>
+                                        <td id="most-common-readings" valign="top" class="readings-table"></td>
+                                        <td id="scored-readings" valign="top" class="readings-table"></td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr class="no-border">
+                            <td colspan="2">
+                                <div class="modal-buttons">
+                                    <button class="button" onclick="renderMetaData()">MetaData</button>
+                                    <button class="button" onclick="renderFonts(15, 5)">Fonts</button>
+                                    <button class="button" onclick="renderJisho()">Jisho</button>
+                                    <br>
+                                    <button class="button" id="wordExamples" onclick="renderWordTable('wordExamples')">
+                                        Word Examples
+                                    </button>
+                                    <button class="button" id="unclassifiedReadings" onclick="renderWordTable('unclassifiedReadings')">
+                                        Unknown Readings
+                                    </button>
+                                    <button class="button" id="otherForms" onclick="renderWordTable('otherForms')">Other
+                                        Forms
+                                    </button>
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" id="rendered-content"></td>
+            </tr>
+        </table>
+    </div>
+</div>
+
+<div id="kanji">{{kanji}}</div>
+<div id="data">{{static data}}</div>
+<div id="play-sound">{{play sound}}</div>
+<script src="uberkanji/statics/jquery-3.4.1.min.js" type="application/javascript"></script>
+<script src="uberkanji/statics/backpage.js" type="application/javascript"></script>
+<script src="uberkanji/statics/datatables.min.js" type="application/javascript"></script>
+<script src="uberkanji/statics/jquery.modal.min.js" type="application/javascript"></script>
+<div id="modal" class="modal">
+    <table class="modal-table">
+        <tr><td id="modal-result"></td></tr>
+        <tr><td class="td-textarea" style="padding: 1px"><textarea id="word-area" onclick="selectOnClick(this)" onkeyup="updateRuby()"></textarea></td></tr>
+        <tr><td id="modal-meanings"></td></tr>
+    </table>
+</div>
+<!-------------------------------------------------->
+<!-------------- BACK TEMPLATE END ----------------->
+<!-------------------------------------------------->
+</body>
+</html>

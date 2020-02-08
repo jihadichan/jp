@@ -1,0 +1,412 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "琴",
+      "is_common": true,
+      "tags": [
+        "wanikani43"
+      ],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "琴",
+          "reading": "こと"
+        },
+        {
+          "word": "箏",
+          "reading": "こと"
+        },
+        {
+          "word": "筝",
+          "reading": "こと"
+        },
+        {
+          "word": "箏",
+          "reading": "そう"
+        },
+        {
+          "word": "筝",
+          "reading": "そう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "koto (13-stringed Japanese zither)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "stringed instrument"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [
+            "こと"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "zheng (Chinese zither)",
+            "guzheng"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "箏",
+            "筝"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Koto (instrument)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Koto (instrument)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Koto_(instrument)?oldid\u003d493287549"
+            },
+            {
+              "text": "Read “箏” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/箏?oldid\u003d42532609"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Koto_(instrument)"
+      }
+    },
+    {
+      "slug": "箏曲",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "箏曲",
+          "reading": "そうきょく"
+        },
+        {
+          "word": "筝曲",
+          "reading": "そうきょく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "koto music"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "古筝",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "古筝",
+          "reading": "こそう"
+        },
+        {
+          "word": "古箏",
+          "reading": "こそう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Guzheng (type of ancient Chinese zither)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Guzheng"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Guzheng” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Guzheng?oldid\u003d493146350"
+            },
+            {
+              "text": "Read “古筝” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/古筝?oldid\u003d37952271"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Guzheng"
+      }
+    },
+    {
+      "slug": "琴柱",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "琴柱",
+          "reading": "ことじ"
+        },
+        {
+          "word": "箏柱",
+          "reading": "ことじ"
+        },
+        {
+          "word": "筝柱",
+          "reading": "ことじ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "bridge of a koto"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "箏の琴",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "箏の琴",
+          "reading": "そうのこと"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "koto"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "箏"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "楽箏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "楽箏",
+          "reading": "がくそう"
+        },
+        {
+          "word": "楽筝",
+          "reading": "がくそう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "ancient type of koto with 13 strings used in Gagaku music"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "俗箏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "俗箏",
+          "reading": "ぞくそう"
+        },
+        {
+          "word": "俗筝",
+          "reading": "ぞくそう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "modern koto (in contrast to the gagaku koto or gakuso)",
+            "modern koto music"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "楽箏"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "箏曲家",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "箏曲家",
+          "reading": "そうきょくか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "koto player"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

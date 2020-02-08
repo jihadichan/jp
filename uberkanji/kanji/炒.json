@@ -1,0 +1,1335 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "炒める",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "炒める",
+          "reading": "いためる"
+        },
+        {
+          "word": "煠める",
+          "reading": "いためる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to fry",
+            "to saute",
+            "to stir-fry"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Stir frying"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Stir frying” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Stir_frying?oldid\u003d493125802"
+            },
+            {
+              "text": "Read “炒める” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/炒める?oldid\u003d41228507"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Stir_frying"
+      }
+    },
+    {
+      "slug": "煎る",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "炒る",
+          "reading": "いる"
+        },
+        {
+          "word": "煎る",
+          "reading": "いる"
+        },
+        {
+          "word": "熬る",
+          "reading": "いる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to parch",
+            "to fry",
+            "to fire",
+            "to broil",
+            "to roast",
+            "to boil down (in oil)"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "炒め物",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "炒め物",
+          "reading": "いためもの"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "stir-fry",
+            "fried food (cooked in wok, frying pan, etc.)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "揚げ物"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "雑砕",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "雑砕",
+          "reading": "ちゃぷすい"
+        },
+        {
+          "word": "炒汁砕",
+          "reading": "ちゃぷすい"
+        },
+        {
+          "reading": "チャプスイ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "chop suey"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Food term",
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Chop suey"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Chop suey” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Chop_suey?oldid\u003d488612561"
+            },
+            {
+              "text": "Read “チャプスイ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/チャプスイ?oldid\u003d42298900"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Chop_suey"
+      }
+    },
+    {
+      "slug": "炒麺",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "炒麺",
+          "reading": "チャーメン"
+        },
+        {
+          "word": "炒麺",
+          "reading": "チャオミエン"
+        },
+        {
+          "word": "炒麺",
+          "reading": "チャオミェン"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "chow mein",
+            "fried noodles"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Food term",
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [
+            {
+              "language": "Chinese",
+              "word": ""
+            }
+          ],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Chow mein"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Chow mein” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Chow_mein?oldid\u003d495048033"
+            },
+            {
+              "text": "Read “炒麺” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/炒麺?oldid\u003d42526794"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Chow_mein"
+      }
+    },
+    {
+      "slug": "チャーハン",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "炒飯",
+          "reading": "チャーハン"
+        },
+        {
+          "word": "炒飯",
+          "reading": "ちゃあはん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Chinese-style fried rice"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [
+            {
+              "language": "Chinese",
+              "word": "“chao fan”"
+            }
+          ],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Fried rice"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Fried rice” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Fried_rice?oldid\u003d495253051"
+            },
+            {
+              "text": "Read “チャーハン” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/チャーハン?oldid\u003d41245265"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Fried_rice"
+      }
+    },
+    {
+      "slug": "炒り子",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "炒り子",
+          "reading": "いりこ"
+        },
+        {
+          "word": "熬り子",
+          "reading": "いりこ"
+        },
+        {
+          "word": "煎り子",
+          "reading": "いりこ"
+        },
+        {
+          "word": "炒子",
+          "reading": "いりこ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "small dried sardine"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Kansai dialect"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "煮干し"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "中華炒め",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "中華炒め",
+          "reading": "ちゅうかいため"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Chinese-style fried dish"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Food term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "煎り米",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "炒り米",
+          "reading": "いりごめ"
+        },
+        {
+          "word": "煎り米",
+          "reading": "いりごめ"
+        },
+        {
+          "word": "炒米",
+          "reading": "いりごめ"
+        },
+        {
+          "word": "煎米",
+          "reading": "いりごめ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "parched rice",
+            "roasted rice"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "釜炒り茶",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "釜炒り茶",
+          "reading": "かまいりちゃ"
+        },
+        {
+          "word": "釜炒茶",
+          "reading": "かまいりちゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "green tea fired in hot pans after a short withering (common Chinese technique)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "炒めご飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "炒めご飯",
+          "reading": "いためごはん"
+        },
+        {
+          "word": "炒め御飯",
+          "reading": "いためごはん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "fried rice"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Food term"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "炒め飯 いためめし"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "炒り粉",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "炒り粉",
+          "reading": "いりこ"
+        },
+        {
+          "word": "煎り粉",
+          "reading": "いりこ"
+        },
+        {
+          "word": "炒粉",
+          "reading": "いりこ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "parched rice flour"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "炒り卵",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "炒り卵",
+          "reading": "いりたまご"
+        },
+        {
+          "word": "煎り卵",
+          "reading": "いりたまご"
+        },
+        {
+          "word": "いり卵",
+          "reading": "いりたまご"
+        },
+        {
+          "word": "炒り玉子",
+          "reading": "いりたまご"
+        },
+        {
+          "word": "いり玉子",
+          "reading": "いりたまご"
+        },
+        {
+          "word": "煎り玉子",
+          "reading": "いりたまご"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "scrambled eggs"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "味噌炒め",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "味噌炒め",
+          "reading": "みそいため"
+        },
+        {
+          "word": "みそ炒め",
+          "reading": "みそいため"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "fried dish seasoned with miso"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Food term"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "味噌"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "炒り湯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "炒り湯",
+          "reading": "いりゆ"
+        },
+        {
+          "word": "煎り湯",
+          "reading": "いりゆ"
+        },
+        {
+          "word": "炒湯",
+          "reading": "いりゆ"
+        },
+        {
+          "word": "煎湯",
+          "reading": "いりゆ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "roasted rice broth",
+            "roasted rice broth soup"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "野菜炒め",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "野菜炒め",
+          "reading": "やさいいため"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "stir-fried vegetables"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "油炒め",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "油炒め",
+          "reading": "あぶらいため"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "vegetables cooked in oil",
+            "fried vegetables"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "炒め煮",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "炒め煮",
+          "reading": "いために"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "stir-frying then boiling in liquid sauce",
+            "food that has been stir-fried and boiled in liquid sauce"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "炒め飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "炒め飯",
+          "reading": "いためめし"
+        },
+        {
+          "word": "いため飯",
+          "reading": "いためめし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "fried rice"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Food term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "煎り豆腐",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "煎り豆腐",
+          "reading": "いりどうふ"
+        },
+        {
+          "word": "炒り豆腐",
+          "reading": "いりどうふ"
+        },
+        {
+          "word": "煎豆腐",
+          "reading": "いりどうふ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "boiled and seasoned tofu"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "炒め煮",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "炒め煮",
+          "reading": "いために"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "stir-frying then boiling in liquid sauce",
+            "food that has been stir-fried and boiled in liquid sauce"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "炒め飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "炒め飯",
+          "reading": "いためめし"
+        },
+        {
+          "word": "いため飯",
+          "reading": "いためめし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "fried rice"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Food term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "醤油炒め",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "醤油炒め",
+          "reading": "しょうゆいため"
+        },
+        {
+          "word": "しょうゆ炒め",
+          "reading": "しょうゆいため"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "fried dish seasoned with soy sauce"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Food term"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "醤油"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "炒りつける",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "炒りつける",
+          "reading": "いりつける"
+        },
+        {
+          "word": "煎りつける",
+          "reading": "いりつける"
+        },
+        {
+          "word": "炒り付ける",
+          "reading": "いりつける"
+        },
+        {
+          "word": "煎り付ける",
+          "reading": "いりつける"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to parch",
+            "to roast",
+            "to broil",
+            "to scorch"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "キャベツ炒め",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "キャベツ炒め",
+          "reading": "キャベツいため"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "fried cabbage"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Food term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "炒り豆に花が咲く",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "炒り豆に花が咲く",
+          "reading": "いりまめにはながさく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to come alive (once again)",
+            "to spring back into life"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with ku ending"
+          ],
+          "links": [],
+          "tags": [
+            "Idiomatic expression"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "炒まる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "炒まる",
+          "reading": "いたまる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to be sauteed in oil",
+            "to be stir-fried"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending"
+          ],
+          "links": [],
+          "tags": [
+            "Obscure term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "バター炒め",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "バター炒め",
+          "reading": "バターいため"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "food fried in butter"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Food term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "煎れる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "煎れる",
+          "reading": "いれる"
+        },
+        {
+          "word": "炒れる",
+          "reading": "いれる"
+        },
+        {
+          "word": "熬れる",
+          "reading": "いれる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to be roasted",
+            "to be parched"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to be irritated",
+            "to be annoyed"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

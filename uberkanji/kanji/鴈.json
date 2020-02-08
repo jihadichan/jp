@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "雁",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "雁",
+          "reading": "がん"
+        },
+        {
+          "word": "雁",
+          "reading": "かり"
+        },
+        {
+          "word": "鴈",
+          "reading": "がん"
+        },
+        {
+          "word": "鴈",
+          "reading": "かり"
+        },
+        {
+          "reading": "ガン"
+        },
+        {
+          "reading": "カリ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "wild goose"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "glans",
+            "head of a penis"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone",
+            "Abbreviation",
+            "Colloquialism"
+          ],
+          "restrictions": [
+            "かり",
+            "カリ"
+          ],
+          "see_also": [
+            "雁首 かりくび"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

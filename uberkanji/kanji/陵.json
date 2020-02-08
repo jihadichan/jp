@@ -1,0 +1,865 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "丘陵",
+      "is_common": true,
+      "tags": [
+        "wanikani56"
+      ],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "丘陵",
+          "reading": "きゅうりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "hill"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "陵",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "陵",
+          "reading": "みささぎ"
+        },
+        {
+          "word": "陵",
+          "reading": "みはか"
+        },
+        {
+          "word": "陵",
+          "reading": "りょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "imperial mausoleum",
+            "Emperor\u0027s tomb"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "御墓 みはか"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "big hill"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "りょう"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "陵墓",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "陵墓",
+          "reading": "りょうぼ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "imperial tomb",
+            "imperial mausoleum"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "山陵",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "山陵",
+          "reading": "さんりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "mountains and hills"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "imperial tomb"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Sanryou"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "御陵",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "御陵",
+          "reading": "ごりょう"
+        },
+        {
+          "word": "ご陵",
+          "reading": "ごりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "imperial tomb"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Goryou"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "陵辱",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "陵辱",
+          "reading": "りょうじょく"
+        },
+        {
+          "word": "凌辱",
+          "reading": "りょうじょく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "insult",
+            "affront",
+            "disgrace",
+            "indignity"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "sexual assault",
+            "rape"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "凌雲",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "凌雲",
+          "reading": "りょううん"
+        },
+        {
+          "word": "陵雲",
+          "reading": "りょううん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "skyscraping",
+            "very high",
+            "above the clouds",
+            "above this mortal world"
+          ],
+          "parts_of_speech": [
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "帝陵",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帝陵",
+          "reading": "ていりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "imperial mausoleum"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "陵丘",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "陵丘",
+          "reading": "りょうきゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "hill"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Obscure term"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "丘陵"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "凌駕",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "凌駕",
+          "reading": "りょうが"
+        },
+        {
+          "word": "陵駕",
+          "reading": "りょうが"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "excelling",
+            "surpassing",
+            "outdoing"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "高陵土",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "高陵土",
+          "reading": "こうりょうど"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "China clay",
+            "porcelain clay"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Obscure term"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "カオリン"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "丘陵地帯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "丘陵地帯",
+          "reading": "きゅうりょうちたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "hill country",
+            "hilly area"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "凌虐",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "凌虐",
+          "reading": "りょうぎゃく"
+        },
+        {
+          "word": "陵虐",
+          "reading": "りょうぎゃく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "humiliation",
+            "indignity",
+            "affront",
+            "assault"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "皇陵",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "皇陵",
+          "reading": "こうりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "imperial mausoleum"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "陵戸",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "陵戸",
+          "reading": "りょうこ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "imperial tomb guard"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "五色の賤"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "低丘陵",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "低丘陵",
+          "reading": "ていきゅうりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "low hills"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "岡陵",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "岡陵",
+          "reading": "こうりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "hill"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "武陵桃源",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "武陵桃源",
+          "reading": "ぶりょうとうげん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Utopia"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "迦陵頻伽",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "迦陵頻伽",
+          "reading": "かりょうびんが"
+        },
+        {
+          "word": "迦陵頻迦",
+          "reading": "かりょうびんが"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "kalavinka",
+            "imaginary bird in paradise that sings sweet notes"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Buddhist term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [
+            {
+              "language": "Sanskrit",
+              "word": ""
+            }
+          ],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Karyobinga"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Karyobinga” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Karyobinga?oldid\u003d493539262"
+            },
+            {
+              "text": "Read “迦陵頻伽” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/迦陵頻伽?oldid\u003d42278708"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Karyobinga"
+      }
+    },
+    {
+      "slug": "天皇陵",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "天皇陵",
+          "reading": "てんのうりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "tomb of Japanese emperor",
+            "Japanese imperial burial site"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

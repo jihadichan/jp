@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+</head>
+<body>
+<!-------------------------------------------------->
+<!-------------- FRONT TEMPLATE START -------------->
+<!-------------------------------------------------->
+<link rel="stylesheet" type="text/css" href="uberkanji/statics/style.css">
+<div id="debug"></div>
+<div class="fonts" id="rendered-content"></div>
+<div id="words-container" onclick="nextStep()">
+    <div id="report">
+        <div id="laps"></div>
+        <div id="laps-total"></div>
+    </div>
+    <div id="words-toggle">Show Words</div>
+    <!--  <div id="front-word-area">
+        <div id="front-page-words-section">
+            <div id="front-page-words"></div>
+            <div id="randomize-words" onclick="printExtractRuby(true); toggleFrontPageWordsSection();">Randomize Order</div>
+        </div>
+    </div> -->
+</div>
+<div id="stopwatch" onclick="nextStep()">
+    <!--    <button id='step-back'>Back (0)</button>-->
+    <button class="frontpage-button" id='reset-button'>Reset</button>
+    <div id="stopwatch-total"></div>
+    <br>
+</div>
+<div id="kanji">{{kanji}}</div>
+<div id="mnemonic">{{mnemonic}}</div>
+<div id="play-sound">{{play sound}}</div>
+<div id="data">{{static data}}</div>
+<script src="uberkanji/statics/jquery-3.4.1.min.js" type="application/javascript"></script>
+<script src="uberkanji/statics/frontpage.js" type="application/javascript" charset="UTF-8"></script>
+<!-------------------------------------------------->
+<!-------------- FRONT TEMPLATE END ---------------->
+<!-------------------------------------------------->
+</body>
+</html>

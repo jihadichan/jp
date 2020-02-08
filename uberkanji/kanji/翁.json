@@ -1,0 +1,984 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "翁",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "翁",
+          "reading": "おう"
+        },
+        {
+          "word": "翁",
+          "reading": "おきな"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "old man",
+            "venerable gentleman"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "venerable",
+            "old",
+            "father"
+          ],
+          "parts_of_speech": [
+            "Suffix"
+          ],
+          "links": [],
+          "tags": [
+            "Honorific or respectful (sonkeigo)"
+          ],
+          "restrictions": [
+            "おう"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "黒足信天翁",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "黒足信天翁",
+          "reading": "くろあしあほうどり"
+        },
+        {
+          "reading": "クロアシアホウドリ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "black-footed albatross (Diomedea nigripes)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Black-footed Albatross"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Black-footed Albatross” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Black-footed_Albatross?oldid\u003d491173225"
+            },
+            {
+              "text": "Read “クロアシアホウドリ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/クロアシアホウドリ?oldid\u003d42398892"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Black-footed_Albatross"
+      }
+    },
+    {
+      "slug": "小信天翁",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "小信天翁",
+          "reading": "こあほうどり"
+        },
+        {
+          "reading": "コアホウドリ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Laysan albatross (Diomedea immutabilis)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Laysan Albatross"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Laysan Albatross” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Laysan_Albatross?oldid\u003d491671033"
+            },
+            {
+              "text": "Read “コアホウドリ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/コアホウドリ?oldid\u003d42419215"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Laysan_Albatross"
+      }
+    },
+    {
+      "slug": "信天翁",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "信天翁",
+          "reading": "あほうどり"
+        },
+        {
+          "word": "あほう鳥",
+          "reading": "あほうどり"
+        },
+        {
+          "word": "阿呆鳥",
+          "reading": "あほうどり"
+        },
+        {
+          "word": "阿房鳥",
+          "reading": "あほうどり"
+        },
+        {
+          "word": "信天翁",
+          "reading": "しんてんおう"
+        },
+        {
+          "reading": "アホウドリ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "albatross (esp. the short-tailed albatross, Phoebastria albatrus)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Short-tailed Albatross"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Short-tailed Albatross” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Short-tailed_Albatross?oldid\u003d491246797"
+            },
+            {
+              "text": "Read “アホウドリ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/アホウドリ?oldid\u003d42404077"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Short-tailed_Albatross"
+      }
+    },
+    {
+      "slug": "渡信天翁",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "渡信天翁",
+          "reading": "わたりあほうどり"
+        },
+        {
+          "reading": "ワタリアホウドリ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "wandering albatross (Diomedea exulans)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Wandering Albatross"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Wandering Albatross” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Wandering_Albatross?oldid\u003d492331290"
+            },
+            {
+              "text": "Read “ワタリアホウドリ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/ワタリアホウドリ?oldid\u003d42407242"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Wandering_Albatross"
+      }
+    },
+    {
+      "slug": "翁恵比須",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "翁恵比須",
+          "reading": "おきなえびす"
+        },
+        {
+          "reading": "オキナエビス"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Beyrich\u0027s slit shell (species of sea snail, Pleurotomaria beyrichii)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "翁戎貝",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "翁戎貝",
+          "reading": "おきなえびすがい"
+        },
+        {
+          "word": "翁恵比須貝",
+          "reading": "おきなえびすがい"
+        },
+        {
+          "reading": "オキナエビスガイ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Beyrich\u0027s slit shell (species of sea snail, Pleurotomaria beyrichii)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "おきな草",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "おきな草",
+          "reading": "おきなぐさ"
+        },
+        {
+          "word": "翁草",
+          "reading": "おきなぐさ"
+        },
+        {
+          "reading": "オキナグサ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "nodding anemone (Anemone cernua)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "chrysanthemum"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "菊"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "pine"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "松"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "老翁",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "老翁",
+          "reading": "ろうおう"
+        },
+        {
+          "word": "老翁",
+          "reading": "おじ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "old man"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "老媼"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "玄能",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "玄能",
+          "reading": "げんのう"
+        },
+        {
+          "word": "玄翁",
+          "reading": "げんのう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sledgehammer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "翁貝",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "翁貝",
+          "reading": "おきながい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "lantern shell"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "翁の面",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "翁の面",
+          "reading": "おきなのめん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "old man\u0027s mask"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "煤色信天翁",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "煤色信天翁",
+          "reading": "すすいろあほうどり"
+        },
+        {
+          "reading": "ススイロアホウドリ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sooty albatross (Phoebetria fusca)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "阿翁",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "阿翁",
+          "reading": "あおう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "father-in-law (of a woman)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "grandfather"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "村翁",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "村翁",
+          "reading": "そんおう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "village elder"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "仙翁",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "仙翁",
+          "reading": "せんのう"
+        },
+        {
+          "reading": "センノウ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "lychnis (Lychnis senno)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "不倒翁",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "不倒翁",
+          "reading": "ふとうおう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "tumbler",
+            "self-righting doll"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "起き上がり小法師 おきあがりこぼし"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "白頭翁",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "白頭翁",
+          "reading": "はくとうおう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "windflower",
+            "anemone"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "white-haired old man"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "grey starling (gray)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "椋鳥 むくどり"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "塞翁が馬",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "塞翁が馬",
+          "reading": "さいおうがうま"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "the future is unpredictable",
+            "unscrutable are the ways of heaven",
+            "the irony of fate"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [
+            "Proverb"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "人間万事塞翁が馬"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "人間万事塞翁が馬",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "人間万事塞翁が馬",
+          "reading": "にんげんばんじさいおうがうま"
+        },
+        {
+          "word": "人間万事塞翁が馬",
+          "reading": "じんかんばんじさいおうがうま"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "inscrutable are the ways of heaven",
+            "fortune is unpredictable and changeable"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [
+            "Proverb"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

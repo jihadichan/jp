@@ -1,0 +1,4959 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "確率",
+      "is_common": true,
+      "tags": [
+        "wanikani20"
+      ],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "確率",
+          "reading": "かくりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "probability",
+            "likelihood",
+            "chances"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Probability"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Probability” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Probability?oldid\u003d495001713"
+            },
+            {
+              "text": "Read “確率” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/確率?oldid\u003d42252323"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Probability"
+      }
+    },
+    {
+      "slug": "率",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "率",
+          "reading": "りつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rate",
+            "ratio",
+            "proportion",
+            "percentage"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Noun - used as a suffix"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "率直",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "率直",
+          "reading": "そっちょく"
+        },
+        {
+          "word": "卒直",
+          "reading": "そっちょく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "frank",
+            "candid",
+            "straightforward",
+            "openhearted",
+            "direct",
+            "outspoken"
+          ],
+          "parts_of_speech": [
+            "Na-adjective",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "能率",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "能率",
+          "reading": "のうりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "efficiency"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "moment (i.e. magnetic moment)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "モーメント"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "軽率",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "軽率",
+          "reading": "けいそつ"
+        },
+        {
+          "word": "軽卒",
+          "reading": "けいそつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rash",
+            "thoughtless",
+            "careless",
+            "hasty",
+            "imprudent"
+          ],
+          "parts_of_speech": [
+            "Na-adjective",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [
+            "慎重"
+          ],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "効率",
+      "is_common": true,
+      "tags": [
+        "wanikani25"
+      ],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "効率",
+          "reading": "こうりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "efficiency"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "比率",
+      "is_common": true,
+      "tags": [
+        "wanikani20"
+      ],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "比率",
+          "reading": "ひりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "ratio",
+            "proportion",
+            "percentage"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "率いる",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "率いる",
+          "reading": "ひきいる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to lead",
+            "to spearhead (a group)",
+            "to command (troops)"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "統率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "統率",
+          "reading": "とうそつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "command",
+            "lead",
+            "generalship",
+            "leadership"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "死亡率",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "死亡率",
+          "reading": "しぼうりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "death rate",
+            "mortality"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Mortality rate"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Mortality rate” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Mortality_rate?oldid\u003d494009542"
+            },
+            {
+              "text": "Read “死亡率” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/死亡率?oldid\u003d38527178"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Mortality_rate"
+      }
+    },
+    {
+      "slug": "打率",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "打率",
+          "reading": "だりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "batting average"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Batting average"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Batting average” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Batting_average?oldid\u003d494453480"
+            },
+            {
+              "text": "Read “打率” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/打率?oldid\u003d42594710"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Batting_average"
+      }
+    },
+    {
+      "slug": "税率",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "税率",
+          "reading": "ぜいりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "tariff"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "tax rate"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Tax rate"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Tax rate” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Tax_rate?oldid\u003d493793731"
+            },
+            {
+              "text": "Read “税率” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/税率?oldid\u003d38934925"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Tax_rate"
+      }
+    },
+    {
+      "slug": "効率的",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "効率的",
+          "reading": "こうりつてき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "efficient"
+          ],
+          "parts_of_speech": [
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "利率",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "利率",
+          "reading": "りりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "interest rate"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "年率",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "年率",
+          "reading": "ねんりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "annual rate (of interest)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "伸び率",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "伸び率",
+          "reading": "のびりつ"
+        },
+        {
+          "word": "延び率",
+          "reading": "のびりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "growth rate",
+            "coefficient of extension"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "率先",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "率先",
+          "reading": "そっせん"
+        },
+        {
+          "word": "帥先",
+          "reading": "そっせん"
+        },
+        {
+          "word": "卒先",
+          "reading": "そっせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "taking the initiative"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "識字率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "識字率",
+          "reading": "しきじりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "literacy rate"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "引率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "引率",
+          "reading": "いんそつ"
+        },
+        {
+          "word": "引卒",
+          "reading": "いんそつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "leading",
+            "guiding",
+            "commanding"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "出生率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "出生率",
+          "reading": "しゅっしょうりつ"
+        },
+        {
+          "word": "出生率",
+          "reading": "しゅっせいりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "birth rate"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Birth rate"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Birth rate” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Birth_rate?oldid\u003d495181570"
+            },
+            {
+              "text": "Read “出生率” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/出生率?oldid\u003d42250516"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Birth_rate"
+      }
+    },
+    {
+      "slug": "倍率",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "倍率",
+          "reading": "ばいりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "magnification",
+            "leverage",
+            "amplification",
+            "scaling factor",
+            "scale factor"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "acceptance rate",
+            "pass rate (of an exam, etc.)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "失業率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "失業率",
+          "reading": "しつぎょうりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "unemployment rate"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "卒倒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "卒倒",
+          "reading": "そっとう"
+        },
+        {
+          "word": "率倒",
+          "reading": "そっとう"
+        },
+        {
+          "word": "卆倒",
+          "reading": "そっとう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "fainting",
+            "swooning"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "犯罪率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "犯罪率",
+          "reading": "はんざいりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "crime rate"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "適合率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "適合率",
+          "reading": "てきごうりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "precision",
+            "precision ratio",
+            "relevance factor",
+            "relevance ratio"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "再現率"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "離婚率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "離婚率",
+          "reading": "りこんりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "divorce rate"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "能率的",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "能率的",
+          "reading": "のうりつてき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "efficient"
+          ],
+          "parts_of_speech": [
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "再現率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "再現率",
+          "reading": "さいげんりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "recall",
+            "recall factor",
+            "recall ratio"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "適合率"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "罹患率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "罹患率",
+          "reading": "りかんりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "disease rate",
+            "infection rate",
+            "morbidity rate"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "増加率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "増加率",
+          "reading": "ぞうかりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rate of increase"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "合格率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "合格率",
+          "reading": "ごうかくりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "ratio of successful applicants",
+            "(examination) pass rate"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "出席率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "出席率",
+          "reading": "しゅっせきりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "percentage of attendance"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "発生率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "発生率",
+          "reading": "はっせいりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "frequency",
+            "rate of occurrence"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "勝率",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勝率",
+          "reading": "しょうりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "winning percentage"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Winning percentage"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Winning percentage” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Winning_percentage?oldid\u003d495285433"
+            },
+            {
+              "text": "Read “勝率” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/勝率?oldid\u003d39971699"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Winning_percentage"
+      }
+    },
+    {
+      "slug": "視聴率",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "視聴率",
+          "reading": "しちょうりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "ratings (of a television program) (programme)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Audience measurement"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Audience measurement” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Audience_measurement?oldid\u003d493832180"
+            },
+            {
+              "text": "Read “視聴率” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/視聴率?oldid\u003d42778662"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Audience_measurement"
+      }
+    },
+    {
+      "slug": "率土",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "率土",
+          "reading": "そっと"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "face of the earth"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "市場占有率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "市場占有率",
+          "reading": "しじょうせんゆうりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "market share"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Market share"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Market share” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Market_share?oldid\u003d486635437"
+            },
+            {
+              "text": "Read “市場占有率” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/市場占有率?oldid\u003d40350087"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Market_share"
+      }
+    },
+    {
+      "slug": "同率",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "同率",
+          "reading": "どうりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "the same ratio or percentage"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "高率",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "高率",
+          "reading": "こうりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "high rate"
+          ],
+          "parts_of_speech": [
+            "Na-adjective",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "経済成長率",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "経済成長率",
+          "reading": "けいざいせいちょうりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rate of economic growth"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "同率",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "同率",
+          "reading": "どうりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "the same ratio or percentage"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "高率",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "高率",
+          "reading": "こうりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "high rate"
+          ],
+          "parts_of_speech": [
+            "Na-adjective",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "低率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "低率",
+          "reading": "ていりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "low rate"
+          ],
+          "parts_of_speech": [
+            "Na-adjective",
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "預貸率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "預貸率",
+          "reading": "よたいりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "loan-deposit ratio"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "熱伝導率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "熱伝導率",
+          "reading": "ねつでんどうりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "thermal conductivity"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Thermal conductivity"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Thermal conductivity” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Thermal_conductivity?oldid\u003d493956763"
+            },
+            {
+              "text": "Read “熱伝導率” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/熱伝導率?oldid\u003d42647793"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Thermal_conductivity"
+      }
+    },
+    {
+      "slug": "守備率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "守備率",
+          "reading": "しゅびりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "one\u0027s fielding average"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Fielding percentage"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Fielding percentage” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Fielding_percentage?oldid\u003d494661597"
+            },
+            {
+              "text": "Read “守備率” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/守備率?oldid\u003d41717881"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Fielding_percentage"
+      }
+    },
+    {
+      "slug": "収率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "収率",
+          "reading": "しゅうりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "yield"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Yield (chemistry)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Yield (chemistry)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Yield_(chemistry)?oldid\u003d482002445"
+            },
+            {
+              "text": "Read “収率” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/収率?oldid\u003d39098964"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Yield_(chemistry)"
+      }
+    },
+    {
+      "slug": "自己資本比率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "自己資本比率",
+          "reading": "じこしほんひりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "capital adequacy ratio",
+            "capital-to-asset ratio"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Equity ratio"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Equity ratio” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Equity_ratio?oldid\u003d469059129"
+            },
+            {
+              "text": "Read “自己資本比率” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/自己資本比率?oldid\u003d41443670"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Equity_ratio"
+      }
+    },
+    {
+      "slug": "円周率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "円周率",
+          "reading": "えんしゅうりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Pi (3.1415926..)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Pi"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Pi” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Pi?oldid\u003d495459268"
+            },
+            {
+              "text": "Read “円周率” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/円周率?oldid\u003d42772014"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Pi"
+      }
+    },
+    {
+      "slug": "自給率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "自給率",
+          "reading": "じきゅうりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(the degree of) self-sufficiency (e.g. in oil)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Sustenance"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Sustenance” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Sustenance?oldid\u003d483020511"
+            },
+            {
+              "text": "Read “自給率” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/自給率?oldid\u003d32344900"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Sustenance"
+      }
+    },
+    {
+      "slug": "乳児死亡率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "乳児死亡率",
+          "reading": "にゅうじしぼうりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "infant mortality"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Infant mortality"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Infant mortality” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Infant_mortality?oldid\u003d494977632"
+            },
+            {
+              "text": "Read “乳児死亡率” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/乳児死亡率?oldid\u003d33235391"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Infant_mortality"
+      }
+    },
+    {
+      "slug": "出塁率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "出塁率",
+          "reading": "しゅつるいりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "on-base percentage"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Baseball term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "On-base percentage"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “On-base percentage” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/On-base_percentage?oldid\u003d484609948"
+            },
+            {
+              "text": "Read “出塁率” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/出塁率?oldid\u003d41999496"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/On-base_percentage"
+      }
+    },
+    {
+      "slug": "曲率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "曲率",
+          "reading": "きょくりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "curvature"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Curvature"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Curvature” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Curvature?oldid\u003d494368242"
+            },
+            {
+              "text": "Read “曲率” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/曲率?oldid\u003d42660982"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Curvature"
+      }
+    },
+    {
+      "slug": "体脂肪率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "体脂肪率",
+          "reading": "たいしぼうりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "body fat percentage"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Body fat percentage"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Body fat percentage” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Body_fat_percentage?oldid\u003d494578335"
+            },
+            {
+              "text": "Read “体脂肪率” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/体脂肪率?oldid\u003d41512911"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Body_fat_percentage"
+      }
+    },
+    {
+      "slug": "離心率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "離心率",
+          "reading": "りしんりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "eccentricity"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Eccentricity (mathematics)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Eccentricity (mathematics)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Eccentricity_(mathematics)?oldid\u003d486411130"
+            },
+            {
+              "text": "Read “離心率” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/離心率?oldid\u003d42377682"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Eccentricity_(mathematics)"
+      }
+    },
+    {
+      "slug": "圧縮率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "圧縮率",
+          "reading": "あっしゅくりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "compressibility",
+            "compression ratio"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Compressibility"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Compressibility” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Compressibility?oldid\u003d488974492"
+            },
+            {
+              "text": "Read “圧縮率” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/圧縮率?oldid\u003d42166420"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Compressibility"
+      }
+    },
+    {
+      "slug": "安全率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "安全率",
+          "reading": "あんぜんりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "safety factor"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Factor of safety"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Factor of safety” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Factor_of_safety?oldid\u003d486677940"
+            },
+            {
+              "text": "Read “安全率” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/安全率?oldid\u003d39944703"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Factor_of_safety"
+      }
+    },
+    {
+      "slug": "就学率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "就学率",
+          "reading": "しゅうがくりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "percentage of school attendance"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Gross enrolment ratio"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Gross enrolment ratio” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Gross_enrolment_ratio?oldid\u003d494138768"
+            },
+            {
+              "text": "Read “就学率” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/就学率?oldid\u003d37069043"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Gross_enrolment_ratio"
+      }
+    },
+    {
+      "slug": "利潤率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "利潤率",
+          "reading": "りじゅんりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rate of profit"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Rate of profit"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Rate of profit” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Rate_of_profit?oldid\u003d487314873"
+            },
+            {
+              "text": "Read “利潤率” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/利潤率?oldid\u003d40617439"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Rate_of_profit"
+      }
+    },
+    {
+      "slug": "防御率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "防御率",
+          "reading": "ぼうぎょりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "earned run average",
+            "ERA"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Earned run average"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Earned run average” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Earned_run_average?oldid\u003d495561845"
+            },
+            {
+              "text": "Read “防御率” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/防御率?oldid\u003d42304350"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Earned_run_average"
+      }
+    },
+    {
+      "slug": "確率分布",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "確率分布",
+          "reading": "かくりつぶんぷ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "probability distribution"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Mathematics"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Probability distribution"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Probability distribution” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Probability_distribution?oldid\u003d493265052"
+            },
+            {
+              "text": "Read “確率分布” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/確率分布?oldid\u003d42224528"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Probability_distribution"
+      }
+    },
+    {
+      "slug": "曲率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "曲率",
+          "reading": "きょくりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "curvature"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Curvature"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Curvature” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Curvature?oldid\u003d494368242"
+            },
+            {
+              "text": "Read “曲率” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/曲率?oldid\u003d42660982"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Curvature"
+      }
+    },
+    {
+      "slug": "乳児死亡率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "乳児死亡率",
+          "reading": "にゅうじしぼうりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "infant mortality"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Infant mortality"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Infant mortality” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Infant_mortality?oldid\u003d494977632"
+            },
+            {
+              "text": "Read “乳児死亡率” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/乳児死亡率?oldid\u003d33235391"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Infant_mortality"
+      }
+    },
+    {
+      "slug": "負債比率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "負債比率",
+          "reading": "ふさいひりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "debt ratio"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Debt-to-equity ratio"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Debt-to-equity ratio” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Debt-to-equity_ratio?oldid\u003d491634029"
+            },
+            {
+              "text": "Read “負債比率” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/負債比率?oldid\u003d39168603"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Debt-to-equity_ratio"
+      }
+    },
+    {
+      "slug": "長打率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "長打率",
+          "reading": "ちょうだりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "slugging percentage"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Baseball term"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "長打"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Slugging percentage"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Slugging percentage” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Slugging_percentage?oldid\u003d495523015"
+            },
+            {
+              "text": "Read “長打率” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/長打率?oldid\u003d41995778"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Slugging_percentage"
+      }
+    },
+    {
+      "slug": "熱伝導率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "熱伝導率",
+          "reading": "ねつでんどうりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "thermal conductivity"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Thermal conductivity"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Thermal conductivity” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Thermal_conductivity?oldid\u003d493956763"
+            },
+            {
+              "text": "Read “熱伝導率” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/熱伝導率?oldid\u003d42647793"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Thermal_conductivity"
+      }
+    },
+    {
+      "slug": "比誘電率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "比誘電率",
+          "reading": "ひゆうでんりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dielectric constant",
+            "relative permittivity",
+            "specific inductive capacity"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Relative permittivity"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Relative permittivity” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Relative_permittivity?oldid\u003d489664437"
+            },
+            {
+              "text": "Read “比誘電率” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/比誘電率?oldid\u003d39068638"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Relative_permittivity"
+      }
+    },
+    {
+      "slug": "軌道離心率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "軌道離心率",
+          "reading": "きどうりしんりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "orbital eccentricity"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Orbital eccentricity"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Orbital eccentricity” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Orbital_eccentricity?oldid\u003d494611607"
+            },
+            {
+              "text": "Read “軌道離心率” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/軌道離心率?oldid\u003d42334598"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Orbital_eccentricity"
+      }
+    },
+    {
+      "slug": "自給率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "自給率",
+          "reading": "じきゅうりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(the degree of) self-sufficiency (e.g. in oil)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Sustenance"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Sustenance” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Sustenance?oldid\u003d483020511"
+            },
+            {
+              "text": "Read “自給率” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/自給率?oldid\u003d32344900"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Sustenance"
+      }
+    },
+    {
+      "slug": "守備率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "守備率",
+          "reading": "しゅびりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "one\u0027s fielding average"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Fielding percentage"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Fielding percentage” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Fielding_percentage?oldid\u003d494661597"
+            },
+            {
+              "text": "Read “守備率” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/守備率?oldid\u003d41717881"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Fielding_percentage"
+      }
+    },
+    {
+      "slug": "誘電率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誘電率",
+          "reading": "ゆうでんりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dielectric constant",
+            "permittivity",
+            "conductivity"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Permittivity"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Permittivity” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Permittivity?oldid\u003d494094133"
+            },
+            {
+              "text": "Read “誘電率” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/誘電率?oldid\u003d40738989"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Permittivity"
+      }
+    },
+    {
+      "slug": "投資利益率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "投資利益率",
+          "reading": "とうしりえきりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "return of investment"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Computer terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Rate of return"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Rate of return” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Rate_of_return?oldid\u003d491030468"
+            },
+            {
+              "text": "Read “投資利益率” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/投資利益率?oldid\u003d39646245"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Rate_of_return"
+      }
+    },
+    {
+      "slug": "自己資本比率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "自己資本比率",
+          "reading": "じこしほんひりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "capital adequacy ratio",
+            "capital-to-asset ratio"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Equity ratio"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Equity ratio” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Equity_ratio?oldid\u003d469059129"
+            },
+            {
+              "text": "Read “自己資本比率” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/自己資本比率?oldid\u003d41443670"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Equity_ratio"
+      }
+    },
+    {
+      "slug": "成長率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "成長率",
+          "reading": "せいちょうりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "growth rate"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Growth rate"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Growth rate” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Growth_rate?oldid\u003d457540769"
+            },
+            {
+              "text": "Read “成長率” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/成長率?oldid\u003d35269680"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Growth_rate"
+      }
+    },
+    {
+      "slug": "出塁率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "出塁率",
+          "reading": "しゅつるいりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "on-base percentage"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Baseball term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "On-base percentage"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “On-base percentage” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/On-base_percentage?oldid\u003d484609948"
+            },
+            {
+              "text": "Read “出塁率” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/出塁率?oldid\u003d41999496"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/On-base_percentage"
+      }
+    },
+    {
+      "slug": "惜敗率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "惜敗率",
+          "reading": "せきはいりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "ratio of the margin of loss of an electoral candidate in a single-constituent district (used to break ties when determining the representative of a proportionally represented district)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Sekihairitsu"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Sekihairitsu” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Sekihairitsu?oldid\u003d491382898"
+            },
+            {
+              "text": "Read “惜敗率” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/惜敗率?oldid\u003d39031408"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Sekihairitsu"
+      }
+    },
+    {
+      "slug": "弾性率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "弾性率",
+          "reading": "だんせいりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "modulus of elasticity"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Elastic modulus"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Elastic modulus” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Elastic_modulus?oldid\u003d492145661"
+            },
+            {
+              "text": "Read “弾性率” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/弾性率?oldid\u003d42521634"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Elastic_modulus"
+      }
+    },
+    {
+      "slug": "離心率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "離心率",
+          "reading": "りしんりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "eccentricity"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Eccentricity (mathematics)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Eccentricity (mathematics)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Eccentricity_(mathematics)?oldid\u003d486411130"
+            },
+            {
+              "text": "Read “離心率” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/離心率?oldid\u003d42377682"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Eccentricity_(mathematics)"
+      }
+    },
+    {
+      "slug": "熱効率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "熱効率",
+          "reading": "ねつこうりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "thermal efficiency"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Thermal efficiency"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Thermal efficiency” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Thermal_efficiency?oldid\u003d494754243"
+            },
+            {
+              "text": "Read “熱効率” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/熱効率?oldid\u003d42666775"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Thermal_efficiency"
+      }
+    },
+    {
+      "slug": "容積率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "容積率",
+          "reading": "ようせきりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "floor space index",
+            "FSI",
+            "floor area ratio",
+            "FAR",
+            "ratio of building size to lot",
+            "plot ratio"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Floor area ratio"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Floor area ratio” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Floor_area_ratio?oldid\u003d487777605"
+            },
+            {
+              "text": "Read “容積率” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/容積率?oldid\u003d39054530"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Floor_area_ratio"
+      }
+    },
+    {
+      "slug": "体脂肪率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "体脂肪率",
+          "reading": "たいしぼうりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "body fat percentage"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Body fat percentage"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Body fat percentage” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Body_fat_percentage?oldid\u003d494578335"
+            },
+            {
+              "text": "Read “体脂肪率” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/体脂肪率?oldid\u003d41512911"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Body_fat_percentage"
+      }
+    },
+    {
+      "slug": "自己資本比率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "自己資本比率",
+          "reading": "じこしほんひりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "capital adequacy ratio",
+            "capital-to-asset ratio"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Equity ratio"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Equity ratio” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Equity_ratio?oldid\u003d469059129"
+            },
+            {
+              "text": "Read “自己資本比率” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/自己資本比率?oldid\u003d41443670"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Equity_ratio"
+      }
+    },
+    {
+      "slug": "反射率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "反射率",
+          "reading": "はんしゃりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "reflectance"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Reflectivity"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Reflectivity” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Reflectivity?oldid\u003d484456273"
+            },
+            {
+              "text": "Read “反射率” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/反射率?oldid\u003d31692126"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Reflectivity"
+      }
+    },
+    {
+      "slug": "弾性率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "弾性率",
+          "reading": "だんせいりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "modulus of elasticity"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Elastic modulus"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Elastic modulus” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Elastic_modulus?oldid\u003d492145661"
+            },
+            {
+              "text": "Read “弾性率” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/弾性率?oldid\u003d42521634"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Elastic_modulus"
+      }
+    },
+    {
+      "slug": "熱効率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "熱効率",
+          "reading": "ねつこうりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "thermal efficiency"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Thermal efficiency"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Thermal efficiency” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Thermal_efficiency?oldid\u003d494754243"
+            },
+            {
+              "text": "Read “熱効率” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/熱効率?oldid\u003d42666775"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Thermal_efficiency"
+      }
+    },
+    {
+      "slug": "符号誤り率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "符号誤り率",
+          "reading": "ふごうあやまりりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(code) error rate"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Computer terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Bit error rate"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Bit error rate” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Bit_error_rate?oldid\u003d494097868"
+            },
+            {
+              "text": "Read “符号誤り率” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/符号誤り率?oldid\u003d42633648"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Bit_error_rate"
+      }
+    },
+    {
+      "slug": "容積率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "容積率",
+          "reading": "ようせきりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "floor space index",
+            "FSI",
+            "floor area ratio",
+            "FAR",
+            "ratio of building size to lot",
+            "plot ratio"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Floor area ratio"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Floor area ratio” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Floor_area_ratio?oldid\u003d487777605"
+            },
+            {
+              "text": "Read “容積率” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/容積率?oldid\u003d39054530"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Floor_area_ratio"
+      }
+    },
+    {
+      "slug": "圧縮率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "圧縮率",
+          "reading": "あっしゅくりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "compressibility",
+            "compression ratio"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Compressibility"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Compressibility” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Compressibility?oldid\u003d488974492"
+            },
+            {
+              "text": "Read “圧縮率” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/圧縮率?oldid\u003d42166420"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Compressibility"
+      }
+    },
+    {
+      "slug": "熱伝導率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "熱伝導率",
+          "reading": "ねつでんどうりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "thermal conductivity"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Thermal conductivity"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Thermal conductivity” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Thermal_conductivity?oldid\u003d493956763"
+            },
+            {
+              "text": "Read “熱伝導率” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/熱伝導率?oldid\u003d42647793"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Thermal_conductivity"
+      }
+    },
+    {
+      "slug": "増減率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "増減率",
+          "reading": "ぞうげんりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rate of change"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Zougenritsu"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "増設率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "増設率",
+          "reading": "ぞうせつりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "expansion rate",
+            "growth rate"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "配当率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "配当率",
+          "reading": "はいとうりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dividend rate"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "預金準備率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "預金準備率",
+          "reading": "よきんじゅんびりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "cash-deposit ratio"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "換算率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "換算率",
+          "reading": "かんさんりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "conversion rate"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "伝導率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "伝導率",
+          "reading": "でんどうりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "conductivity"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "建蔽率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "建ぺい率",
+          "reading": "けんぺいりつ"
+        },
+        {
+          "word": "建蔽率",
+          "reading": "けんぺいりつ"
+        },
+        {
+          "word": "建坪率",
+          "reading": "けんぺいりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "building-to-land ratio",
+            "building coverage ratio",
+            "land coverage",
+            "site coverage"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "導電率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "導電率",
+          "reading": "どうでんりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "conductivity"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "電気伝導率"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "利益率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "利益率",
+          "reading": "りえきりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "profit ratio"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "得票率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "得票率",
+          "reading": "とくひょうりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "percentage of votes"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "商品回転率",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "商品回転率",
+          "reading": "しょうひんかいてんりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "stock turnover"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

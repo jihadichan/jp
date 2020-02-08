@@ -1,0 +1,5451 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "花見",
+      "is_common": true,
+      "tags": [
+        "wanikani4"
+      ],
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "花見",
+          "reading": "はなみ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "cherry blossom viewing",
+            "flower viewing"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Hanami"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Hanami” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Hanami?oldid\u003d491515066"
+            },
+            {
+              "text": "Read “花見” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/花見?oldid\u003d42407438"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Hanami"
+      }
+    },
+    {
+      "slug": "発見",
+      "is_common": true,
+      "tags": [
+        "wanikani9"
+      ],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "発見",
+          "reading": "はっけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "discovery",
+            "detection",
+            "finding"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Discovery (observation)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Discovery (observation)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Discovery_(observation)?oldid\u003d483191081"
+            },
+            {
+              "text": "Read “発見” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/発見?oldid\u003d39361336"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Discovery_(observation)"
+      }
+    },
+    {
+      "slug": "見る",
+      "is_common": true,
+      "tags": [
+        "wanikani4",
+        "wanikani22"
+      ],
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "見る",
+          "reading": "みる"
+        },
+        {
+          "word": "観る",
+          "reading": "みる"
+        },
+        {
+          "word": "視る",
+          "reading": "みる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to see",
+            "to look",
+            "to watch",
+            "to view",
+            "to observe"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to look over",
+            "to look on",
+            "to assess",
+            "to examine",
+            "to judge"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "診る"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to look after",
+            "to keep an eye on",
+            "to take care of"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "看る"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to view (e.g. flowers, movie)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "usu. 観る"
+          ]
+        },
+        {
+          "english_definitions": [
+            "to try",
+            "to try out",
+            "to test"
+          ],
+          "parts_of_speech": [
+            "Auxiliary verb",
+            "Ichidan verb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "usu. after the -te form of a verb"
+          ]
+        },
+        {
+          "english_definitions": [
+            "to see that...",
+            "to find that..."
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "usu. after the -te form of a verb"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "店",
+      "is_common": true,
+      "tags": [
+        "wanikani6"
+      ],
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "店",
+          "reading": "みせ"
+        },
+        {
+          "word": "見世",
+          "reading": "みせ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "store",
+            "shop",
+            "establishment",
+            "restaurant"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "orig. an abbr. of 店棚;見世棚"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見せる",
+      "is_common": true,
+      "tags": [
+        "wanikani4"
+      ],
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "見せる",
+          "reading": "みせる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to show",
+            "to display"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見物",
+      "is_common": true,
+      "tags": [
+        "wanikani11"
+      ],
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "見物",
+          "reading": "けんぶつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sightseeing",
+            "watching",
+            "viewing"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "sightseer",
+            "watcher",
+            "spectator"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Abbreviation"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "見物人 けんぶつにん",
+            "見物客 けんぶつきゃく"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Kenbutsu"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見合い",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "見合い",
+          "reading": "みあい"
+        },
+        {
+          "word": "見合",
+          "reading": "みあい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "formal marriage interview",
+            "marriage meeting"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Miai"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Miai"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Miai” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Miai?oldid\u003d493702406"
+            },
+            {
+              "text": "Read “見合い” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/見合い?oldid\u003d42627358"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "http://dbpedia.org/resource/Miai"
+      }
+    },
+    {
+      "slug": "見える",
+      "is_common": true,
+      "tags": [
+        "wanikani4"
+      ],
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "見える",
+          "reading": "みえる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to be seen",
+            "to be in sight"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to look",
+            "to seem",
+            "to appear"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to come"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Honorific or respectful (sonkeigo)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "意見",
+      "is_common": true,
+      "tags": [
+        "wanikani11"
+      ],
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "意見",
+          "reading": "いけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "opinion",
+            "view",
+            "comment"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見つかる",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "見つかる",
+          "reading": "みつかる"
+        },
+        {
+          "word": "見付かる",
+          "reading": "みつかる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to be found",
+            "to be discovered"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "偏見",
+      "is_common": true,
+      "tags": [
+        "wanikani52"
+      ],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "偏見",
+          "reading": "へんけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "prejudice",
+            "bias",
+            "distorted view"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Prejudice"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Prejudice” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Prejudice?oldid\u003d494983459"
+            },
+            {
+              "text": "Read “偏見” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/偏見?oldid\u003d42349481"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Prejudice"
+      }
+    },
+    {
+      "slug": "見積もり",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "見積もり",
+          "reading": "みつもり"
+        },
+        {
+          "word": "見積り",
+          "reading": "みつもり"
+        },
+        {
+          "word": "見積",
+          "reading": "みつもり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "estimate",
+            "estimation",
+            "valuation",
+            "quotation"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Sales quote"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Sales quote” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Sales_quote?oldid\u003d493202123"
+            },
+            {
+              "text": "Read “見積” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/見積?oldid\u003d42032589"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Sales_quote"
+      }
+    },
+    {
+      "slug": "見付ける",
+      "is_common": true,
+      "tags": [
+        "wanikani9"
+      ],
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "見つける",
+          "reading": "みつける"
+        },
+        {
+          "word": "見付ける",
+          "reading": "みつける"
+        },
+        {
+          "word": "見附ける",
+          "reading": "みつける"
+        },
+        {
+          "word": "見附る",
+          "reading": "みつける"
+        },
+        {
+          "word": "見付ける",
+          "reading": "みっける"
+        },
+        {
+          "word": "見附ける",
+          "reading": "みっける"
+        },
+        {
+          "word": "見附る",
+          "reading": "みっける"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to discover",
+            "to find (e.g. an error in a book)",
+            "to come across",
+            "to detect",
+            "to spot"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to locate",
+            "to find (e.g. something missing)",
+            "to find fault"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to be used to seeing",
+            "to be familiar with"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "見慣れる"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "拝見",
+      "is_common": true,
+      "tags": [
+        "wanikani34"
+      ],
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "拝見",
+          "reading": "はいけん"
+        },
+        {
+          "word": "拜見",
+          "reading": "はいけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "seeing",
+            "looking at"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [
+            "Humble (kenjougo)",
+            "Polite (teineigo)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見送り",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "見送り",
+          "reading": "みおくり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "seeing one off",
+            "farewell",
+            "escort"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見事",
+      "is_common": true,
+      "tags": [
+        "wanikani11"
+      ],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "見事",
+          "reading": "みごと"
+        },
+        {
+          "word": "美事",
+          "reading": "みごと"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "splendid",
+            "magnificent",
+            "excellent",
+            "fine",
+            "superb",
+            "beautiful",
+            "admirable"
+          ],
+          "parts_of_speech": [
+            "Na-adjective",
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "utter (esp. defeat)",
+            "total",
+            "complete"
+          ],
+          "parts_of_speech": [
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "usu. 見事に"
+          ]
+        },
+        {
+          "english_definitions": [
+            "something worth seeing",
+            "sight",
+            "spectacle"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見舞い",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "見舞い",
+          "reading": "みまい"
+        },
+        {
+          "word": "見舞",
+          "reading": "みまい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "visiting ill or distressed people",
+            "writing get-well letters"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "お見舞い",
+            "見舞い客"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "get-well gifts",
+            "get-well letters"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "見舞い品"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "expression of sympathy",
+            "expression of concern",
+            "enquiry",
+            "inquiry"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "お見舞い申し上げる"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見解",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "見解",
+          "reading": "けんかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "opinion",
+            "point of view"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見当",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "見当",
+          "reading": "けんとう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "estimate",
+            "guess",
+            "conjecture",
+            "aim"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "direction",
+            "bearings"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "registration mark (printing)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "approximately",
+            "about",
+            "around"
+          ],
+          "parts_of_speech": [
+            "Noun - used as a suffix"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見送る",
+      "is_common": true,
+      "tags": [
+        "wanikani11"
+      ],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "見送る",
+          "reading": "みおくる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to see someone off (at a station, an airport, etc.)",
+            "to escort (e.g. home)"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to follow something with one\u0027s eyes until it is out of sight"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to let pass",
+            "to pass up (an opportunity etc.)",
+            "to let a pitch go by (baseball)",
+            "to watch a batted ball go into the stands"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to shelve (a plan, deliberation on a bill, etc.)",
+            "to postpone"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to have someone related or close to you die",
+            "to bury someone"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to take care of somebody until he dies"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to wait and see",
+            "to continue (e.g. in legal contexts)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見舞う",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "見舞う",
+          "reading": "みまう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to ask after (someone\u0027s health)",
+            "to visit"
+          ],
+          "parts_of_speech": [
+            "Godan verb with u ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to attack",
+            "to strike",
+            "to meet with misfortune",
+            "to suffer an attack"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見本",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "見本",
+          "reading": "みほん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sample",
+            "specimen",
+            "pattern"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "model",
+            "example"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見学",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "見学",
+          "reading": "けんがく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "inspection",
+            "study by observation",
+            "field trip",
+            "tour",
+            "review"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見直す",
+      "is_common": true,
+      "tags": [
+        "wanikani8"
+      ],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "見直す",
+          "reading": "みなおす"
+        },
+        {
+          "word": "見なおす",
+          "reading": "みなおす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to look at again"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to re-examine (policy, estimate, plan, etc.)",
+            "to review"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to get a better opinion of",
+            "to see in a more positive light"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to improve",
+            "to recover (market, illness, etc.)"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "惨め",
+      "is_common": true,
+      "tags": [
+        "wanikani53"
+      ],
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "惨め",
+          "reading": "みじめ"
+        },
+        {
+          "word": "不見目",
+          "reading": "みじめ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "miserable",
+            "wretched",
+            "unhappy",
+            "sad",
+            "pitiable"
+          ],
+          "parts_of_speech": [
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見下ろす",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "見下ろす",
+          "reading": "みおろす"
+        },
+        {
+          "word": "見おろす",
+          "reading": "みおろす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to overlook",
+            "to command a view of",
+            "to look down on"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to despise",
+            "to look down on"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "見下す"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "醜い",
+      "is_common": true,
+      "tags": [
+        "wanikani60"
+      ],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "醜い",
+          "reading": "みにくい"
+        },
+        {
+          "word": "見憎い",
+          "reading": "みにくい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "ugly",
+            "unattractive"
+          ],
+          "parts_of_speech": [
+            "I-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "unsightly",
+            "unseemly"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "醜い争い"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見っともない",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "見っともない",
+          "reading": "みっともない"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "shameful",
+            "disgraceful",
+            "indecent",
+            "unseemly",
+            "unbecoming",
+            "improper"
+          ],
+          "parts_of_speech": [
+            "I-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見かけ",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "見かけ",
+          "reading": "みかけ"
+        },
+        {
+          "word": "見掛け",
+          "reading": "みかけ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "outward appearance"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "apparent"
+          ],
+          "parts_of_speech": [
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見込み",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "見込み",
+          "reading": "みこみ"
+        },
+        {
+          "word": "見込",
+          "reading": "みこみ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "hope",
+            "promise",
+            "possibility",
+            "chance",
+            "probability",
+            "likelihood"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "expectation",
+            "anticipation",
+            "forecast",
+            "estimate"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "side of a structural member"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "見付 みつけ"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見方",
+      "is_common": true,
+      "tags": [
+        "wanikani4"
+      ],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "見方",
+          "reading": "みかた"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "viewpoint",
+            "point of view"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "way of understanding",
+            "way of appreciating",
+            "how to look at something (e.g. noh, train schedule)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "esp. 〜の見方"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見通し",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "見通し",
+          "reading": "みとおし"
+        },
+        {
+          "word": "見透し",
+          "reading": "みとおし"
+        },
+        {
+          "word": "見通",
+          "reading": "みとおし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "unobstructed view",
+            "perspective",
+            "visibility",
+            "vista"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "forecast",
+            "outlook",
+            "prospect",
+            "prediction"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "insight",
+            "foresight"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見地",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "見地",
+          "reading": "けんち"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "point of view"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "会見",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "会見",
+          "reading": "かいけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "interview",
+            "audience",
+            "meeting",
+            "(viewing) party"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見渡す",
+      "is_common": true,
+      "tags": [
+        "wanikani25"
+      ],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "見渡す",
+          "reading": "みわたす"
+        },
+        {
+          "word": "見わたす",
+          "reading": "みわたす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to look out over",
+            "to survey (scene)",
+            "to take an extensive view of"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "試みる",
+      "is_common": true,
+      "tags": [
+        "wanikani9"
+      ],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "試みる",
+          "reading": "こころみる"
+        },
+        {
+          "word": "心見る",
+          "reading": "こころみる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to try",
+            "to attempt",
+            "to have a go (at something)"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見逃す",
+      "is_common": true,
+      "tags": [
+        "wanikani44"
+      ],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "見逃す",
+          "reading": "みのがす"
+        },
+        {
+          "word": "見のがす",
+          "reading": "みのがす"
+        },
+        {
+          "word": "見遁す",
+          "reading": "みのがす"
+        },
+        {
+          "word": "見逃がす",
+          "reading": "みのがす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to miss",
+            "to overlook",
+            "to fail to notice"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to let pass (a matter)",
+            "to overlook (e.g. a wrongdoing)",
+            "to turn a blind eye to"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to pass up (e.g. an opportunity)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to let (a good ball) go by"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Baseball term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見せびらかす",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "見せびらかす",
+          "reading": "みせびらかす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to show off",
+            "to flaunt"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見晴らし",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "見晴らし",
+          "reading": "みはらし"
+        },
+        {
+          "word": "見晴し",
+          "reading": "みはらし"
+        },
+        {
+          "word": "見はらし",
+          "reading": "みはらし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "view",
+            "prospect",
+            "outlook"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "viewing platform",
+            "overlook"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Abbreviation"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "見晴らし台"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見窄らしい",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "見窄らしい",
+          "reading": "みすぼらしい"
+        },
+        {
+          "word": "見すぼらしい",
+          "reading": "みすぼらしい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "shabby",
+            "seedy"
+          ],
+          "parts_of_speech": [
+            "I-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見落とす",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "見落とす",
+          "reading": "みおとす"
+        },
+        {
+          "word": "見落す",
+          "reading": "みおとす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to overlook",
+            "to fail to notice",
+            "to miss (seeing)"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見合わせる",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "見合わせる",
+          "reading": "みあわせる"
+        },
+        {
+          "word": "見合せる",
+          "reading": "みあわせる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to exchange glances",
+            "to look at each other"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to postpone",
+            "to put off",
+            "to withhold",
+            "to abandon"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to contrast",
+            "to compare"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "冷やかす",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "冷やかす",
+          "reading": "ひやかす"
+        },
+        {
+          "word": "冷かす",
+          "reading": "ひやかす"
+        },
+        {
+          "word": "素見す",
+          "reading": "ひやかす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to banter",
+            "to make fun of",
+            "to jeer at"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to cool",
+            "to refrigerate"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to window-shop",
+            "to look at without buying"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見苦しい",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "見苦しい",
+          "reading": "みぐるしい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "unsightly",
+            "ugly",
+            "unseemly",
+            "indecent",
+            "deplorable",
+            "disgraceful",
+            "shameful"
+          ],
+          "parts_of_speech": [
+            "I-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見かける",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "見かける",
+          "reading": "みかける"
+        },
+        {
+          "word": "見掛ける",
+          "reading": "みかける"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to (happen to) see",
+            "to notice",
+            "to catch sight of"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "お見舞い",
+      "is_common": false,
+      "tags": [
+        "wanikani38"
+      ],
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "お見舞い",
+          "reading": "おみまい"
+        },
+        {
+          "word": "お見舞",
+          "reading": "おみまい"
+        },
+        {
+          "word": "御見舞い",
+          "reading": "おみまい"
+        },
+        {
+          "word": "御見舞",
+          "reading": "おみまい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "calling on someone who is ill",
+            "enquiry",
+            "inquiry"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "見舞い"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見本市",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "見本市",
+          "reading": "みほんいち"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "trade fair"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Trade fair"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Trade fair” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Trade_fair?oldid\u003d494656686"
+            },
+            {
+              "text": "Read “見本市” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/見本市?oldid\u003d42663712"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Trade_fair"
+      }
+    },
+    {
+      "slug": "人見知り",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "人見知り",
+          "reading": "ひとみしり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "shyness",
+            "fear of strangers",
+            "stranger anxiety"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Shyness"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Shyness” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Shyness?oldid\u003d494906449"
+            },
+            {
+              "text": "Read “人見知り” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/人見知り?oldid\u003d41570323"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Shyness"
+      }
+    },
+    {
+      "slug": "記者会見",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "記者会見",
+          "reading": "きしゃかいけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "press conference"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "News conference"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “News conference” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/News_conference?oldid\u003d482048958"
+            },
+            {
+              "text": "Read “記者会見” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/記者会見?oldid\u003d41654291"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/News_conference"
+      }
+    },
+    {
+      "slug": "見出し",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "見出し",
+          "reading": "みだし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "heading",
+            "headline",
+            "title",
+            "caption"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "index"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "headword"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Abbreviation"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "見出し語"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Headline"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Headline” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Headline?oldid\u003d490887437"
+            },
+            {
+              "text": "Read “見出し” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/見出し?oldid\u003d42433704"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Headline"
+      }
+    },
+    {
+      "slug": "下見",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "下見",
+          "reading": "したみ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "preliminary inspection",
+            "having a look in advance"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "preparatory read-through (e.g. of lesson notes)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "siding (on a house)",
+            "clapboard",
+            "weatherboard"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "下見板 したみいた"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Shitami"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見つめる",
+      "is_common": true,
+      "tags": [
+        "wanikani31"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "見つめる",
+          "reading": "みつめる"
+        },
+        {
+          "word": "見詰める",
+          "reading": "みつめる"
+        },
+        {
+          "word": "凝める",
+          "reading": "みつめる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to stare at",
+            "to gaze at",
+            "to look hard at",
+            "to watch intently",
+            "to fix one\u0027s eyes on"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見知らぬ",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "見知らぬ",
+          "reading": "みしらぬ"
+        },
+        {
+          "word": "見しらぬ",
+          "reading": "みしらぬ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "strange",
+            "unfamiliar",
+            "unknown"
+          ],
+          "parts_of_speech": [
+            "Pre-noun adjectival"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "外見",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "外見",
+          "reading": "がいけん"
+        },
+        {
+          "word": "外見",
+          "reading": "そとみ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "outward appearance"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "一見",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "一見",
+          "reading": "いっけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "look",
+            "glimpse",
+            "glance"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "apparently",
+            "seemingly"
+          ],
+          "parts_of_speech": [
+            "Adverbial noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "first meeting"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見当たる",
+      "is_common": true,
+      "tags": [
+        "wanikani7"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "見当たる",
+          "reading": "みあたる"
+        },
+        {
+          "word": "見あたる",
+          "reading": "みあたる"
+        },
+        {
+          "word": "見当る",
+          "reading": "みあたる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to be found"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見込む",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "見込む",
+          "reading": "みこむ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to anticipate",
+            "to estimate",
+            "to expect"
+          ],
+          "parts_of_speech": [
+            "Godan verb with mu ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to count on",
+            "to rely on"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to find promising",
+            "to see good prospects (in)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to set one\u0027s eye on (e.g. a prey)",
+            "to hold spellbound"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見張り",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "見張り",
+          "reading": "みはり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "watch-keeping",
+            "guard",
+            "lookout"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "少数意見",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "少数意見",
+          "reading": "しょうすういけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "minority opinion"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見極める",
+      "is_common": true,
+      "tags": [
+        "wanikani29"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "見極める",
+          "reading": "みきわめる"
+        },
+        {
+          "word": "見きわめる",
+          "reading": "みきわめる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to ascertain",
+            "to make sure of",
+            "to determine",
+            "to probe",
+            "to get to the bottom (of something)"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見栄",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "見栄",
+          "reading": "みえ"
+        },
+        {
+          "word": "見え",
+          "reading": "みえ"
+        },
+        {
+          "word": "見栄",
+          "reading": "みばえ"
+        },
+        {
+          "word": "見栄え",
+          "reading": "みばえ"
+        },
+        {
+          "word": "見映",
+          "reading": "みばえ"
+        },
+        {
+          "word": "見映え",
+          "reading": "みばえ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "airs",
+            "pretensions",
+            "show",
+            "ostentation",
+            "display",
+            "appearance",
+            "vanity",
+            "charm"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "見栄を張る みえをはる"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "顔見知り",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "顔見知り",
+          "reading": "かおみしり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "acquaintance"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見識",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "見識",
+          "reading": "けんしき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "views",
+            "opinion",
+            "discernment"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "pride",
+            "self-respect"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見直し",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "見直し",
+          "reading": "みなおし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "review",
+            "reconsideration",
+            "revision"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見所",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "見所",
+          "reading": "みどころ"
+        },
+        {
+          "word": "見どころ",
+          "reading": "みどころ"
+        },
+        {
+          "word": "見処",
+          "reading": "みどころ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "point worthy of note",
+            "highlight (e.g. in a film)",
+            "thing to note"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "good prospects for the future",
+            "promise"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "目論見",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "目論見",
+          "reading": "もくろみ"
+        },
+        {
+          "word": "目論み",
+          "reading": "もくろみ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "plan",
+            "scheme",
+            "plot",
+            "design",
+            "project",
+            "intention",
+            "aim"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見放す",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "見放す",
+          "reading": "みはなす"
+        },
+        {
+          "word": "見離す",
+          "reading": "みはなす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to abandon",
+            "to give up on",
+            "to desert"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見返り",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "見返り",
+          "reading": "みかえり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "reward",
+            "compensation",
+            "repayment",
+            "something done or given in return"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "collateral",
+            "security"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "turning to look behind"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私見",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私見",
+          "reading": "しけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "personal opinion"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "所見",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "所見",
+          "reading": "しょけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "view",
+            "opinion",
+            "finding",
+            "findings"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見受ける",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "見受ける",
+          "reading": "みうける"
+        },
+        {
+          "word": "見うける",
+          "reading": "みうける"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to catch sight of",
+            "to see",
+            "to suppose",
+            "to assume from appearances"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "接見",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "接見",
+          "reading": "せっけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "interview"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "先見",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "先見",
+          "reading": "せんけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "foresight",
+            "anticipation"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見なす",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "見なす",
+          "reading": "みなす"
+        },
+        {
+          "word": "見做す",
+          "reading": "みなす"
+        },
+        {
+          "word": "看做す",
+          "reading": "みなす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to consider as",
+            "to regard (as equivalent)",
+            "to deem (as)",
+            "to equate"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見失う",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "見失う",
+          "reading": "みうしなう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to lose sight of",
+            "to miss"
+          ],
+          "parts_of_speech": [
+            "Godan verb with u ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見守る",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "見守る",
+          "reading": "みまもる"
+        },
+        {
+          "word": "見戍る",
+          "reading": "みまもる"
+        },
+        {
+          "word": "目戍る",
+          "reading": "みまもる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to watch over",
+            "to watch attentively"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見出す",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "見出す",
+          "reading": "みいだす"
+        },
+        {
+          "word": "見いだす",
+          "reading": "みいだす"
+        },
+        {
+          "word": "見出だす",
+          "reading": "みいだす"
+        },
+        {
+          "word": "見い出す",
+          "reading": "みいだす"
+        },
+        {
+          "word": "見出す",
+          "reading": "みだす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to find out",
+            "to discover",
+            "to notice",
+            "to detect"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to select",
+            "to pick out"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to look out (from the inside)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to be wide-eyed (in surprise, anger, etc.)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見上げる",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "見上げる",
+          "reading": "みあげる"
+        },
+        {
+          "word": "見あげる",
+          "reading": "みあげる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to look up at",
+            "to raise one\u0027s eyes"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to look up to",
+            "to admire",
+            "to respect"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見捨てる",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "見捨てる",
+          "reading": "みすてる"
+        },
+        {
+          "word": "見棄てる",
+          "reading": "みすてる"
+        },
+        {
+          "word": "見すてる",
+          "reading": "みすてる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to abandon",
+            "to fail",
+            "to desert",
+            "to forsake"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見張る",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "見張る",
+          "reading": "みはる"
+        },
+        {
+          "word": "瞠る",
+          "reading": "みはる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to stand watch",
+            "to stand guard",
+            "to look out"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "見張る"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to open one\u0027s eyes wide"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "目を見張る"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見た目",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "見た目",
+          "reading": "みため"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "appearance",
+            "looks"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見せ掛け",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "見せ掛け",
+          "reading": "みせかけ"
+        },
+        {
+          "word": "見せかけ",
+          "reading": "みせかけ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "seeming",
+            "pose",
+            "show",
+            "pretense",
+            "sham",
+            "mock"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見習う",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "見習う",
+          "reading": "みならう"
+        },
+        {
+          "word": "見倣う",
+          "reading": "みならう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to follow another\u0027s example"
+          ],
+          "parts_of_speech": [
+            "Godan verb with u ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見違える",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "見違える",
+          "reading": "みちがえる"
+        },
+        {
+          "word": "見ちがえる",
+          "reading": "みちがえる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to hardly recognise",
+            "to mistake for something or somebody else"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見ず知らず",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "見ず知らず",
+          "reading": "みずしらず"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "strange",
+            "unfamiliar",
+            "unknown",
+            "new"
+          ],
+          "parts_of_speech": [
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "unfamiliarity",
+            "strangeness",
+            "stranger"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見損なう",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "見損なう",
+          "reading": "みそこなう"
+        },
+        {
+          "word": "見そこなう",
+          "reading": "みそこなう"
+        },
+        {
+          "word": "見損う",
+          "reading": "みそこなう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to misjudge",
+            "to mistake",
+            "to misread"
+          ],
+          "parts_of_speech": [
+            "Godan verb with u ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to misjudge (someone)",
+            "to overestimate"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to miss seeing",
+            "to overlook",
+            "to fail to notice"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "形見",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "形見",
+          "reading": "かたみ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "memento (esp. of a deceased person)",
+            "keepsake",
+            "heirloom",
+            "remembrance",
+            "souvenir"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見分け",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "見分け",
+          "reading": "みわけ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "distinction"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見る見る",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "見る見る",
+          "reading": "みるみる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "very fast",
+            "in a twinkle",
+            "before one\u0027s eyes"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "露見",
+      "is_common": true,
+      "tags": [
+        "wanikani54"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "露見",
+          "reading": "ろけん"
+        },
+        {
+          "word": "露顕",
+          "reading": "ろけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "discovery (of a plot, misdeed, etc.)",
+            "detection",
+            "exposure",
+            "disclosure"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見聞",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "見聞",
+          "reading": "けんぶん"
+        },
+        {
+          "word": "見聞",
+          "reading": "けんもん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "information",
+            "experience",
+            "knowledge",
+            "observation"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見物人",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "見物人",
+          "reading": "けんぶつにん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "spectator",
+            "sightseer",
+            "onlooker"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見晴らす",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "見晴らす",
+          "reading": "みはらす"
+        },
+        {
+          "word": "見晴す",
+          "reading": "みはらす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to command a view",
+            "to look out over (onto, across, etc.)",
+            "to overlook"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見比べる",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "見比べる",
+          "reading": "みくらべる"
+        },
+        {
+          "word": "見較べる",
+          "reading": "みくらべる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to compare with the eye"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見限る",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "見限る",
+          "reading": "みかぎる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to give up on",
+            "to turn one\u0027s back",
+            "to abandon"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見過ごす",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "見過ごす",
+          "reading": "みすごす"
+        },
+        {
+          "word": "見過す",
+          "reading": "みすごす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to let go by",
+            "to let pass",
+            "to overlook",
+            "to miss"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "暑中見舞",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "暑中見舞",
+          "reading": "しょちゅうみまい"
+        },
+        {
+          "word": "暑中見舞い",
+          "reading": "しょちゅうみまい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "summer greeting card",
+            "inquiry after someone\u0027s health in the hot season"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "暑中お見舞い"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "月見",
+      "is_common": true,
+      "tags": [
+        "wanikani4"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "月見",
+          "reading": "つきみ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "viewing the Moon"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見覚え",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "見覚え",
+          "reading": "みおぼえ"
+        },
+        {
+          "word": "見憶え",
+          "reading": "みおぼえ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "remembrance",
+            "recollection",
+            "recognition"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見下す",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "見下す",
+          "reading": "みくだす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to look down (on)",
+            "to condescend (to)"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

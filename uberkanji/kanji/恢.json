@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "回復",
+      "is_common": true,
+      "tags": [
+        "wanikani26",
+        "wanikani28"
+      ],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "回復",
+          "reading": "かいふく"
+        },
+        {
+          "word": "快復",
+          "reading": "かいふく"
+        },
+        {
+          "word": "恢復",
+          "reading": "かいふく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "restoration",
+            "rehabilitation",
+            "recovery",
+            "return",
+            "replevin",
+            "improvement"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "回復",
+            "恢復"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "recovery (from an illness)",
+            "recuperation",
+            "convalescence"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "esp. 快復"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "天網恢恢疎にして漏らさず",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "天網恢恢疎にして漏らさず",
+          "reading": "てんもうかいかいそにしてもらさず"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "heaven\u0027s net has large meshes, but nothing escapes"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [
+            "Proverb"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "天網恢々",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "天網恢々",
+          "reading": "てんもうかいかい"
+        },
+        {
+          "word": "天網恢恢",
+          "reading": "てんもうかいかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "heaven\u0027s vengeance is slow but sure",
+            "heaven\u0027s net is wide and coarse, yet nothing slips through"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <style>
+
+    </style>
+</head>
+<body>
+
+<!-------------------------------------------------->
+<!-------------- BACK TEMPLATE START --------------->
+<!-------------------------------------------------->
+<link rel="stylesheet" type="text/css" href="uberkanji/statics/datatables.min.css">
+<link rel="stylesheet" type="text/css" href="uberkanji/statics/style.css">
+<div id="debug"></div>
+<div class="wrapper">
+    <div class="layout">
+        <table>
+            <tr>
+                <td id="side-fonts" class="font-cell">
+
+                </td>
+                <td>
+                    <table class="manual-edits">
+                        <tr>
+                            <td class="manual-edits-key">Concept</td>
+                            <td>big or very</td>
+                        </tr>
+                        <tr>
+                            <td class="manual-edits-key">Meanings</td>
+                            <td id="meanings"></td>
+                        </tr>
+                        <tr>
+                            <td class="manual-edits-key" onclick="toggleFurigana()">
+                                Mnemonic
+                                <div class="toggle-furigana">Toggle</div>
+                            </td>
+                            <td id="manual-edits-mnemonic">
+                                lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum<br>
+                                ----<br>
+                                <ruby>時間切れ<rt>じかんぎれ</rt></ruby> (ジ, being out of time) - lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum<br>
+                                <ruby>時々<rt>ときどき</rt></ruby> (とき, sometimes) - lorem ipsum<br>
+                                -----<br>
+                                <ruby>時々<rt>ときどき</rt></ruby> (とき, sometimes) - lorem ipsum<br>
+                                <ruby>時に<rt>ときに</rt></ruby> (???, by the way, incidentally)<br>
+                                -----<br>
+                                <ruby>何時<rt>いつ</rt></ruby> (つ, when, how soon)<br>
+                                -----<br>
+                                <ruby>何時<rt>いつ</rt></ruby> (つ, when, how soon)<br>
+                                <ruby>時計<rt>とけい</rt></ruby> (と, watch, clock, timepiece)
+                            </td>
+                        </tr>
+                        <tr>
+                            <td onclick="playCompoundReading()">Play &#9658;</td>
+                            <td>
+                                じ.とき.びと
+                            </td>
+                        </tr>
+                        <tr class="no-border">
+                            <td colspan="2">
+                                <table class="readings-overview">
+                                    <tr>
+                                        <td id="most-common-readings" valign="top" class="readings-table"></td>
+                                        <td id="scored-readings" valign="top" class="readings-table"></td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr class="no-border">
+                            <td colspan="2">
+                                <div class="modal-buttons">
+                                    <button class="button" onclick="renderMetaData()">MetaData</button>
+                                    <button class="button" onclick="renderFonts(15, 5)">Fonts</button>
+                                    <button class="button" onclick="renderJisho()">Jisho</button>
+                                    <br>
+                                    <button class="button" id="wordExamples" onclick="renderWordTable('wordExamples')">
+                                        Word Examples
+                                    </button>
+                                    <button class="button" id="unclassifiedReadings" onclick="renderWordTable('unclassifiedReadings')">
+                                        Unknown Readings
+                                    </button>
+                                    <button class="button" id="otherForms" onclick="renderWordTable('otherForms')">Other
+                                        Forms
+                                    </button>
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" id="rendered-content"></td>
+            </tr>
+        </table>
+    </div>
+</div>
+
+<div id="kanji">時</div>
+<div id="data">{"meanings":"time, hour","frequency":16,"components":"日: day; sun; Japan; counter for days<br>寺: Buddhist temple","strokes":10,"rtkKeyword":"time","rtkIndex":171,"onReadings":"ジ","kunReadings":"とき, -どき","wordExamples":[{"word":"時","reading":"とき","meanings":"time, hour, moment (Noun)<br>occasion, case<br>chance, opportunity, season<br>the times, the age, the day<br>tense","score":1,"usuallyWrittenAs":"Kanji","freqNF":"94","freqWK":"54","foundKanjiReading":"とき","type":"fnKJ"},{"word":"時々","reading":"ときどき","meanings":"sometimes, at times (Adverb)","score":1,"usuallyWrittenAs":"Kanji","freqNF":"1992","freqWK":"7980","foundKanjiReading":"とき","type":"oFrm"},{"word":"時に","reading":"ときに","meanings":"by the way, incidentally (Expression)<br>sometimes, occasionally (Adverb)","score":1,"usuallyWrittenAs":"Kanji","freqWK":"11460","foundKanjiReading":"とき","type":"fnKN"},{"word":"時には","reading":"ときには","meanings":"at times, occasionally (Expression)","score":1,"usuallyWrittenAs":"Kanji","foundKanjiReading":"とき","type":"fnKN"},{"word":"時として","reading":"ときとして","meanings":"in some cases, sometimes, on occasions (Adverb)","score":1,"usuallyWrittenAs":"Kanji","freqWK":"16189","foundKanjiReading":"とき","type":"fnKN"},{"word":"時間","reading":"じかん","meanings":"time (Noun)<br>hour<br>period, class, lesson","score":1,"usuallyWrittenAs":"Kanji","freqNF":"109","freqWK":"132","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"時代","reading":"じだい","meanings":"period, epoch, era, age (Temporal noun)<br>the times, those days<br>oldness, ancientness, antiquity<br>antique, period piece","score":1,"usuallyWrittenAs":"Kanji","freqNF":"639","freqWK":"56","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"当時","reading":"とうじ","meanings":"at that time, in those days (Adverbial noun)<br>Touji (Place)","score":1,"usuallyWrittenAs":"Kanji","freqNF":"1158","freqWK":"84","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"時期","reading":"じき","meanings":"time, season, period, phase, stage (Noun)","score":1,"usuallyWrittenAs":"Kanji","freqNF":"1963","freqWK":"394","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"時刻","reading":"じこく","meanings":"instant, time, moment (Adverbial noun)","score":1,"usuallyWrittenAs":"Kanji","freqNF":"4519","freqWK":"3700","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"一時","reading":"いちじ","meanings":"one o'clock (Temporal noun)<br>once, at one time, formerly, before (Adverbial noun)<br>for a time, for a while, for the time being, for the present, for the moment, temporarily (Adverbial noun)<br>a time, one time, once (Noun)","score":1,"usuallyWrittenAs":"Kanji","freqNF":"3356","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"時速","reading":"じそく","meanings":"speed (per hour) (Noun)","score":1,"usuallyWrittenAs":"Kanji","freqNF":"5860","freqWK":"9265","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"日時","reading":"にちじ","meanings":"date and time (Noun)","score":1,"usuallyWrittenAs":"Kanji","freqNF":"15352","freqWK":"6559","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"臨時","reading":"りんじ","meanings":"temporary, provisional, interim (No-adjective)<br>special, extraordinary, extra","score":1,"usuallyWrittenAs":"Kanji","freqNF":"8046","freqWK":"2033","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"時折","reading":"ときおり","meanings":"sometimes (Adverbial noun)","score":1,"usuallyWrittenAs":"Kanji","freqNF":"17584","freqWK":"7003","foundKanjiReading":"とき","type":"fnKJ"},{"word":"時差","reading":"じさ","meanings":"time difference (Noun)","score":1,"usuallyWrittenAs":"Kanji","freqNF":"16253","freqWK":"12738","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"時流","reading":"じりゅう","meanings":"fashion (current) of the times, general drift of affairs (Noun)","score":1,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"時半","reading":"じはん","meanings":"half past (the hour) (Suffix)","score":1,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"三時","reading":"さんじ","meanings":"3 o'clock (Adverbial noun)<br>3 o'clock snack","score":1,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"定時","reading":"ていじ","meanings":"regular time, stated period (Noun)","score":1,"usuallyWrittenAs":"Kanji","freqNF":"17088","freqWK":"8023","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"時点","reading":"じてん","meanings":"point in time, occasion (Noun)","score":1,"usuallyWrittenAs":"Kanji","freqNF":"3626","freqWK":"599","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"時給","reading":"じきゅう","meanings":"hourly pay, hourly wage (Noun)","score":1,"usuallyWrittenAs":"Kanji","freqNF":"13650","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"時機","reading":"じき","meanings":"opportunity, chance, time, occasion (Noun)","score":1,"usuallyWrittenAs":"Kanji","freqNF":"17013","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"常時","reading":"じょうじ","meanings":"usually, ordinarily, always (Adverbial noun)<br>continuous, 24-hour (operation, care, etc.), constant, always on (No-adjective)","score":1,"usuallyWrittenAs":"Kanji","freqNF":"14342","freqWK":"6216","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"随時","reading":"ずいじ","meanings":"as needed, as occasion demands (Adverb)<br>at any time","score":1,"usuallyWrittenAs":"Kanji","freqWK":"11158","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"時事","reading":"じじ","meanings":"events of the day, current affairs (Noun)","score":1,"usuallyWrittenAs":"Kanji","freqWK":"10228","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"即時","reading":"そくじ","meanings":"prompt, immediate, in real time (No-adjective)","score":1,"usuallyWrittenAs":"Kanji","freqWK":"12246","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"瞬時","reading":"しゅんじ","meanings":"moment, instant (Adverbial noun)","score":1,"usuallyWrittenAs":"Kanji","freqNF":"13871","freqWK":"15464","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"戦時","reading":"せんじ","meanings":"wartime (Noun)","score":1,"usuallyWrittenAs":"Kanji","freqNF":"12947","freqWK":"2663","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"何時","reading":"なんじ","meanings":"what time (Noun)","score":1,"usuallyWrittenAs":"Kanji","freqNF":"6766","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"今時","reading":"いまどき","meanings":"these days, nowadays, present day, modern times (Adverbial noun)<br>at this time (of the day)","score":1,"usuallyWrittenAs":"Kanji","foundKanjiReading":"どき","type":"fnKJ"},{"word":"同時","reading":"どうじ","meanings":"simultaneous, concurrent, same time, synchronous, together (Noun)","score":1,"usuallyWrittenAs":"Kanji","freqNF":"1849","freqWK":"1700","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"潮時","reading":"しおどき","meanings":"tidal hour (Noun)<br>right time, favourable opportunity (favorable)","score":1,"usuallyWrittenAs":"Kanji","freqNF":"15166","foundKanjiReading":"どき","type":"fnKJ"},{"word":"毎時","reading":"まいじ","meanings":"every hour, hourly (Adverbial noun)","score":1,"usuallyWrittenAs":"Kanji","freqWK":"9434","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"同時に","reading":"どうじに","meanings":"coincident with, while, simultaneously (Adverb)","score":1,"usuallyWrittenAs":"Kanji","freqWK":"574","foundKanjiReading":"ジ","type":"fnKN"},{"word":"時間割","reading":"じかんわり","meanings":"timetable (esp. a weekly school timetable), schedule (Noun)","score":1,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"時刻表","reading":"じこくひょう","meanings":"timetable, schedule (Noun)","score":1,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"時代劇","reading":"じだいげき","meanings":"historical play, period drama (Noun)","score":1,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"長時間","reading":"ちょうじかん","meanings":"long time (Adverbial noun)","score":1,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"一時的","reading":"いちじてき","meanings":"temporary (Na-adjective)","score":1,"usuallyWrittenAs":"Kanji","freqWK":"3612","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"同時代","reading":"どうじだい","meanings":"the same age, same period (Noun)","score":1,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"短時間","reading":"たんじかん","meanings":"short time (Adverbial noun)","score":1,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"一時期","reading":"いちじき","meanings":"a period (of time) (Adverbial noun)","score":1,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"定時制","reading":"ていじせい","meanings":"part time (school system) (Noun)","score":1,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"一時間","reading":"いちじかん","meanings":"one hour (Noun)","score":1,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"数時間","reading":"すうじかん","meanings":"a few hours (Noun)","score":1,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"時間帯","reading":"じかんたい","meanings":"period of time, time slot, time zone (Noun)","score":1,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"時間切れ","reading":"じかんぎれ","meanings":"being out of time, passing the deadline (Noun)<br>time-out","score":1,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"時代遅れ","reading":"じだいおくれ","meanings":"old-fashioned, behind the times, out-of-date, antiquated (No-adjective)","score":1,"usuallyWrittenAs":"Kanji","freqWK":"16092","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"江戸時代","reading":"えどじだい","meanings":"Edo period (1603-1868 CE) (Noun)","score":1,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"時期尚早","reading":"じきしょうそう","meanings":"premature (Na-adjective)","score":1,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"学生時代","reading":"がくせいじだい","meanings":"student days (Noun)","score":1,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"勤務時間","reading":"きんむじかん","meanings":"office hours, business hours, working hours (Noun)","score":1,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"休憩時間","reading":"きゅうけいじかん","meanings":"rest period, intermission, break time, recess (Noun)","score":1,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"営業時間","reading":"えいぎょうじかん","meanings":"business hours, opening hours, office hours (Noun)","score":1,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"時たま","reading":"ときたま","meanings":"once in a while, occasionally, seldom, at long intervals (Adverb)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"とき","type":"fnKN"},{"word":"時勢","reading":"じせい","meanings":"spirit of the age, trends, conditions (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"時世","reading":"じせい","meanings":"the times (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"片時","reading":"かたとき","meanings":"moment, instant (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"とき","type":"fnKJ"},{"word":"時分","reading":"じぶん","meanings":"time, hour, season, time of the year (Adverbial noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"時節","reading":"じせつ","meanings":"season (Noun)<br>the times<br>opportunity, occasion","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"時制","reading":"じせい","meanings":"tense (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"四時","reading":"よじ","meanings":"4 o'clock (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"時差ぼけ","reading":"じさぼけ","meanings":"jet-lag (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"と同時に","reading":"とどうじに","meanings":"at the same time as, while, as well as (multiple roles) (Expression)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ジ","type":"fnKN"},{"word":"食事時","reading":"しょくじどき","meanings":"mealtime (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"どき","type":"fnKJ"},{"word":"時間給","reading":"じかんきゅう","meanings":"hourly pay, hourly wage (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"非常時","reading":"ひじょうじ","meanings":"(time of) emergency, crisis (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"寝る時間","reading":"ねるじかん","meanings":"bedtime (Expression)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"時間通り","reading":"じかんどおり","meanings":"on time (Temporal noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"時間潰し","reading":"じかんつぶし","meanings":"timewasting, killing time (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"石器時代","reading":"せっきじだい","meanings":"Stone Age (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"同時通訳","reading":"どうじつうやく","meanings":"simultaneous interpretation (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"幼年時代","reading":"ようねんじだい","meanings":"childhood (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"労働時間","reading":"ろうどうじかん","meanings":"working hours, man-hours (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"時限爆弾","reading":"じげんばくだん","meanings":"time bomb (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"現在時制","reading":"げんざいじせい","meanings":"present, present tense (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"一時停止","reading":"いちじていし","meanings":"suspension, pause, temporary halt, moratorium (Noun)<br>stop (e.g. intersection, railway crossing, etc.) (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"一時解雇","reading":"いちじかいこ","meanings":"(temporary) layoff (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"青年時代","reading":"せいねんじだい","meanings":"(one's) youth, one's younger days (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ジ","type":"fnKJ"},{"word":"日本標準時","reading":"にほんひょうじゅんじ","meanings":"Japan Standard Time, JST (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ジ","type":"fnKJ"}],"otherForms":[{"word":"いつ頃","reading":"いつごろ","meanings":"about when, about what time, how soon (Temporal noun)","score":1,"usuallyWrittenAs":"Kanji","freqNF":"17849","foundKanjiReading":"???","type":"oFrm"},{"word":"いつも通り","reading":"いつもどおり","meanings":"as always, as usual (Adverb)","score":1,"usuallyWrittenAs":"Kanji","foundKanjiReading":"???","type":"oFrm"},{"word":"いつの間にか","reading":"いつのまにか","meanings":"before one knows, before one becomes aware of, unnoticed, unawares (Adverb)","score":1,"usuallyWrittenAs":"Kanji","foundKanjiReading":"???","type":"oFrm"},{"word":"いつ何どき","reading":"いつなんどき","meanings":"at any time, at any moment (Adverb)","score":0,"usuallyWrittenAs":"Kana","foundKanjiReading":"どき","type":"oFrm"}],"unclassifiedReadings":[{"word":"時計","reading":"とけい","meanings":"watch, clock, timepiece (Noun)","score":1,"usuallyWrittenAs":"Kanji","freqNF":"1751","freqWK":"3764","foundKanjiReading":"???","type":"fnKJ"},{"word":"何時","reading":"いつ","meanings":"when, how soon (Adverbial noun)","score":1,"usuallyWrittenAs":"Kana","freqNF":"6766","foundKanjiReading":"???","type":"fnKJ"},{"word":"何時も","reading":"いつも","meanings":"always, usually, every time (Adverb)<br>never","score":1,"usuallyWrittenAs":"Kana","freqWK":"5995","foundKanjiReading":"???","type":"fnKN"},{"word":"何時か","reading":"いつか","meanings":"sometime, someday, one day, some time or other, the other day, in due course, in time (Adverb)","score":1,"usuallyWrittenAs":"Kana","freqWK":"11771","foundKanjiReading":"???","type":"fnKN"},{"word":"何時でも","reading":"いつでも","meanings":"(at) any time, always, at all times, whenever (Adverb)","score":1,"usuallyWrittenAs":"Kana","freqWK":"11319","foundKanjiReading":"???","type":"fnKN"},{"word":"何時までも","reading":"いつまでも","meanings":"forever, for good, eternally, as long as one likes, indefinitely, no matter what (Adverb)","score":1,"usuallyWrittenAs":"Kana","foundKanjiReading":"???","type":"fnKN"},{"word":"腕時計","reading":"うでどけい","meanings":"wristwatch (Noun)","score":1,"usuallyWrittenAs":"Kanji","foundKanjiReading":"???","type":"fnKJ"},{"word":"何時に無く","reading":"いつになく","meanings":"unusually (Adverb)","score":1,"usuallyWrittenAs":"Kana","foundKanjiReading":"???","type":"fnKN"},{"word":"目覚まし時計","reading":"めざましどけい","meanings":"alarm clock (Noun)","score":1,"usuallyWrittenAs":"Kanji","foundKanjiReading":"???","type":"fnKJ"},{"word":"何時まで","reading":"いつまで","meanings":"how long?, till when? (Adverb)","score":0,"usuallyWrittenAs":"Kana","foundKanjiReading":"???","type":"fnKN"},{"word":"何時から","reading":"いつから","meanings":"since when, from when, how long (Expression)","score":0,"usuallyWrittenAs":"Kana","foundKanjiReading":"???","type":"fnKN"},{"word":"何時もより","reading":"いつもより","meanings":"more than usual (Adverb)","score":0,"usuallyWrittenAs":"Kana","foundKanjiReading":"???","type":"fnKN"},{"word":"金時計","reading":"きんどけい","meanings":"gold watch (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"???","type":"fnKJ"},{"word":"置き時計","reading":"おきどけい","meanings":"clock to be placed on tables, bookshelves, etc. (as opposed to a watch) (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"???","type":"fnKJ"}],"mostCommonReadings":{"ジ":70,"とき":8,"どき":3},"scoredReadings":{"ジ":{"score":47,"fbKJ":46,"fbKN":1},"とき":{"score":5,"fbKJ":2,"fbKN":3},"どき":{"score":2,"fbKJ":2,"fbKN":0}},"compoundReading":"じ.とき.どき","searchKey":"ｘ時"}</div>
+<div id="play-sound">じ.とき</div>
+<script src="uberkanji/statics/jquery-3.4.1.min.js" type="application/javascript"></script>
+<script src="uberkanji/statics/backpage.js" type="application/javascript" charset="UTF-8"></script>
+<script src="uberkanji/statics/datatables.min.js" type="application/javascript"></script>
+<script src="uberkanji/statics/jquery.modal.min.js" type="application/javascript"></script>
+<div id="modal" class="modal">
+    <table class="modal-table">
+        <tr><td id="modal-result"></td></tr>
+        <tr><td class="td-textarea" style="padding: 1px"><textarea id="word-area" onclick="selectOnClick(this)" onkeyup="updateRuby()"></textarea></td></tr>
+        <tr><td id="modal-meanings"></td></tr>
+    </table>
+</div>
+<!-------------------------------------------------->
+<!-------------- BACK TEMPLATE END ----------------->
+<!-------------------------------------------------->
+</body>
+</html>

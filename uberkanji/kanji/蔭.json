@@ -1,0 +1,720 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "陰-1",
+      "is_common": true,
+      "tags": [
+        "wanikani45"
+      ],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "陰",
+          "reading": "かげ"
+        },
+        {
+          "word": "蔭",
+          "reading": "かげ"
+        },
+        {
+          "word": "翳",
+          "reading": "かげ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "shade",
+            "shadow"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "other side",
+            "back",
+            "background"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "日陰",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "日陰",
+          "reading": "ひかげ"
+        },
+        {
+          "word": "日蔭",
+          "reading": "ひかげ"
+        },
+        {
+          "word": "日影",
+          "reading": "ひかげ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "shade",
+            "shadow"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "sunshine"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "日影"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "お蔭",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "お蔭",
+          "reading": "おかげ"
+        },
+        {
+          "word": "御蔭",
+          "reading": "おかげ"
+        },
+        {
+          "word": "お陰",
+          "reading": "おかげ"
+        },
+        {
+          "word": "御陰",
+          "reading": "おかげ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "grace (of God)",
+            "benevolence (of Buddha)",
+            "blessing"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "assistance",
+            "help",
+            "aid"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "effects",
+            "influence"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "お蔭で"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "お陰様で",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "お陰様で",
+          "reading": "おかげさまで"
+        },
+        {
+          "word": "お蔭様で",
+          "reading": "おかげさまで"
+        },
+        {
+          "word": "お陰さまで",
+          "reading": "おかげさまで"
+        },
+        {
+          "word": "御陰様で",
+          "reading": "おかげさまで"
+        },
+        {
+          "word": "御蔭様で",
+          "reading": "おかげさまで"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(I\u0027m fine) thank you",
+            "thanks to you",
+            "fortunately",
+            "under the gods\u0027 shadow"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [
+            "Polite (teineigo)",
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "陰口",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "陰口",
+          "reading": "かげぐち"
+        },
+        {
+          "word": "蔭口",
+          "reading": "かげぐち"
+        },
+        {
+          "word": "影口",
+          "reading": "かげぐち"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "malicious gossip",
+            "backbiting",
+            "speaking ill behind someone\u0027s back"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "木陰",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "木陰",
+          "reading": "こかげ"
+        },
+        {
+          "word": "木かげ",
+          "reading": "こかげ"
+        },
+        {
+          "word": "木蔭",
+          "reading": "こかげ"
+        },
+        {
+          "word": "樹陰",
+          "reading": "こかげ"
+        },
+        {
+          "word": "樹蔭",
+          "reading": "こかげ"
+        },
+        {
+          "word": "樹陰",
+          "reading": "じゅいん"
+        },
+        {
+          "word": "樹蔭",
+          "reading": "じゅいん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "shade of tree",
+            "bower"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "お陰で",
+      "is_common": true,
+      "tags": [
+        "wanikani47"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "お陰で",
+          "reading": "おかげで"
+        },
+        {
+          "word": "お蔭で",
+          "reading": "おかげで"
+        },
+        {
+          "word": "御蔭で",
+          "reading": "おかげで"
+        },
+        {
+          "word": "御陰で",
+          "reading": "おかげで"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "thanks to ...",
+            "owing to ...",
+            "because of ..."
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "お蔭 おかげ"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "物陰",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "物陰",
+          "reading": "ものかげ"
+        },
+        {
+          "word": "物蔭",
+          "reading": "ものかげ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "place hidden from view",
+            "cover",
+            "shelter",
+            "hiding place"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "陰間",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "陰間",
+          "reading": "かげま"
+        },
+        {
+          "word": "蔭間",
+          "reading": "かげま"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "homosexual prostitute who sold favors at banquets, etc. (late Edo)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "若衆 わかしゅ"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "actor-in-training in kabuki"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Kagema"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Kagema” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Kagema?oldid\u003d491681994"
+            },
+            {
+              "text": "Read “陰間” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/陰間?oldid\u003d42737666"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Kagema"
+      }
+    },
+    {
+      "slug": "お蔭様",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "お蔭様",
+          "reading": "おかげさま"
+        },
+        {
+          "word": "お蔭さま",
+          "reading": "おかげさま"
+        },
+        {
+          "word": "御蔭様",
+          "reading": "おかげさま"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(somebody\u0027s) backing",
+            "assistance",
+            "thanks to (somebody)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Polite (teineigo)",
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "緑陰",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "緑陰",
+          "reading": "りょくいん"
+        },
+        {
+          "word": "緑蔭",
+          "reading": "りょくいん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "shade of trees"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "御蔭参り",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "御蔭参り",
+          "reading": "おかげまいり"
+        },
+        {
+          "word": "お蔭参り",
+          "reading": "おかげまいり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "mass Ise pilgrimage (intermittently during the Edo period)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "伊勢参り"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "岩陰",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "岩陰",
+          "reading": "いわかげ"
+        },
+        {
+          "word": "巌蔭",
+          "reading": "いわかげ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "shade of a rock"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

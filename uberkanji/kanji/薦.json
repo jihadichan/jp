@@ -1,0 +1,1106 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "推薦",
+      "is_common": true,
+      "tags": [
+        "wanikani34"
+      ],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "推薦",
+          "reading": "すいせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "recommendation",
+            "referral",
+            "endorsement"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "推奨"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "勧める",
+      "is_common": true,
+      "tags": [
+        "wanikani34",
+        "wanikani39"
+      ],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "勧める",
+          "reading": "すすめる"
+        },
+        {
+          "word": "薦める",
+          "reading": "すすめる"
+        },
+        {
+          "word": "奨める",
+          "reading": "すすめる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to recommend (someone to do)",
+            "to advise",
+            "to encourage",
+            "to urge"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "勧める",
+            "奨める"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to recommend (a book, someone for a position, etc.)",
+            "to suggest"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "esp. 薦める"
+          ]
+        },
+        {
+          "english_definitions": [
+            "to offer (a drink, cigarette, seat, etc.)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "勧める",
+            "奨める"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "勧め",
+      "is_common": true,
+      "tags": [
+        "wanikani36"
+      ],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "勧め",
+          "reading": "すすめ"
+        },
+        {
+          "word": "薦め",
+          "reading": "すすめ"
+        },
+        {
+          "word": "奨め",
+          "reading": "すすめ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "recommendation",
+            "advice",
+            "suggestion",
+            "encouragement"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "お勧め"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "推薦状",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "推薦状",
+          "reading": "すいせんじょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "letter of invitation",
+            "letter of recommendation",
+            "reference"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Recommendation letter"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Recommendation letter” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Recommendation_letter?oldid\u003d474532906"
+            },
+            {
+              "text": "Read “推薦状” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/推薦状?oldid\u003d42109463"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Recommendation_letter"
+      }
+    },
+    {
+      "slug": "お勧め",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "お勧め",
+          "reading": "おすすめ"
+        },
+        {
+          "word": "お薦め",
+          "reading": "おすすめ"
+        },
+        {
+          "word": "お奨め",
+          "reading": "おすすめ"
+        },
+        {
+          "word": "御勧め",
+          "reading": "おすすめ"
+        },
+        {
+          "word": "御薦め",
+          "reading": "おすすめ"
+        },
+        {
+          "word": "御奨め",
+          "reading": "おすすめ"
+        },
+        {
+          "reading": "オススメ"
+        },
+        {
+          "reading": "おススメ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "recommendation",
+            "advice",
+            "suggestion",
+            "encouragement"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "勧め"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "自薦",
+      "is_common": false,
+      "tags": [
+        "wanikani34"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "自薦",
+          "reading": "じせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "self-recommendation"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "他薦",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "他薦",
+          "reading": "たせん"
+        },
+        {
+          "word": "他薦",
+          "reading": "たぜん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "recommendation"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "真菰",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "真菰",
+          "reading": "まこも"
+        },
+        {
+          "word": "真薦",
+          "reading": "まこも"
+        },
+        {
+          "reading": "マコモ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Manchurian wild rice (Zizania latifolia)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Wild rice"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Wild rice” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Wild_rice?oldid\u003d494911167"
+            },
+            {
+              "text": "Read “マコモ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/マコモ?oldid\u003d41082295"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Wild_rice"
+      }
+    },
+    {
+      "slug": "推薦枠",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "推薦枠",
+          "reading": "すいせんわく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "quota for recommendations (e.g. student admissions, new team members, etc.)",
+            "recommendation limit"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "奏薦",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "奏薦",
+          "reading": "そうせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "recommendation to the throne"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "仙椎",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "仙椎",
+          "reading": "せんつい"
+        },
+        {
+          "word": "薦椎",
+          "reading": "せんつい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sacral vertebra"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "蒲薦",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蒲薦",
+          "reading": "ほせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "bulrush mat"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "菰蓆",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "菰蓆",
+          "reading": "こもむしろ"
+        },
+        {
+          "word": "薦筵",
+          "reading": "こもむしろ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "mat of woven wild rice leaves"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Obscure term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "推薦書",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "推薦書",
+          "reading": "すいせんしょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "recommendation",
+            "nomination"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "荒薦",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "荒薦",
+          "reading": "あらごも"
+        },
+        {
+          "word": "荒薦",
+          "reading": "あらこも"
+        },
+        {
+          "word": "粗薦",
+          "reading": "あらごも"
+        },
+        {
+          "word": "粗薦",
+          "reading": "あらこも"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "loosely woven mat of wild rice leaves"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Obscure term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "御薦",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "御薦",
+          "reading": "おこも"
+        },
+        {
+          "word": "お薦",
+          "reading": "おこも"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "beggar"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "薦被り"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "薦僧",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "薦僧",
+          "reading": "こもそう"
+        },
+        {
+          "word": "薦僧",
+          "reading": "こもぞう"
+        },
+        {
+          "word": "菰僧",
+          "reading": "こもそう"
+        },
+        {
+          "word": "菰僧",
+          "reading": "こもぞう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "mendicant Zen priest of the Fuke sect"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "虚無僧"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "推薦図書",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "推薦図書",
+          "reading": "すいせんとしょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "recommended books",
+            "recommended reading"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "薦",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "薦",
+          "reading": "こも"
+        },
+        {
+          "word": "菰",
+          "reading": "こも"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "woven straw mat (orig. made of wild rice leaves)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Abbreviation"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "beggar"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "薦被り"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Manchurian wild rice (Zizania latifolia)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "真菰"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "薦挙",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "薦挙",
+          "reading": "せんきょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "recommendation"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "推薦図書",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "推薦図書",
+          "reading": "すいせんとしょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "recommended books",
+            "recommended reading"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "薦",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "薦",
+          "reading": "こも"
+        },
+        {
+          "word": "菰",
+          "reading": "こも"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "woven straw mat (orig. made of wild rice leaves)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Abbreviation"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "beggar"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "薦被り"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Manchurian wild rice (Zizania latifolia)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "真菰"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "薦挙",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "薦挙",
+          "reading": "せんきょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "recommendation"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

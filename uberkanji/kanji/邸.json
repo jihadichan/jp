@@ -1,0 +1,702 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "屋敷",
+      "is_common": true,
+      "tags": [
+        "wanikani40"
+      ],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "屋敷",
+          "reading": "やしき"
+        },
+        {
+          "word": "邸",
+          "reading": "やしき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "residence",
+            "estate",
+            "grounds",
+            "premises",
+            "mansion"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "邸宅",
+      "is_common": true,
+      "tags": [
+        "wanikani51"
+      ],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "邸宅",
+          "reading": "ていたく"
+        },
+        {
+          "word": "第宅",
+          "reading": "ていたく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "mansion",
+            "residence"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "豪邸",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "豪邸",
+          "reading": "ごうてい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "palatial residence",
+            "stately mansion"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "大邸宅",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "大邸宅",
+          "reading": "だいていたく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "mansion"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "御用邸",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "御用邸",
+          "reading": "ごようてい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "imperial villa"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Hayama Imperial Villa"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Hayama Imperial Villa” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Hayama_Imperial_Villa?oldid\u003d465290340"
+            },
+            {
+              "text": "Read “御用邸” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/御用邸?oldid\u003d42632263"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Hayama_Imperial_Villa"
+      }
+    },
+    {
+      "slug": "私邸",
+      "is_common": true,
+      "tags": [
+        "wanikani51"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私邸",
+          "reading": "してい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "private residence"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "官邸"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "公邸",
+      "is_common": true,
+      "tags": [
+        "wanikani51"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "公邸",
+          "reading": "こうてい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "official residence"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "官邸",
+      "is_common": true,
+      "tags": [
+        "wanikani51"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "官邸",
+          "reading": "かんてい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "official residence (e.g. of the prime minister)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "私邸"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "邸内",
+      "is_common": false,
+      "tags": [
+        "wanikani51"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "邸内",
+          "reading": "ていない"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "grounds",
+            "premises"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "別邸",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "別邸",
+          "reading": "べってい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "secondary residence",
+            "vacation home",
+            "villa"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "首相官邸",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "首相官邸",
+          "reading": "しゅしょうかんてい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "prime minister\u0027s official residence"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Shushoukantei"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "大使公邸",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "大使公邸",
+          "reading": "たいしこうてい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "ambassador\u0027s residence"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "藩邸",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "藩邸",
+          "reading": "はんてい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "residence maintained by a daimyo in Edo"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "自邸",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "自邸",
+          "reading": "じてい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "one\u0027s residence"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "来邸",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "来邸",
+          "reading": "らいてい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "visiting someone\u0027s residence"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "本邸",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "本邸",
+          "reading": "ほんてい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "principal residence"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "総理官邸",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "総理官邸",
+          "reading": "そうりかんてい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Prime Minister\u0027s official residence"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "邸",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "邸",
+          "reading": "てい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "residence",
+            "mansion"
+          ],
+          "parts_of_speech": [
+            "Noun - used as a suffix",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Honorific or respectful (sonkeigo)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "usu. after a family name"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "辰巳",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "辰巳",
+          "reading": "たつみ"
+        },
+        {
+          "word": "巽",
+          "reading": "たつみ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "southeast"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Tatsumi"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Tatsumi” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Tatsumi?oldid\u003d424228737"
+            },
+            {
+              "text": "Read “辰巳” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/辰巳?oldid\u003d37205793"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Tatsumi"
+      }
+    },
+    {
+      "slug": "巽",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "巽",
+          "reading": "そん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "xun (one of the trigrams of the I Ching: wind, southeast)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

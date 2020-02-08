@@ -1,0 +1,937 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "緯度",
+      "is_common": true,
+      "tags": [
+        "wanikani53"
+      ],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "緯度",
+          "reading": "いど"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "latitude (nav.)"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Latitude"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Latitude” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Latitude?oldid\u003d494828575"
+            },
+            {
+              "text": "Read “緯度” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/緯度?oldid\u003d42766688"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Latitude"
+      }
+    },
+    {
+      "slug": "経緯",
+      "is_common": true,
+      "tags": [
+        "wanikani53"
+      ],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "経緯",
+          "reading": "いきさつ"
+        },
+        {
+          "word": "経緯",
+          "reading": "けいい"
+        },
+        {
+          "word": "経緯",
+          "reading": "たてぬき"
+        },
+        {
+          "word": "経緯",
+          "reading": "たてよこ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "details",
+            "particulars",
+            "whole story",
+            "sequence of events",
+            "chronology",
+            "circumstances",
+            "how it started",
+            "how things got this way"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "いきさつ",
+            "けいい"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "longitude and latitude"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "けいい"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "warp and weft",
+            "warp and woof"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "けいい",
+            "たてぬき",
+            "たてよこ"
+          ],
+          "see_also": [
+            "縦横 たてよこ"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "orig. meaning of けいい"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "北緯",
+      "is_common": true,
+      "tags": [
+        "wanikani53"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "北緯",
+          "reading": "ほくい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "north latitude"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "横糸",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "横糸",
+          "reading": "よこいと"
+        },
+        {
+          "word": "緯糸",
+          "reading": "よこいと"
+        },
+        {
+          "word": "緯",
+          "reading": "よこいと"
+        },
+        {
+          "word": "よこ糸",
+          "reading": "よこいと"
+        },
+        {
+          "word": "緯糸",
+          "reading": "ぬきいと"
+        },
+        {
+          "word": "緯",
+          "reading": "ぬき"
+        },
+        {
+          "word": "緯",
+          "reading": "い"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "weft",
+            "woof (crosswise threads on a loom)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "高緯度",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "高緯度",
+          "reading": "こういど"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "high latitudes"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "南緯",
+      "is_common": false,
+      "tags": [
+        "wanikani53"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "南緯",
+          "reading": "なんい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "southern latitude"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "緯線",
+      "is_common": false,
+      "tags": [
+        "wanikani53"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "緯線",
+          "reading": "いせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "parallel"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Circle of latitude"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Circle of latitude” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Circle_of_latitude?oldid\u003d493544411"
+            },
+            {
+              "text": "Read “緯線” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/緯線?oldid\u003d42768946"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Circle_of_latitude"
+      }
+    },
+    {
+      "slug": "赤緯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "赤緯",
+          "reading": "せきい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "declination"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Astronomy, etc. term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Declination"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Declination” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Declination?oldid\u003d495143197"
+            },
+            {
+              "text": "Read “赤緯” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/赤緯?oldid\u003d42381924"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Declination"
+      }
+    },
+    {
+      "slug": "日本経緯度原点",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "日本経緯度原点",
+          "reading": "にほんけいいどげんてん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Japan Geodetic Datum"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Nihonkeiidogenten"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "緯度観測所",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "緯度観測所",
+          "reading": "いどかんそくじょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "latitude observatory"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "経緯儀",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "経緯儀",
+          "reading": "けいいぎ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "theodolite"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "緯書",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "緯書",
+          "reading": "いしょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "book of omens appended to Confucian Chinese classics"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "緯度変化",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "緯度変化",
+          "reading": "いどへんか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "latitude variation"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "経緯線網",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "経緯線網",
+          "reading": "けいいせんもう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "graticule"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "黄緯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "黄緯",
+          "reading": "こうい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "celestial latitude",
+            "ecliptic latitude"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "中緯度",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "中緯度",
+          "reading": "ちゅういど"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "mid-latitudes"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "経緯度",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "経緯度",
+          "reading": "けいいど"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "longitude and latitude"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "緯度 いど",
+            "経度 けいど"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "開発経緯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "開発経緯",
+          "reading": "かいはつけいい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "features (e.g. of a product)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "development chronology"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "経緯度原点",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "経緯度原点",
+          "reading": "けいいどげんてん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "standard datum of geographic coordinates",
+            "point of origin of longitude and latitude",
+            "geodetic datum"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "歴史的経緯から",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歴史的経緯から",
+          "reading": "れきしてきけいいから"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "for historical reasons"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "中緯度高圧帯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "中緯度高圧帯",
+          "reading": "ちゅういどこうあつたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "subtropical high-pressure belt",
+            "subtropical ridge",
+            "subtropical high",
+            "horse latitudes"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "亜熱帯高圧帯"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

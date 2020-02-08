@@ -1,0 +1,921 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "承る",
+      "is_common": true,
+      "tags": [
+        "wanikani34"
+      ],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "承る",
+          "reading": "うけたまわる"
+        },
+        {
+          "word": "受け賜る",
+          "reading": "うけたまわる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to hear",
+            "to be told",
+            "to know"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [
+            "Humble (kenjougo)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to receive (order)",
+            "to undertake",
+            "to comply",
+            "to take (a reservation, etc.)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "給う",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "給う",
+          "reading": "たまう"
+        },
+        {
+          "word": "給う",
+          "reading": "たもう"
+        },
+        {
+          "word": "賜う",
+          "reading": "たまう"
+        },
+        {
+          "word": "賜う",
+          "reading": "たもう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to do"
+          ],
+          "parts_of_speech": [
+            "Auxiliary verb",
+            "Godan verb with u ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "給え"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "after the -masu stem of a verb"
+          ]
+        },
+        {
+          "english_definitions": [
+            "to give"
+          ],
+          "parts_of_speech": [
+            "Godan verb with u ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [
+            "Honorific or respectful (sonkeigo)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "賜る",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "賜る",
+          "reading": "たまわる"
+        },
+        {
+          "word": "賜わる",
+          "reading": "たまわる"
+        },
+        {
+          "word": "給わる",
+          "reading": "たまわる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to be given",
+            "to be granted",
+            "to be honored with",
+            "to be honoured with"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [
+            "Humble (kenjougo)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to give",
+            "to bestow",
+            "to confer",
+            "to honor",
+            "to honour"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Honorific or respectful (sonkeigo)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "賜物",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賜物",
+          "reading": "たまもの"
+        },
+        {
+          "word": "賜",
+          "reading": "たまもの"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "gift",
+            "boon"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "(good) result",
+            "fruit (e.g. of one\u0027s efforts)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "賜杯",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賜杯",
+          "reading": "しはい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Emperor\u0027s cup",
+            "trophy given by the Emperor"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "恩賜",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "恩賜",
+          "reading": "おんし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Imperial gift"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "賜暇",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賜暇",
+          "reading": "しか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "furlough",
+            "leave of absence"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "天皇賜杯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "天皇賜杯",
+          "reading": "てんのうしはい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Emperor\u0027s Cup",
+            "trophy given to tournament winners"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Sumo term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "努力の賜物",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "努力の賜物",
+          "reading": "どりょくのたまもの"
+        },
+        {
+          "word": "努力のたまもの",
+          "reading": "どりょくのたまもの"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "fruit of one\u0027s labor",
+            "result of one\u0027s efforts"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "一時賜金",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "一時賜金",
+          "reading": "いちじしきん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "lump-sum grant"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "天賜",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "天賜",
+          "reading": "てんし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "heavenly gift",
+            "imperial gift"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "下賜",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "下賜",
+          "reading": "かし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "grant",
+            "bestowal",
+            "giving something to someone of low social standing (by a person of very high social standing)"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "賜り物",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賜り物",
+          "reading": "たまわりもの"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "boon",
+            "gift"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "賜金",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賜金",
+          "reading": "しきん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "monetary grant (from the government)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "叙賜",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "叙賜",
+          "reading": "じょし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "distributing ranks, rewards and pensions"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "賜与",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賜与",
+          "reading": "しよ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "giving a gift (to a subordinate)"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "与え給う",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "与え給う",
+          "reading": "あたえたもう"
+        },
+        {
+          "word": "与えたもう",
+          "reading": "あたえたもう"
+        },
+        {
+          "word": "与え賜う",
+          "reading": "あたえたもう"
+        },
+        {
+          "word": "与え給う",
+          "reading": "あたえたまう"
+        },
+        {
+          "word": "与え賜う",
+          "reading": "あたえたまう"
+        },
+        {
+          "word": "与えたまう",
+          "reading": "あたえたまう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to bestow (esp. of a god)",
+            "to grant"
+          ],
+          "parts_of_speech": [
+            "Godan verb with u ending (special class)",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "給ふ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "給ふ",
+          "reading": "たまう"
+        },
+        {
+          "word": "給ふ",
+          "reading": "たもう"
+        },
+        {
+          "word": "賜ふ",
+          "reading": "たまう"
+        },
+        {
+          "word": "賜ふ",
+          "reading": "たもう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to give"
+          ],
+          "parts_of_speech": [
+            "Yodan verb with hu/fu ending (archaic)",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism",
+            "Honorific or respectful (sonkeigo)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to receive"
+          ],
+          "parts_of_speech": [
+            "Nidan verb (lower class) with hu/fu ending (archaic)",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism",
+            "Humble (kenjougo)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "追賜",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "追賜",
+          "reading": "ついし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "being granted a court rank after death"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "偏諱を賜う",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "偏諱を賜う",
+          "reading": "へんきをたまう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(for a nobleman) to bestow one of the kanji in his name upon someone (e.g. meritorious retainer, boy coming of age, etc.)"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with u ending"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "謁を賜わる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謁を賜わる",
+          "reading": "えつをたまわる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to be granted an audience"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with ru ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

@@ -1,0 +1,4535 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "帰る",
+      "is_common": true,
+      "tags": [
+        "wanikani15"
+      ],
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "帰る",
+          "reading": "かえる"
+        },
+        {
+          "word": "還る",
+          "reading": "かえる"
+        },
+        {
+          "word": "歸る",
+          "reading": "かえる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to return",
+            "to come home",
+            "to go home",
+            "to go back"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "返る"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to leave"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "of a guest, customer, etc."
+          ]
+        },
+        {
+          "english_definitions": [
+            "to get home",
+            "to get to home plate"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Baseball term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "帰り",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "帰り",
+          "reading": "かえり"
+        },
+        {
+          "word": "還り",
+          "reading": "かえり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "return",
+            "coming back"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "帰宅",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "帰宅",
+          "reading": "きたく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "returning home"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "日帰り",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "日帰り",
+          "reading": "ひがえり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "day trip"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "帰す",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "帰す",
+          "reading": "かえす"
+        },
+        {
+          "word": "還す",
+          "reading": "かえす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to send (someone) back",
+            "to send (someone) home"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "返す"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "お帰り",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "お帰り",
+          "reading": "おかえり"
+        },
+        {
+          "word": "御帰り",
+          "reading": "おかえり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "return"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Honorific or respectful (sonkeigo)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "welcome home"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Abbreviation"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "お帰りなさい"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "帰属",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰属",
+          "reading": "きぞく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "belonging",
+            "ascription",
+            "attribution",
+            "imputation",
+            "possession",
+            "jurisdiction"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "reversion",
+            "return",
+            "restoration"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Attribution (psychology)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Attribution (psychology)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Attribution_(psychology)?oldid\u003d492123811"
+            },
+            {
+              "text": "Read “帰属” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/帰属?oldid\u003d38975571"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Attribution_(psychology)"
+      }
+    },
+    {
+      "slug": "帰化",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰化",
+          "reading": "きか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "naturalization",
+            "naturalisation"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Naturalization"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Naturalization” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Naturalization?oldid\u003d492645981"
+            },
+            {
+              "text": "Read “帰化” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/帰化?oldid\u003d42338466"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Naturalization"
+      }
+    },
+    {
+      "slug": "帰国",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰国",
+          "reading": "きこく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "return to one\u0027s country"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "持ち帰り",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "持ち帰り",
+          "reading": "もちかえり"
+        },
+        {
+          "word": "持帰り",
+          "reading": "もちかえり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "takeout (i.e. food)",
+            "take-out",
+            "takeaway",
+            "take-away"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "持ち帰る",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "持ち帰る",
+          "reading": "もちかえる"
+        },
+        {
+          "word": "持帰る",
+          "reading": "もちかえる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to bring back",
+            "to carry home",
+            "to take out (e.g. food)"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "復帰",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "復帰",
+          "reading": "ふっき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "return",
+            "comeback",
+            "reinstatement"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "carriage return",
+            "CR"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "帰省",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰省",
+          "reading": "きせい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "homecoming",
+            "returning home"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "帰還",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰還",
+          "reading": "きかん"
+        },
+        {
+          "word": "饋還",
+          "reading": "きかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "repatriation",
+            "return"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "帰還"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "(electrical) feedback"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "帰途",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰途",
+          "reading": "きと"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "on the way back",
+            "returning"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "帰り道",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰り道",
+          "reading": "かえりみち"
+        },
+        {
+          "word": "帰り路",
+          "reading": "かえりみち"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "the way back",
+            "the way home",
+            "return trip"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "帰路",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰路",
+          "reading": "きろ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "one\u0027s way back",
+            "one\u0027s way home"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "帰郷",
+      "is_common": false,
+      "tags": [
+        "wanikani41"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰郷",
+          "reading": "ききょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "homecoming",
+            "return to one\u0027s home"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "帰港",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰港",
+          "reading": "きこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "returning to port"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "帰国子女",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰国子女",
+          "reading": "きこくしじょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "child who has returned to his or her country",
+            "returnee"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Kikokushijo"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Kikokushijo” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Kikokushijo?oldid\u003d490869720"
+            },
+            {
+              "text": "Read “帰国子女” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/帰国子女?oldid\u003d41936133"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Kikokushijo"
+      }
+    },
+    {
+      "slug": "帰京",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "帰京",
+          "reading": "ききょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "returning to Tokyo"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "returning to the capital"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "orig. meaning"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "帰って来る",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰って来る",
+          "reading": "かえってくる"
+        },
+        {
+          "word": "帰ってくる",
+          "reading": "かえってくる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to return",
+            "to come back"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Kuru verb - special class"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "とんぼ返り",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "とんぼ返り",
+          "reading": "とんぼがえり"
+        },
+        {
+          "word": "蜻蛉返り",
+          "reading": "とんぼがえり"
+        },
+        {
+          "word": "とんぼ帰り",
+          "reading": "とんぼがえり"
+        },
+        {
+          "word": "トンボ返り",
+          "reading": "トンボがえり"
+        },
+        {
+          "word": "トンボ帰り",
+          "reading": "トンボがえり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "somersault"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "returning from a destination right after arriving there",
+            "non-stop round trip",
+            "round trip without an overnight stop"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "abrupt change of direction"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "帰する",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰する",
+          "reading": "きする"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to come to (in the end)",
+            "to end in"
+          ],
+          "parts_of_speech": [
+            "Suru verb - special class"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to attribute",
+            "to blame"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "一時帰休",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "一時帰休",
+          "reading": "いちじききゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "temporary layoff"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "直帰",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "直帰",
+          "reading": "ちょっき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "returning home directly"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "帰りがけ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰りがけ",
+          "reading": "かえりがけ"
+        },
+        {
+          "word": "帰り掛け",
+          "reading": "かえりがけ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "on the way back"
+          ],
+          "parts_of_speech": [
+            "Temporal noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "when about to go back"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "帰巣本能",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰巣本能",
+          "reading": "きそうほんのう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "homing instinct"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "社会復帰",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "社会復帰",
+          "reading": "しゃかいふっき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rehabilitation (in society)"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Rehabilitation (penology)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Rehabilitation (penology)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Rehabilitation_(penology)?oldid\u003d494312337"
+            },
+            {
+              "text": "Read “社会復帰” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/社会復帰?oldid\u003d39898795"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Rehabilitation_(penology)"
+      }
+    },
+    {
+      "slug": "お帰りなさい",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "お帰りなさい",
+          "reading": "おかえりなさい"
+        },
+        {
+          "word": "御帰りなさい",
+          "reading": "おかえりなさい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "welcome home"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "行き帰り",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "行き帰り",
+          "reading": "ゆきかえり"
+        },
+        {
+          "word": "行き帰り",
+          "reading": "いきかえり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "going and returning (e.g. work, school)",
+            "both ways"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "帰依",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰依",
+          "reading": "きえ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "becoming a devout believer",
+            "(religious) conversion"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Refuge (Buddhism)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Refuge (Buddhism)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Refuge_(Buddhism)?oldid\u003d479607816"
+            },
+            {
+              "text": "Read “帰依” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/帰依?oldid\u003d42718103"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Refuge_(Buddhism)"
+      }
+    },
+    {
+      "slug": "帰休",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰休",
+          "reading": "ききゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "leave",
+            "furlough"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "temporary layoff"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "一時帰休"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "回帰",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "回帰",
+          "reading": "かいき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "return (to)",
+            "revolution",
+            "recurrence"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "regression"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Mathematics"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "里帰り",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "里帰り",
+          "reading": "さとがえり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "returning home",
+            "visiting one\u0027s parents",
+            "new bride\u0027s first visit to parents"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "帰任",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰任",
+          "reading": "きにん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "return to one\u0027s post"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "回帰線",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "回帰線",
+          "reading": "かいきせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "tropics (of Cancer and Capricorn)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "regression line"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Mathematics"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "帰結",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰結",
+          "reading": "きけつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "consequence",
+            "result",
+            "conclusion"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "帰着",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰着",
+          "reading": "きちゃく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "return",
+            "conclusion"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "reduction"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Mathematics",
+            "Computer terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "朝帰り",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "朝帰り",
+          "reading": "あさがえり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "staying out all night and coming home in the morning"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "帰順",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰順",
+          "reading": "きじゅん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "submission",
+            "return to allegiance"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "時鳥",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "時鳥",
+          "reading": "ほととぎす"
+        },
+        {
+          "word": "子規",
+          "reading": "ほととぎす"
+        },
+        {
+          "word": "不如帰",
+          "reading": "ほととぎす"
+        },
+        {
+          "word": "杜鵑",
+          "reading": "ほととぎす"
+        },
+        {
+          "word": "霍公鳥",
+          "reading": "ほととぎす"
+        },
+        {
+          "word": "蜀魂",
+          "reading": "ほととぎす"
+        },
+        {
+          "word": "沓手鳥",
+          "reading": "ほととぎす"
+        },
+        {
+          "word": "杜宇",
+          "reading": "ほととぎす"
+        },
+        {
+          "word": "田鵑",
+          "reading": "ほととぎす"
+        },
+        {
+          "word": "沓直鳥",
+          "reading": "ほととぎす"
+        },
+        {
+          "word": "郭公",
+          "reading": "ほととぎす"
+        },
+        {
+          "word": "子規",
+          "reading": "しき"
+        },
+        {
+          "word": "不如帰",
+          "reading": "ふじょき"
+        },
+        {
+          "word": "杜鵑",
+          "reading": "とけん"
+        },
+        {
+          "word": "蜀魂",
+          "reading": "しょっこん"
+        },
+        {
+          "word": "沓手鳥",
+          "reading": "くつてどり"
+        },
+        {
+          "word": "沓直鳥",
+          "reading": "くつてどり"
+        },
+        {
+          "word": "杜宇",
+          "reading": "とう"
+        },
+        {
+          "reading": "ホトトギス"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "lesser cuckoo (Cuculus poliocephalus)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Masaoka Shiki (1867-1902)"
+          ],
+          "parts_of_speech": [
+            "Full name"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Lesser Cuckoo"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Lesser Cuckoo” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Lesser_Cuckoo?oldid\u003d493616116"
+            },
+            {
+              "text": "Read “ホトトギス” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/ホトトギス?oldid\u003d42405180"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "http://dbpedia.org/resource/Lesser_Cuckoo"
+      }
+    },
+    {
+      "slug": "水泡に帰す",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "水泡に帰す",
+          "reading": "すいほうにきす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to come to nothing"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with su ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "帰す-1",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰す",
+          "reading": "きす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to come to (in the end)",
+            "to end in"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending",
+            "Su verb - precursor to the modern suru"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "帰する"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to attribute",
+            "to blame"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "覆水盆に返らず",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "覆水盆に返らず",
+          "reading": "ふくすいぼんにかえらず"
+        },
+        {
+          "word": "覆水盆に帰らず",
+          "reading": "ふくすいぼんにかえらず"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "what\u0027s done is done",
+            "it is no use crying over spilt milk",
+            "spilt water won\u0027t go back into its tray"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [
+            "Proverb"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "帰国の途に就く",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰国の途につく",
+          "reading": "きこくのとにつく"
+        },
+        {
+          "word": "帰国の途に就く",
+          "reading": "きこくのとにつく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to leave for home"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with ku ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "烏有に帰す",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "烏有に帰す",
+          "reading": "うゆうにきす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to be burned to ashes",
+            "to come to nothing"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with su ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "北回帰線",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "北回帰線",
+          "reading": "きたかいきせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Tropic of Cancer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Tropic of Cancer"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Tropic of Cancer” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Tropic_of_Cancer?oldid\u003d494065982"
+            },
+            {
+              "text": "Read “北回帰線” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/北回帰線?oldid\u003d42563552"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Tropic_of_Cancer"
+      }
+    },
+    {
+      "slug": "南回帰線",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "南回帰線",
+          "reading": "みなみかいきせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Tropic of Capricorn"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Tropic of Capricorn"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Tropic of Capricorn” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Tropic_of_Capricorn?oldid\u003d491142521"
+            },
+            {
+              "text": "Read “南回帰線” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/南回帰線?oldid\u003d42448250"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Tropic_of_Capricorn"
+      }
+    },
+    {
+      "slug": "末尾再帰",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "末尾再帰",
+          "reading": "まつびさいき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "tail recursion"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Tail call"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Tail call” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Tail_call?oldid\u003d494384335"
+            },
+            {
+              "text": "Read “末尾再帰” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/末尾再帰?oldid\u003d37020139"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Tail_call"
+      }
+    },
+    {
+      "slug": "帰納",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰納",
+          "reading": "きのう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "induction",
+            "inductive reasoning"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Inductive reasoning"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Inductive reasoning” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Inductive_reasoning?oldid\u003d495508639"
+            },
+            {
+              "text": "Read “帰納” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/帰納?oldid\u003d41924875"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Inductive_reasoning"
+      }
+    },
+    {
+      "slug": "平均への回帰",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "平均への回帰",
+          "reading": "へいきんへのかいき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "regression toward the mean",
+            "regression to the mean"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Mathematics"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Regression toward the mean"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Regression toward the mean” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Regression_toward_the_mean?oldid\u003d488432561"
+            },
+            {
+              "text": "Read “平均への回帰” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/平均への回帰?oldid\u003d36128101"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Regression_toward_the_mean"
+      }
+    },
+    {
+      "slug": "再帰的定義",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "再帰的定義",
+          "reading": "さいきてきていぎ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "recursive definitions"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Computer terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Recursive definition"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Recursive definition” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Recursive_definition?oldid\u003d492110712"
+            },
+            {
+              "text": "Read “再帰的定義” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/再帰的定義?oldid\u003d41233268"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Recursive_definition"
+      }
+    },
+    {
+      "slug": "永劫回帰",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "永劫回帰",
+          "reading": "えいごうかいき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "eternal recurrence",
+            "eternal return"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "in Nietzsche\u0027s philosophy \u0027ewige Wiederkunft\u0027"
+          ]
+        },
+        {
+          "english_definitions": [
+            "Eternal return"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Eternal return” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Eternal_return?oldid\u003d493198666"
+            },
+            {
+              "text": "Read “永劫回帰” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/永劫回帰?oldid\u003d42646720"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Eternal_return"
+      }
+    },
+    {
+      "slug": "回帰熱",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "回帰熱",
+          "reading": "かいきねつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "recurrent fever"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Relapsing fever"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Relapsing fever” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Relapsing_fever?oldid\u003d495453541"
+            },
+            {
+              "text": "Read “回帰熱” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/回帰熱?oldid\u003d38741724"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Relapsing_fever"
+      }
+    },
+    {
+      "slug": "再帰動詞",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "再帰動詞",
+          "reading": "さいきどうし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "reflexive verb"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "linguistics terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Reflexive verb"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Reflexive verb” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Reflexive_verb?oldid\u003d491097380"
+            },
+            {
+              "text": "Read “再帰動詞” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/再帰動詞?oldid\u003d39606535"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Reflexive_verb"
+      }
+    },
+    {
+      "slug": "回帰分析",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "回帰分析",
+          "reading": "かいきぶんせき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "regression analysis"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Mathematics"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Regression analysis"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Regression analysis” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Regression_analysis?oldid\u003d495267019"
+            },
+            {
+              "text": "Read “回帰分析” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/回帰分析?oldid\u003d41139360"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Regression_analysis"
+      }
+    },
+    {
+      "slug": "再帰",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "再帰",
+          "reading": "さいき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "recurrence",
+            "recursion"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "reflective"
+          ],
+          "parts_of_speech": [
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "linguistics terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Recursion"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Recursion” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Recursion?oldid\u003d493140166"
+            },
+            {
+              "text": "Read “再帰” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/再帰?oldid\u003d41803552"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Recursion"
+      }
+    },
+    {
+      "slug": "帰帆",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰帆",
+          "reading": "きはん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "returning sailboat",
+            "setting sail for home port"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Kihan"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "帰島",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰島",
+          "reading": "きとう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "return to an island"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Kitou"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "持ち帰り残業",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "持ち帰り残業",
+          "reading": "もちかえりざんぎょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "at-home overtime",
+            "time spent on work one brings home"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "サービス残業 サービスざんぎょう"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "復帰作",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "復帰作",
+          "reading": "ふっきさく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "come-back work (film, album, book, etc.)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "帰趨",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰趨",
+          "reading": "きすう"
+        },
+        {
+          "word": "帰すう",
+          "reading": "きすう"
+        },
+        {
+          "word": "帰趨",
+          "reading": "きしゅ"
+        },
+        {
+          "word": "帰趣",
+          "reading": "きしゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "outcome (of a course of events)",
+            "consequence"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "tendency",
+            "trend",
+            "drift"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "重回帰",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "重回帰",
+          "reading": "じゅうかいき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "multiple regression"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Mathematics"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "一時帰休制",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "一時帰休制",
+          "reading": "いちじききゅうせい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "layoff system"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "帰り花",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰り花",
+          "reading": "かえりばな"
+        },
+        {
+          "word": "返り花",
+          "reading": "かえりばな"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "second blooming (in a season)",
+            "reflowering",
+            "reflorescence"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "返り咲き かえりざき"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "return to working by a prostitute, kabuki actor, etc."
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "帰依者",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰依者",
+          "reading": "きえしゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "convert"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "多項回帰",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "多項回帰",
+          "reading": "たこうかいき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "polynomial regression"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Computer terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "帰り際",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰り際",
+          "reading": "かえりぎわ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "time of departure",
+            "(on the) point of departure",
+            "just as one is leaving"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "帰伏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰伏",
+          "reading": "きふく"
+        },
+        {
+          "word": "帰服",
+          "reading": "きふく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "submission",
+            "surrender"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "逃げ帰る",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "逃げ帰る",
+          "reading": "にげかえる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to scurry home",
+            "to run home",
+            "to fly back"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "連れ帰る",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "連れ帰る",
+          "reading": "つれかえる"
+        },
+        {
+          "word": "つれ帰る",
+          "reading": "つれかえる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to bring (someone) back home",
+            "to take (someone) back home"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "永遠回帰",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "永遠回帰",
+          "reading": "えいえんかいき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "eternal return",
+            "eternal recurrence"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "不帰の客",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "不帰の客",
+          "reading": "ふきのきゃく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "deceased person",
+            "traveler on one\u0027s last journey (traveller)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "重回帰分析",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "重回帰分析",
+          "reading": "じゅうかいきぶんせき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "multiple regression analysis"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Mathematics"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "回帰係数",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "回帰係数",
+          "reading": "かいきけいすう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "regression coefficient"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Mathematics"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "再帰代名詞",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "再帰代名詞",
+          "reading": "さいきだいめいし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "reflexive pronoun"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "linguistics terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "帰れ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰れ",
+          "reading": "かえれ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Go home",
+            "Get out"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "東方帰一教会",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "東方帰一教会",
+          "reading": "とうほうきいつきょうかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Eastern Catholic Churches",
+            "Uniate Churches",
+            "Eastern-rite Catholic Churches"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "帰一",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰一",
+          "reading": "きいつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "united into one"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "帰化植物",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰化植物",
+          "reading": "きかしょくぶつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "naturalized plant",
+            "naturalised plant"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "帰らぬ人",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰らぬ人",
+          "reading": "かえらぬひと"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dead person",
+            "deceased person"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "帰一",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰一",
+          "reading": "きいつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "united into one"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "帰参",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰参",
+          "reading": "きさん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "returning to the service of one\u0027s master"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "帰去来",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰去来",
+          "reading": "ききょらい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "quitting one\u0027s job and moving back to one\u0027s hometown"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "帰りなんいざ"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "東方帰一教会",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "東方帰一教会",
+          "reading": "とうほうきいつきょうかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Eastern Catholic Churches",
+            "Uniate Churches",
+            "Eastern-rite Catholic Churches"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "再帰代名詞",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "再帰代名詞",
+          "reading": "さいきだいめいし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "reflexive pronoun"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "linguistics terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "職場復帰",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "職場復帰",
+          "reading": "しょくばふっき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "return to work",
+            "going back to work"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "本卦還り",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "本卦還り",
+          "reading": "ほんけがえり"
+        },
+        {
+          "word": "本卦帰り",
+          "reading": "ほんけがえり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "reaching age of 60",
+            "dotage",
+            "second childhood"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "帰伏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰伏",
+          "reading": "きふく"
+        },
+        {
+          "word": "帰服",
+          "reading": "きふく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "submission",
+            "surrender"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "帰宅時間",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰宅時間",
+          "reading": "きたくじかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "time one returns home"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "一時帰休制",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "一時帰休制",
+          "reading": "いちじききゅうせい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "layoff system"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "戦列復帰",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "戦列復帰",
+          "reading": "せんれつふっき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "return to the battle line",
+            "come back to the game (on to the field)",
+            "a comeback"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "多項式回帰",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "多項式回帰",
+          "reading": "たこうしきかいき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "polynomial regression"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Mathematics"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "復帰作",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "復帰作",
+          "reading": "ふっきさく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "come-back work (film, album, book, etc.)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "帰依者",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰依者",
+          "reading": "きえしゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "convert"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "回帰係数",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "回帰係数",
+          "reading": "かいきけいすう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "regression coefficient"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Mathematics"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "転帰",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "転帰",
+          "reading": "てんき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "outcome (esp. of illness)",
+            "result",
+            "consequence"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "重回帰分析",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "重回帰分析",
+          "reading": "じゅうかいきぶんせき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "multiple regression analysis"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Mathematics"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "勤め帰り",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勤め帰り",
+          "reading": "つとめがえり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "on the way home from work"
+          ],
+          "parts_of_speech": [
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

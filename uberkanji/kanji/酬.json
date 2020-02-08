@@ -1,0 +1,898 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "報酬",
+      "is_common": true,
+      "tags": [
+        "wanikani54"
+      ],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "報酬",
+          "reading": "ほうしゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "remuneration",
+            "recompense",
+            "reward",
+            "toll"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Remuneration"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Remuneration” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Remuneration?oldid\u003d494859602"
+            },
+            {
+              "text": "Read “報酬” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/報酬?oldid\u003d41391475"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Remuneration"
+      }
+    },
+    {
+      "slug": "応酬",
+      "is_common": true,
+      "tags": [
+        "wanikani54"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "応酬",
+          "reading": "おうしゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "exchange",
+            "reciprocation",
+            "give-and-take",
+            "return"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "reply",
+            "riposte"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "報いる",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "報いる",
+          "reading": "むくいる"
+        },
+        {
+          "word": "酬いる",
+          "reading": "むくいる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to reward",
+            "to recompense",
+            "to repay"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to retaliate",
+            "to get revenge"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "報い",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "報い",
+          "reading": "むくい"
+        },
+        {
+          "word": "酬い",
+          "reading": "むくい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "reward",
+            "recompense",
+            "return"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "punishment",
+            "retribution"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "報う",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "報う",
+          "reading": "むくう"
+        },
+        {
+          "word": "酬う",
+          "reading": "むくう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to reward",
+            "to recompense",
+            "to repay"
+          ],
+          "parts_of_speech": [
+            "Godan verb with u ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "報いる"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to retaliate",
+            "to get revenge"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "報われる",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "報われる",
+          "reading": "むくわれる"
+        },
+        {
+          "word": "酬われる",
+          "reading": "むくわれる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to be repaid",
+            "to be rewarded"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "無報酬",
+      "is_common": false,
+      "tags": [
+        "wanikani56"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "無報酬",
+          "reading": "むほうしゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "unpaid",
+            "without pay",
+            "gratuitous",
+            "voluntary"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "互酬",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "互酬",
+          "reading": "ごしゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "reciprocity"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "互酬性"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Reciprocity (cultural anthropology)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Reciprocity (cultural anthropology)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Reciprocity_(cultural_anthropology)?oldid\u003d492110001"
+            },
+            {
+              "text": "Read “互酬” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/互酬?oldid\u003d42504270"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Reciprocity_(cultural_anthropology)"
+      }
+    },
+    {
+      "slug": "成功報酬",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "成功報酬",
+          "reading": "せいこうほうしゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "fee contingent upon success",
+            "contingency fee",
+            "completion bonus"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "献酬",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "献酬",
+          "reading": "けんしゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "exchange of sake cups"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "診療報酬",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "診療報酬",
+          "reading": "しんりょうほうしゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "payment (system) for medical services"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "貴酬",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貴酬",
+          "reading": "きしゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "reply (epistolary)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "信託報酬",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "信託報酬",
+          "reading": "しんたくほうしゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "trust fee"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "互酬性",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "互酬性",
+          "reading": "ごしゅうせい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "reciprocity"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "総報酬",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "総報酬",
+          "reading": "そうほうしゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "gross salary"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "役員報酬",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "役員報酬",
+          "reading": "やくいんほうしゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "officer\u0027s compensation or remuneration"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "医療報酬",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "医療報酬",
+          "reading": "いりょうほうしゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "medical fee"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "特別報酬",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "特別報酬",
+          "reading": "とくべつほうしゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "special reward"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "役身折酬",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "役身折酬",
+          "reading": "えきしんせっしゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "debt bondage (ritsuryo system)",
+            "forced labor on failure to pay a debt"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Debt bondage"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Debt bondage” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Debt_bondage?oldid\u003d495136301"
+            },
+            {
+              "text": "Read “役身折酬” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/役身折酬?oldid\u003d41799337"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Debt_bondage"
+      }
+    },
+    {
+      "slug": "報ゆ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "報ゆ",
+          "reading": "むくゆ"
+        },
+        {
+          "word": "酬ゆ",
+          "reading": "むくゆ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to reward",
+            "to recompense",
+            "to repay"
+          ],
+          "parts_of_speech": [
+            "Nidan verb (upper class) with yu ending (archaic)",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "報いる"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to retaliate",
+            "to get revenge"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

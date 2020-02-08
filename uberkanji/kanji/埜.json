@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "野",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "野",
+          "reading": "の"
+        },
+        {
+          "word": "野",
+          "reading": "や"
+        },
+        {
+          "word": "野",
+          "reading": "ぬ"
+        },
+        {
+          "word": "埜",
+          "reading": "の"
+        },
+        {
+          "word": "埜",
+          "reading": "や"
+        },
+        {
+          "word": "埜",
+          "reading": "ぬ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "plain",
+            "field"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "hidden (structural) member"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "の"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "wild"
+          ],
+          "parts_of_speech": [
+            "Noun - used as a prefix"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "の"
+          ],
+          "see_also": [
+            "野ウサギ"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "lacking a political post"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "や"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

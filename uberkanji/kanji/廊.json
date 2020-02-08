@@ -1,0 +1,745 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "廊下",
+      "is_common": true,
+      "tags": [
+        "wanikani31"
+      ],
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "廊下",
+          "reading": "ろうか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "corridor",
+            "hallway",
+            "passageway"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "画廊",
+      "is_common": true,
+      "tags": [
+        "wanikani31"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "画廊",
+          "reading": "がろう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "art gallery (esp. artworks for sale)",
+            "picture gallery"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "ギャラリー"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "回廊",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "回廊",
+          "reading": "かいろう"
+        },
+        {
+          "word": "廻廊",
+          "reading": "かいろう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "corridor",
+            "gallery",
+            "hallway",
+            "cloister (i.e. covered walk typically circling a building or garden, esp. in a palace or place of worship)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Cloister"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Cloister” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Cloister?oldid\u003d490875220"
+            },
+            {
+              "text": "Read “回廊” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/回廊?oldid\u003d42376417"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Cloister"
+      }
+    },
+    {
+      "slug": "渡り廊下",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "渡り廊下",
+          "reading": "わたりろうか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "passage"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "柱廊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "柱廊",
+          "reading": "ちゅうろう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "pillared corridor"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Stoa"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Stoa” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Stoa?oldid\u003d495087511"
+            },
+            {
+              "text": "Read “柱廊” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/柱廊?oldid\u003d42451928"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Stoa"
+      }
+    },
+    {
+      "slug": "身廊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "身廊",
+          "reading": "しんろう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "nave (of a church)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Nave"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Nave” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Nave?oldid\u003d491374460"
+            },
+            {
+              "text": "Read “身廊” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/身廊?oldid\u003d38141246"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Nave"
+      }
+    },
+    {
+      "slug": "翼廊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "翼廊",
+          "reading": "よくろう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "transept"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Transept"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Transept” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Transept?oldid\u003d476631828"
+            },
+            {
+              "text": "Read “翼廊” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/翼廊?oldid\u003d42710325"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Transept"
+      }
+    },
+    {
+      "slug": "開廊時間",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "開廊時間",
+          "reading": "かいろうじかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "opening hours of a gallery"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "門廊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "門廊",
+          "reading": "もんろう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "corridor connecting an annex to a pond-side building (in traditional palatial-style architecture)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "中門",
+            "寝殿造り"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "中門廊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "中門廊",
+          "reading": "ちゅうもんろう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "corridor connecting an annex to a pond-side building (in traditional palatial-style architecture)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "中門",
+            "寝殿造り"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "前廊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "前廊",
+          "reading": "ぜんろう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "porch",
+            "portico",
+            "colonnaded entranceway",
+            "ante-hall"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "回廊地帯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "回廊地帯",
+          "reading": "かいろうちたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "corridor (belt of land)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "廊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "廊",
+          "reading": "ろう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "corridor",
+            "passage",
+            "hall"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "歩廊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歩廊",
+          "reading": "ほろう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "corridor",
+            "gallery",
+            "platform",
+            "passageway"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "側廊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "側廊",
+          "reading": "そくろう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "aisle (of a church)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "身廊"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "中廊下",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "中廊下",
+          "reading": "なかろうか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "central corridor",
+            "middle corridor"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "ポーランド回廊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ポーランド回廊",
+          "reading": "ポーランドかいろう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Polish Corridor"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Polish Corridor"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Polish Corridor” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Polish_Corridor?oldid\u003d492904015"
+            },
+            {
+              "text": "Read “ポーランド回廊” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/ポーランド回廊?oldid\u003d42672855"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Polish_Corridor"
+      }
+    }
+  ]
+}

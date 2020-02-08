@@ -1,0 +1,156 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "諄い",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "諄い",
+          "reading": "くどい"
+        },
+        {
+          "reading": "クドい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "verbose",
+            "importunate",
+            "wordy",
+            "repetitious",
+            "long-winded"
+          ],
+          "parts_of_speech": [
+            "I-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "heavy (taste)",
+            "rich",
+            "strong",
+            "cloying",
+            "gaudy",
+            "loud"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "諄々",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "諄々",
+          "reading": "じゅんじゅん"
+        },
+        {
+          "word": "諄諄",
+          "reading": "じゅんじゅん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "earnestly",
+            "repeatedly",
+            "patiently"
+          ],
+          "parts_of_speech": [
+            "Taru-adjective",
+            "Adverb taking the \u0027to\u0027 particle"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "諄諄しい",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "諄諄しい",
+          "reading": "くどくどしい"
+        },
+        {
+          "word": "諄々しい",
+          "reading": "くどくどしい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "wordy",
+            "verbose",
+            "prolix"
+          ],
+          "parts_of_speech": [
+            "I-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

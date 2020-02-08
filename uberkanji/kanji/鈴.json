@@ -1,0 +1,1396 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "鈴",
+      "is_common": true,
+      "tags": [
+        "wanikani39"
+      ],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "鈴",
+          "reading": "すず"
+        },
+        {
+          "word": "鈴",
+          "reading": "りん"
+        },
+        {
+          "word": "鈴",
+          "reading": "れい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "bell (often globular)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "じゃが芋",
+      "is_common": true,
+      "tags": [
+        "wanikani34"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "じゃが芋",
+          "reading": "じゃがいも"
+        },
+        {
+          "word": "ジャガ芋",
+          "reading": "ジャガいも"
+        },
+        {
+          "reading": "ジャガイモ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "potato (Solanum tuberosum)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "ジャガタラ芋"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Potato"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Potato” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Potato?oldid\u003d493412149"
+            },
+            {
+              "text": "Read “ジャガイモ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/ジャガイモ?oldid\u003d42541337"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Potato"
+      }
+    },
+    {
+      "slug": "予鈴",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "予鈴",
+          "reading": "よれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "bell signalling that work, class, etc. will formally begin shortly",
+            "first bell",
+            "warning bell"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "本鈴"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "本鈴",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "本鈴",
+          "reading": "ほんれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "bell signalling that work, class, etc. has formally begun"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "予鈴"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "呼び鈴",
+      "is_common": false,
+      "tags": [
+        "wanikani39"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "呼び鈴",
+          "reading": "よびりん"
+        },
+        {
+          "word": "呼鈴",
+          "reading": "よびりん"
+        },
+        {
+          "word": "呼びりん",
+          "reading": "よびりん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "bell (used for summoning or signalling)",
+            "buzzer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "風鈴",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "風鈴",
+          "reading": "ふうりん"
+        },
+        {
+          "word": "風りん",
+          "reading": "ふうりん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "wind chime",
+            "wind bell"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Wind chime"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Wind chime” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Wind_chime?oldid\u003d493175733"
+            },
+            {
+              "text": "Read “風鈴” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/風鈴?oldid\u003d42759522"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Wind_chime"
+      }
+    },
+    {
+      "slug": "鈴懸の木",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鈴懸の木",
+          "reading": "すずかけのき"
+        },
+        {
+          "word": "篠懸の木",
+          "reading": "すずかけのき"
+        },
+        {
+          "reading": "スズカケノキ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "plane tree (esp. the Oriental plane, Platanus orientalis)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "プラタナス"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Platanus orientalis"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Platanus orientalis” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Platanus_orientalis?oldid\u003d489014728"
+            },
+            {
+              "text": "Read “スズカケノキ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/スズカケノキ?oldid\u003d42101045"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Platanus_orientalis"
+      }
+    },
+    {
+      "slug": "鈴鴨",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鈴鴨",
+          "reading": "すずがも"
+        },
+        {
+          "reading": "スズガモ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "greater scaup (species of diving duck, Aythya marila)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Greater Scaup"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Greater Scaup” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Greater_Scaup?oldid\u003d491294250"
+            },
+            {
+              "text": "Read “スズガモ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/スズガモ?oldid\u003d42656688"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Greater_Scaup"
+      }
+    },
+    {
+      "slug": "銀鈴",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "銀鈴",
+          "reading": "ぎんれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "silver bell"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "土鈴",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "土鈴",
+          "reading": "どれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "earthenware (ceramic) bell"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "鈴口",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鈴口",
+          "reading": "すずぐち"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "entrance to a daimyo\u0027s mansion"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "glans (of the penis)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "鈴をころがすよう",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鈴を転がすよう",
+          "reading": "すずをころがすよう"
+        },
+        {
+          "word": "鈴をころがすよう",
+          "reading": "すずをころがすよう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "clear and beautiful (of a woman\u0027s voice)"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "電鈴",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "電鈴",
+          "reading": "でんれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "electric bell"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "菘",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "菘",
+          "reading": "すずな"
+        },
+        {
+          "word": "鈴菜",
+          "reading": "すずな"
+        },
+        {
+          "reading": "スズナ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "turnip (Brassica rapa)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "蕪"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "風鈴草",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "風鈴草",
+          "reading": "ふうりんそう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Canterbury bell"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "鉄亜鈴",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鉄アレイ",
+          "reading": "てつアレイ"
+        },
+        {
+          "word": "鉄亜鈴",
+          "reading": "てつあれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(iron) dumbbells",
+            "(pair) of dumbbells"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "金剛鈴",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "金剛鈴",
+          "reading": "こんごうれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "vajra bell"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Buddhist term"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "金剛杵"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "大鈴",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "大鈴",
+          "reading": "おおすず"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "large bell (at a shrine)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "亜鈴",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "亜鈴",
+          "reading": "あれい"
+        },
+        {
+          "word": "唖鈴",
+          "reading": "あれい"
+        },
+        {
+          "reading": "アレイ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dumbbell"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "振鈴",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "振鈴",
+          "reading": "しんれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "hand bell",
+            "ringing of a bell"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "鈴虫",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鈴虫",
+          "reading": "すずむし"
+        },
+        {
+          "reading": "スズムシ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "bell cricket (Meloimorpha japonicus)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "pine cricket (Xenogryllus marmoratus)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "松虫"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "鈴蘭",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鈴蘭",
+          "reading": "すずらん"
+        },
+        {
+          "reading": "スズラン"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "lily of the valley (Convallaria keiskei)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "亜鈴",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "亜鈴",
+          "reading": "あれい"
+        },
+        {
+          "word": "唖鈴",
+          "reading": "あれい"
+        },
+        {
+          "reading": "アレイ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dumbbell"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "青鈴蘭",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "青鈴蘭",
+          "reading": "あおすずらん"
+        },
+        {
+          "reading": "アオスズラン"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Epipactis papillosa (species of orchid)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "蝦夷鈴蘭"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "鈴生り",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鈴なり",
+          "reading": "すずなり"
+        },
+        {
+          "word": "鈴生り",
+          "reading": "すずなり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "bunches (e.g. of fruit)",
+            "clusters"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "crammed (e.g. with people)",
+            "overflowing"
+          ],
+          "parts_of_speech": [
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "振鈴",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "振鈴",
+          "reading": "しんれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "hand bell",
+            "ringing of a bell"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "鈴虫草",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鈴虫草",
+          "reading": "すずむしそう"
+        },
+        {
+          "reading": "スズムシソウ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Liparis makinoana (species of miniature orchid)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "鈴蛙",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鈴蛙",
+          "reading": "すずがえる"
+        },
+        {
+          "reading": "スズガエル"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Oriental fire-bellied toad (Bombina orientalis)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "鈴を鳴らす",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鈴を鳴らす",
+          "reading": "りんをならす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to ring a bell"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with su ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "双葉鈴木竜",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "双葉鈴木竜",
+          "reading": "ふたばすずきりゅう"
+        },
+        {
+          "reading": "フタバスズキリュウ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Futabasaurus suzukii (species of plesiosaur)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "馬鈴薯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "馬鈴薯",
+          "reading": "ばれいしょ"
+        },
+        {
+          "word": "馬鈴藷",
+          "reading": "ばれいしょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "potato (Solanum tuberosum)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "じゃが芋 じゃがいも"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "鈴なりになる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鈴なりになる",
+          "reading": "すずなりになる"
+        },
+        {
+          "word": "鈴生りに生る",
+          "reading": "すずなりになる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to grow in clusters"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with ru ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

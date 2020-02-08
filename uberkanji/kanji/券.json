@@ -1,0 +1,4230 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "券",
+      "is_common": true,
+      "tags": [
+        "wanikani28"
+      ],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "券",
+          "reading": "けん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "ticket",
+            "coupon",
+            "bond",
+            "certificate"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Noun - used as a suffix"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "定期券",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "定期券",
+          "reading": "ていきけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "commuter pass",
+            "season ticket"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Abbreviation"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "定期乗車券"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "回数券",
+      "is_common": true,
+      "tags": [
+        "wanikani28"
+      ],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "回数券",
+          "reading": "かいすうけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "book of tickets"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "旅券",
+      "is_common": true,
+      "tags": [
+        "wanikani28"
+      ],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "旅券",
+          "reading": "りょけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "passport"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "パスポート"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "入場券",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "入場券",
+          "reading": "にゅうじょうけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "admission ticket",
+            "entrance ticket"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "platform ticket",
+            "ticket allowing a non-traveller access to a railway station platform"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Ticket (admission)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Ticket (admission)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Ticket_(admission)?oldid\u003d472990860"
+            },
+            {
+              "text": "Read “入場券” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/入場券?oldid\u003d42139831"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Ticket_(admission)"
+      }
+    },
+    {
+      "slug": "債券",
+      "is_common": true,
+      "tags": [
+        "wanikani36"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "債券",
+          "reading": "さいけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "bond",
+            "debenture"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Bond (finance)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Bond (finance)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Bond_(finance)?oldid\u003d495277086"
+            },
+            {
+              "text": "Read “債券” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/債券?oldid\u003d42735975"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Bond_(finance)"
+      }
+    },
+    {
+      "slug": "株券",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "株券",
+          "reading": "かぶけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "stock certificate"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Stock certificate"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Stock certificate” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Stock_certificate?oldid\u003d494092382"
+            },
+            {
+              "text": "Read “株券” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/株券?oldid\u003d38187888"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Stock_certificate"
+      }
+    },
+    {
+      "slug": "航空券",
+      "is_common": true,
+      "tags": [
+        "wanikani31"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "航空券",
+          "reading": "こうくうけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "airline ticket",
+            "plane ticket",
+            "air ticket"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Airline ticket"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Airline ticket” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Airline_ticket?oldid\u003d488520074"
+            },
+            {
+              "text": "Read “航空券” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/航空券?oldid\u003d41143485"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Airline_ticket"
+      }
+    },
+    {
+      "slug": "乗車券",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "乗車券",
+          "reading": "じょうしゃけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "ticket (for bus, train, etc.)",
+            "passenger ticket"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "basic fare ticket (not valid on limited express trains without a supplemental express ticket)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "特急券"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Train ticket"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Train ticket” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Train_ticket?oldid\u003d490283590"
+            },
+            {
+              "text": "Read “乗車券” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/乗車券?oldid\u003d41437014"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Train_ticket"
+      }
+    },
+    {
+      "slug": "証券",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "証券",
+          "reading": "しょうけん"
+        },
+        {
+          "word": "證券",
+          "reading": "しょうけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "bond",
+            "bill",
+            "certificate",
+            "security"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "馬券",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "馬券",
+          "reading": "ばけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(horse racing) betting ticket"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "商品券",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "商品券",
+          "reading": "しょうひんけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "gift certificate"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "前売り券",
+      "is_common": true,
+      "tags": [
+        "wanikani28"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "前売り券",
+          "reading": "まえうりけん"
+        },
+        {
+          "word": "前売券",
+          "reading": "まえうりけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "ticket sold in advance",
+            "advance ticket"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "格安航空券",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "格安航空券",
+          "reading": "かくやすこうくうけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "discount airline ticket"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "食券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "食券",
+          "reading": "しょっけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "meal ticket"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "引き換え券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "引き換え券",
+          "reading": "ひきかえけん"
+        },
+        {
+          "word": "引換券",
+          "reading": "ひきかえけん"
+        },
+        {
+          "word": "引替え券",
+          "reading": "ひきかえけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "exchange ticket",
+            "claim tag",
+            "coupon"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "割り引き券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "割り引き券",
+          "reading": "わりびきけん"
+        },
+        {
+          "word": "割引券",
+          "reading": "わりびきけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "discount coupon or ticket"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "証券市場",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "証券市場",
+          "reading": "しょうけんしじょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "securities market"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Stock market"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Stock market” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Stock_market?oldid\u003d494556932"
+            },
+            {
+              "text": "Read “証券市場” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/証券市場?oldid\u003d42562297"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Stock_market"
+      }
+    },
+    {
+      "slug": "証券会社",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "証券会社",
+          "reading": "しょうけんがいしゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "brokerage",
+            "brokerage firm",
+            "broking house",
+            "securities company"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Broker-dealer"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Broker-dealer” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Broker-dealer?oldid\u003d489099142"
+            },
+            {
+              "text": "Read “証券会社” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/証券会社?oldid\u003d42742181"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Broker-dealer"
+      }
+    },
+    {
+      "slug": "搭乗券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "搭乗券",
+          "reading": "とうじょうけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "boarding passes",
+            "boarding tickets"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "債券発行",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "債券発行",
+          "reading": "さいけんはっこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "debt issuance",
+            "bond issuance"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "診察券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "診察券",
+          "reading": "しんさつけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "patient\u0027s registration ticket"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "優待券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "優待券",
+          "reading": "ゆうたいけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "complimentary ticket"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "急行券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "急行券",
+          "reading": "きゅうこうけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "express ticket"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "整理券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "整理券",
+          "reading": "せいりけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "numbered ticket (e.g. to determine order of service in shop, etc.)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "zone ticket",
+            "boarding ticket",
+            "bus ticket dispensed at boarding, used to show where one boarded"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "有価証券",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "有価証券",
+          "reading": "ゆうかしょうけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "marketable securities",
+            "stocks and bonds"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Security (finance)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Security (finance)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Security_(finance)?oldid\u003d493129935"
+            },
+            {
+              "text": "Read “有価証券” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/有価証券?oldid\u003d42397983"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Security_(finance)"
+      }
+    },
+    {
+      "slug": "東京証券取引所",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "東京証券取引所",
+          "reading": "とうきょうしょうけんとりひきじょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Tokyo Stock Exchange",
+            "TSE"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Tokyo Stock Exchange"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Tokyo Stock Exchange” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Tokyo_Stock_Exchange?oldid\u003d490612433"
+            },
+            {
+              "text": "Read “東京証券取引所” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/東京証券取引所?oldid\u003d42668424"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Tokyo_Stock_Exchange"
+      }
+    },
+    {
+      "slug": "旅行券",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旅行券",
+          "reading": "りょこうけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "travel voucher",
+            "travel coupon"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "日銀券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "日銀券",
+          "reading": "にちぎんけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Japanese banknote"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Abbreviation"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "日本銀行券"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "金券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "金券",
+          "reading": "きんけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "gold certificate"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "tradeable coupon redeemable for goods or services"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "券売機",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "券売機",
+          "reading": "けんばいき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "ticket machine",
+            "ticket-vending machine"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "車券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "車券",
+          "reading": "しゃけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "bike-race (betting) ticket"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "発券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "発券",
+          "reading": "はっけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "issuing (a banknote, ticket, etc.)"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "証券取引所",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "証券取引所",
+          "reading": "しょうけんとりひきじょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "securities exchange",
+            "stock exchange",
+            "bourse"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Shoukentorihikijo"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Stock exchange"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Stock exchange” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Stock_exchange?oldid\u003d494602379"
+            },
+            {
+              "text": "Read “証券取引所” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/証券取引所?oldid\u003d42498904"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "http://dbpedia.org/resource/Stock_exchange"
+      }
+    },
+    {
+      "slug": "証券化",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "証券化",
+          "reading": "しょうけんか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "securitization",
+            "securitisation"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Securitization"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Securitization” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Securitization?oldid\u003d492501239"
+            },
+            {
+              "text": "Read “証券化” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/証券化?oldid\u003d42571601"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Securitization"
+      }
+    },
+    {
+      "slug": "日本銀行券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "日本銀行券",
+          "reading": "にほんぎんこうけん"
+        },
+        {
+          "word": "日本銀行券",
+          "reading": "にっぽんぎんこうけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Japanese banknote"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Banknotes of the Japanese yen"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Banknotes of the Japanese yen” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Banknotes_of_the_Japanese_yen?oldid\u003d494032160"
+            },
+            {
+              "text": "Read “日本銀行券” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/日本銀行券?oldid\u003d41619226"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Banknotes_of_the_Japanese_yen"
+      }
+    },
+    {
+      "slug": "大阪証券取引所",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "大阪証券取引所",
+          "reading": "おおさかしょうけんとりひきじょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Osaka Securities Exchange"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Osaka Securities Exchange"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Osaka Securities Exchange” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Osaka_Securities_Exchange?oldid\u003d492202675"
+            },
+            {
+              "text": "Read “大阪証券取引所” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/大阪証券取引所?oldid\u003d42473092"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Osaka_Securities_Exchange"
+      }
+    },
+    {
+      "slug": "定期乗車券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "定期乗車券",
+          "reading": "ていきじょうしゃけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "commuter pass",
+            "season ticket"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Season ticket"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Season ticket” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Season_ticket?oldid\u003d477728316"
+            },
+            {
+              "text": "Read “定期乗車券” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/定期乗車券?oldid\u003d42756657"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Season_ticket"
+      }
+    },
+    {
+      "slug": "預託証券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "預託証券",
+          "reading": "よたくしょうけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "depository receipt"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Finance term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Depositary receipt"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Depositary receipt” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Depositary_receipt?oldid\u003d446427974"
+            },
+            {
+              "text": "Read “預託証券” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/預託証券?oldid\u003d29687183"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Depositary_receipt"
+      }
+    },
+    {
+      "slug": "不動産担保証券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "不動産担保証券",
+          "reading": "ふどうさんたんぽしょうけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "mortgage-backed security"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Mortgage-backed security"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Mortgage-backed security” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Mortgage-backed_security?oldid\u003d493455548"
+            },
+            {
+              "text": "Read “不動産担保証券” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/不動産担保証券?oldid\u003d40905192"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Mortgage-backed_security"
+      }
+    },
+    {
+      "slug": "資産担保証券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "資産担保証券",
+          "reading": "しさんたんぽしょうけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "asset-backed securities",
+            "ABS"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Asset-backed security"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Asset-backed security” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Asset-backed_security?oldid\u003d479017984"
+            },
+            {
+              "text": "Read “資産担保証券” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/資産担保証券?oldid\u003d39067845"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Asset-backed_security"
+      }
+    },
+    {
+      "slug": "日本銀行券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "日本銀行券",
+          "reading": "にほんぎんこうけん"
+        },
+        {
+          "word": "日本銀行券",
+          "reading": "にっぽんぎんこうけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Japanese banknote"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Banknotes of the Japanese yen"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Banknotes of the Japanese yen” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Banknotes_of_the_Japanese_yen?oldid\u003d494032160"
+            },
+            {
+              "text": "Read “日本銀行券” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/日本銀行券?oldid\u003d41619226"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Banknotes_of_the_Japanese_yen"
+      }
+    },
+    {
+      "slug": "預託証券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "預託証券",
+          "reading": "よたくしょうけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "depository receipt"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Finance term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Depositary receipt"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Depositary receipt” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Depositary_receipt?oldid\u003d446427974"
+            },
+            {
+              "text": "Read “預託証券” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/預託証券?oldid\u003d29687183"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Depositary_receipt"
+      }
+    },
+    {
+      "slug": "不動産担保証券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "不動産担保証券",
+          "reading": "ふどうさんたんぽしょうけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "mortgage-backed security"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Mortgage-backed security"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Mortgage-backed security” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Mortgage-backed_security?oldid\u003d493455548"
+            },
+            {
+              "text": "Read “不動産担保証券” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/不動産担保証券?oldid\u003d40905192"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Mortgage-backed_security"
+      }
+    },
+    {
+      "slug": "指定券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "指定券",
+          "reading": "していけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "ticket (reserved seat)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "周遊券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "周遊券",
+          "reading": "しゅうゆうけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "excursion ticket"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "兌換券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "兌換券",
+          "reading": "だかんけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "convertible banknotes"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "沽券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "沽券",
+          "reading": "こけん"
+        },
+        {
+          "word": "估券",
+          "reading": "こけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dignity",
+            "credit",
+            "public estimation",
+            "face",
+            "honor",
+            "reputation"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "deed of sale (for a land, forest or house)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "sale value",
+            "selling price"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "招待券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "招待券",
+          "reading": "しょうたいけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "complimentary ticket",
+            "invitation card",
+            "invitation ticket"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "無利息証券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "無利息証券",
+          "reading": "むりそくしょうけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "non interest-bearing securities"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "受益証券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "受益証券",
+          "reading": "じゅえきしょうけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "beneficiary certificate"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "乗換券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "乗換券",
+          "reading": "のりかえけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "ticket for transfer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "図書券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "図書券",
+          "reading": "としょけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "gift certificate for books",
+            "book token"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "質券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "質券",
+          "reading": "しちけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "pawn ticket"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "寝台券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "寝台券",
+          "reading": "しんだいけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "ticket (sleeping car)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "数次旅券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "数次旅券",
+          "reading": "すうじりょけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "multiple journey passport"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "会員券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "会員券",
+          "reading": "かいいんけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "membership card"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "船荷証券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "船荷証券",
+          "reading": "ふなにしょうけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "bill of lading",
+            "BL"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "郵券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "郵券",
+          "reading": "ゆうけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "postage stamp"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "抽籤券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "抽籤券",
+          "reading": "ちゅうせんけん"
+        },
+        {
+          "word": "抽せん券",
+          "reading": "ちゅうせんけん"
+        },
+        {
+          "word": "抽選券",
+          "reading": "ちゅうせんけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "lottery ticket"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "質券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "質券",
+          "reading": "しちけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "pawn ticket"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "舟券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "舟券",
+          "reading": "ふなけん"
+        },
+        {
+          "word": "舟券",
+          "reading": "しゅうけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "boat race betting ticket"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "寝台券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "寝台券",
+          "reading": "しんだいけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "ticket (sleeping car)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "数次旅券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "数次旅券",
+          "reading": "すうじりょけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "multiple journey passport"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "保険証券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "保険証券",
+          "reading": "ほけんしょうけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "insurance policy"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "通し券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "通し券",
+          "reading": "とおしけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "ticket good for multiple performances (e.g. a whole day, including matinee and evening performances)",
+            "season ticket",
+            "through ticket"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "通し切符"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "会員券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "会員券",
+          "reading": "かいいんけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "membership card"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "船荷証券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "船荷証券",
+          "reading": "ふなにしょうけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "bill of lading",
+            "BL"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "郵券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "郵券",
+          "reading": "ゆうけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "postage stamp"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "当日券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "当日券",
+          "reading": "とうじつけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "same-day ticket"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "沽券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "沽券",
+          "reading": "こけん"
+        },
+        {
+          "word": "估券",
+          "reading": "こけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dignity",
+            "credit",
+            "public estimation",
+            "face",
+            "honor",
+            "reputation"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "deed of sale (for a land, forest or house)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "sale value",
+            "selling price"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "往復航空券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "往復航空券",
+          "reading": "おうふくこうくうけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "round trip (airplane) ticket"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "無利息証券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "無利息証券",
+          "reading": "むりそくしょうけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "non interest-bearing securities"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "大災害債券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "大災害債券",
+          "reading": "だいさいがいさいけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "catastrophe bond",
+            "cat bond"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Obscure term"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "キャットボンド"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "抽籤券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "抽籤券",
+          "reading": "ちゅうせんけん"
+        },
+        {
+          "word": "抽せん券",
+          "reading": "ちゅうせんけん"
+        },
+        {
+          "word": "抽選券",
+          "reading": "ちゅうせんけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "lottery ticket"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "場外馬券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "場外馬券",
+          "reading": "じょうがいばけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "off-track betting"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "観覧券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "観覧券",
+          "reading": "かんらんけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "admission ticket"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "特待券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "特待券",
+          "reading": "とくたいけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "complimentary ticket"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "店頭債券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "店頭債券",
+          "reading": "てんとうさいけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "over-the-counter bond"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Finance term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "流通証券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "流通証券",
+          "reading": "りゅうつうしょうけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "negotiable securities"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "大災害債券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "大災害債券",
+          "reading": "だいさいがいさいけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "catastrophe bond",
+            "cat bond"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Obscure term"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "キャットボンド"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "会員券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "会員券",
+          "reading": "かいいんけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "membership card"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "万馬券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "万馬券",
+          "reading": "まんばけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "betting ticket with a payout of at least 100 times (horse racing)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "馬券 ばけん"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "数次旅券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "数次旅券",
+          "reading": "すうじりょけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "multiple journey passport"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "地域振興券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "地域振興券",
+          "reading": "ちいきしんこうけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "regional promotion coupons",
+            "merchandise coupons for the promotion of the local economy"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "地域振興"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "代用証券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "代用証券",
+          "reading": "だいようしょうけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "collateral securities",
+            "substitute securities"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Finance term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "通行券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "通行券",
+          "reading": "つうこうけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "toll road ticket"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "pass (e.g. in public transportation)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "抽籤券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "抽籤券",
+          "reading": "ちゅうせんけん"
+        },
+        {
+          "word": "抽せん券",
+          "reading": "ちゅうせんけん"
+        },
+        {
+          "word": "抽選券",
+          "reading": "ちゅうせんけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "lottery ticket"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "売券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "売券",
+          "reading": "ばいけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "certificate of sale",
+            "deed of sale"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "朝食券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "朝食券",
+          "reading": "ちょうしょくけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "breakfast voucher",
+            "breakfast coupon"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "場外馬券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "場外馬券",
+          "reading": "じょうがいばけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "off-track betting"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "金縁証券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "金縁証券",
+          "reading": "きんぶちしょうけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "gilt-edged securities",
+            "gilt-edged bond"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "観覧券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "観覧券",
+          "reading": "かんらんけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "admission ticket"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "特待券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "特待券",
+          "reading": "とくたいけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "complimentary ticket"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "店頭債券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "店頭債券",
+          "reading": "てんとうさいけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "over-the-counter bond"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Finance term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "流通証券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "流通証券",
+          "reading": "りゅうつうしょうけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "negotiable securities"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "座席指定券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "座席指定券",
+          "reading": "ざせきしていけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "reserved-seat ticket"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "投資有価証券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "投資有価証券",
+          "reading": "とうしゆうかしょうけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "investments in securities"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "乗船券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "乗船券",
+          "reading": "じょうせんけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "boat ticket",
+            "passage ticket"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "貯蓄債券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貯蓄債券",
+          "reading": "ちょちくさいけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "savings bond"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

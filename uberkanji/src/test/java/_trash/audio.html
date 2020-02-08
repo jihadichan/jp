@@ -1,0 +1,97 @@
+<html>
+<head>
+
+</head>
+<body>
+<div id="audio"></div>
+<button onclick="appendAudio('め')">Replay</button>
+<div id="audio-seq"></div>
+<button onclick="playReadings()">Replay</button>
+<button onclick="playCompoundReading()">Replay</button>
+<div id="error"></div>
+
+
+<audio ended="nextAudioNode.play();">
+    <source src="ge.mp3" type="audio/mp3">
+    <source src="ma.mp3" type="audio/mp3">
+</audio>
+<script>
+
+    var readings = ["ge.mp3", "ma.mp3"];
+
+
+    // USE THIS. WORKS IN ANKI! Maybe rewrrite this shit
+    var sounds = ["ge.mp3", "ma.mp3"];
+    var i = -1;
+    playCompoundReading();
+
+    function playCompoundReading() {
+        i++;
+        if (i === sounds.length) {
+            i = -1;
+            return;
+        }
+        var audio = new Audio(sounds[i]);
+        audio.addEventListener('ended', playCompoundReading);
+        audio.play();
+    }
+
+    // appendAudio("め.ま.け");
+
+    function appendAudio(reading) {
+        var audio = document.getElementById("audio");
+        audio.innerHTML = "";
+        audio.appendChild(createAudioElement(reading));
+    }
+
+    function createAudioElement(reading) {
+        var elem = document.createElement("audio");
+        elem.setAttribute("autoplay", "");
+
+        var source = document.createElement("source");
+        source.setAttribute("src", "readings/" + reading + ".mp3");
+        source.setAttribute("type", "audio/mp3");
+        elem.appendChild(source);
+
+        return elem;
+    }
+
+
+    // old, WORKING
+    // appendAudio("め");
+    //
+    // function appendAudio(reading) {
+    //     var audio = document.getElementById("audio");
+    //     audio.innerHTML = "";
+    //     audio.appendChild(createAudioElement(reading));
+    // }
+    //
+    // function createAudioElement(reading) {
+    //     var elem = document.createElement("audio");
+    //     elem.setAttribute("autoplay", "");
+    //
+    //     var source = document.createElement("source");
+    //     source.setAttribute("src", "readings/"+reading+".mp3");
+    //     source.setAttribute("type", "audio/mp3");
+    //     elem.appendChild(source);
+    //
+    //     return elem;
+    // }
+
+
+    // ---------------------
+    // CRAP
+    // ---------------------
+    window.onerror = function (error, url, line) {
+        var elem = document.getElementById("error");
+        elem.innerHTML = error + " - " + url + " - " + line;
+    };
+    window.onload = function (error, url, line) {
+
+    };
+</script>
+
+</body>
+
+
+</html>

@@ -1,0 +1,890 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "渇き",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "渇き",
+          "reading": "かわき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "thirst"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "渇望",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "渇望",
+          "reading": "かつぼう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "craving",
+            "longing",
+            "thirsting"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "渇く",
+      "is_common": true,
+      "tags": [
+        "wanikani30"
+      ],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "渇く",
+          "reading": "かわく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to be thirsty",
+            "to feel thirsty"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ku ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "喉が乾く"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to thirst for",
+            "to crave"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "often as 〜に渇いた"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "渇する",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "渇する",
+          "reading": "かっする"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to be thirsty",
+            "to be dry"
+          ],
+          "parts_of_speech": [
+            "Suru verb - special class",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "渇水",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "渇水",
+          "reading": "かっすい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "water shortage"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "枯渇",
+      "is_common": false,
+      "tags": [
+        "wanikani51"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "枯渇",
+          "reading": "こかつ"
+        },
+        {
+          "word": "涸渇",
+          "reading": "こかつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "drying up",
+            "running dry"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "running out",
+            "being exhausted",
+            "being drained"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "喉が乾く",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "喉が渇く",
+          "reading": "のどがかわく"
+        },
+        {
+          "word": "のどが渇く",
+          "reading": "のどがかわく"
+        },
+        {
+          "word": "喉が乾く",
+          "reading": "のどがかわく"
+        },
+        {
+          "word": "のどが乾く",
+          "reading": "のどがかわく"
+        },
+        {
+          "word": "喉がかわく",
+          "reading": "のどがかわく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to be thirsty"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with ku ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "渇く"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "渇しても盗泉の水を飲まず",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "渇しても盗泉の水を飲まず",
+          "reading": "かっしてもとうせんのみずをのまず"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "better starve than fatten on ill-gotten wealth",
+            "don\u0027t lower yourself to unjust acts, no matter how desperate you are",
+            "refraining to drink from a spring called Robber\u0027s Spring even if thirsty"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [
+            "Proverb"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "渇愛",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "渇愛",
+          "reading": "かつあい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "thirst",
+            "craving",
+            "desire"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "渇望者",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "渇望者",
+          "reading": "かつぼうしゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "desiring person",
+            "luster"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "渇死",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "渇死",
+          "reading": "かっし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dying of thirst"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "渇筆",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "渇筆",
+          "reading": "かっぴつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "drybrush",
+            "brush which gives a blurred effect in writing or painting"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "渇水期",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "渇水期",
+          "reading": "かっすいき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dry season"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "渇仰",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "渇仰",
+          "reading": "かつごう"
+        },
+        {
+          "word": "渇ごう",
+          "reading": "かつごう"
+        },
+        {
+          "word": "渇仰",
+          "reading": "かつぎょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "adoration",
+            "reverence",
+            "esteem"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "止渇",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "止渇",
+          "reading": "しかつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "cessation of coughing"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飢渇",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飢渇",
+          "reading": "きかつ"
+        },
+        {
+          "word": "饑渇",
+          "reading": "きかつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "hunger and thirst",
+            "starvation"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "渇す",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "渇す",
+          "reading": "かっす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to be thirsty",
+            "to be dry"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "渇する"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "口渇",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "口渇",
+          "reading": "こうかつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "thirst",
+            "dry mouth",
+            "dipsia"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "随喜渇仰",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "随喜渇仰",
+          "reading": "ずいきかつごう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "worship with adoration",
+            "ardent admiration"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "渇",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "渇",
+          "reading": "かつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "thirst"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "消渇",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "消渇",
+          "reading": "しょうかち"
+        },
+        {
+          "word": "痟𤸎",
+          "reading": "しょうかち"
+        },
+        {
+          "word": "消渇",
+          "reading": "しょうかつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "diabetes"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "糖尿病"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "gonorrhea (in women)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Obsolete term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "渇を癒やす",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "渇を癒やす",
+          "reading": "かつをいやす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to quench one\u0027s thirst"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with su ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

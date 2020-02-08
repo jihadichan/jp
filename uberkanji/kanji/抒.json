@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "叙情詩",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "叙情詩",
+          "reading": "じょじょうし"
+        },
+        {
+          "word": "抒情詩",
+          "reading": "じょじょうし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "lyric poetry",
+            "lyric poem",
+            "ode"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "叙事詩 じょじし"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Lyric poetry"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Lyric poetry” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Lyric_poetry?oldid\u003d495299361"
+            },
+            {
+              "text": "Read “抒情詩” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/抒情詩?oldid\u003d42767006"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Lyric_poetry"
+      }
+    },
+    {
+      "slug": "叙情",
+      "is_common": true,
+      "tags": [
+        "wanikani54"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "叙情",
+          "reading": "じょじょう"
+        },
+        {
+          "word": "抒情",
+          "reading": "じょじょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "lyricism",
+            "description of one\u0027s feelings"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [
+            "叙事 じょじ"
+          ],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

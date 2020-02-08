@@ -1,0 +1,513 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "我が儘",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "我が儘",
+          "reading": "わがまま"
+        },
+        {
+          "word": "我儘",
+          "reading": "わがまま"
+        },
+        {
+          "word": "我がまま",
+          "reading": "わがまま"
+        },
+        {
+          "word": "我侭",
+          "reading": "わがまま"
+        },
+        {
+          "word": "我が侭",
+          "reading": "わがまま"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "selfish",
+            "egoist"
+          ],
+          "parts_of_speech": [
+            "Na-adjective",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "self-indulgent",
+            "wilful",
+            "willful"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Archaism",
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "儘",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "儘",
+          "reading": "まま"
+        },
+        {
+          "word": "儘",
+          "reading": "まんま"
+        },
+        {
+          "word": "侭",
+          "reading": "まま"
+        },
+        {
+          "word": "侭",
+          "reading": "まんま"
+        },
+        {
+          "reading": "ママ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "as it is",
+            "as one likes",
+            "because",
+            "as"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Adverbial noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "condition",
+            "state"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "sic",
+            "sic erat scriptum",
+            "the quoted matter has been transcribed exactly as found in the source text"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Abbreviation",
+            "Usually written using kana alone"
+          ],
+          "restrictions": [
+            "ママ"
+          ],
+          "see_also": [
+            "原文ママ げんぶんママ"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "気まま",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "気まま",
+          "reading": "きまま"
+        },
+        {
+          "word": "気儘",
+          "reading": "きまま"
+        },
+        {
+          "word": "気侭",
+          "reading": "きまま"
+        },
+        {
+          "word": "氣儘",
+          "reading": "きまま"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "willful",
+            "wilful",
+            "selfish",
+            "self-centered",
+            "egoistic"
+          ],
+          "parts_of_speech": [
+            "Na-adjective",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "carefree",
+            "do-as-you-please",
+            "freewheeling",
+            "free spirited"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "気の向くままに",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "気の向くままに",
+          "reading": "きのむくままに"
+        },
+        {
+          "word": "気の向く侭に",
+          "reading": "きのむくままに"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "at one\u0027s fancy (whim)"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "着の身着の儘",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "着の身着の儘",
+          "reading": "きのみきのまま"
+        },
+        {
+          "word": "着の身着の侭",
+          "reading": "きのみきのまま"
+        },
+        {
+          "word": "着のみ着のまま",
+          "reading": "きのみきのまま"
+        },
+        {
+          "word": "着の身着のまま",
+          "reading": "きのみきのまま"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(with) only the clothes one happens to wear"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "儘ならない",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "儘ならない",
+          "reading": "ままならない"
+        },
+        {
+          "word": "侭ならない",
+          "reading": "ままならない"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "unable to have one\u0027s way with"
+          ],
+          "parts_of_speech": [
+            "I-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "ままならぬ"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "儘ならぬ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "儘ならぬ",
+          "reading": "ままならぬ"
+        },
+        {
+          "word": "侭ならぬ",
+          "reading": "ままならぬ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "beyond one\u0027s control"
+          ],
+          "parts_of_speech": [
+            "Noun or verb acting prenominally"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "ままならない"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "丸のまま",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "丸のまま",
+          "reading": "まるのまま"
+        },
+        {
+          "word": "丸の侭",
+          "reading": "まるのまま"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "in its entirety",
+            "whole"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "丸 まる",
+            "儘 まま"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "わがままを言う",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "わがままを言う",
+          "reading": "わがままをいう"
+        },
+        {
+          "word": "我儘を言う",
+          "reading": "わがままをいう"
+        },
+        {
+          "word": "我が儘を言う",
+          "reading": "わがままをいう"
+        },
+        {
+          "word": "我侭を言う",
+          "reading": "わがままをいう"
+        },
+        {
+          "word": "我が侭を言う",
+          "reading": "わがままをいう"
+        },
+        {
+          "word": "我がままを言う",
+          "reading": "わがままをいう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to be unreasonable",
+            "to whine",
+            "to act like a baby"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with u ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

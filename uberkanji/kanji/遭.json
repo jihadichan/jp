@@ -1,0 +1,1323 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "会う",
+      "is_common": true,
+      "tags": [
+        "wanikani5",
+        "wanikani52"
+      ],
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "会う",
+          "reading": "あう"
+        },
+        {
+          "word": "逢う",
+          "reading": "あう"
+        },
+        {
+          "word": "遭う",
+          "reading": "あう"
+        },
+        {
+          "word": "遇う",
+          "reading": "あう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to meet",
+            "to encounter",
+            "to see"
+          ],
+          "parts_of_speech": [
+            "Godan verb with u ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "逢う is often used for close friends, etc. and may be associated with drama or pathos; 遭う may have an undesirable nuance"
+          ]
+        },
+        {
+          "english_definitions": [
+            "to have an accident",
+            "to have a bad experience"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "esp. 遭う when in kanji"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "出会う",
+      "is_common": true,
+      "tags": [
+        "wanikani10"
+      ],
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "出会う",
+          "reading": "であう"
+        },
+        {
+          "word": "出逢う",
+          "reading": "であう"
+        },
+        {
+          "word": "出合う",
+          "reading": "であう"
+        },
+        {
+          "word": "出遭う",
+          "reading": "であう"
+        },
+        {
+          "word": "出あう",
+          "reading": "であう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to meet (by chance)",
+            "to come across",
+            "to run across",
+            "to encounter",
+            "to happen upon"
+          ],
+          "parts_of_speech": [
+            "Godan verb with u ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "出遭う usu. has a negative connotation"
+          ]
+        },
+        {
+          "english_definitions": [
+            "to meet (e.g. of rivers, highways, etc.)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "出会う",
+            "出合う"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "esp. 出合う"
+          ]
+        },
+        {
+          "english_definitions": [
+            "to emerge and engage (an enemy)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "出会う",
+            "出合う"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "often used imperatively as 出会え"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "出会い",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "出会い",
+          "reading": "であい"
+        },
+        {
+          "word": "出逢い",
+          "reading": "であい"
+        },
+        {
+          "word": "出合い",
+          "reading": "であい"
+        },
+        {
+          "word": "出会",
+          "reading": "であい"
+        },
+        {
+          "word": "出合",
+          "reading": "であい"
+        },
+        {
+          "word": "出遭い",
+          "reading": "であい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "meeting",
+            "rendezvous",
+            "encounter"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "confluence"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "esp. 出合い, 出合"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "遭難",
+      "is_common": true,
+      "tags": [
+        "wanikani52"
+      ],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "遭難",
+          "reading": "そうなん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "disaster",
+            "accident",
+            "shipwreck",
+            "distress"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "遭遇",
+      "is_common": false,
+      "tags": [
+        "wanikani52"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遭遇",
+          "reading": "そうぐう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "encounter",
+            "being confronted with (e.g. difficulty)",
+            "meeting with (e.g. accident)"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "遭難信号",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遭難信号",
+          "reading": "そうなんしんごう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "distress signal",
+            "SOS"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Distress signal"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Distress signal” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Distress_signal?oldid\u003d485949331"
+            },
+            {
+              "text": "Read “遭難信号” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/遭難信号?oldid\u003d42276699"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Distress_signal"
+      }
+    },
+    {
+      "slug": "えらい目にあう",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "えらい目にあう",
+          "reading": "えらいめにあう"
+        },
+        {
+          "word": "えらい目に遭う",
+          "reading": "えらいめにあう"
+        },
+        {
+          "word": "偉い目にあう",
+          "reading": "えらいめにあう"
+        },
+        {
+          "word": "偉い目に遭う",
+          "reading": "えらいめにあう"
+        },
+        {
+          "word": "えらい目に会う",
+          "reading": "えらいめにあう"
+        },
+        {
+          "word": "偉い目に会う",
+          "reading": "えらいめにあう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to have a terrible time",
+            "to have a hard time"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with u ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "目にあう めにあう"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "会わせる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "会わせる",
+          "reading": "あわせる"
+        },
+        {
+          "word": "遭わせる",
+          "reading": "あわせる"
+        },
+        {
+          "word": "逢わせる",
+          "reading": "あわせる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to make (someone) to meet",
+            "to let (someone) meet"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "会う"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to expose to",
+            "to subject to"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "事故にあう",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "事故にあう",
+          "reading": "じこにあう"
+        },
+        {
+          "word": "事故に遭う",
+          "reading": "じこにあう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to have an accident",
+            "to meet with an accident"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with u ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "夕立にあう",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "夕立にあう",
+          "reading": "ゆうだちにあう"
+        },
+        {
+          "word": "夕立に遭う",
+          "reading": "ゆうだちにあう"
+        },
+        {
+          "word": "夕立ちにあう",
+          "reading": "ゆうだちにあう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to be caught in an evening shower"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with u ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "目にあう",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "目にあう",
+          "reading": "めにあう"
+        },
+        {
+          "word": "目に遭う",
+          "reading": "めにあう"
+        },
+        {
+          "word": "めに遭う",
+          "reading": "めにあう"
+        },
+        {
+          "word": "目に会う",
+          "reading": "めにあう"
+        },
+        {
+          "word": "めに会う",
+          "reading": "めにあう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to go through",
+            "to suffer",
+            "to experience (something unpleasant)"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with u ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "目を見る"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "ひどい目にあう",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ひどい目にあう",
+          "reading": "ひどいめにあう"
+        },
+        {
+          "word": "ひどい目に遭う",
+          "reading": "ひどいめにあう"
+        },
+        {
+          "word": "酷い目に遭う",
+          "reading": "ひどいめにあう"
+        },
+        {
+          "word": "酷い目にあう",
+          "reading": "ひどいめにあう"
+        },
+        {
+          "word": "ひどい目に会う",
+          "reading": "ひどいめにあう"
+        },
+        {
+          "word": "酷い目に会う",
+          "reading": "ひどいめにあう"
+        },
+        {
+          "word": "酷い目に合う",
+          "reading": "ひどいめにあう"
+        },
+        {
+          "word": "ひどい目に合う",
+          "reading": "ひどいめにあう"
+        },
+        {
+          "word": "酷い目に遇う",
+          "reading": "ひどいめにあう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to have a bad time",
+            "to go through a bitter experience",
+            "to get into trouble",
+            "to get hurt",
+            "to suffer"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with u ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "目にあう めにあう"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "ひどい目に遭わせる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ひどい目にあわせる",
+          "reading": "ひどいめにあわせる"
+        },
+        {
+          "word": "ひどい目に遭わせる",
+          "reading": "ひどいめにあわせる"
+        },
+        {
+          "word": "酷い目にあわせる",
+          "reading": "ひどいめにあわせる"
+        },
+        {
+          "word": "酷い目に遭わせる",
+          "reading": "ひどいめにあわせる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to bring someone to grief",
+            "to give someone hell"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Ichidan verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "ひどい目にあう ひどいめにあう"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "遭遇戦",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遭遇戦",
+          "reading": "そうぐうせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "encounter",
+            "engagement",
+            "battle"
+          ],
+          "parts_of_speech": [
+            "Na-adjective",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Meeting engagement"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Meeting engagement” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Meeting_engagement?oldid\u003d446946257"
+            },
+            {
+              "text": "Read “遭遇戦” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/遭遇戦?oldid\u003d38953614"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Meeting_engagement"
+      }
+    },
+    {
+      "slug": "遭難死",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遭難死",
+          "reading": "そうなんし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "accidental death (esp. while climbing mountains or being shipwrecked)"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "遭難救助隊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遭難救助隊",
+          "reading": "そうなんきゅうじょたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rescue party"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "遭遇説",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遭遇説",
+          "reading": "そうぐうせつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "tidal hypothesis (of the origin of the solar system)",
+            "near-collision hypothesis"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "遭難船",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遭難船",
+          "reading": "そうなんせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "wrecked ship",
+            "ship in distress"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "遭難者",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遭難者",
+          "reading": "そうなんしゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "victim",
+            "sufferer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "会わす",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "会わす",
+          "reading": "あわす"
+        },
+        {
+          "word": "遭わす",
+          "reading": "あわす"
+        },
+        {
+          "word": "会す",
+          "reading": "あわす"
+        },
+        {
+          "word": "遭す",
+          "reading": "あわす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to make (someone) to meet",
+            "to let (someone) meet"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "会わせる"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to expose to",
+            "to subject to"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "痛い目に遭わせる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "痛い目に遭わせる",
+          "reading": "いたいめにあわせる"
+        },
+        {
+          "word": "痛い目に合わせる",
+          "reading": "いたいめにあわせる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to make (a person) pay for (something)"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Ichidan verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "痛い目に合う"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "痛い目にあう",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "痛い目にあう",
+          "reading": "いたいめにあう"
+        },
+        {
+          "word": "痛い目に合う",
+          "reading": "いたいめにあう"
+        },
+        {
+          "word": "痛い目に遭う",
+          "reading": "いたいめにあう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to go through a bitter experience",
+            "to get into trouble",
+            "to get hurt",
+            "to feel pain"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with u ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "痛い目",
+            "目にあう めにあう"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "辛い目に会う",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "辛い目に会う",
+          "reading": "つらいめにあう"
+        },
+        {
+          "word": "つらい目にあう",
+          "reading": "つらいめにあう"
+        },
+        {
+          "word": "辛い目にあう",
+          "reading": "つらいめにあう"
+        },
+        {
+          "word": "辛い目に合う",
+          "reading": "つらいめにあう"
+        },
+        {
+          "word": "辛い目に遭う",
+          "reading": "つらいめにあう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to have a hard time of it"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with u ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "目にあう めにあう"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "災難に遭う",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "災難に遭う",
+          "reading": "さいなんにあう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to meet with misfortune"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with u ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "難に遭う",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "難に遭う",
+          "reading": "なんにあう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to meet with disaster"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with u ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "痛い目に遭わす",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "痛い目に遭わす",
+          "reading": "いたいめにあわす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to make a person sweat for it"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with su ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "痛い目に遭わせる"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

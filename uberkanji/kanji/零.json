@@ -1,0 +1,2913 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "零",
+      "is_common": true,
+      "tags": [
+        "wanikani46"
+      ],
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "零",
+          "reading": "れい"
+        },
+        {
+          "word": "０",
+          "reading": "れい"
+        },
+        {
+          "word": "〇",
+          "reading": "れい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "zero",
+            "nought"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "零点",
+      "is_common": false,
+      "tags": [
+        "wanikani46"
+      ],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "零点",
+          "reading": "れいてん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "zero (points, marks)",
+            "no marks"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "zero (of a function)",
+            "root"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Mathematics"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "zero degrees (Celsius)",
+            "freezing point"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "零度"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Zero (complex analysis)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Zero (complex analysis)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Zero_(complex_analysis)?oldid\u003d466561426"
+            },
+            {
+              "text": "Read “零点” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/零点?oldid\u003d37404222"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Zero_(complex_analysis)"
+      }
+    },
+    {
+      "slug": "零れる",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "零れる",
+          "reading": "こぼれる"
+        },
+        {
+          "word": "溢れる",
+          "reading": "こぼれる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to spill",
+            "to fall out of",
+            "to overflow"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to peek through",
+            "to become visible (although normally not)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to escape (of a smile, tear, etc.)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "零す",
+      "is_common": true,
+      "tags": [
+        "wanikani46"
+      ],
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "零す",
+          "reading": "こぼす"
+        },
+        {
+          "word": "溢す",
+          "reading": "こぼす"
+        },
+        {
+          "word": "翻す",
+          "reading": "こぼす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to spill",
+            "to drop",
+            "to shed (tears)"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to grumble",
+            "to complain"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to let one\u0027s feelings show"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "零細",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "零細",
+          "reading": "れいさい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "insignificant",
+            "trifling",
+            "paltry",
+            "cottage (industry)",
+            "tiny (company)"
+          ],
+          "parts_of_speech": [
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "零下",
+      "is_common": true,
+      "tags": [
+        "wanikani46"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "零下",
+          "reading": "れいか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "below zero",
+            "sub-zero"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "落ちぶれる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "落ちぶれる",
+          "reading": "おちぶれる"
+        },
+        {
+          "word": "零落れる",
+          "reading": "おちぶれる"
+        },
+        {
+          "word": "落魄れる",
+          "reading": "おちぶれる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to be ruined (reduced to poverty)",
+            "to fall low",
+            "to go under",
+            "to come to ruin"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "零度",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "零度",
+          "reading": "れいど"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "zero degrees (Celsius)",
+            "freezing point"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "zero (on a scale)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "吹きこぼれる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "吹きこぼれる",
+          "reading": "ふきこぼれる"
+        },
+        {
+          "word": "吹き零れる",
+          "reading": "ふきこぼれる"
+        },
+        {
+          "word": "噴きこぼれる",
+          "reading": "ふきこぼれる"
+        },
+        {
+          "word": "噴き零れる",
+          "reading": "ふきこぼれる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to boil over"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "零れ落ちる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "こぼれ落ちる",
+          "reading": "こぼれおちる"
+        },
+        {
+          "word": "零れ落ちる",
+          "reading": "こぼれおちる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to spill over and fall",
+            "to scatter (petals, leaves, etc.)"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "零細企業",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "零細企業",
+          "reading": "れいさいきぎょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "small business",
+            "micro-enterprise",
+            "microenterprise"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "落ちこぼれる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "落ちこぼれる",
+          "reading": "おちこぼれる"
+        },
+        {
+          "word": "落ち零れる",
+          "reading": "おちこぼれる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to fall behind",
+            "to drop out"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to drop",
+            "to fall",
+            "to spill",
+            "to scatter"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "落ちこぼれ",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "落ちこぼれ",
+          "reading": "おちこぼれ"
+        },
+        {
+          "word": "落ち零れ",
+          "reading": "おちこぼれ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "fallen scraps",
+            "scatterings"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "leftovers",
+            "remainder",
+            "pickings",
+            "odds and ends"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "student who cannot keep up in school",
+            "dropout (from school, society, a movement, etc.)"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Colloquialism",
+            "Sensitive"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Dropping out"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Dropping out” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Dropping_out?oldid\u003d492022032"
+            },
+            {
+              "text": "Read “落ちこぼれ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/落ちこぼれ?oldid\u003d42403820"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Dropping_out"
+      }
+    },
+    {
+      "slug": "零時",
+      "is_common": true,
+      "tags": [
+        "wanikani46"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "零時",
+          "reading": "れいじ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "twelve o\u0027clock",
+            "midnight",
+            "noon"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "零敗",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "零敗",
+          "reading": "れいはい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "going undefeated",
+            "losing without scoring a point",
+            "whitewash",
+            "being shut out"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "取りこぼす",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "取りこぼす",
+          "reading": "とりこぼす"
+        },
+        {
+          "word": "取り零す",
+          "reading": "とりこぼす"
+        },
+        {
+          "word": "取零す",
+          "reading": "とりこぼす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to lose an easy game",
+            "to suffer an unexpected defeat"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to lose information"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Computer terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "零式艦上戦闘機",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "零式艦上戦闘機",
+          "reading": "れいしきかんじょうせんとうき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "A6M Zero fighter"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "零戦"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Mitsubishi A6M Zero"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Mitsubishi A6M Zero” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Mitsubishi_A6M_Zero?oldid\u003d494473152"
+            },
+            {
+              "text": "Read “零式艦上戦闘機” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/零式艦上戦闘機?oldid\u003d42773551"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Mitsubishi_A6M_Zero"
+      }
+    },
+    {
+      "slug": "零点振動",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "零点振動",
+          "reading": "れいてんしんどう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "zero-point vibration",
+            "zero-point motion"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Physics terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Zero-point energy"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Zero-point energy” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Zero-point_energy?oldid\u003d490781376"
+            },
+            {
+              "text": "Read “零点振動” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/零点振動?oldid\u003d42700010"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Zero-point_energy"
+      }
+    },
+    {
+      "slug": "絶対零度",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絶対零度",
+          "reading": "ぜったいれいど"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "absolute zero"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Absolute zero"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Absolute zero” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Absolute_zero?oldid\u003d493044851"
+            },
+            {
+              "text": "Read “絶対零度” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/絶対零度?oldid\u003d42545156"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Absolute_zero"
+      }
+    },
+    {
+      "slug": "零元",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "零元",
+          "reading": "れいげん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "zero element"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Mathematics"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Zero element"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Zero element” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Zero_element?oldid\u003d386143344"
+            },
+            {
+              "text": "Read “零元” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/零元?oldid\u003d33052292"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Zero_element"
+      }
+    },
+    {
+      "slug": "零点振動",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "零点振動",
+          "reading": "れいてんしんどう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "zero-point vibration",
+            "zero-point motion"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Physics terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Zero-point energy"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Zero-point energy” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Zero-point_energy?oldid\u003d490781376"
+            },
+            {
+              "text": "Read “零点振動” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/零点振動?oldid\u003d42700010"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Zero-point_energy"
+      }
+    },
+    {
+      "slug": "愚痴をこぼす",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "愚痴をこぼす",
+          "reading": "ぐちをこぼす"
+        },
+        {
+          "word": "愚痴を零す",
+          "reading": "ぐちをこぼす"
+        },
+        {
+          "word": "愚痴を溢す",
+          "reading": "ぐちをこぼす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to whinge",
+            "to kvetch",
+            "to gripe",
+            "to complain",
+            "to whine"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with su ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "零余子虎の尾",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "零余子虎の尾",
+          "reading": "むかごとらのお"
+        },
+        {
+          "reading": "ムカゴトラノオ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "alpine bistort (Bistorta vivipara)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "零れ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "零れ",
+          "reading": "こぼれ"
+        },
+        {
+          "word": "溢れ",
+          "reading": "こぼれ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "spilling",
+            "spill"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "leavings",
+            "leftovers"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "御零れ"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "巾零元",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "巾零元",
+          "reading": "きんれいげん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "nilpotent element"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Mathematics"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "零し合い",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "零し合い",
+          "reading": "こぼしあい"
+        },
+        {
+          "word": "こぼし合い",
+          "reading": "こぼしあい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "gripe session",
+            "grievance session"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "非零",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "非零",
+          "reading": "ひれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "non-zero"
+          ],
+          "parts_of_speech": [
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Mathematics"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "ゼロ以外"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "零因子",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "零因子",
+          "reading": "ぜろいんし"
+        },
+        {
+          "word": "零因子",
+          "reading": "れいいんし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "zero divisor",
+            "null factor",
+            "nil factor"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Mathematics"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "零余子蕁麻",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "零余子蕁麻",
+          "reading": "むかごいらくさ"
+        },
+        {
+          "reading": "ムカゴイラクサ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Laportea bulbifera (species of nettle-like plant)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "お零れ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "お零れ",
+          "reading": "おこぼれ"
+        },
+        {
+          "word": "御零れ",
+          "reading": "おこぼれ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "leavings",
+            "leftovers"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "零れ"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "むかご飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "むかご飯",
+          "reading": "むかごめし"
+        },
+        {
+          "word": "零余子飯",
+          "reading": "むかごめし"
+        },
+        {
+          "word": "零余子飯",
+          "reading": "ぬかごめし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "cooked rice with yam bulblets"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "零余子 むかご"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "お目こぼし",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "お目こぼし",
+          "reading": "おめこぼし"
+        },
+        {
+          "word": "お目溢し",
+          "reading": "おめこぼし"
+        },
+        {
+          "word": "御目溢し",
+          "reading": "おめこぼし"
+        },
+        {
+          "word": "御目こぼし",
+          "reading": "おめこぼし"
+        },
+        {
+          "word": "お目零し",
+          "reading": "おめこぼし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "connivance",
+            "overlooking"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [
+            "Polite (teineigo)"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "目こぼし"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "零戦",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "零戦",
+          "reading": "ゼロせん"
+        },
+        {
+          "word": "ゼロ戦",
+          "reading": "ゼロせん"
+        },
+        {
+          "word": "零戦",
+          "reading": "れいせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Zero fighter plane"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "零式艦上戦闘機"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "こぼし屋",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "こぼし屋",
+          "reading": "こぼしや"
+        },
+        {
+          "word": "零し屋",
+          "reading": "こぼしや"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "grump",
+            "heat merchant"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "冪零",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "冪零",
+          "reading": "べきれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "nilpotent"
+          ],
+          "parts_of_speech": [
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Mathematics"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "こぼし話",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "こぼし話",
+          "reading": "こぼしばなし"
+        },
+        {
+          "word": "零し話",
+          "reading": "こぼしばなし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "complaining"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "目こぼし",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "目こぼし",
+          "reading": "めこぼし"
+        },
+        {
+          "word": "目溢し",
+          "reading": "めこぼし"
+        },
+        {
+          "word": "目溢",
+          "reading": "めこぼし"
+        },
+        {
+          "word": "目零し",
+          "reading": "めこぼし"
+        },
+        {
+          "word": "目零",
+          "reading": "めこぼし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "connivance",
+            "overlooking"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "零れ幸い",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "零れ幸い",
+          "reading": "こぼれざいわい"
+        },
+        {
+          "word": "こぼれ幸い",
+          "reading": "こぼれざいわい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "unexpected piece of good luck",
+            "windfall"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "こぼれ球",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "こぼれ球",
+          "reading": "こぼれだま"
+        },
+        {
+          "word": "零れ球",
+          "reading": "こぼれだま"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "loose ball",
+            "rebound"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Sports term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "こぼれ種",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "こぼれ種",
+          "reading": "こぼれだね"
+        },
+        {
+          "word": "零れ種",
+          "reading": "こぼれだね"
+        },
+        {
+          "reading": "こぼれダネ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "self-sown seed",
+            "self-sown seedling"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "illegitimate child (e.g. of one\u0027s servant)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "零砕",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "零砕",
+          "reading": "れいさい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "a tiny bit"
+          ],
+          "parts_of_speech": [
+            "Na-adjective",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Obscure term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "こぼれ球",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "こぼれ球",
+          "reading": "こぼれだま"
+        },
+        {
+          "word": "零れ球",
+          "reading": "こぼれだま"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "loose ball",
+            "rebound"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Sports term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "こぼれ種",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "こぼれ種",
+          "reading": "こぼれだね"
+        },
+        {
+          "word": "零れ種",
+          "reading": "こぼれだね"
+        },
+        {
+          "reading": "こぼれダネ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "self-sown seed",
+            "self-sown seedling"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "illegitimate child (e.g. of one\u0027s servant)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "目こぼし",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "目こぼし",
+          "reading": "めこぼし"
+        },
+        {
+          "word": "目溢し",
+          "reading": "めこぼし"
+        },
+        {
+          "word": "目溢",
+          "reading": "めこぼし"
+        },
+        {
+          "word": "目零し",
+          "reading": "めこぼし"
+        },
+        {
+          "word": "目零",
+          "reading": "めこぼし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "connivance",
+            "overlooking"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "零落",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "零落",
+          "reading": "れいらく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "falling into straitened circumstances",
+            "downfall",
+            "ruin"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "こぼれ話",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "こぼれ話",
+          "reading": "こぼればなし"
+        },
+        {
+          "word": "零れ話",
+          "reading": "こぼればなし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "tidbit",
+            "titbit",
+            "digression",
+            "sidebar",
+            "snippet"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "零露",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "零露",
+          "reading": "れいろ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dripping dew"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "巾零",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "巾零",
+          "reading": "きんれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "nilpotent"
+          ],
+          "parts_of_speech": [
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "零し",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "零し",
+          "reading": "こぼし"
+        },
+        {
+          "word": "溢し",
+          "reading": "こぼし"
+        },
+        {
+          "word": "翻し",
+          "reading": "こぼし"
+        },
+        {
+          "word": "翻",
+          "reading": "こぼし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "waste-water container (tea ceremony)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "建水",
+            "水翻し みずこぼし"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "零集合",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "零集合",
+          "reading": "れいしゅうごう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "null set",
+            "set of measure zero"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Mathematics"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "０",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "０",
+          "reading": "ゼロ"
+        },
+        {
+          "word": "〇",
+          "reading": "ゼロ"
+        },
+        {
+          "word": "零",
+          "reading": "ゼロ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "zero",
+            "nought"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "零 れい"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "零空間",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "零空間",
+          "reading": "ぜろくうかん"
+        },
+        {
+          "word": "零空間",
+          "reading": "れいくうかん"
+        },
+        {
+          "word": "ゼロ空間",
+          "reading": "ゼロくうかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "null space"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Mathematics"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Kernel (matrix)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Kernel (matrix)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Kernel_(matrix)?oldid\u003d487964347"
+            },
+            {
+              "text": "Read “零空間” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/零空間?oldid\u003d42447417"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Kernel_(matrix)"
+      }
+    },
+    {
+      "slug": "零半",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "零半",
+          "reading": "ゼロはん"
+        },
+        {
+          "reading": "ゼロハン"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "50cc motorbike"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "おこぼれに預かる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "おこぼれに預かる",
+          "reading": "おこぼれにあずかる"
+        },
+        {
+          "word": "お零れに預かる",
+          "reading": "おこぼれにあずかる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to get a tiny share of the profits",
+            "to get a small share of what someone is enjoying"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "零和ゲーム",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "零和ゲーム",
+          "reading": "れいわゲーム"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "zero-sum game"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "ゼロサムゲーム",
+            "ゼロ和ゲーム"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "煮零れる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "煮零れる",
+          "reading": "にこぼれる"
+        },
+        {
+          "word": "煮こぼれる",
+          "reading": "にこぼれる"
+        },
+        {
+          "word": "煮溢れる",
+          "reading": "にこぼれる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to boil over"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "午後零時",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "午後零時",
+          "reading": "ごごれいじ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "noon",
+            "12 PM"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "沸きこぼれる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "沸きこぼれる",
+          "reading": "わきこぼれる"
+        },
+        {
+          "word": "沸き零れる",
+          "reading": "わきこぼれる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to bubble over",
+            "to boil over"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "熱力学の第０法則",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "熱力学の第０法則",
+          "reading": "ねつりきがくのだいゼロほうそく"
+        },
+        {
+          "word": "熱力学の第零法則",
+          "reading": "ねつりきがくのだいゼロほうそく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "zeroth law of thermodynamics"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Physics terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "爪で拾って箕で零す",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "爪で拾って箕で零す",
+          "reading": "つめでひろってみでこぼす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "penny wise and pound foolish"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [
+            "Idiomatic expression"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "零余子",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "零余子",
+          "reading": "むかご"
+        },
+        {
+          "word": "零余子",
+          "reading": "ぬかご"
+        },
+        {
+          "word": "零余子",
+          "reading": "れいよし"
+        },
+        {
+          "reading": "ムカゴ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "bulbil (esp. of a Japanese yam)",
+            "propagule",
+            "brood bud"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

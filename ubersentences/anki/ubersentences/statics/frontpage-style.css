@@ -1,0 +1,32 @@
+.layout {
+    font-family: 'DejaVu Sans', Arial, Helvetica, sans-serif;
+    width: 530px;
+    margin: 0 auto;
+}
+
+.fp-sentence {
+    margin: 50px 20px 0 20px;
+    font-size: 1.5em;
+    border: 1px solid #ccc;
+    padding: 15px;
+}
+
+.howto-container {
+    width: 100%;
+}
+
+.howto {
+    font-size: 0.8em;
+    color: #777;
+    width: 350px;
+    margin: 50px auto;
+    list-style-type: decimal;
+}
+
+.audio-card {
+    margin-top: 100px;
+    text-align: center;
+    font-size: 1.5em;
+    color: #73aece;
+    font-weight: bold;
+}

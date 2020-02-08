@@ -1,0 +1,222 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "屡々",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "屡々",
+          "reading": "しばしば"
+        },
+        {
+          "word": "屡屡",
+          "reading": "しばしば"
+        },
+        {
+          "word": "屡",
+          "reading": "しばしば"
+        },
+        {
+          "word": "数数",
+          "reading": "しばしば"
+        },
+        {
+          "word": "数々",
+          "reading": "しばしば"
+        },
+        {
+          "word": "数",
+          "reading": "しばしば"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "often",
+            "again and again",
+            "frequently",
+            "repeatedly"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone",
+            "Onomatopoeic or mimetic word"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "度々 たびたび"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Number"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Number” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Number?oldid\u003d495301453"
+            },
+            {
+              "text": "Read “数” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/数?oldid\u003d42718362"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Number"
+      }
+    },
+    {
+      "slug": "瞬く",
+      "is_common": true,
+      "tags": [
+        "wanikani46"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "瞬く",
+          "reading": "またたく"
+        },
+        {
+          "word": "瞬く",
+          "reading": "まばたく"
+        },
+        {
+          "word": "瞬く",
+          "reading": "まだたく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to blink (one\u0027s eyes)",
+            "to wink",
+            "to bat"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ku ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "またたく is sometimes used transitively"
+          ]
+        },
+        {
+          "english_definitions": [
+            "to twinkle (e.g. stars)",
+            "to flicker",
+            "to waver"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "瞬く-2",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "瞬く",
+          "reading": "しばたたく"
+        },
+        {
+          "word": "瞬く",
+          "reading": "しばだたく"
+        },
+        {
+          "word": "屡叩く",
+          "reading": "しばたたく"
+        },
+        {
+          "word": "屡叩く",
+          "reading": "しばだたく"
+        },
+        {
+          "word": "屢叩く",
+          "reading": "しばたたく"
+        },
+        {
+          "word": "屢叩く",
+          "reading": "しばだたく"
+        },
+        {
+          "word": "瞬く",
+          "reading": "しばたく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to blink (one\u0027s eyes)",
+            "to wink",
+            "to bat"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ku ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

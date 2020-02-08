@@ -1,0 +1,335 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "編集",
+      "is_common": true,
+      "tags": [
+        "wanikani31",
+        "wanikani33"
+      ],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "編集",
+          "reading": "へんしゅう"
+        },
+        {
+          "word": "編修",
+          "reading": "へんしゅう"
+        },
+        {
+          "word": "編輯",
+          "reading": "へんしゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "editing",
+            "compilation"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Editing"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Editing” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Editing?oldid\u003d494015289"
+            },
+            {
+              "text": "Read “編集” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/編集?oldid\u003d39078761"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Editing"
+      }
+    },
+    {
+      "slug": "収集",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "収集",
+          "reading": "しゅうしゅう"
+        },
+        {
+          "word": "蒐集",
+          "reading": "しゅうしゅう"
+        },
+        {
+          "word": "拾集",
+          "reading": "しゅうしゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "collecting",
+            "accumulating",
+            "gathering"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "collection (of art, stamps, insects, etc.)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "garbage collection",
+            "waste collection"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "特集",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "特集",
+          "reading": "とくしゅう"
+        },
+        {
+          "word": "特輯",
+          "reading": "とくしゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "feature (e.g. newspaper)",
+            "special edition",
+            "report"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "収録",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "収録",
+          "reading": "しゅうろく"
+        },
+        {
+          "word": "集録",
+          "reading": "しゅうろく"
+        },
+        {
+          "word": "輯録",
+          "reading": "しゅうろく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "compilation",
+            "editing"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "recording"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "録音",
+            "録画"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "集輯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "集輯",
+          "reading": "しゅうしゅう"
+        },
+        {
+          "word": "緝輯",
+          "reading": "しゅうしゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "gathered together and compiled"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "第一輯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "第一輯",
+          "reading": "だいいっしゅう"
+        },
+        {
+          "word": "第一集",
+          "reading": "だいいっしゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "first series"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

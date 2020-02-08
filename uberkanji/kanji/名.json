@@ -1,0 +1,5117 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "名前",
+      "is_common": true,
+      "tags": [
+        "wanikani8"
+      ],
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "名前",
+          "reading": "なまえ"
+        },
+        {
+          "word": "名まえ",
+          "reading": "なまえ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "name",
+            "full name"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "given name",
+            "first name"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "名字"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Name"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Name” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Name?oldid\u003d495487908"
+            },
+            {
+              "text": "Read “名前” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/名前?oldid\u003d42672453"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Name"
+      }
+    },
+    {
+      "slug": "署名",
+      "is_common": true,
+      "tags": [
+        "wanikani17"
+      ],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "署名",
+          "reading": "しょめい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "signature"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Signature"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Signature” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Signature?oldid\u003d494950119"
+            },
+            {
+              "text": "Read “署名” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/署名?oldid\u003d42397462"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Signature"
+      }
+    },
+    {
+      "slug": "名字",
+      "is_common": true,
+      "tags": [
+        "wanikani4",
+        "wanikani51"
+      ],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "名字",
+          "reading": "みょうじ"
+        },
+        {
+          "word": "苗字",
+          "reading": "みょうじ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "surname",
+            "family name"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "名前"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Myouji"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Japanese name"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Japanese name” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Japanese_name?oldid\u003d492962135"
+            },
+            {
+              "text": "Read “名字” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/名字?oldid\u003d42621189"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "http://dbpedia.org/resource/Japanese_name"
+      }
+    },
+    {
+      "slug": "有名",
+      "is_common": true,
+      "tags": [
+        "wanikani6"
+      ],
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "有名",
+          "reading": "ゆうめい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "famous"
+          ],
+          "parts_of_speech": [
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "fame"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "名所",
+      "is_common": true,
+      "tags": [
+        "wanikani8"
+      ],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "名所",
+          "reading": "めいしょ"
+        },
+        {
+          "word": "名所",
+          "reading": "などころ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "famous place"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "name of a part (of an instrument, etc.)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "などころ"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "name and address"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "などころ"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Meisho"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Meisho” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Meisho?oldid\u003d338247621"
+            },
+            {
+              "text": "Read “名所” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/名所?oldid\u003d42583371"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Meisho"
+      }
+    },
+    {
+      "slug": "名刺",
+      "is_common": true,
+      "tags": [
+        "wanikani26"
+      ],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "名刺",
+          "reading": "めいし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "business card"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Business card"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Business card” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Business_card?oldid\u003d491120406"
+            },
+            {
+              "text": "Read “名刺” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/名刺?oldid\u003d42123115"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Business_card"
+      }
+    },
+    {
+      "slug": "代名詞",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "代名詞",
+          "reading": "だいめいし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "pronoun"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "linguistics terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "synonym",
+            "classic example",
+            "pattern",
+            "byword",
+            "representative"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Pronoun"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Pronoun” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Pronoun?oldid\u003d495473798"
+            },
+            {
+              "text": "Read “代名詞” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/代名詞?oldid\u003d42513562"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Pronoun"
+      }
+    },
+    {
+      "slug": "名物",
+      "is_common": true,
+      "tags": [
+        "wanikani9"
+      ],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "名物",
+          "reading": "めいぶつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "famous product",
+            "special product",
+            "speciality",
+            "specialty"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Meibutsu"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Meibutsu” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Meibutsu?oldid\u003d486146177"
+            },
+            {
+              "text": "Read “名物” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/名物?oldid\u003d35480017"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Meibutsu"
+      }
+    },
+    {
+      "slug": "名詞",
+      "is_common": true,
+      "tags": [
+        "wanikani19"
+      ],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "名詞",
+          "reading": "めいし"
+        },
+        {
+          "word": "名詞",
+          "reading": "なことば"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "noun"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "linguistics terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Noun"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Noun” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Noun?oldid\u003d495253170"
+            },
+            {
+              "text": "Read “名詞” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/名詞?oldid\u003d42151531"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Noun"
+      }
+    },
+    {
+      "slug": "名誉",
+      "is_common": true,
+      "tags": [
+        "wanikani40"
+      ],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "名誉",
+          "reading": "めいよ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "honor",
+            "honour",
+            "credit",
+            "prestige"
+          ],
+          "parts_of_speech": [
+            "Na-adjective",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Honour"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Honour” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Honour?oldid\u003d495098543"
+            },
+            {
+              "text": "Read “名誉” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/名誉?oldid\u003d41636555"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Honour"
+      }
+    },
+    {
+      "slug": "名札",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "名札",
+          "reading": "なふだ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "name plate",
+            "name tag",
+            "label"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Name tag"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Name tag” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Name_tag?oldid\u003d492536777"
+            },
+            {
+              "text": "Read “名札” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/名札?oldid\u003d42070406"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Name_tag"
+      }
+    },
+    {
+      "slug": "名人",
+      "is_common": true,
+      "tags": [
+        "wanikani4"
+      ],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "名人",
+          "reading": "めいじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "master",
+            "expert"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "題名",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "題名",
+          "reading": "だいめい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "title"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "地名",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "地名",
+          "reading": "ちめい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "place name",
+            "toponym"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "氏名",
+      "is_common": true,
+      "tags": [
+        "wanikani7"
+      ],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "氏名",
+          "reading": "しめい"
+        },
+        {
+          "word": "氏名",
+          "reading": "うじな"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "full name",
+            "identity"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "名作",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "名作",
+          "reading": "めいさく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "masterpiece"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "宛名",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "宛名",
+          "reading": "あてな"
+        },
+        {
+          "word": "宛て名",
+          "reading": "あてな"
+        },
+        {
+          "word": "あて名",
+          "reading": "あてな"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(addressee\u0027s) name",
+            "(recipient\u0027s) name and address"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "名簿",
+      "is_common": true,
+      "tags": [
+        "wanikani50"
+      ],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "名簿",
+          "reading": "めいぼ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "register of names",
+            "list of names",
+            "roll",
+            "register",
+            "roster"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "著名",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "著名",
+          "reading": "ちょめい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "well-known",
+            "noted",
+            "celebrated"
+          ],
+          "parts_of_speech": [
+            "Na-adjective",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "名高い",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "名高い",
+          "reading": "なだかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "famous",
+            "noted",
+            "renowned",
+            "celebrated",
+            "well-known"
+          ],
+          "parts_of_speech": [
+            "I-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "名称",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "名称",
+          "reading": "めいしょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "name",
+            "title"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "名付ける",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "名付ける",
+          "reading": "なづける"
+        },
+        {
+          "word": "名づける",
+          "reading": "なづける"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to name",
+            "to call",
+            "to christen",
+            "to term"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "記名",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "記名",
+          "reading": "きめい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "signature",
+            "register"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to put one\u0027s name on",
+            "to sign"
+          ],
+          "parts_of_speech": [
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "stamped name",
+            "typed name"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [
+            "著名"
+          ],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "大名",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "大名",
+          "reading": "だいみょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "daimyo (Japanese feudal lord)",
+            "daimio"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "小名"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Daimyou"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Daimyo"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Daimyo” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Daimyo?oldid\u003d491842522"
+            },
+            {
+              "text": "Read “大名” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/大名?oldid\u003d41826479"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "http://dbpedia.org/resource/Daimyo"
+      }
+    },
+    {
+      "slug": "汚名",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "汚名",
+          "reading": "おめい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "stigma",
+            "dishonour",
+            "dishonor",
+            "infamy"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Notorious (1946 film)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Notorious (1946 film)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Notorious_(1946_film)?oldid\u003d495323096"
+            },
+            {
+              "text": "Read “汚名” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/汚名?oldid\u003d42520535"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Notorious_(1946_film)"
+      }
+    },
+    {
+      "slug": "指名手配",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "指名手配",
+          "reading": "しめいてはい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(the police) wanting (someone) for questioning",
+            "having (someone) on the wanted list"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Wanted poster"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Wanted poster” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Wanted_poster?oldid\u003d492752229"
+            },
+            {
+              "text": "Read “指名手配” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/指名手配?oldid\u003d42781219"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Wanted_poster"
+      }
+    },
+    {
+      "slug": "匿名",
+      "is_common": true,
+      "tags": [
+        "wanikani60"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "匿名",
+          "reading": "とくめい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "anonymity",
+            "using an assumed name"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Anonymity"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Anonymity” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Anonymity?oldid\u003d493246839"
+            },
+            {
+              "text": "Read “匿名” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/匿名?oldid\u003d42242855"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Anonymity"
+      }
+    },
+    {
+      "slug": "名",
+      "is_common": true,
+      "tags": [
+        "wanikani4"
+      ],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "名",
+          "reading": "な"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "name",
+            "given name"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "title"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "fame",
+            "renown",
+            "reputation"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "pretext",
+            "pretense",
+            "justification",
+            "appearance"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "偽名",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "偽名",
+          "reading": "ぎめい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "false name",
+            "alias",
+            "assumed name",
+            "pseudonym"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Pseudonym"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Pseudonym” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Pseudonym?oldid\u003d495102101"
+            },
+            {
+              "text": "Read “偽名” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/偽名?oldid\u003d42672085"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Pseudonym"
+      }
+    },
+    {
+      "slug": "仮名遣い",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "仮名遣い",
+          "reading": "かなづかい"
+        },
+        {
+          "word": "仮名使い",
+          "reading": "かなづかい"
+        },
+        {
+          "word": "かな遣い",
+          "reading": "かなづかい"
+        },
+        {
+          "word": "かな使い",
+          "reading": "かなづかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "kana orthography",
+            "syllabary spelling"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Kanazukai"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Kanazukai” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Kanazukai?oldid\u003d478985891"
+            },
+            {
+              "text": "Read “仮名遣い” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/仮名遣い?oldid\u003d41604223"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Kanazukai"
+      }
+    },
+    {
+      "slug": "片仮名",
+      "is_common": true,
+      "tags": [
+        "wanikani39"
+      ],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "片仮名",
+          "reading": "かたかな"
+        },
+        {
+          "reading": "カタカナ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "katakana",
+            "angular Japanese syllabary used primarily for loanwords"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "平仮名"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Katakana"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Katakana” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Katakana?oldid\u003d494924833"
+            },
+            {
+              "text": "Read “片仮名” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/片仮名?oldid\u003d42629757"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Katakana"
+      }
+    },
+    {
+      "slug": "平仮名",
+      "is_common": true,
+      "tags": [
+        "wanikani11"
+      ],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "平仮名",
+          "reading": "ひらがな"
+        },
+        {
+          "word": "ひら仮名",
+          "reading": "ひらがな"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "hiragana",
+            "cursive Japanese syllabary used primarily for native Japanese words (esp. function words, inflections, etc.)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "片仮名"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Hiragana"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Hiragana” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Hiragana?oldid\u003d494925099"
+            },
+            {
+              "text": "Read “平仮名” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/平仮名?oldid\u003d42274666"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Hiragana"
+      }
+    },
+    {
+      "slug": "送り仮名",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "送り仮名",
+          "reading": "おくりがな"
+        },
+        {
+          "word": "送りがな",
+          "reading": "おくりがな"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "kana written after a kanji to complete the full (usually kun) reading of the word",
+            "declensional kana ending"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Okurigana"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Okurigana” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Okurigana?oldid\u003d490288261"
+            },
+            {
+              "text": "Read “送りがな” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/送りがな?oldid\u003d35867620"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Okurigana"
+      }
+    },
+    {
+      "slug": "振り仮名",
+      "is_common": true,
+      "tags": [
+        "wanikani28"
+      ],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "振り仮名",
+          "reading": "ふりがな"
+        },
+        {
+          "word": "振りがな",
+          "reading": "ふりがな"
+        },
+        {
+          "word": "振仮名",
+          "reading": "ふりがな"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "furigana",
+            "kana over or beside kanji to indicate pronunciation"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "ルビー"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Furigana"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Furigana” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Furigana?oldid\u003d494441638"
+            },
+            {
+              "text": "Read “振り仮名” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/振り仮名?oldid\u003d40169712"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Furigana"
+      }
+    },
+    {
+      "slug": "名声",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "名声",
+          "reading": "めいせい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "fame",
+            "reputation",
+            "renown"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "指名",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "指名",
+          "reading": "しめい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "naming",
+            "nominating",
+            "designating"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "calling on",
+            "asking for",
+            "requesting"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "除名",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "除名",
+          "reading": "じょめい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "expulsion",
+            "excommunication"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "命名",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "命名",
+          "reading": "めいめい"
+        },
+        {
+          "word": "銘名",
+          "reading": "めいめい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "naming",
+            "christening"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "名門",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "名門",
+          "reading": "めいもん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "noted family",
+            "noble family"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "prestigious school, organization, business, etc."
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "名門校 めいもんこう"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "名画",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "名画",
+          "reading": "めいが"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "famous picture",
+            "masterpiece (painting)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "film classic"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "無名",
+      "is_common": true,
+      "tags": [
+        "wanikani17"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "無名",
+          "reading": "むめい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "nameless",
+            "unnamed",
+            "anonymous",
+            "unsigned"
+          ],
+          "parts_of_speech": [
+            "No-adjective",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "obscure",
+            "unknown",
+            "not famous"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "causeless",
+            "unjustifiable"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "名乗る",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "名乗る",
+          "reading": "なのる"
+        },
+        {
+          "word": "名のる",
+          "reading": "なのる"
+        },
+        {
+          "word": "名告る",
+          "reading": "なのる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to give one\u0027s name (as)",
+            "to introduce oneself (as)"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending",
+            "intransitive verb",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to claim to be",
+            "to call oneself",
+            "to wear the title of"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to reveal oneself (as)",
+            "to admit to being"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to adopt as one\u0027s name",
+            "to take (a name)"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to call out the goods one is selling"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "名指し",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "名指し",
+          "reading": "なざし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "calling by name",
+            "designation",
+            "nomination"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "病名",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "病名",
+          "reading": "びょうめい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "name of a disease"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "名優",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "名優",
+          "reading": "めいゆう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "great actor",
+            "famous actor",
+            "star"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "大義名分",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "大義名分",
+          "reading": "たいぎめいぶん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "just cause",
+            "good reason",
+            "pretext",
+            "justification"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "duty (to one\u0027s country, sovereign, etc.)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "知名",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "知名",
+          "reading": "ちめい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "well-known"
+          ],
+          "parts_of_speech": [
+            "Na-adjective",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "呼び名",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "呼び名",
+          "reading": "よびな"
+        },
+        {
+          "word": "呼名",
+          "reading": "よびな"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "popular name",
+            "common name",
+            "given name"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "名乗り出る",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "名乗り出る",
+          "reading": "なのりでる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to introduce oneself",
+            "to announce oneself (e.g. as the person sought)",
+            "to come forward (e.g. as a witness, with a claim, etc.)"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "異名",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "異名",
+          "reading": "いみょう"
+        },
+        {
+          "word": "異名",
+          "reading": "いめい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "another name",
+            "nickname",
+            "alias"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "synonym (taxonomy)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "いめい"
+          ],
+          "see_also": [
+            "シノニム"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "書名",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "書名",
+          "reading": "しょめい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "book title"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "名義",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "名義",
+          "reading": "めいぎ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "name (esp. on a deed, contract, etc.)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "moral duty"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "名分"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "justification",
+            "pretext"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "名目",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "名目",
+          "reading": "めいもく"
+        },
+        {
+          "word": "名目",
+          "reading": "みょうもく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "name",
+            "title",
+            "appellation",
+            "(something) nominal"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "(under the) pretext (of)",
+            "pretense"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "名案",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "名案",
+          "reading": "めいあん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "good idea"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "渾名",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "あだ名",
+          "reading": "あだな"
+        },
+        {
+          "word": "渾名",
+          "reading": "あだな"
+        },
+        {
+          "word": "綽名",
+          "reading": "あだな"
+        },
+        {
+          "word": "諢名",
+          "reading": "あだな"
+        },
+        {
+          "word": "仇名",
+          "reading": "あだな"
+        },
+        {
+          "word": "渾名",
+          "reading": "こんめい"
+        },
+        {
+          "word": "諢名",
+          "reading": "こんめい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "nickname"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "名古屋",
+      "is_common": true,
+      "tags": [
+        "wanikani9"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "名古屋",
+          "reading": "なごや"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Nagoya (city)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "有名人",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "有名人",
+          "reading": "ゆうめいじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "celebrity",
+            "famous person",
+            "public figure",
+            "big name"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "不名誉",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "不名誉",
+          "reading": "ふめいよ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dishonor",
+            "dishonour",
+            "disgrace",
+            "shame"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "悪名高い",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "悪名高い",
+          "reading": "あくみょうたかい"
+        },
+        {
+          "word": "悪名高い",
+          "reading": "あくみょうだかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "infamous",
+            "notorious"
+          ],
+          "parts_of_speech": [
+            "I-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "名医",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "名医",
+          "reading": "めいい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "noted doctor",
+            "excellent physician"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "家名",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "家名",
+          "reading": "かめい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "family name",
+            "house name"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "family honour",
+            "family honor"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "名士",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "名士",
+          "reading": "めいし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "celebrity",
+            "personage"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "名ばかり",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "名ばかり",
+          "reading": "なばかり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "in name only",
+            "titular",
+            "nominal"
+          ],
+          "parts_of_speech": [
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "売名",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "売名",
+          "reading": "ばいめい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "self-advertisement"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "名家",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "名家",
+          "reading": "めいか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "distinguished family",
+            "noted family",
+            "noble family"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "family status in the Imperial Court"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "家格"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "master (of a craft)",
+            "expert"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "名付け親",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "名付け親",
+          "reading": "なづけおや"
+        },
+        {
+          "word": "名付親",
+          "reading": "なづけおや"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "godparent"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "first person to give something its name"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "名文",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "名文",
+          "reading": "めいぶん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "famous literary composition"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "功名",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "功名",
+          "reading": "こうみょう"
+        },
+        {
+          "word": "功名",
+          "reading": "こうめい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "great achievement",
+            "glorious deed",
+            "(gaining) fame",
+            "(earning) distinction"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "名誉毀損",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "名誉毀損",
+          "reading": "めいよきそん"
+        },
+        {
+          "word": "名誉棄損",
+          "reading": "めいよきそん"
+        },
+        {
+          "word": "名誉き損",
+          "reading": "めいよきそん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "libel",
+            "defamation",
+            "slander",
+            "character assassination"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Defamation"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Defamation” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Defamation?oldid\u003d494743366"
+            },
+            {
+              "text": "Read “名誉毀損” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/名誉毀損?oldid\u003d42333363"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Defamation"
+      }
+    },
+    {
+      "slug": "名無しの権兵衛",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "名無しの権兵衛",
+          "reading": "ななしのごんべえ"
+        },
+        {
+          "word": "名なしの権兵衛",
+          "reading": "ななしのごんべえ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "John Doe",
+            "Mr. Nobody"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Colloquialism",
+            "Jocular, humorous term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "John Doe"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “John Doe” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/John_Doe?oldid\u003d491562618"
+            },
+            {
+              "text": "Read “名無しの権兵衛” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/名無しの権兵衛?oldid\u003d41400336"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/John_Doe"
+      }
+    },
+    {
+      "slug": "可算名詞",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "可算名詞",
+          "reading": "かさんめいし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "countable noun"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "linguistics terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Count noun"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Count noun” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Count_noun?oldid\u003d494900255"
+            },
+            {
+              "text": "Read “可算名詞” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/可算名詞?oldid\u003d26517760"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Count_noun"
+      }
+    },
+    {
+      "slug": "東名高速道路",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "東名高速道路",
+          "reading": "とうめいこうそくどうろ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Tokyo-Nagoya Expressway"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Tōmei Expressway"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Tōmei Expressway” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Tōmei_Expressway?oldid\u003d490683028"
+            },
+            {
+              "text": "Read “東名高速道路” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/東名高速道路?oldid\u003d42506409"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Tōmei_Expressway"
+      }
+    },
+    {
+      "slug": "名残",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "名残",
+          "reading": "なごり"
+        },
+        {
+          "word": "名残り",
+          "reading": "なごり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "remains",
+            "traces",
+            "vestiges",
+            "relics"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "(the sorrow of) parting"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "end"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "本名",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "本名",
+          "reading": "ほんみょう"
+        },
+        {
+          "word": "本名",
+          "reading": "ほんめい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "real name"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "姓名",
+      "is_common": true,
+      "tags": [
+        "wanikani36"
+      ],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "姓名",
+          "reading": "せいめい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "full name"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "名産",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "名産",
+          "reading": "めいさん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "noted product",
+            "local specialty"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "名物"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "名乗り",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "名乗り",
+          "reading": "なのり"
+        },
+        {
+          "word": "名告り",
+          "reading": "なのり"
+        },
+        {
+          "word": "名のり",
+          "reading": "なのり"
+        },
+        {
+          "word": "名乗",
+          "reading": "なのり"
+        },
+        {
+          "word": "名告",
+          "reading": "なのり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "giving one\u0027s name (or rank, etc.)",
+            "self-introduction"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "名ノリ"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "name readings of kanji"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Nanori"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Nanori"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Nanori” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Nanori?oldid\u003d480321441"
+            },
+            {
+              "text": "Read “名乗り” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/名乗り?oldid\u003d40742109"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "http://dbpedia.org/resource/Nanori"
+      }
+    },
+    {
+      "slug": "名-1",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "名",
+          "reading": "めい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "counter for people (usu. seating, reservations and such)"
+          ],
+          "parts_of_speech": [
+            "Counter"
+          ],
+          "links": [],
+          "tags": [
+            "Honorific or respectful (sonkeigo)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "first name"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "famous",
+            "great"
+          ],
+          "parts_of_speech": [
+            "Prefix"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "名探偵"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "name"
+          ],
+          "parts_of_speech": [
+            "Suffix"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "コード名",
+            "学校名"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "noun"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Abbreviation"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "名詞"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "part of speech tag used in dictionaries"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "指名通話",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "指名通話",
+          "reading": "しめいつうわ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "person-to-person call",
+            "personal call"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "関係代名詞",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "関係代名詞",
+          "reading": "かんけいだいめいし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "relative pronoun"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "linguistics terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "関係代名詞",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "関係代名詞",
+          "reading": "かんけいだいめいし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "relative pronoun"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "linguistics terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何名",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "何名",
+          "reading": "なんめい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "how many people"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "名 めい"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "名詞句",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "名詞句",
+          "reading": "めいしく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "noun phrase",
+            "NP"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "linguistics terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "名目上",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "名目上",
+          "reading": "めいもくじょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "in name",
+            "on paper"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "名目"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "下の名前",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "下の名前",
+          "reading": "したのなまえ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "first name",
+            "given name"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "名探偵",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "名探偵",
+          "reading": "めいたんてい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "great detective"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "抽象名詞",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "抽象名詞",
+          "reading": "ちゅうしょうめいし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "abstract noun"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "linguistics terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "宛名書き",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "宛名書き",
+          "reading": "あてながき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "addressing (e.g. writing an address on an envelope)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "数名",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "数名",
+          "reading": "すうめい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "several people"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "不可算名詞",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "不可算名詞",
+          "reading": "ふかさんめいし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "uncountable noun"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "linguistics terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [
+            "可算名詞"
+          ],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "件名",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "件名",
+          "reading": "けんめい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "subject",
+            "title"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "subject (of an email)",
+            "subject line"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "浮き名",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "浮き名",
+          "reading": "うきな"
+        },
+        {
+          "word": "浮名",
+          "reading": "うきな"
+        },
+        {
+          "word": "憂き名",
+          "reading": "うきな"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rumour (of a love affair)",
+            "rumor",
+            "romance",
+            "scandal"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "浮き名",
+            "浮名"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "bad reputation"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "指示代名詞",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "指示代名詞",
+          "reading": "しじだいめいし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "demonstrative pronoun"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "linguistics terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "e.g. それ, これ, あれ, etc."
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "名誉除隊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "名誉除隊",
+          "reading": "めいよじょたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "honorable discharge",
+            "honourable discharge"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "不名誉除隊"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "名詩",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "名詩",
+          "reading": "めいし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "excellent poem",
+            "fine poetry"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "成分名",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "成分名",
+          "reading": "せいぶんめい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "ingredient name",
+            "constituent name"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "成分"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "名前負け",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "名前負け",
+          "reading": "なまえまけ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "failing to live up to one\u0027s name",
+            "being beaten by one\u0027s name"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "署名運動",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "署名運動",
+          "reading": "しょめいうんどう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "signature-collecting campaign"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "同名異人",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "同名異人",
+          "reading": "どうめいいじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "namesake",
+            "person with the same name"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "名状",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "名状",
+          "reading": "めいじょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "description",
+            "describing",
+            "depicting"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

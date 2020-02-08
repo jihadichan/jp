@@ -1,0 +1,1644 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "昼",
+      "is_common": true,
+      "tags": [
+        "wanikani15"
+      ],
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "昼",
+          "reading": "ひる"
+        },
+        {
+          "word": "午",
+          "reading": "ひる"
+        },
+        {
+          "word": "晝",
+          "reading": "ひる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "noon",
+            "midday"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "御昼"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "daytime"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "昼",
+            "晝"
+          ],
+          "see_also": [
+            "御昼"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "lunch"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "昼",
+            "晝"
+          ],
+          "see_also": [
+            "御昼"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Daylight"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Daylight” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Daylight?oldid\u003d478973339"
+            },
+            {
+              "text": "Read “昼” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/昼?oldid\u003d39782085"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Daylight"
+      }
+    },
+    {
+      "slug": "正午",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "正午",
+          "reading": "しょうご"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "noon",
+            "midday"
+          ],
+          "parts_of_speech": [
+            "Adverbial noun",
+            "Temporal noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Noon"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Noon” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Noon?oldid\u003d494362803"
+            },
+            {
+              "text": "Read “正午” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/正午?oldid\u003d42658903"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Noon"
+      }
+    },
+    {
+      "slug": "午後",
+      "is_common": true,
+      "tags": [
+        "wanikani6"
+      ],
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "午後",
+          "reading": "ごご"
+        },
+        {
+          "word": "午后",
+          "reading": "ごご"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "afternoon",
+            "p.m."
+          ],
+          "parts_of_speech": [
+            "Adverbial noun",
+            "Temporal noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "午前",
+      "is_common": true,
+      "tags": [
+        "wanikani6"
+      ],
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "午前",
+          "reading": "ごぜん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "morning",
+            "a.m."
+          ],
+          "parts_of_speech": [
+            "Adverbial noun",
+            "Temporal noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "子午線",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "子午線",
+          "reading": "しごせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "meridian",
+            "meridian line"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Meridian (geography)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Meridian (geography)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Meridian_(geography)?oldid\u003d494625715"
+            },
+            {
+              "text": "Read “子午線” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/子午線?oldid\u003d41611490"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Meridian_(geography)"
+      }
+    },
+    {
+      "slug": "昼過ぎ",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "昼過ぎ",
+          "reading": "ひるすぎ"
+        },
+        {
+          "word": "昼すぎ",
+          "reading": "ひるすぎ"
+        },
+        {
+          "word": "午過ぎ",
+          "reading": "ひるすぎ"
+        },
+        {
+          "word": "午すぎ",
+          "reading": "ひるすぎ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "just past noon",
+            "afternoon"
+          ],
+          "parts_of_speech": [
+            "Temporal noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "午前中",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "午前中",
+          "reading": "ごぜんちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "in the morning",
+            "during the morning"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "午",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "午",
+          "reading": "うま"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "seventh sign of the Chinese zodiac (The Horse, 11am-1pm, south, May)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Uma"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Horse (zodiac)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Horse (zodiac)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Horse_(zodiac)?oldid\u003d494259141"
+            },
+            {
+              "text": "Read “午” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/午?oldid\u003d40774297"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "http://dbpedia.org/resource/Horse_(zodiac)"
+      }
+    },
+    {
+      "slug": "午後中",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "午後中",
+          "reading": "ごごじゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "throughout the afternoon"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "端午の節句",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "端午の節句",
+          "reading": "たんごのせっく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Boy\u0027s Day celebration (May 5)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "端午"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "端午",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "端午",
+          "reading": "たんご"
+        },
+        {
+          "word": "端五",
+          "reading": "たんご"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Boy\u0027s Day celebration (May 5)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "五節句",
+            "端午の節句 たんごのせっく"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Duanwu Festival"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Duanwu Festival” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Duanwu_Festival?oldid\u003d495306373"
+            },
+            {
+              "text": "Read “端午” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/端午?oldid\u003d42340389"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Duanwu_Festival"
+      }
+    },
+    {
+      "slug": "丙午",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "丙午",
+          "reading": "ひのえうま"
+        },
+        {
+          "word": "丙午",
+          "reading": "へいご"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "43rd year of the sexagenary cycle (year of the Fire Horse, renowned for disasters and the birth of women destined to kill their husbands)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Bingwu"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Bingwu” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Bingwu?oldid\u003d490288004"
+            },
+            {
+              "text": "Read “丙午” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/丙午?oldid\u003d42199967"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Bingwu"
+      }
+    },
+    {
+      "slug": "午蹄中目",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "午蹄中目",
+          "reading": "ごていちゅうもく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Meridiungulata",
+            "extinct clade of South American ungulates"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Meridiungulata"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Meridiungulata” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Meridiungulata?oldid\u003d492955950"
+            },
+            {
+              "text": "Read “午蹄中目” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/午蹄中目?oldid\u003d42530802"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Meridiungulata"
+      }
+    },
+    {
+      "slug": "壬午",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "壬午",
+          "reading": "みずのえうま"
+        },
+        {
+          "word": "壬午",
+          "reading": "じんご"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "nineteenth of the sexagenary cycle"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "干支"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "午刻",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "午刻",
+          "reading": "ごこく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "noon"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "戊午",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "戊午",
+          "reading": "つちのえうま"
+        },
+        {
+          "word": "戊午",
+          "reading": "ぼご"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "55th of the sexagenary cycle"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "干支"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "午前様",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "午前様",
+          "reading": "ごぜんさま"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "coming home after midnight",
+            "person who comes home after midnight"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "御前様 ごぜんさま"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "午前零時",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "午前零時",
+          "reading": "ごぜんれいじ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "midnight",
+            "12 AM"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "初午",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "初午",
+          "reading": "はつうま"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "first \"horse day\" in any lunar month, but esp. the second lunar month",
+            "traditional day for worship at \"fox deity\" shrines"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "視正午",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "視正午",
+          "reading": "ししょうご"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "apparent noon",
+            "true noon"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "真正午"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "午前零時",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "午前零時",
+          "reading": "ごぜんれいじ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "midnight",
+            "12 AM"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "午年",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "午年",
+          "reading": "うまどし"
+        },
+        {
+          "word": "うま年",
+          "reading": "うまどし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "year of the horse"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "午餐",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "午餐",
+          "reading": "ごさん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "lunch",
+            "dinner"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "初午",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "初午",
+          "reading": "はつうま"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "first \"horse day\" in any lunar month, but esp. the second lunar month",
+            "traditional day for worship at \"fox deity\" shrines"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "視正午",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "視正午",
+          "reading": "ししょうご"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "apparent noon",
+            "true noon"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "真正午"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "庚午年籍",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "庚午年籍",
+          "reading": "こうごねんじゃく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Kōgo register",
+            "Japan\u0027s first census register (670)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "午後一",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "午後一",
+          "reading": "ごごいち"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "first thing in the afternoon"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "午刻",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "午刻",
+          "reading": "ごこく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "noon"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "亭午",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "亭午",
+          "reading": "ていご"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "noon"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "甲午",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "甲午",
+          "reading": "きのえうま"
+        },
+        {
+          "word": "甲午",
+          "reading": "こうご"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "31st of the sexagenary cycle"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "干支"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "子午環",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "子午環",
+          "reading": "しごかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "meridian circle"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "午睡",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "午睡",
+          "reading": "ごすい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "nap",
+            "siesta"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "午砲",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "午砲",
+          "reading": "ごほう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "noon gun",
+            "noonday gun"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "本初子午線",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "本初子午線",
+          "reading": "ほんしょしごせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "prime meridian"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "甲午農民戦争",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "甲午農民戦争",
+          "reading": "こうごのうみんせんそう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Donghak Peasant Revolution"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Donghak Peasant Revolution"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Donghak Peasant Revolution” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Donghak_Peasant_Revolution?oldid\u003d494220801"
+            },
+            {
+              "text": "Read “甲午農民戦争” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/甲午農民戦争?oldid\u003d42644997"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Donghak_Peasant_Revolution"
+      }
+    },
+    {
+      "slug": "庚午",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "庚午",
+          "reading": "かのえうま"
+        },
+        {
+          "word": "庚午",
+          "reading": "こうご"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "seventh of the sexagenary cycle"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "干支"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Kougo"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "午後零時",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "午後零時",
+          "reading": "ごごれいじ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "noon",
+            "12 PM"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

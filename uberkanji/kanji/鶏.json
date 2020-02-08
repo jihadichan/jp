@@ -1,0 +1,4790 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "鳥",
+      "is_common": true,
+      "tags": [
+        "wanikani7"
+      ],
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "鳥",
+          "reading": "とり"
+        },
+        {
+          "word": "鶏",
+          "reading": "とり"
+        },
+        {
+          "word": "禽",
+          "reading": "とり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "bird"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "bird meat (esp. chicken meat)",
+            "fowl",
+            "poultry"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "鶏"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "鶏肉",
+      "is_common": true,
+      "tags": [
+        "wanikani58"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鶏肉",
+          "reading": "とりにく"
+        },
+        {
+          "word": "鳥肉",
+          "reading": "とりにく"
+        },
+        {
+          "word": "とり肉",
+          "reading": "とりにく"
+        },
+        {
+          "word": "鶏肉",
+          "reading": "けいにく"
+        },
+        {
+          "word": "鳥肉",
+          "reading": "ちょうにく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "chicken meat"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "fowl",
+            "poultry",
+            "bird meat"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "鳥肉",
+            "とり肉"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Chicken (food)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Chicken (food)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Chicken_(food)?oldid\u003d493921167"
+            },
+            {
+              "text": "Read “鶏肉” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/鶏肉?oldid\u003d42441530"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Chicken_(food)"
+      }
+    },
+    {
+      "slug": "鶏卵",
+      "is_common": false,
+      "tags": [
+        "wanikani58"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鶏卵",
+          "reading": "けいらん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "hen\u0027s egg"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Egg (food)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Egg (food)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Egg_(food)?oldid\u003d491449794"
+            },
+            {
+              "text": "Read “鶏卵” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/鶏卵?oldid\u003d42776952"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Egg_(food)"
+      }
+    },
+    {
+      "slug": "鶏",
+      "is_common": true,
+      "tags": [
+        "wanikani58"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鶏",
+          "reading": "にわとり"
+        },
+        {
+          "word": "鶏",
+          "reading": "とり"
+        },
+        {
+          "word": "鶏",
+          "reading": "かけ"
+        },
+        {
+          "word": "鶏",
+          "reading": "くたかけ"
+        },
+        {
+          "reading": "ニワトリ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "chicken (Gallus gallus domesticus)",
+            "domestic chicken"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "chicken meat"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "鶏肉"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "楓",
+      "is_common": false,
+      "tags": [
+        "wanikani57"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "楓",
+          "reading": "かえで"
+        },
+        {
+          "word": "槭樹",
+          "reading": "かえで"
+        },
+        {
+          "word": "楓",
+          "reading": "かえるで"
+        },
+        {
+          "word": "蛙手",
+          "reading": "かえるで"
+        },
+        {
+          "word": "鶏冠木",
+          "reading": "かえるで"
+        },
+        {
+          "reading": "カエデ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "maple (tree) (Acer spp.)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Kaede"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Kaede” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Kaede?oldid\u003d490570306"
+            },
+            {
+              "text": "Read “楓” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/楓?oldid\u003d40451777"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Kaede"
+      }
+    },
+    {
+      "slug": "養鶏場",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "養鶏場",
+          "reading": "ようけいじょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "poultry or chicken farm"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Youkeijou"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "牝鳥",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "雌鳥",
+          "reading": "めんどり"
+        },
+        {
+          "word": "雌鶏",
+          "reading": "めんどり"
+        },
+        {
+          "word": "牝鶏",
+          "reading": "めんどり"
+        },
+        {
+          "word": "めん鶏",
+          "reading": "めんどり"
+        },
+        {
+          "word": "めん鳥",
+          "reading": "めんどり"
+        },
+        {
+          "word": "牝鳥",
+          "reading": "めんどり"
+        },
+        {
+          "reading": "メンドリ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "female bird",
+            "hen"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "雄鳥",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "雄鶏",
+          "reading": "おんどり"
+        },
+        {
+          "word": "雄鳥",
+          "reading": "おんどり"
+        },
+        {
+          "word": "牡鶏",
+          "reading": "おんどり"
+        },
+        {
+          "word": "おん鳥",
+          "reading": "おんどり"
+        },
+        {
+          "word": "おん鶏",
+          "reading": "おんどり"
+        },
+        {
+          "word": "牡鳥",
+          "reading": "おんどり"
+        },
+        {
+          "reading": "オンドリ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "cock",
+            "rooster",
+            "chanticleer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "鶏舎",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鶏舎",
+          "reading": "けいしゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "poultry house"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "鶏胸肉",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鶏胸肉",
+          "reading": "とりむねにく"
+        },
+        {
+          "word": "とりむね肉",
+          "reading": "とりむねにく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "chicken breast meat"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "養鶏業",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "養鶏業",
+          "reading": "ようけいぎょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "the poultry industry",
+            "poultry farming"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "鶏口",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鶏口",
+          "reading": "けいこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "mouth of a chicken"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "牛後"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "鳥肌",
+      "is_common": false,
+      "tags": [
+        "wanikani45"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳥肌",
+          "reading": "とりはだ"
+        },
+        {
+          "word": "鶏肌",
+          "reading": "とりはだ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "gooseflesh",
+            "goose pimples",
+            "goose bumps"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Goose bumps"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Goose bumps” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Goose_bumps?oldid\u003d494746838"
+            },
+            {
+              "text": "Read “鳥肌” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/鳥肌?oldid\u003d41898522"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Goose_bumps"
+      }
+    },
+    {
+      "slug": "養鶏",
+      "is_common": false,
+      "tags": [
+        "wanikani58"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "養鶏",
+          "reading": "ようけい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "poultry raising",
+            "poultry farming",
+            "chicken farming"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "鶏冠",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鶏冠",
+          "reading": "とさか"
+        },
+        {
+          "word": "鶏冠",
+          "reading": "けいかん"
+        },
+        {
+          "reading": "トサカ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "cockscomb",
+            "crest"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "頭青花鶏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頭青花鶏",
+          "reading": "ずあおあとり"
+        },
+        {
+          "reading": "ズアオアトリ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "chaffinch (Fringilla coelebs)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Chaffinch"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Chaffinch” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Chaffinch?oldid\u003d495489857"
+            },
+            {
+              "text": "Read “ズアオアトリ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/ズアオアトリ?oldid\u003d42754232"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Chaffinch"
+      }
+    },
+    {
+      "slug": "風見鶏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "風見鶏",
+          "reading": "かざみどり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "weather vane"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "fence-sitter",
+            "opportunist"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Weather vane"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Weather vane” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Weather_vane?oldid\u003d494211990"
+            },
+            {
+              "text": "Read “風見鶏” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/風見鶏?oldid\u003d42141161"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Weather_vane"
+      }
+    },
+    {
+      "slug": "眉白水鶏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "眉白水鶏",
+          "reading": "まみじろくいな"
+        },
+        {
+          "word": "眉白秧鶏",
+          "reading": "まみじろくいな"
+        },
+        {
+          "reading": "マミジロクイナ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "white-browed crake (species of rail, Porzana cinerea)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "White-browed Crake"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “White-browed Crake” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/White-browed_Crake?oldid\u003d491243534"
+            },
+            {
+              "text": "Read “マミジロクイナ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/マミジロクイナ?oldid\u003d42403964"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/White-browed_Crake"
+      }
+    },
+    {
+      "slug": "緋秧鶏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "緋秧鶏",
+          "reading": "ひくいな"
+        },
+        {
+          "word": "緋水鶏",
+          "reading": "ひくいな"
+        },
+        {
+          "reading": "ヒクイナ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "ruddy-breasted crake (Porzana fusca)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Ruddy-breasted Crake"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Ruddy-breasted Crake” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Ruddy-breasted_Crake?oldid\u003d493520697"
+            },
+            {
+              "text": "Read “ヒクイナ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/ヒクイナ?oldid\u003d42604165"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Ruddy-breasted_Crake"
+      }
+    },
+    {
+      "slug": "鶉水鶏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鶉水鶏",
+          "reading": "うずらくいな"
+        },
+        {
+          "word": "鶉秧鶏",
+          "reading": "うずらくいな"
+        },
+        {
+          "reading": "ウズラクイナ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "corn crake",
+            "corncrake",
+            "land rail (Crex crex)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Corn Crake"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Corn Crake” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Corn_Crake?oldid\u003d494537291"
+            },
+            {
+              "text": "Read “ウズラクイナ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/ウズラクイナ?oldid\u003d42428993"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Corn_Crake"
+      }
+    },
+    {
+      "slug": "花鶏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "花鶏",
+          "reading": "あとり"
+        },
+        {
+          "word": "獦子鳥",
+          "reading": "あとり"
+        },
+        {
+          "reading": "アトリ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "brambling (bird) (Fringilla montifringilla)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Brambling"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Brambling” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Brambling?oldid\u003d491093895"
+            },
+            {
+              "text": "Read “アトリ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/アトリ?oldid\u003d42391391"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Brambling"
+      }
+    },
+    {
+      "slug": "鶏卵素麺",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鶏卵素麺",
+          "reading": "けいらんそうめん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sweet of egg yolks drawn into strands and boiled in sugar syrup (orig. from Portugal)",
+            "angel hair",
+            "fios de ovos"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "南蛮菓子 なんばんがし"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Fios de ovos"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Fios de ovos” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Fios_de_ovos?oldid\u003d492461519"
+            },
+            {
+              "text": "Read “鶏卵素麺” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/鶏卵素麺?oldid\u003d42301153"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Fios_de_ovos"
+      }
+    },
+    {
+      "slug": "地鳥",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "地鳥",
+          "reading": "じどり"
+        },
+        {
+          "word": "地鳥",
+          "reading": "じとり"
+        },
+        {
+          "word": "地鶏",
+          "reading": "じどり"
+        },
+        {
+          "word": "地鶏",
+          "reading": "じとり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "nationally protected chicken breed",
+            "free-range local traditional pedigree chicken",
+            "chicken meat from same"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "locally raised chicken"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "地鳥"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Free range"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Free range” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Free_range?oldid\u003d492881535"
+            },
+            {
+              "text": "Read “地鶏” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/地鶏?oldid\u003d40091484"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Free_range"
+      }
+    },
+    {
+      "slug": "山原水鶏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "山原水鶏",
+          "reading": "やんばるくいな"
+        },
+        {
+          "reading": "ヤンバルクイナ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Okinawa rail (Gallirallus okinawae)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Okinawa Rail"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Okinawa Rail” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Okinawa_Rail?oldid\u003d491182642"
+            },
+            {
+              "text": "Read “ヤンバルクイナ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/ヤンバルクイナ?oldid\u003d42655314"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Okinawa_Rail"
+      }
+    },
+    {
+      "slug": "闘鶏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "闘鶏",
+          "reading": "とうけい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "cockfight",
+            "fighting cock"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Cockfight"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Cockfight” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Cockfight?oldid\u003d495401487"
+            },
+            {
+              "text": "Read “闘鶏” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/闘鶏?oldid\u003d42666022"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Cockfight"
+      }
+    },
+    {
+      "slug": "眉白水鶏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "眉白水鶏",
+          "reading": "まみじろくいな"
+        },
+        {
+          "word": "眉白秧鶏",
+          "reading": "まみじろくいな"
+        },
+        {
+          "reading": "マミジロクイナ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "white-browed crake (species of rail, Porzana cinerea)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "White-browed Crake"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “White-browed Crake” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/White-browed_Crake?oldid\u003d491243534"
+            },
+            {
+              "text": "Read “マミジロクイナ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/マミジロクイナ?oldid\u003d42403964"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/White-browed_Crake"
+      }
+    },
+    {
+      "slug": "鶏冠石",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鶏冠石",
+          "reading": "けいかんせき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "realgar"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Realgar"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Realgar” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Realgar?oldid\u003d483774345"
+            },
+            {
+              "text": "Read “鶏冠石” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/鶏冠石?oldid\u003d41999760"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Realgar"
+      }
+    },
+    {
+      "slug": "鶉水鶏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鶉水鶏",
+          "reading": "うずらくいな"
+        },
+        {
+          "word": "鶉秧鶏",
+          "reading": "うずらくいな"
+        },
+        {
+          "reading": "ウズラクイナ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "corn crake",
+            "corncrake",
+            "land rail (Crex crex)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Corn Crake"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Corn Crake” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Corn_Crake?oldid\u003d494537291"
+            },
+            {
+              "text": "Read “ウズラクイナ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/ウズラクイナ?oldid\u003d42428993"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Corn_Crake"
+      }
+    },
+    {
+      "slug": "頭青花鶏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頭青花鶏",
+          "reading": "ずあおあとり"
+        },
+        {
+          "reading": "ズアオアトリ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "chaffinch (Fringilla coelebs)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Chaffinch"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Chaffinch” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Chaffinch?oldid\u003d495489857"
+            },
+            {
+              "text": "Read “ズアオアトリ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/ズアオアトリ?oldid\u003d42754232"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Chaffinch"
+      }
+    },
+    {
+      "slug": "鶏頭",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鶏頭",
+          "reading": "けいとう"
+        },
+        {
+          "reading": "ケイトウ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "silver cock\u0027s comb (Celosia argentea, esp. crested cock\u0027s comb, Celosia argentea var. cristata)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Celosia argentea"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Celosia argentea” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Celosia_argentea?oldid\u003d495090770"
+            },
+            {
+              "text": "Read “ケイトウ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/ケイトウ?oldid\u003d42721677"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Celosia_argentea"
+      }
+    },
+    {
+      "slug": "鶏飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鶏飯",
+          "reading": "けいはん"
+        },
+        {
+          "reading": "ケーファン"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dish of seasoned chicken with rice, pickles, etc. (from Kagoshima and Okinawa)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Keihan rice"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Keihan rice” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Keihan_rice?oldid\u003d472515832"
+            },
+            {
+              "text": "Read “鶏飯” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/鶏飯?oldid\u003d42578318"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Keihan_rice"
+      }
+    },
+    {
+      "slug": "緋秧鶏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "緋秧鶏",
+          "reading": "ひくいな"
+        },
+        {
+          "word": "緋水鶏",
+          "reading": "ひくいな"
+        },
+        {
+          "reading": "ヒクイナ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "ruddy-breasted crake (Porzana fusca)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Ruddy-breasted Crake"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Ruddy-breasted Crake” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Ruddy-breasted_Crake?oldid\u003d493520697"
+            },
+            {
+              "text": "Read “ヒクイナ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/ヒクイナ?oldid\u003d42604165"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Ruddy-breasted_Crake"
+      }
+    },
+    {
+      "slug": "軍鶏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "軍鶏",
+          "reading": "しゃも"
+        },
+        {
+          "word": "軍鶏",
+          "reading": "ぐんけい"
+        },
+        {
+          "reading": "シャモ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "game fowl",
+            "gamecock"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "暹羅 シャム"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "しゃも from the old word for Siam"
+          ]
+        },
+        {
+          "english_definitions": [
+            "Shamo (chicken)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Shamo (chicken)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Shamo_(chicken)?oldid\u003d490244099"
+            },
+            {
+              "text": "Read “軍鶏” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/軍鶏?oldid\u003d42570559"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Shamo_(chicken)"
+      }
+    },
+    {
+      "slug": "水鶏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "水鶏",
+          "reading": "くいな"
+        },
+        {
+          "word": "秧鶏",
+          "reading": "くいな"
+        },
+        {
+          "reading": "クイナ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rail (any bird of family Rallidae, esp. the water rail, Rallus aquaticus)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Water Rail"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Water Rail” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Water_Rail?oldid\u003d492567114"
+            },
+            {
+              "text": "Read “クイナ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/クイナ?oldid\u003d42504862"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Water_Rail"
+      }
+    },
+    {
+      "slug": "頭黒鶏冠鳧",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頭黒鶏冠鳧",
+          "reading": "ずぐろとさかげり"
+        },
+        {
+          "reading": "ズグロトサカゲリ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "masked lapwing (Vanellus miles)",
+            "masked plover",
+            "spur-winged plover"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Masked Lapwing"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Masked Lapwing” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Masked_Lapwing?oldid\u003d493582691"
+            },
+            {
+              "text": "Read “ズグロトサカゲリ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/ズグロトサカゲリ?oldid\u003d42403701"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Masked_Lapwing"
+      }
+    },
+    {
+      "slug": "赤色野鶏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "赤色野鶏",
+          "reading": "せきしょくやけい"
+        },
+        {
+          "reading": "セキショクヤケイ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "red jungle fowl (Gallus gallus)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Red Junglefowl"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Red Junglefowl” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Red_Junglefowl?oldid\u003d494541010"
+            },
+            {
+              "text": "Read “セキショクヤケイ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/セキショクヤケイ?oldid\u003d42337771"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Red_Junglefowl"
+      }
+    },
+    {
+      "slug": "小綬鶏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "小綬鶏",
+          "reading": "こじゅけい"
+        },
+        {
+          "reading": "コジュケイ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Chinese bamboo partridge (Bambusicola thoracicus)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Chinese Bamboo Partridge"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Chinese Bamboo Partridge” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Chinese_Bamboo_Partridge?oldid\u003d490805664"
+            },
+            {
+              "text": "Read “コジュケイ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/コジュケイ?oldid\u003d42373309"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Chinese_Bamboo_Partridge"
+      }
+    },
+    {
+      "slug": "若鳥",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "若鳥",
+          "reading": "わかどり"
+        },
+        {
+          "word": "若鶏",
+          "reading": "わかどり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "chick",
+            "chicken"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "比内鶏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "比内鶏",
+          "reading": "ひないどり"
+        },
+        {
+          "word": "比内鳥",
+          "reading": "ひないどり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "breed of chicken native to Akita Prefecture"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "比内地鳥",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "比内地鳥",
+          "reading": "ひないじどり"
+        },
+        {
+          "word": "比内地鶏",
+          "reading": "ひないじどり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "cross between Hinai-dori and Rhode Island Red chickens"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "比内鶏"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "錦鶏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錦鶏",
+          "reading": "きんけい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "golden pheasant"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "油淋鶏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "油淋鶏",
+          "reading": "ユーリンチー"
+        },
+        {
+          "word": "油淋鶏",
+          "reading": "ユーリンジー"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Chinese-style fried chicken topped with chopped scallions and sweet vinegar and soy sauce"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Food term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [
+            {
+              "language": "Chinese",
+              "word": "“yóu lín jī”"
+            }
+          ],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "巣鶏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "巣鶏",
+          "reading": "すどり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "setting hen"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "矮鶏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "矮鶏",
+          "reading": "チャボ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(Japanese) bantam"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [
+            {
+              "language": "Vietnamese",
+              "word": ""
+            }
+          ],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "蒸し鶏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蒸し鶏",
+          "reading": "むしどり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "steamed chicken"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Food term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "三番鶏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "三番鶏",
+          "reading": "さんばんどり"
+        },
+        {
+          "word": "三番鳥",
+          "reading": "さんばんどり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "third cockcrowing"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "種鶏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "種鶏",
+          "reading": "しゅけい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "parent stock (for chickens)",
+            "breeder"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "成鶏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "成鶏",
+          "reading": "せいけい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "adult chicken",
+            "mature fowl"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "黄鶏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "黄鶏",
+          "reading": "かしわ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "chicken meat"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "鶏肉 とりにく"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "reddish-brown chicken"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "炸子鶏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "炸子鶏",
+          "reading": "ザーヅーチー"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(Chinese style) deep-fried chicken"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [
+            {
+              "language": "Chinese",
+              "word": "“zhaziji”"
+            }
+          ],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "養鶏家",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "養鶏家",
+          "reading": "ようけいか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "poultry farmer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "辣子鶏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "辣子鶏",
+          "reading": "ラーズージー"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "laziji",
+            "spicy Sichuan chicken dish"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [
+            {
+              "language": "Chinese",
+              "word": ""
+            }
+          ],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "尾長鶏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "尾長鶏",
+          "reading": "おながどり"
+        },
+        {
+          "word": "尾長鳥",
+          "reading": "おながどり"
+        },
+        {
+          "reading": "オナガドリ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "long-tailed cock",
+            "long-tailed fowl (variety of chicken)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "縞秧鶏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縞秧鶏",
+          "reading": "しまくいな"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Swinhoe\u0027s yellow rail (Porzana exquisita)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "鶏唐揚げ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鶏唐揚げ",
+          "reading": "とりからあげ"
+        },
+        {
+          "word": "鶏から揚げ",
+          "reading": "とりからあげ"
+        },
+        {
+          "word": "鶏唐揚",
+          "reading": "とりからあげ"
+        },
+        {
+          "word": "鳥唐揚げ",
+          "reading": "とりからあげ"
+        },
+        {
+          "word": "鳥から揚げ",
+          "reading": "とりからあげ"
+        },
+        {
+          "word": "とり唐揚げ",
+          "reading": "とりからあげ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "deep-fried chicken"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Food term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "一番鶏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "一番鶏",
+          "reading": "いちばんどり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "first cockcrowing"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "棒々鶏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "棒々鶏",
+          "reading": "バンバンジー"
+        },
+        {
+          "word": "棒棒鶏",
+          "reading": "バンバンジー"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "bang bang chicken (Szechuan dish of chicken in a spicy sauce)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [
+            {
+              "language": "Chinese",
+              "word": "“bang bang ji”"
+            }
+          ],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "鶏がら",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鶏がら",
+          "reading": "とりがら"
+        },
+        {
+          "word": "鳥がら",
+          "reading": "とりがら"
+        },
+        {
+          "word": "鳥殻",
+          "reading": "とりがら"
+        },
+        {
+          "word": "鶏殻",
+          "reading": "とりがら"
+        },
+        {
+          "word": "鶏ガラ",
+          "reading": "とりガラ"
+        },
+        {
+          "word": "鳥ガラ",
+          "reading": "とりガラ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "chicken bones",
+            "chicken carcass"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "殻 がら"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "長尾鶏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "長尾鶏",
+          "reading": "ながおどり"
+        },
+        {
+          "word": "長尾鳥",
+          "reading": "ながおどり"
+        },
+        {
+          "word": "長尾鶏",
+          "reading": "ちょうびけい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "long-tailed fowl (variety of chicken)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Obscure term"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "尾長鳥"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "野鶏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "野鶏",
+          "reading": "やけい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "fowl"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "辣子鶏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "辣子鶏",
+          "reading": "ラーズージー"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "laziji",
+            "spicy Sichuan chicken dish"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [
+            {
+              "language": "Chinese",
+              "word": ""
+            }
+          ],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "尾長鶏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "尾長鶏",
+          "reading": "おながどり"
+        },
+        {
+          "word": "尾長鳥",
+          "reading": "おながどり"
+        },
+        {
+          "reading": "オナガドリ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "long-tailed cock",
+            "long-tailed fowl (variety of chicken)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "縞秧鶏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縞秧鶏",
+          "reading": "しまくいな"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Swinhoe\u0027s yellow rail (Porzana exquisita)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "鶏姦",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鶏姦",
+          "reading": "けいかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "homosexual sex between males",
+            "buggery",
+            "sodomy"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "比内鶏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "比内鶏",
+          "reading": "ひないどり"
+        },
+        {
+          "word": "比内鳥",
+          "reading": "ひないどり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "breed of chicken native to Akita Prefecture"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "鶏唐揚げ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鶏唐揚げ",
+          "reading": "とりからあげ"
+        },
+        {
+          "word": "鶏から揚げ",
+          "reading": "とりからあげ"
+        },
+        {
+          "word": "鶏唐揚",
+          "reading": "とりからあげ"
+        },
+        {
+          "word": "鳥唐揚げ",
+          "reading": "とりからあげ"
+        },
+        {
+          "word": "鳥から揚げ",
+          "reading": "とりからあげ"
+        },
+        {
+          "word": "とり唐揚げ",
+          "reading": "とりからあげ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "deep-fried chicken"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Food term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "棒々鶏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "棒々鶏",
+          "reading": "バンバンジー"
+        },
+        {
+          "word": "棒棒鶏",
+          "reading": "バンバンジー"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "bang bang chicken (Szechuan dish of chicken in a spicy sauce)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [
+            {
+              "language": "Chinese",
+              "word": "“bang bang ji”"
+            }
+          ],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "鶏がら",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鶏がら",
+          "reading": "とりがら"
+        },
+        {
+          "word": "鳥がら",
+          "reading": "とりがら"
+        },
+        {
+          "word": "鳥殻",
+          "reading": "とりがら"
+        },
+        {
+          "word": "鶏殻",
+          "reading": "とりがら"
+        },
+        {
+          "word": "鶏ガラ",
+          "reading": "とりガラ"
+        },
+        {
+          "word": "鳥ガラ",
+          "reading": "とりガラ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "chicken bones",
+            "chicken carcass"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "殻 がら"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "鶏糞",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鶏糞",
+          "reading": "けいふん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "poultry manure",
+            "chicken droppings"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "錦鶏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錦鶏",
+          "reading": "きんけい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "golden pheasant"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "長尾鶏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "長尾鶏",
+          "reading": "ながおどり"
+        },
+        {
+          "word": "長尾鳥",
+          "reading": "ながおどり"
+        },
+        {
+          "word": "長尾鶏",
+          "reading": "ちょうびけい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "long-tailed fowl (variety of chicken)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Obscure term"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "尾長鳥"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "野鶏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "野鶏",
+          "reading": "やけい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "fowl"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "鶏冠海苔",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鶏冠海苔",
+          "reading": "とさかのり"
+        },
+        {
+          "reading": "トサカノリ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Meristotheca papulosa (species of edible red alga)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "矮鶏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "矮鶏",
+          "reading": "チャボ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(Japanese) bantam"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [
+            {
+              "language": "Vietnamese",
+              "word": ""
+            }
+          ],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "採卵鶏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "採卵鶏",
+          "reading": "さいらんけい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "egg-laying hens",
+            "layers"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "鳥刺し",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳥刺し",
+          "reading": "とりさし"
+        },
+        {
+          "word": "鶏刺し",
+          "reading": "とりさし"
+        },
+        {
+          "word": "鳥刺",
+          "reading": "とりさし"
+        },
+        {
+          "word": "鶏刺",
+          "reading": "とりさし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "catching birds (using a birdlime-covered pole)",
+            "bird catcher"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "slices of raw chicken meat",
+            "chicken sashimi"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "刺身"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "紐鶏頭",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紐鶏頭",
+          "reading": "ひもげいとう"
+        },
+        {
+          "reading": "ヒモゲイトウ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "love-lies-bleeding (Amaranthus caudatus)",
+            "tassel flower",
+            "velvet flower",
+            "foxtail amaranth",
+            "Inca wheat"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "大金鶏菊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "大金鶏菊",
+          "reading": "おおきんけいぎく"
+        },
+        {
+          "reading": "オオキンケイギク"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "tickseed (Coreopsis lanceolata)",
+            "tickweed",
+            "sand coreopsis",
+            "lanceleaf tickseed"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "一番鶏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "一番鶏",
+          "reading": "いちばんどり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "first cockcrowing"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "初鶏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "初鶏",
+          "reading": "はつとり"
+        },
+        {
+          "word": "初鶏",
+          "reading": "はとり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "first cockcrowing of the year"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "採卵鶏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "採卵鶏",
+          "reading": "さいらんけい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "egg-laying hens",
+            "layers"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "鳥刺し",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳥刺し",
+          "reading": "とりさし"
+        },
+        {
+          "word": "鶏刺し",
+          "reading": "とりさし"
+        },
+        {
+          "word": "鳥刺",
+          "reading": "とりさし"
+        },
+        {
+          "word": "鶏刺",
+          "reading": "とりさし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "catching birds (using a birdlime-covered pole)",
+            "bird catcher"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "slices of raw chicken meat",
+            "chicken sashimi"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "刺身"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "一番鶏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "一番鶏",
+          "reading": "いちばんどり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "first cockcrowing"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "初鶏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "初鶏",
+          "reading": "はつとり"
+        },
+        {
+          "word": "初鶏",
+          "reading": "はとり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "first cockcrowing of the year"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "海南鶏飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "海南鶏飯",
+          "reading": "かいなんけいはん"
+        },
+        {
+          "word": "海南鶏飯",
+          "reading": "ハイナンジーファン"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Hainanese chicken rice"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Food term"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "カオマンガイ"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Hainanese chicken rice"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Hainanese chicken rice” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Hainanese_chicken_rice?oldid\u003d494755129"
+            },
+            {
+              "text": "Read “海南鶏飯” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/海南鶏飯?oldid\u003d41839466"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Hainanese_chicken_rice"
+      }
+    },
+    {
+      "slug": "廃鶏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "廃鶏",
+          "reading": "はいけい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "culled chicken",
+            "spent hen"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "矮鶏檜葉",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "矮鶏檜葉",
+          "reading": "チャボひば"
+        },
+        {
+          "word": "チャボ檜葉",
+          "reading": "チャボひば"
+        },
+        {
+          "reading": "チャボヒバ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Chamaecyparis obtusa var. breviramea (ornamental variety of hinoki cypress)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "檜"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "姫水鶏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "姫水鶏",
+          "reading": "ひめくいな"
+        },
+        {
+          "word": "姫秧鶏",
+          "reading": "ひめくいな"
+        },
+        {
+          "reading": "ヒメクイナ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Baillon\u0027s crake (Porzana pusilla)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "鶏群の一鶴",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鶏群の一鶴",
+          "reading": "けいぐんのいっかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "a swan among ducklings",
+            "a diamond among stones",
+            "a great figure among the common run of men"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Idiomatic expression"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "鳥肌になる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳥肌になる",
+          "reading": "とりはだになる"
+        },
+        {
+          "word": "鶏肌になる",
+          "reading": "とりはだになる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to have goosebumps"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "鳥肌が立つ"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "暹羅鶏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "暹羅鶏",
+          "reading": "シャムロけい"
+        },
+        {
+          "word": "シャムロ鶏",
+          "reading": "シャムロけい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "game fowl",
+            "gamecock"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Obsolete term"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "軍鶏 しゃも"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "ほろほろ鳥",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ほろほろ鳥",
+          "reading": "ほろほろちょう"
+        },
+        {
+          "word": "珠鶏",
+          "reading": "ほろほろちょう"
+        },
+        {
+          "word": "ホロホロ鳥",
+          "reading": "ホロホロちょう"
+        },
+        {
+          "reading": "ホロホロチョウ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "helmeted guinea fowl (Numida meleagris)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "鶏がらスープ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鶏がらスープ",
+          "reading": "とりがらスープ"
+        },
+        {
+          "word": "鶏ガラスープ",
+          "reading": "とりガラスープ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "chicken broth",
+            "chicken soup"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Food term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "鶏ミンチ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鶏ミンチ",
+          "reading": "とりミンチ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "minced chicken",
+            "ground chicken"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "鶏冠に来る",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鶏冠に来る",
+          "reading": "とさかにくる"
+        },
+        {
+          "word": "とさかに来る",
+          "reading": "とさかにくる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to get mad"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Kuru verb - special class"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "鶏口となるも牛後となる勿れ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鶏口となるも牛後となる勿れ",
+          "reading": "けいこうとなるもぎゅうごとなるなかれ"
+        },
+        {
+          "word": "鶏口となるも牛後となるなかれ",
+          "reading": "けいこうとなるもぎゅうごとなるなかれ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "better be the head of a dog than the tail of a lion",
+            "better be first in a village than second at Rome",
+            "better to be the mouth of a chicken than the rear end of a cow"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [
+            "Proverb"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "鶏口牛後",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鶏口牛後",
+          "reading": "けいこうぎゅうご"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "better to be the beak of a rooster than the rump of a bull",
+            "better to be the leader of a small group than a subordinate in a large organization",
+            "better to be a big fish in a little pond than a little fish in a big pond"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

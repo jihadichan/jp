@@ -1,0 +1,1730 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "炊く",
+      "is_common": true,
+      "tags": [
+        "wanikani47"
+      ],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "炊く",
+          "reading": "たく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to cook (grains, e.g. rice)"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ku ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to boil",
+            "to simmer",
+            "to stew",
+            "to seethe"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Kansai dialect"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "煮る"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "炊事",
+      "is_common": true,
+      "tags": [
+        "wanikani47"
+      ],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "炊事",
+          "reading": "すいじ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "cooking",
+            "kitchen work"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "炊飯器",
+      "is_common": true,
+      "tags": [
+        "wanikani47"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "炊飯器",
+          "reading": "すいはんき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rice cooker"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Rice cooker"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Rice cooker” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Rice_cooker?oldid\u003d493401984"
+            },
+            {
+              "text": "Read “炊飯器” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/炊飯器?oldid\u003d42355286"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Rice_cooker"
+      }
+    },
+    {
+      "slug": "自炊",
+      "is_common": true,
+      "tags": [
+        "wanikani47"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "自炊",
+          "reading": "じすい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "cooking for oneself",
+            "cooking one\u0027s own food",
+            "doing one\u0027s own cooking",
+            "making food oneself",
+            "self-catering"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "scanning a book or magazine to create an ebook by oneself"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "雑炊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "雑炊",
+          "reading": "ぞうすい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rice gruel containing vegetables, fish, etc., and seasoned with miso or soy sauce"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "おじや"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Zosui"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Zosui” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Zosui?oldid\u003d474596864"
+            },
+            {
+              "text": "Read “雑炊” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/雑炊?oldid\u003d42334060"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Zosui"
+      }
+    },
+    {
+      "slug": "炊き出し",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "炊き出し",
+          "reading": "たきだし"
+        },
+        {
+          "word": "炊出し",
+          "reading": "たきだし"
+        },
+        {
+          "word": "焚き出し",
+          "reading": "たきだし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "emergency rice feeding",
+            "distribution of rice after an emergency"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "炊き込む",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "炊き込む",
+          "reading": "たきこむ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to cook (something) with rice"
+          ],
+          "parts_of_speech": [
+            "Godan verb with mu ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "炊き込み",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "炊き込み",
+          "reading": "たきこみ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(something) cooked with rice"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "炊き込みご飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "炊き込みご飯",
+          "reading": "たきこみごはん"
+        },
+        {
+          "word": "炊き込み御飯",
+          "reading": "たきこみごはん"
+        },
+        {
+          "word": "炊込みご飯",
+          "reading": "たきこみごはん"
+        },
+        {
+          "word": "炊込み御飯",
+          "reading": "たきこみごはん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rice seasoned and cooked with various ingredients"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Takikomi gohan"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Takikomi gohan” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Takikomi_gohan?oldid\u003d481484230"
+            },
+            {
+              "text": "Read “炊き込みご飯” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/炊き込みご飯?oldid\u003d42426424"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Takikomi_gohan"
+      }
+    },
+    {
+      "slug": "炊き上がる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "炊き上がる",
+          "reading": "たきあがる"
+        },
+        {
+          "word": "炊き上る",
+          "reading": "たきあがる"
+        },
+        {
+          "word": "炊上がる",
+          "reading": "たきあがる"
+        },
+        {
+          "word": "炊上る",
+          "reading": "たきあがる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to be cooked",
+            "to have finished cooking"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飯炊き",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飯炊き",
+          "reading": "めしたき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "cooking rice",
+            "kitchenmaid",
+            "cook"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "炊き合わせ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "炊き合わせ",
+          "reading": "たきあわせ"
+        },
+        {
+          "word": "炊き合せ",
+          "reading": "たきあわせ"
+        },
+        {
+          "word": "炊合わせ",
+          "reading": "たきあわせ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "food (meat, fish, vegetables, etc.) cooked separately but served together on one dish"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "炊きたて",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "炊きたて",
+          "reading": "たきたて"
+        },
+        {
+          "word": "炊き立て",
+          "reading": "たきたて"
+        },
+        {
+          "word": "炊立て",
+          "reading": "たきたて"
+        },
+        {
+          "word": "炊たて",
+          "reading": "たきたて"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "freshly cooked"
+          ],
+          "parts_of_speech": [
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "煮炊き",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "煮炊き",
+          "reading": "にたき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "cooking"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "烹炊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "烹炊",
+          "reading": "ほうすい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "cooking by boiling"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Obscure term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飯炊き女",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飯炊き女",
+          "reading": "めしたきおんな"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "female cook",
+            "kitchenmaid"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "woman who served both as a waitress and a prostitute in Osaka teahouses"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "黄粱一炊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "黄粱一炊",
+          "reading": "こうりょういっすい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "fleeting nature of riches and honour (honor)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "粗炊き",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "粗炊き",
+          "reading": "あらだき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "simmered fish"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Food term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "味噌たき",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "味噌たき",
+          "reading": "みそたき"
+        },
+        {
+          "word": "味噌炊き",
+          "reading": "みそたき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "annual event of miso-making"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "first steps of miso making, from simmering the beans to fermentation"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "水炊き",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "水炊き",
+          "reading": "みずたき"
+        },
+        {
+          "word": "水たき",
+          "reading": "みずたき"
+        },
+        {
+          "word": "水炊",
+          "reading": "みずたき"
+        },
+        {
+          "word": "水炊き",
+          "reading": "みずだき"
+        },
+        {
+          "word": "水炊",
+          "reading": "みずだき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "food (esp. chicken and vegetables) boiled in plain water (or sometimes dashi, etc.) and served with dipping sauce (esp. ponzu)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Food term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "粗炊き",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "粗炊き",
+          "reading": "あらだき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "simmered fish"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Food term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "味噌たき",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "味噌たき",
+          "reading": "みそたき"
+        },
+        {
+          "word": "味噌炊き",
+          "reading": "みそたき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "annual event of miso-making"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "first steps of miso making, from simmering the beans to fermentation"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "炊ぐ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "炊ぐ",
+          "reading": "かしぐ"
+        },
+        {
+          "word": "爨ぐ",
+          "reading": "かしぐ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to cook (e.g. rice)"
+          ],
+          "parts_of_speech": [
+            "Godan verb with gu ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "炊ける",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "炊ける",
+          "reading": "たける"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to be boiled",
+            "to be cooked",
+            "to be done",
+            "to be ready"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "水炊き",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "水炊き",
+          "reading": "みずたき"
+        },
+        {
+          "word": "水たき",
+          "reading": "みずたき"
+        },
+        {
+          "word": "水炊",
+          "reading": "みずたき"
+        },
+        {
+          "word": "水炊き",
+          "reading": "みずだき"
+        },
+        {
+          "word": "水炊",
+          "reading": "みずだき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "food (esp. chicken and vegetables) boiled in plain water (or sometimes dashi, etc.) and served with dipping sauce (esp. ponzu)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Food term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "湯炊き",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "湯炊き",
+          "reading": "ゆだき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "boiling (esp. rice)"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "炊さん",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "炊さん",
+          "reading": "すいさん"
+        },
+        {
+          "word": "炊爨",
+          "reading": "すいさん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "cooking (rice, grains)"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "炊事婦",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "炊事婦",
+          "reading": "すいじぶ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "woman who assists in food preparation"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "炊きたて",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "炊きたて",
+          "reading": "たきたて"
+        },
+        {
+          "word": "炊き立て",
+          "reading": "たきたて"
+        },
+        {
+          "word": "炊立て",
+          "reading": "たきたて"
+        },
+        {
+          "word": "炊たて",
+          "reading": "たきたて"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "freshly cooked"
+          ],
+          "parts_of_speech": [
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "炊婦",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "炊婦",
+          "reading": "すいふ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(female) cook",
+            "kitchen maid"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "煮炊き",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "煮炊き",
+          "reading": "にたき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "cooking"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "烹炊煙突",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "烹炊煙突",
+          "reading": "ほうすいえんとつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "galley stovepipe"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Obscure term",
+            "Obsolete term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "追い炊き",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "追い焚き",
+          "reading": "おいだき"
+        },
+        {
+          "word": "追い炊き",
+          "reading": "おいだき"
+        },
+        {
+          "word": "追焚き",
+          "reading": "おいだき"
+        },
+        {
+          "word": "追炊き",
+          "reading": "おいだき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "reheating bathwater"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "boiling additional rice"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "一炊の夢",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "一炊の夢",
+          "reading": "いっすいのゆめ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "an empty dream"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "共同炊事場",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "共同炊事場",
+          "reading": "きょうどうすいじば"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "community kitchen"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "空焚き",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "空焚き",
+          "reading": "からだき"
+        },
+        {
+          "word": "空だき",
+          "reading": "からだき"
+        },
+        {
+          "word": "空焚",
+          "reading": "からだき"
+        },
+        {
+          "word": "空炊き",
+          "reading": "からだき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "heating a vessel without water in it",
+            "heating an empty pan, kettle, boiler, bathtub, etc."
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "炊き上げる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "炊き上げる",
+          "reading": "たきあげる"
+        },
+        {
+          "word": "炊きあげる",
+          "reading": "たきあげる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to cook (esp. grains such as rice, by boiling)",
+            "to finish cooking"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "炊事場",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "炊事場",
+          "reading": "すいじば"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "kitchen",
+            "cookhouse",
+            "(ship\u0027s) galley"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "炊飯ジャー",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "炊飯ジャー",
+          "reading": "すいはんジャー"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rice cooker and warmer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "一リットル炊き",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "一リットル炊き",
+          "reading": "いちリットルだき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "having a cooking capacity of one liter"
+          ],
+          "parts_of_speech": [
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

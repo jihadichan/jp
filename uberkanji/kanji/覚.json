@@ -1,0 +1,4990 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "感覚",
+      "is_common": true,
+      "tags": [
+        "wanikani17"
+      ],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "感覚",
+          "reading": "かんかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sense",
+            "sensation",
+            "feeling",
+            "intuition"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Sense"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Sense” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Sense?oldid\u003d494932366"
+            },
+            {
+              "text": "Read “感覚” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/感覚?oldid\u003d41515723"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Sense"
+      }
+    },
+    {
+      "slug": "覚える",
+      "is_common": true,
+      "tags": [
+        "wanikani19"
+      ],
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "覚える",
+          "reading": "おぼえる"
+        },
+        {
+          "word": "憶える",
+          "reading": "おぼえる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to memorize",
+            "to memorise",
+            "to commit to memory",
+            "to learn by heart",
+            "to bear in mind",
+            "to remember"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to learn",
+            "to pick up",
+            "to acquire"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "覚える"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to feel"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "覚える"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to think",
+            "to regard"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "覚える"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "視覚",
+      "is_common": true,
+      "tags": [
+        "wanikani24"
+      ],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "視覚",
+          "reading": "しかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sense of sight",
+            "vision"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Visual perception"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Visual perception” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Visual_perception?oldid\u003d495168279"
+            },
+            {
+              "text": "Read “視覚” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/視覚?oldid\u003d42547904"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Visual_perception"
+      }
+    },
+    {
+      "slug": "聴覚",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "聴覚",
+          "reading": "ちょうかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "the sense of hearing"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Hearing (sense)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Hearing (sense)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Hearing_(sense)?oldid\u003d495519760"
+            },
+            {
+              "text": "Read “聴覚” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/聴覚?oldid\u003d42711944"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Hearing_(sense)"
+      }
+    },
+    {
+      "slug": "錯覚",
+      "is_common": true,
+      "tags": [
+        "wanikani56"
+      ],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "錯覚",
+          "reading": "さっかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "optical illusion",
+            "hallucination"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "misapprehension",
+            "delusion"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Illusion"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Illusion” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Illusion?oldid\u003d493328437"
+            },
+            {
+              "text": "Read “錯覚” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/錯覚?oldid\u003d42570540"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Illusion"
+      }
+    },
+    {
+      "slug": "味覚",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "味覚",
+          "reading": "みかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "taste",
+            "palate",
+            "sense of taste"
+          ],
+          "parts_of_speech": [
+            "Na-adjective",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Taste"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Taste” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Taste?oldid\u003d495127414"
+            },
+            {
+              "text": "Read “味覚” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/味覚?oldid\u003d42644725"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Taste"
+      }
+    },
+    {
+      "slug": "覚悟",
+      "is_common": true,
+      "tags": [
+        "wanikani49"
+      ],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "覚悟",
+          "reading": "かくご"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "resolution",
+            "resignation",
+            "readiness",
+            "preparedness"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "覚める",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "覚める",
+          "reading": "さめる"
+        },
+        {
+          "word": "醒める",
+          "reading": "さめる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to wake",
+            "to wake up"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to become sober",
+            "to sober up",
+            "to regain consciousness (e.g. after anaesthesia)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to come to one\u0027s senses",
+            "to be disillusioned"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "覚ます",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "覚ます",
+          "reading": "さます"
+        },
+        {
+          "word": "醒ます",
+          "reading": "さます"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to awaken",
+            "to arouse from sleep"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to bring to one\u0027s senses",
+            "to disabuse (someone of)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to sober up"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to dampen",
+            "to throw a damper on",
+            "to spoil"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "醒ます"
+          ],
+          "see_also": [
+            "冷ます さます"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "目覚まし",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "目覚まし",
+          "reading": "めざまし"
+        },
+        {
+          "word": "目覚し",
+          "reading": "めざまし"
+        },
+        {
+          "word": "目ざまし",
+          "reading": "めざまし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "alarm clock"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Abbreviation"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "目覚まし時計 めざましどけい"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "waking up",
+            "keeping oneself awake"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "type of candy given to a child after it wakes up from a nap"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "お目覚"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "覚え",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "覚え",
+          "reading": "おぼえ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "memory",
+            "sense",
+            "experience"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "自覚",
+      "is_common": true,
+      "tags": [
+        "wanikani17"
+      ],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "自覚",
+          "reading": "じかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "self-consciousness",
+            "self-awareness"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "目覚める",
+      "is_common": true,
+      "tags": [
+        "wanikani21"
+      ],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "目覚める",
+          "reading": "めざめる"
+        },
+        {
+          "word": "目ざめる",
+          "reading": "めざめる"
+        },
+        {
+          "word": "目醒める",
+          "reading": "めざめる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to wake up",
+            "to awake"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to awaken to (instinct, ability, perception, etc.)",
+            "to become aware of",
+            "to become conscious of",
+            "to realize"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to come to one\u0027s senses"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "悟る",
+      "is_common": true,
+      "tags": [
+        "wanikani49"
+      ],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "悟る",
+          "reading": "さとる"
+        },
+        {
+          "word": "覚る",
+          "reading": "さとる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to perceive",
+            "to sense",
+            "to discern"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to understand",
+            "to comprehend",
+            "to realize"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to attain enlightenment"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Buddhist term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "目覚ましい",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "目覚ましい",
+          "reading": "めざましい"
+        },
+        {
+          "word": "目覚しい",
+          "reading": "めざましい"
+        },
+        {
+          "word": "目ざましい",
+          "reading": "めざましい"
+        },
+        {
+          "word": "目醒しい",
+          "reading": "めざましい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "remarkable",
+            "striking",
+            "brilliant",
+            "splendid",
+            "spectacular",
+            "wonderful"
+          ],
+          "parts_of_speech": [
+            "I-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "目覚まし時計",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "目覚まし時計",
+          "reading": "めざましどけい"
+        },
+        {
+          "word": "目覚まし時計",
+          "reading": "めざましとけい"
+        },
+        {
+          "word": "目覚し時計",
+          "reading": "めざましどけい"
+        },
+        {
+          "word": "目覚し時計",
+          "reading": "めざましとけい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "alarm clock"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Alarm clock"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Alarm clock” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Alarm_clock?oldid\u003d492856998"
+            },
+            {
+              "text": "Read “目覚し時計” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/目覚し時計?oldid\u003d42484002"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Alarm_clock"
+      }
+    },
+    {
+      "slug": "知覚",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "知覚",
+          "reading": "ちかく"
+        },
+        {
+          "word": "智覚",
+          "reading": "ちかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "perception",
+            "sensation",
+            "awareness"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Perception"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Perception” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Perception?oldid\u003d494185976"
+            },
+            {
+              "text": "Read “知覚” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/知覚?oldid\u003d42573808"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Perception"
+      }
+    },
+    {
+      "slug": "幻覚",
+      "is_common": true,
+      "tags": [
+        "wanikani17"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "幻覚",
+          "reading": "げんかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "hallucination",
+            "illusion"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Hallucination"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Hallucination” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Hallucination?oldid\u003d495476019"
+            },
+            {
+              "text": "Read “幻覚” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/幻覚?oldid\u003d40800509"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Hallucination"
+      }
+    },
+    {
+      "slug": "発覚",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "発覚",
+          "reading": "はっかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "detection (of a plot, fraud, etc.)",
+            "discovery",
+            "coming to light",
+            "being uncovered"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "物覚え",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "物覚え",
+          "reading": "ものおぼえ"
+        },
+        {
+          "word": "もの覚え",
+          "reading": "ものおぼえ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "memory",
+            "ability to learn"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見覚え",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "見覚え",
+          "reading": "みおぼえ"
+        },
+        {
+          "word": "見憶え",
+          "reading": "みおぼえ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "remembrance",
+            "recollection",
+            "recognition"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "覚醒",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "覚醒",
+          "reading": "かくせい"
+        },
+        {
+          "word": "覚せい",
+          "reading": "かくせい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "waking up",
+            "awakening",
+            "arousal",
+            "revival"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "disillusion",
+            "disillusionment",
+            "awakening (figurative)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "感覚的",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "感覚的",
+          "reading": "かんかくてき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sensible",
+            "sensuous",
+            "intuitive"
+          ],
+          "parts_of_speech": [
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "目覚め",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "目覚め",
+          "reading": "めざめ"
+        },
+        {
+          "word": "目ざめ",
+          "reading": "めざめ"
+        },
+        {
+          "word": "目醒め",
+          "reading": "めざめ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "waking"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "臭覚",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "臭覚",
+          "reading": "しゅうかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "the sense of smell"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "嗅覚",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "嗅覚",
+          "reading": "きゅうかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sense of smell",
+            "olfaction"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Olfaction"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Olfaction” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Olfaction?oldid\u003d494973725"
+            },
+            {
+              "text": "Read “嗅覚” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/嗅覚?oldid\u003d36466766"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Olfaction"
+      }
+    },
+    {
+      "slug": "一つ覚え",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "一つ覚え",
+          "reading": "ひとつおぼえ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "the one thing that is well-remembered"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "覚えてろ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "覚えてろ",
+          "reading": "おぼえてろ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "You\u0027ll regret this!",
+            "I\u0027ll get you for this",
+            "Just you wait"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [
+            "Idiomatic expression"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "覚束ない",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "覚束ない",
+          "reading": "おぼつかない"
+        },
+        {
+          "word": "覚束ない",
+          "reading": "かくそくない"
+        },
+        {
+          "word": "覚束無い",
+          "reading": "おぼつかない"
+        },
+        {
+          "word": "覚束無い",
+          "reading": "かくそくない"
+        },
+        {
+          "word": "覺束ない",
+          "reading": "おぼつかない"
+        },
+        {
+          "word": "覺束ない",
+          "reading": "かくそくない"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "uncertain",
+            "doubtful",
+            "unpromising"
+          ],
+          "parts_of_speech": [
+            "I-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "unreliable",
+            "unsteady",
+            "insecure",
+            "shaky",
+            "faltering"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "unclear",
+            "vague",
+            "hazy",
+            "indistinct"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "興醒め",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "興醒め",
+          "reading": "きょうざめ"
+        },
+        {
+          "word": "興ざめ",
+          "reading": "きょうざめ"
+        },
+        {
+          "word": "興冷め",
+          "reading": "きょうざめ"
+        },
+        {
+          "word": "興覚め",
+          "reading": "きょうざめ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "kill-joy",
+            "wet-blanket",
+            "skeleton at the feast"
+          ],
+          "parts_of_speech": [
+            "Na-adjective",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "眠気覚まし",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "眠気覚まし",
+          "reading": "ねむけざまし"
+        },
+        {
+          "word": "眠け覚まし",
+          "reading": "ねむけざまし"
+        },
+        {
+          "word": "眠気覚し",
+          "reading": "ねむけざまし"
+        },
+        {
+          "word": "眠け覚し",
+          "reading": "ねむけざまし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "keeping oneself awake",
+            "fighting off drowsiness",
+            "method for keeping oneself awake"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "うろ覚え",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "うろ覚え",
+          "reading": "うろおぼえ"
+        },
+        {
+          "word": "空覚え",
+          "reading": "うろおぼえ"
+        },
+        {
+          "word": "うろ憶え",
+          "reading": "うろおぼえ"
+        },
+        {
+          "word": "空覚え",
+          "reading": "そらおぼえ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "vague recollection",
+            "faint memory"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "rote memorization",
+            "rote memorisation"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "そらおぼえ"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "聞き覚え",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聞き覚え",
+          "reading": "ききおぼえ"
+        },
+        {
+          "word": "聞きおぼえ",
+          "reading": "ききおぼえ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "learning by ear"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "memory of having heard something before"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "聞き覚えがある"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "視覚的",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "視覚的",
+          "reading": "しかくてき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "visual"
+          ],
+          "parts_of_speech": [
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "視覚"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "自覚症状",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "自覚症状",
+          "reading": "じかくしょうじょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "subjective symptoms",
+            "patient\u0027s complaints"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "目の覚めるよう",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "目の覚めるよう",
+          "reading": "めのさめるよう"
+        },
+        {
+          "word": "目の覚める様",
+          "reading": "めのさめるよう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "stunning",
+            "electrifying",
+            "striking",
+            "eye-popping",
+            "brilliant"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "呼び覚ます",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "呼び覚ます",
+          "reading": "よびさます"
+        },
+        {
+          "word": "呼びさます",
+          "reading": "よびさます"
+        },
+        {
+          "word": "呼覚ます",
+          "reading": "よびさます"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to wake up (someone; by calling out)",
+            "to awaken"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to bring back (e.g. memories)",
+            "to evoke",
+            "to recall"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "前後不覚",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "前後不覚",
+          "reading": "ぜんごふかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "unconsciousness",
+            "having no recollection of one\u0027s actions"
+          ],
+          "parts_of_speech": [
+            "Na-adjective",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "覚書",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "覚書",
+          "reading": "おぼえがき"
+        },
+        {
+          "word": "覚え書き",
+          "reading": "おぼえがき"
+        },
+        {
+          "word": "覚え書",
+          "reading": "おぼえがき"
+        },
+        {
+          "word": "覚書き",
+          "reading": "おぼえがき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "memo",
+            "memorandum",
+            "note"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "(diplomatic) memorandum"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "usu. 覚書"
+          ]
+        },
+        {
+          "english_definitions": [
+            "Memorandum"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Memorandum” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Memorandum?oldid\u003d487048711"
+            },
+            {
+              "text": "Read “覚書” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/覚書?oldid\u003d42138836"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Memorandum"
+      }
+    },
+    {
+      "slug": "覚醒剤",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "覚醒剤",
+          "reading": "かくせいざい"
+        },
+        {
+          "word": "覚せい剤",
+          "reading": "かくせいざい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "stimulant (e.g. psychoactive drugs like methamphetamine, ritalin, etc.)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Stimulant"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Stimulant” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Stimulant?oldid\u003d494610889"
+            },
+            {
+              "text": "Read “覚醒剤” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/覚醒剤?oldid\u003d42358842"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Stimulant"
+      }
+    },
+    {
+      "slug": "目が覚める",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "目が覚める",
+          "reading": "めがさめる"
+        },
+        {
+          "word": "目がさめる",
+          "reading": "めがさめる"
+        },
+        {
+          "word": "目が醒める",
+          "reading": "めがさめる"
+        },
+        {
+          "word": "眼が覚める",
+          "reading": "めがさめる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to wake up",
+            "to awake",
+            "to perk up",
+            "to snap out (of a day dream, etc.)"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Ichidan verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "目覚める"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to awaken (to the truth, etc.)",
+            "to come to a realization",
+            "to come to one\u0027s senses"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "感覚器",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "感覚器",
+          "reading": "かんかくき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sense organ"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Sensory system"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Sensory system” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Sensory_system?oldid\u003d494366666"
+            },
+            {
+              "text": "Read “感覚器” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/感覚器?oldid\u003d42606708"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Sensory_system"
+      }
+    },
+    {
+      "slug": "悟り",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "悟り",
+          "reading": "さとり"
+        },
+        {
+          "word": "覚り",
+          "reading": "さとり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "comprehension",
+            "understanding"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "enlightenment",
+            "spiritual awakening",
+            "satori"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Buddhist term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Satori"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Satori” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Satori?oldid\u003d493456523"
+            },
+            {
+              "text": "Read “悟り” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/悟り?oldid\u003d41617750"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Satori"
+      }
+    },
+    {
+      "slug": "色覚",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "色覚",
+          "reading": "しきかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sense of color",
+            "sense of colour"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "視聴覚",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "視聴覚",
+          "reading": "しちょうかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "senses of seeing and hearing",
+            "audiovisual"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "才覚",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "才覚",
+          "reading": "さいかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "ready wit",
+            "quick wits",
+            "resourcefulness"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "raising (money)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "触覚",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "触覚",
+          "reading": "しょっかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sense of touch"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "tactile",
+            "tactual"
+          ],
+          "parts_of_speech": [
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "hair style with long bangs"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "時代感覚",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "時代感覚",
+          "reading": "じだいかんかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sensitivity to the times",
+            "sense of the times"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "目を覚ます",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "目を覚ます",
+          "reading": "めをさます"
+        },
+        {
+          "word": "目をさます",
+          "reading": "めをさます"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to wake up"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with su ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to sober up",
+            "to come to one\u0027s senses",
+            "to become enlightened"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "寝ても覚めても",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "寝ても覚めても",
+          "reading": "ねてもさめても"
+        },
+        {
+          "word": "寝てもさめても",
+          "reading": "ねてもさめても"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "waking or sleeping",
+            "constantly",
+            "at all times",
+            "twenty-four hours a day"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "覚悟を決める",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "覚悟を決める",
+          "reading": "かくごをきめる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to prepare oneself (for the worst)",
+            "to resolve oneself"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Ichidan verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "腹を括る"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "聞き覚えがある",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聞き覚えがある",
+          "reading": "ききおぼえがある"
+        },
+        {
+          "word": "聞きおぼえがある",
+          "reading": "ききおぼえがある"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to have heard somewhere",
+            "to sound familiar"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with ru ending (irregular verb)"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "コツを覚える",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "コツを覚える",
+          "reading": "コツをおぼえる"
+        },
+        {
+          "word": "こつを覚える",
+          "reading": "こつをおぼえる"
+        },
+        {
+          "word": "骨を覚える",
+          "reading": "こつをおぼえる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to learn the ropes",
+            "to get the knack"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Ichidan verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "身に覚えがある",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "身に覚えがある",
+          "reading": "みにおぼえがある"
+        },
+        {
+          "word": "身に覚えが有る",
+          "reading": "みにおぼえがある"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to have the memory of having done something oneself"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with ru ending (irregular verb)"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "身に覚えのある"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "共感覚",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "共感覚",
+          "reading": "きょうかんかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "synesthesia (synaesthesia)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Synesthesia"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Synesthesia” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Synesthesia?oldid\u003d495537536"
+            },
+            {
+              "text": "Read “共感覚” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/共感覚?oldid\u003d42695165"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Synesthesia"
+      }
+    },
+    {
+      "slug": "深部感覚",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "深部感覚",
+          "reading": "しんぶかんかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "bathyesthesia",
+            "deep sensibility"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Proprioception"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Proprioception” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Proprioception?oldid\u003d495479619"
+            },
+            {
+              "text": "Read “深部感覚” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/深部感覚?oldid\u003d42561820"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Proprioception"
+      }
+    },
+    {
+      "slug": "体性感覚",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "体性感覚",
+          "reading": "たいせいかんかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "somatic sensation",
+            "somesthesis"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Somatosensory system"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Somatosensory system” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Somatosensory_system?oldid\u003d493774845"
+            },
+            {
+              "text": "Read “体性感覚” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/体性感覚?oldid\u003d42568554"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Somatosensory_system"
+      }
+    },
+    {
+      "slug": "縁覚",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縁覚",
+          "reading": "えんがく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "pratyekabuddha (one who achieves enlightenment without a teacher)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Buddhist term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Pratyekabuddha"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Pratyekabuddha” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Pratyekabuddha?oldid\u003d489332254"
+            },
+            {
+              "text": "Read “縁覚” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/縁覚?oldid\u003d42740708"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Pratyekabuddha"
+      }
+    },
+    {
+      "slug": "色覚異常",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "色覚異常",
+          "reading": "しきかくいじょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "color-vision deficiency",
+            "colour-vision deficiency",
+            "color-blindness",
+            "colour-blindness"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Color blindness"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Color blindness” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Color_blindness?oldid\u003d495294776"
+            },
+            {
+              "text": "Read “色覚異常” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/色覚異常?oldid\u003d42042817"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Color_blindness"
+      }
+    },
+    {
+      "slug": "幻覚剤",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "幻覚剤",
+          "reading": "げんかくざい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "hallucinogen",
+            "psychedelic"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Hallucinogen"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Hallucinogen” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Hallucinogen?oldid\u003d495011639"
+            },
+            {
+              "text": "Read “幻覚剤” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/幻覚剤?oldid\u003d42716999"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Hallucinogen"
+      }
+    },
+    {
+      "slug": "感覚神経",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "感覚神経",
+          "reading": "かんかくしんけい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sensory nerve"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Sensory nerve"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Sensory nerve” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Sensory_nerve?oldid\u003d440024190"
+            },
+            {
+              "text": "Read “感覚神経” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/感覚神経?oldid\u003d31645513"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Sensory_nerve"
+      }
+    },
+    {
+      "slug": "色覚異常",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "色覚異常",
+          "reading": "しきかくいじょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "color-vision deficiency",
+            "colour-vision deficiency",
+            "color-blindness",
+            "colour-blindness"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Color blindness"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Color blindness” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Color_blindness?oldid\u003d495294776"
+            },
+            {
+              "text": "Read “色覚異常” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/色覚異常?oldid\u003d42042817"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Color_blindness"
+      }
+    },
+    {
+      "slug": "幻覚剤",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "幻覚剤",
+          "reading": "げんかくざい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "hallucinogen",
+            "psychedelic"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Hallucinogen"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Hallucinogen” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Hallucinogen?oldid\u003d495011639"
+            },
+            {
+              "text": "Read “幻覚剤” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/幻覚剤?oldid\u003d42716999"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Hallucinogen"
+      }
+    },
+    {
+      "slug": "共感覚",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "共感覚",
+          "reading": "きょうかんかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "synesthesia (synaesthesia)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Synesthesia"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Synesthesia” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Synesthesia?oldid\u003d495537536"
+            },
+            {
+              "text": "Read “共感覚” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/共感覚?oldid\u003d42695165"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Synesthesia"
+      }
+    },
+    {
+      "slug": "深部感覚",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "深部感覚",
+          "reading": "しんぶかんかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "bathyesthesia",
+            "deep sensibility"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Proprioception"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Proprioception” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Proprioception?oldid\u003d495479619"
+            },
+            {
+              "text": "Read “深部感覚” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/深部感覚?oldid\u003d42561820"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Proprioception"
+      }
+    },
+    {
+      "slug": "体性感覚",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "体性感覚",
+          "reading": "たいせいかんかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "somatic sensation",
+            "somesthesis"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Somatosensory system"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Somatosensory system” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Somatosensory_system?oldid\u003d493774845"
+            },
+            {
+              "text": "Read “体性感覚” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/体性感覚?oldid\u003d42568554"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Somatosensory_system"
+      }
+    },
+    {
+      "slug": "縁覚",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縁覚",
+          "reading": "えんがく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "pratyekabuddha (one who achieves enlightenment without a teacher)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Buddhist term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Pratyekabuddha"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Pratyekabuddha” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Pratyekabuddha?oldid\u003d489332254"
+            },
+            {
+              "text": "Read “縁覚” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/縁覚?oldid\u003d42740708"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Pratyekabuddha"
+      }
+    },
+    {
+      "slug": "色彩感覚",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "色彩感覚",
+          "reading": "しきさいかんかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sense of color",
+            "sense of colour"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "運動覚",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "運動覚",
+          "reading": "うんどうかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "kinesthesia",
+            "kinaesthesia",
+            "sense of movement"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "周辺視覚",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "周辺視覚",
+          "reading": "しゅうへんしかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "peripheral vision"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "時間知覚",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "時間知覚",
+          "reading": "じかんちかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "time perception",
+            "chronognosis"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "筋肉感覚",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "筋肉感覚",
+          "reading": "きんにくかんかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "muscular sense"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "空間感覚",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "空間感覚",
+          "reading": "くうかんかんかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sense of space"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "筋覚",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "筋覚",
+          "reading": "きんかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "muscle sense"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Abbreviation"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "筋肉感覚"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "振動覚",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "振動覚",
+          "reading": "しんどうかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "pallesthesia",
+            "sense of vibration",
+            "vibratory sense",
+            "vibratory sensation",
+            "vibration perception",
+            "vibratory perception"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Biology term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "直覚",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "直覚",
+          "reading": "ちょっかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "intuition",
+            "insight"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "温覚",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "温覚",
+          "reading": "おんかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sense of warmth"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "市民感覚",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "市民感覚",
+          "reading": "しみんかんかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "perspective of an ordinary person",
+            "common sense",
+            "popular feeling"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "知恵才覚",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "知恵才覚",
+          "reading": "ちえさいかく"
+        },
+        {
+          "word": "智恵才覚",
+          "reading": "ちえさいかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "having wisdom and resources",
+            "being clever and talented"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "無自覚",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "無自覚",
+          "reading": "むじかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "unaware",
+            "unmindful",
+            "unconscious",
+            "blind",
+            "apathetic"
+          ],
+          "parts_of_speech": [
+            "Na-adjective",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "不覚",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "不覚",
+          "reading": "ふかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "failure",
+            "defeat",
+            "mistake",
+            "blunder",
+            "negligence",
+            "indiscretion"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "unconsciousness"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "金銭感覚",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "金銭感覚",
+          "reading": "きんせんかんかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sense for (how to use) money",
+            "money sense"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "時世感覚",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "時世感覚",
+          "reading": "じせいかんかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sense of the times",
+            "sensitivity to the times"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "時勢感覚"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "平衡感覚",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "平衡感覚",
+          "reading": "へいこうかんかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sense of equilibrium",
+            "sense of balance"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "国際感覚",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "国際感覚",
+          "reading": "こくさいかんかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "cosmopolitan (international) way of thinking",
+            "feeling for the wider world"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "時勢感覚",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "時勢感覚",
+          "reading": "じせいかんかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sense of the trend of the times",
+            "sensitivity to the changing times"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "時世感覚"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "心覚え",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "心覚え",
+          "reading": "こころおぼえ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "memory"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "庶民感覚",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "庶民感覚",
+          "reading": "しょみんかんかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sensibilities (feelings, way of thinking) of the common people",
+            "popular sentiment"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "政治感覚",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "政治感覚",
+          "reading": "せいじかんかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sense of politics",
+            "feeling for politics"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "丸覚え",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "丸覚え",
+          "reading": "まるおぼえ"
+        },
+        {
+          "word": "まる覚え",
+          "reading": "まるおぼえ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "full memorization",
+            "full memorisation"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "対人感覚",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "対人感覚",
+          "reading": "たいじんかんかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "feelings toward other people",
+            "sensitivity to other people\u0027s feelings",
+            "feelings one gives to other people through interpersonal relationships"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "疎覚え",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "疎覚え",
+          "reading": "おろおぼえ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "vague recollection",
+            "faint memory"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "うろ覚え うろおぼえ"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "無感覚",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "無感覚",
+          "reading": "むかんかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "numb",
+            "impervious"
+          ],
+          "parts_of_speech": [
+            "Na-adjective",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "友達感覚",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "友達感覚",
+          "reading": "ともだちかんかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "feeling like friends",
+            "the feeling of friendship"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "礼儀感覚",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "礼儀感覚",
+          "reading": "れいぎかんかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sense of decorum",
+            "attention to the common civilities of life"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "覚え易い",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "覚え易い",
+          "reading": "おぼえやすい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "easy to learn"
+          ],
+          "parts_of_speech": [
+            "I-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "予覚",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "予覚",
+          "reading": "よかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "hunch",
+            "foreboding",
+            "premonition"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "貨幣錯覚",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貨幣錯覚",
+          "reading": "かへいさっかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "money illusion"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "奥行き知覚",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "奥行き知覚",
+          "reading": "おくゆきちかく"
+        },
+        {
+          "word": "奥行知覚",
+          "reading": "おくゆきちかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "depth perception"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "と思しい",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "と思しい",
+          "reading": "とおぼしい"
+        },
+        {
+          "word": "と覚しい",
+          "reading": "とおぼしい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "thought to be",
+            "seen as"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "I-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

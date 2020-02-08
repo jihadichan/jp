@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "賄賂",
+      "is_common": true,
+      "tags": [
+        "wanikani38"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賄賂",
+          "reading": "わいろ"
+        },
+        {
+          "reading": "ワイロ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "bribe",
+            "sweetener",
+            "douceur"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Bribery"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Bribery” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Bribery?oldid\u003d495507584"
+            },
+            {
+              "text": "Read “賄賂” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/賄賂?oldid\u003d42627487"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Bribery"
+      }
+    },
+    {
+      "slug": "貨賂",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貨賂",
+          "reading": "かろ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "bribe"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Obscure term"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "賄賂 わいろ"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "賂",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賂",
+          "reading": "まいない"
+        },
+        {
+          "word": "賄",
+          "reading": "まいない"
+        },
+        {
+          "word": "賂い",
+          "reading": "まいない"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "bribe"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

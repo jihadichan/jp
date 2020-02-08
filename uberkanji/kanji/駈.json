@@ -1,0 +1,884 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "駆ける",
+      "is_common": true,
+      "tags": [
+        "wanikani40"
+      ],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "駆ける",
+          "reading": "かける"
+        },
+        {
+          "word": "駈ける",
+          "reading": "かける"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to run (race, esp. horse)",
+            "to dash"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to gallop (one\u0027s horse)",
+            "to canter"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to advance (against one\u0027s enemy)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "駆け落ち",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駆け落ち",
+          "reading": "かけおち"
+        },
+        {
+          "word": "駆落ち",
+          "reading": "かけおち"
+        },
+        {
+          "word": "駈け落ち",
+          "reading": "かけおち"
+        },
+        {
+          "word": "駈落ち",
+          "reading": "かけおち"
+        },
+        {
+          "word": "欠け落ち",
+          "reading": "かけおち"
+        },
+        {
+          "word": "欠落ち",
+          "reading": "かけおち"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "elopement",
+            "running away with a lover"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Elopement (marriage)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Elopement (marriage)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Elopement_(marriage)?oldid\u003d487288253"
+            },
+            {
+              "text": "Read “駆け落ち” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/駆け落ち?oldid\u003d42492309"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Elopement_(marriage)"
+      }
+    },
+    {
+      "slug": "駆け引き",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駆け引き",
+          "reading": "かけひき"
+        },
+        {
+          "word": "駆引き",
+          "reading": "かけひき"
+        },
+        {
+          "word": "掛け引き",
+          "reading": "かけひき"
+        },
+        {
+          "word": "懸引き",
+          "reading": "かけひき"
+        },
+        {
+          "word": "かけ引き",
+          "reading": "かけひき"
+        },
+        {
+          "word": "駈引",
+          "reading": "かけひき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "bargaining",
+            "haggling"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "tactics",
+            "strategy"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "先駆け",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "先駆け",
+          "reading": "さきがけ"
+        },
+        {
+          "word": "先駈け",
+          "reading": "さきがけ"
+        },
+        {
+          "word": "魁",
+          "reading": "さきがけ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "pioneer",
+            "leader",
+            "taking the initiative",
+            "forerunner",
+            "harbinger",
+            "herald"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "leading an attack",
+            "charging ahead of others (towards the enemy)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "駆け込む",
+      "is_common": false,
+      "tags": [
+        "wanikani42"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駆け込む",
+          "reading": "かけこむ"
+        },
+        {
+          "word": "かけ込む",
+          "reading": "かけこむ"
+        },
+        {
+          "word": "駆けこむ",
+          "reading": "かけこむ"
+        },
+        {
+          "word": "駈け込む",
+          "reading": "かけこむ"
+        },
+        {
+          "word": "駆込む",
+          "reading": "かけこむ"
+        },
+        {
+          "word": "駈けこむ",
+          "reading": "かけこむ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to rush in (at the last minute)",
+            "to stampede"
+          ],
+          "parts_of_speech": [
+            "Godan verb with mu ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "駆け出す",
+      "is_common": false,
+      "tags": [
+        "wanikani42"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駆け出す",
+          "reading": "かけだす"
+        },
+        {
+          "word": "駆けだす",
+          "reading": "かけだす"
+        },
+        {
+          "word": "駈け出す",
+          "reading": "かけだす"
+        },
+        {
+          "word": "駆出す",
+          "reading": "かけだす"
+        },
+        {
+          "word": "駈出す",
+          "reading": "かけだす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to run off",
+            "to break into a run",
+            "to start running"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "駆る",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駆る",
+          "reading": "かる"
+        },
+        {
+          "word": "駈る",
+          "reading": "かる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to spur on",
+            "to urge forward",
+            "to impel"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to drive at high speed (e.g. a car)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "駆け出し",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駆け出し",
+          "reading": "かけだし"
+        },
+        {
+          "word": "駆出し",
+          "reading": "かけだし"
+        },
+        {
+          "word": "駈け出し",
+          "reading": "かけだし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "novice",
+            "beginner"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "starting to run",
+            "running off",
+            "running away"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "駆け出す かけだす"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "駆け足",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "駆け足",
+          "reading": "かけあし"
+        },
+        {
+          "word": "駆足",
+          "reading": "かけあし"
+        },
+        {
+          "word": "駈け足",
+          "reading": "かけあし"
+        },
+        {
+          "word": "駈足",
+          "reading": "かけあし"
+        },
+        {
+          "word": "かけ足",
+          "reading": "かけあし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "running fast",
+            "double time"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "cantering"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "also 駈歩"
+          ]
+        },
+        {
+          "english_definitions": [
+            "doing things in a hurry"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "駆け下りる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駆け下りる",
+          "reading": "かけおりる"
+        },
+        {
+          "word": "駆け降りる",
+          "reading": "かけおりる"
+        },
+        {
+          "word": "駈け降りる",
+          "reading": "かけおりる"
+        },
+        {
+          "word": "駆下りる",
+          "reading": "かけおりる"
+        },
+        {
+          "word": "駆降りる",
+          "reading": "かけおりる"
+        },
+        {
+          "word": "駈降りる",
+          "reading": "かけおりる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to run down (stairs, etc.)"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "駆け競",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駆け競",
+          "reading": "かけくら"
+        },
+        {
+          "word": "駈け競",
+          "reading": "かけくら"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "footrace"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Abbreviation",
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "駆け競べ"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "駆けっくら",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駆けっくら",
+          "reading": "かけっくら"
+        },
+        {
+          "word": "駈けっくら",
+          "reading": "かけっくら"
+        },
+        {
+          "word": "駆けっ競",
+          "reading": "かけっくら"
+        },
+        {
+          "word": "駈けっ競",
+          "reading": "かけっくら"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(foot) race",
+            "sprint"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [
+            "Colloquialism",
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "駆けっこ"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "駆け比べ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駆け比べ",
+          "reading": "かけくらべ"
+        },
+        {
+          "word": "駆け競べ",
+          "reading": "かけくらべ"
+        },
+        {
+          "word": "駆競べ",
+          "reading": "かけくらべ"
+        },
+        {
+          "word": "駈け競べ",
+          "reading": "かけくらべ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "race",
+            "footrace"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "駆け",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駆け",
+          "reading": "かけ"
+        },
+        {
+          "word": "駈け",
+          "reading": "かけ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "canter",
+            "gallop"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "駈歩",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駈歩",
+          "reading": "くほ"
+        },
+        {
+          "word": "駆歩",
+          "reading": "くほ"
+        },
+        {
+          "word": "駈歩",
+          "reading": "かけあし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "canter (horse gait)"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "sometimes trans. as gallop"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

@@ -1,0 +1,919 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "会う",
+      "is_common": true,
+      "tags": [
+        "wanikani5",
+        "wanikani52"
+      ],
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "会う",
+          "reading": "あう"
+        },
+        {
+          "word": "逢う",
+          "reading": "あう"
+        },
+        {
+          "word": "遭う",
+          "reading": "あう"
+        },
+        {
+          "word": "遇う",
+          "reading": "あう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to meet",
+            "to encounter",
+            "to see"
+          ],
+          "parts_of_speech": [
+            "Godan verb with u ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "逢う is often used for close friends, etc. and may be associated with drama or pathos; 遭う may have an undesirable nuance"
+          ]
+        },
+        {
+          "english_definitions": [
+            "to have an accident",
+            "to have a bad experience"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "esp. 遭う when in kanji"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "出会う",
+      "is_common": true,
+      "tags": [
+        "wanikani10"
+      ],
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "出会う",
+          "reading": "であう"
+        },
+        {
+          "word": "出逢う",
+          "reading": "であう"
+        },
+        {
+          "word": "出合う",
+          "reading": "であう"
+        },
+        {
+          "word": "出遭う",
+          "reading": "であう"
+        },
+        {
+          "word": "出あう",
+          "reading": "であう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to meet (by chance)",
+            "to come across",
+            "to run across",
+            "to encounter",
+            "to happen upon"
+          ],
+          "parts_of_speech": [
+            "Godan verb with u ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "出遭う usu. has a negative connotation"
+          ]
+        },
+        {
+          "english_definitions": [
+            "to meet (e.g. of rivers, highways, etc.)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "出会う",
+            "出合う"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "esp. 出合う"
+          ]
+        },
+        {
+          "english_definitions": [
+            "to emerge and engage (an enemy)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "出会う",
+            "出合う"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "often used imperatively as 出会え"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "出会い",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "出会い",
+          "reading": "であい"
+        },
+        {
+          "word": "出逢い",
+          "reading": "であい"
+        },
+        {
+          "word": "出合い",
+          "reading": "であい"
+        },
+        {
+          "word": "出会",
+          "reading": "であい"
+        },
+        {
+          "word": "出合",
+          "reading": "であい"
+        },
+        {
+          "word": "出遭い",
+          "reading": "であい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "meeting",
+            "rendezvous",
+            "encounter"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "confluence"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "esp. 出合い, 出合"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "巡り会う",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "めぐり合う",
+          "reading": "めぐりあう"
+        },
+        {
+          "word": "巡り会う",
+          "reading": "めぐりあう"
+        },
+        {
+          "word": "巡り合う",
+          "reading": "めぐりあう"
+        },
+        {
+          "word": "めぐり会う",
+          "reading": "めぐりあう"
+        },
+        {
+          "word": "巡りあう",
+          "reading": "めぐりあう"
+        },
+        {
+          "word": "巡り逢う",
+          "reading": "めぐりあう"
+        },
+        {
+          "word": "廻り合う",
+          "reading": "めぐりあう"
+        },
+        {
+          "word": "回り合う",
+          "reading": "めぐりあう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to meet fortuitously (e.g. running into an old friend)",
+            "to meet by chance",
+            "to happen across"
+          ],
+          "parts_of_speech": [
+            "Godan verb with u ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "逢瀬",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "逢瀬",
+          "reading": "おうせ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rendezvous",
+            "tryst",
+            "(lover\u0027s) meeting",
+            "(secret) date"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Ouse"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "会わせる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "会わせる",
+          "reading": "あわせる"
+        },
+        {
+          "word": "遭わせる",
+          "reading": "あわせる"
+        },
+        {
+          "word": "逢わせる",
+          "reading": "あわせる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to make (someone) to meet",
+            "to let (someone) meet"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "会う"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to expose to",
+            "to subject to"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "逢着",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "逢着",
+          "reading": "ほうちゃく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "encounter",
+            "face"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "忍び逢い",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "しのび逢い",
+          "reading": "しのびあい"
+        },
+        {
+          "word": "忍び逢い",
+          "reading": "しのびあい"
+        },
+        {
+          "word": "忍び会い",
+          "reading": "しのびあい"
+        },
+        {
+          "word": "忍会",
+          "reading": "しのびあい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "clandestine meeting (e.g. for lovers)",
+            "rendezvous",
+            "tryst",
+            "secret meeting"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "密会"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "また逢う日まで",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "また逢う日まで",
+          "reading": "またあうひまで"
+        },
+        {
+          "word": "また会う日まで",
+          "reading": "またあうひまで"
+        },
+        {
+          "word": "又会う日迄",
+          "reading": "またあうひまで"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "till we meet again"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "逢魔が時",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "逢魔が時",
+          "reading": "おうまがとき"
+        },
+        {
+          "word": "逢魔が刻",
+          "reading": "おうまがとき"
+        },
+        {
+          "word": "逢魔時",
+          "reading": "おうまがとき"
+        },
+        {
+          "word": "逢魔ヶ刻",
+          "reading": "おうまがとき"
+        },
+        {
+          "word": "逢魔ヶ時",
+          "reading": "おうまがとき"
+        },
+        {
+          "word": "逢う魔が時",
+          "reading": "おうまがとき"
+        },
+        {
+          "word": "逢う魔が刻",
+          "reading": "おうまがとき"
+        },
+        {
+          "word": "逢う魔ヶ時",
+          "reading": "おうまがとき"
+        },
+        {
+          "word": "逢う魔ヶ刻",
+          "reading": "おうまがとき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "twilight",
+            "time for disasters (similar to \u0027the witching hour\u0027 but not midnight)"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "大禍時"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "逢引",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "逢引",
+          "reading": "あいびき"
+        },
+        {
+          "word": "逢い引き",
+          "reading": "あいびき"
+        },
+        {
+          "word": "逢引き",
+          "reading": "あいびき"
+        },
+        {
+          "word": "媾曳",
+          "reading": "あいびき"
+        },
+        {
+          "word": "媾曳き",
+          "reading": "あいびき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(secret) date",
+            "clandestine meeting",
+            "assignation",
+            "tryst",
+            "rendezvous"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "愛逢月",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "愛逢月",
+          "reading": "めであいづき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "seventh lunar month"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Obscure term"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "文月"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "相見る",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "相見る",
+          "reading": "あいみる"
+        },
+        {
+          "word": "逢い見る",
+          "reading": "あいみる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to face"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "逢うは別れの始め",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "逢うは別れの始め",
+          "reading": "あうはわかれのはじめ"
+        },
+        {
+          "word": "会うは別れの始め",
+          "reading": "あうはわかれのはじめ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "we meet only to part",
+            "meeting is the first step to parting"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [
+            "Proverb"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "ここで会ったが百年目",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ここで会ったが百年目",
+          "reading": "ここであったがひゃくねんめ"
+        },
+        {
+          "word": "ここで逢ったが百年目",
+          "reading": "ここであったがひゃくねんめ"
+        },
+        {
+          "word": "此処で会ったが百年目",
+          "reading": "ここであったがひゃくねんめ"
+        },
+        {
+          "word": "此処で逢ったが百年目",
+          "reading": "ここであったがひゃくねんめ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "at last your time has come",
+            "I have found you at last"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "行き会う",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "行き会う",
+          "reading": "いきあう"
+        },
+        {
+          "word": "行き会う",
+          "reading": "ゆきあう"
+        },
+        {
+          "word": "行会う",
+          "reading": "いきあう"
+        },
+        {
+          "word": "行会う",
+          "reading": "ゆきあう"
+        },
+        {
+          "word": "行き逢う",
+          "reading": "いきあう"
+        },
+        {
+          "word": "行き逢う",
+          "reading": "ゆきあう"
+        },
+        {
+          "word": "行き合う",
+          "reading": "いきあう"
+        },
+        {
+          "word": "行き合う",
+          "reading": "ゆきあう"
+        },
+        {
+          "word": "行逢う",
+          "reading": "いきあう"
+        },
+        {
+          "word": "行逢う",
+          "reading": "ゆきあう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to meet somebody by chance",
+            "to happen upon"
+          ],
+          "parts_of_speech": [
+            "Godan verb with u ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

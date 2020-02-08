@@ -1,0 +1,2460 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "描く",
+      "is_common": true,
+      "tags": [
+        "wanikani38"
+      ],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "描く",
+          "reading": "えがく"
+        },
+        {
+          "word": "描く",
+          "reading": "かく"
+        },
+        {
+          "word": "画く",
+          "reading": "えがく"
+        },
+        {
+          "word": "画く",
+          "reading": "かく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to draw",
+            "to paint",
+            "to sketch"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ku ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "書く"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to depict",
+            "to describe"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "えがく"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to picture in one\u0027s mind",
+            "to imagine"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to form a certain shape (e.g. path of an action, appearance of an object, etc.)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "描写",
+      "is_common": true,
+      "tags": [
+        "wanikani38"
+      ],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "描写",
+          "reading": "びょうしゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "depiction",
+            "description",
+            "portrayal"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "書き上げる",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "書き上げる",
+          "reading": "かきあげる"
+        },
+        {
+          "word": "描き上げる",
+          "reading": "かきあげる"
+        },
+        {
+          "word": "書きあげる",
+          "reading": "かきあげる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to finish writing",
+            "to complete"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to write down (e.g. a list)",
+            "to write out"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "手書き",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "手書き",
+          "reading": "てがき"
+        },
+        {
+          "word": "手描き",
+          "reading": "てがき"
+        },
+        {
+          "word": "手書",
+          "reading": "てがき"
+        },
+        {
+          "word": "手描",
+          "reading": "てがき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "handwriting"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "handwritten",
+            "hand-painted",
+            "hand-drawn"
+          ],
+          "parts_of_speech": [
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "思い描く",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "思い描く",
+          "reading": "おもいえがく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to imagine",
+            "to picture",
+            "to figure",
+            "to see"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ku ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "絵かき",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絵かき",
+          "reading": "えかき"
+        },
+        {
+          "word": "絵描き",
+          "reading": "えかき"
+        },
+        {
+          "word": "絵書き",
+          "reading": "えかき"
+        },
+        {
+          "word": "絵描",
+          "reading": "えかき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "painter",
+            "artist"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "drawing pictures",
+            "doodling",
+            "painting"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "書き分ける",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "書き分ける",
+          "reading": "かきわける"
+        },
+        {
+          "word": "描き分ける",
+          "reading": "かきわける"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to distinguish in writing",
+            "to use different writing styles"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "書き分ける"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to draw (identifiably)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "usu. 描き分ける"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "絵を描く",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絵を描く",
+          "reading": "えをかく"
+        },
+        {
+          "word": "絵を書く",
+          "reading": "えをかく"
+        },
+        {
+          "word": "絵をかく",
+          "reading": "えをかく"
+        },
+        {
+          "word": "絵を描く",
+          "reading": "えをえがく"
+        },
+        {
+          "word": "絵をえがく",
+          "reading": "えをえがく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to paint (draw) a picture"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with ku ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "描き出す",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "描き出す",
+          "reading": "えがきだす"
+        },
+        {
+          "word": "描きだす",
+          "reading": "えがきだす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to delineate",
+            "to draw",
+            "to express",
+            "to imagine"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "素描",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "素描",
+          "reading": "そびょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "drawing",
+            "sketch"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "outline",
+            "summary",
+            "synopsis"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "線描",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "線描",
+          "reading": "せんびょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "line drawing"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "絵に描いた餅",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絵に描いた餅",
+          "reading": "えにかいたもち"
+        },
+        {
+          "word": "絵に描いた餠",
+          "reading": "えにかいたもち"
+        },
+        {
+          "word": "絵にかいた餅",
+          "reading": "えにかいたもち"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "pie in the sky",
+            "castles in the air",
+            "drawing of a rice cake"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [
+            "Idiomatic expression"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "絵に描いたよう",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絵に描いたよう",
+          "reading": "えにかいたよう"
+        },
+        {
+          "word": "絵に描いたよう",
+          "reading": "えにえがいたよう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "the very picture of ..."
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "点描",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "点描",
+          "reading": "てんびょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sketching"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "pointillism",
+            "stippling"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Pointillism"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Pointillism” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Pointillism?oldid\u003d495516382"
+            },
+            {
+              "text": "Read “点描” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/点描?oldid\u003d40925831"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Pointillism"
+      }
+    },
+    {
+      "slug": "白描",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "白描",
+          "reading": "はくびょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "plain sketch"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "お絵描き",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "お絵かき",
+          "reading": "おえかき"
+        },
+        {
+          "word": "お絵描き",
+          "reading": "おえかき"
+        },
+        {
+          "word": "お絵書き",
+          "reading": "おえかき"
+        },
+        {
+          "word": "御絵描き",
+          "reading": "おえかき"
+        },
+        {
+          "word": "御絵書き",
+          "reading": "おえかき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "drawing",
+            "painting"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone",
+            "Children\u0027s language"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "doodling",
+            "sketching"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Colloquialism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "粗描",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "粗描",
+          "reading": "そびょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rough sketch"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "描き文字",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "描き文字",
+          "reading": "かきもじ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "drawn lettering",
+            "sound effects lettering"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "書き始める",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "書き始める",
+          "reading": "かきはじめる"
+        },
+        {
+          "word": "描き始める",
+          "reading": "かきはじめる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to begin to write",
+            "to begin writing"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "esp. 書き始める"
+          ]
+        },
+        {
+          "english_definitions": [
+            "to begin to draw",
+            "to begin drawing",
+            "to begin painting"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "esp. 描き始める"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "素書き",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "素書き",
+          "reading": "すがき"
+        },
+        {
+          "word": "素描き",
+          "reading": "すがき"
+        },
+        {
+          "word": "素書",
+          "reading": "すがき"
+        },
+        {
+          "word": "素描",
+          "reading": "すがき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "uncolored sketch",
+            "line sketch",
+            "rough sketch"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "素描 そびょう"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "自然描写",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "自然描写",
+          "reading": "しぜんびょうしゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "description of nature"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "心理描写",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "心理描写",
+          "reading": "しんりびょうしゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "psychological description"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "素書き",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "素書き",
+          "reading": "すがき"
+        },
+        {
+          "word": "素描き",
+          "reading": "すがき"
+        },
+        {
+          "word": "素書",
+          "reading": "すがき"
+        },
+        {
+          "word": "素描",
+          "reading": "すがき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "uncolored sketch",
+            "line sketch",
+            "rough sketch"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "素描 そびょう"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "書き始める",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "書き始める",
+          "reading": "かきはじめる"
+        },
+        {
+          "word": "描き始める",
+          "reading": "かきはじめる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to begin to write",
+            "to begin writing"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "esp. 書き始める"
+          ]
+        },
+        {
+          "english_definitions": [
+            "to begin to draw",
+            "to begin drawing",
+            "to begin painting"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "esp. 描き始める"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "再描画",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "再描画",
+          "reading": "さいびょうが"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "redraw"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Computer terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "内面描写",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "内面描写",
+          "reading": "ないめんびょうしゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "psychological depiction of a literary character"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "描き文字",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "描き文字",
+          "reading": "かきもじ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "drawn lettering",
+            "sound effects lettering"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "描写力",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "描写力",
+          "reading": "びょうしゃりょく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "power of description",
+            "descriptive powers",
+            "ability to describe"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "描出",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "描出",
+          "reading": "びょうしゅつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "description",
+            "rendition"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "書き溜める",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "書き溜める",
+          "reading": "かきためる"
+        },
+        {
+          "word": "書きためる",
+          "reading": "かきためる"
+        },
+        {
+          "word": "描き溜める",
+          "reading": "かきためる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to accumulate one\u0027s unpublished paintings or writings"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "寸描",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "寸描",
+          "reading": "すんびょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "thumbnail sketch",
+            "brief sketch"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "書き起こし",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "書き起こし",
+          "reading": "かきおこし"
+        },
+        {
+          "word": "描き起こし",
+          "reading": "かきおこし"
+        },
+        {
+          "word": "書き起し",
+          "reading": "かきおこし"
+        },
+        {
+          "word": "描き起し",
+          "reading": "かきおこし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "opening words",
+            "opening sentence"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "transcription (e.g. voice to text)",
+            "transcript"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "描像",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "描像",
+          "reading": "びょうぞう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "description",
+            "picture"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "描画",
+      "is_common": false,
+      "tags": [
+        "wanikani38"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "描画",
+          "reading": "びょうが"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "drawing",
+            "painting"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "描画像",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "描画像",
+          "reading": "びょうがぞう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "image"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Computer terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "線描画",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "線描画",
+          "reading": "せんびょうが"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "line drawing"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "書き起す",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "書き起す",
+          "reading": "かきおこす"
+        },
+        {
+          "word": "描き起す",
+          "reading": "かきおこす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to begin (book, letter, etc.) with"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "墨書き",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "墨書き",
+          "reading": "すみがき"
+        },
+        {
+          "word": "墨描き",
+          "reading": "すみがき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "inking the outlines of a picture"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "人物寸描",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "人物寸描",
+          "reading": "じんぶつすんびょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "thumb-nail sketch"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "下描き",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "下描き",
+          "reading": "したがき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rough sketch used as a guideline for a picture"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "下書き"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "人物寸描",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "人物寸描",
+          "reading": "じんぶつすんびょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "thumb-nail sketch"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "下描き",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "下描き",
+          "reading": "したがき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rough sketch used as a guideline for a picture"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "下書き"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "円を描く",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "円を描く",
+          "reading": "えんをえがく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to make a circle (e.g. draw, paint, describe, walk, drive, etc.)"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with ku ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "図を描く",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "図を描く",
+          "reading": "ずをかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to draw a diagram"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with ku ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "心に描く",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "心に描く",
+          "reading": "こころにえがく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to imagine",
+            "to envisage"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with ku ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "朱で描く",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "朱で描く",
+          "reading": "あかでえがく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to miniate",
+            "to paint red"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with ku ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "輪を描く",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "輪を描く",
+          "reading": "わをかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to form a circle",
+            "to move in a circle"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with ku ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to draw a circle"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "描き下ろす",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "描き下ろす",
+          "reading": "かきおろす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to draw for a specific purpose",
+            "to draw for the occasion"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "罫書き",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "罫書き",
+          "reading": "けがき"
+        },
+        {
+          "word": "罫書",
+          "reading": "けがき"
+        },
+        {
+          "word": "罫描き",
+          "reading": "けがき"
+        },
+        {
+          "word": "罫描",
+          "reading": "けがき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "marking (off)",
+            "laying out",
+            "scribing (metalwork)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "描き手",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "描き手",
+          "reading": "かきて"
+        },
+        {
+          "word": "描き手",
+          "reading": "えがきて"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "artist",
+            "painter",
+            "illustrator"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "点描画",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "点描画",
+          "reading": "てんびょうが"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "pointillist painting"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "描き直し",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "描き直し",
+          "reading": "えがきなおし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "new frame action"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Computer terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "描画パイプライン",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "描画パイプライン",
+          "reading": "びょうがパイプライン"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rendering pipeline"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Computer terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "描き眉",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "描き眉",
+          "reading": "かきまゆ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "painted eyebrows",
+            "pencilled eyebrows"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Obscure term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "描画ヘッド",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "描画ヘッド",
+          "reading": "びょうがヘッド"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "plotting head"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Computer terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "描画色モデル",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "描画色モデル",
+          "reading": "びょうがいろモデル"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rendering colour model"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Computer terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "弧を描く",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "弧を描く",
+          "reading": "こをえがく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to draw an arc (e.g. with a compass)",
+            "to describe an arc (e.g. through the air)"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with ku ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

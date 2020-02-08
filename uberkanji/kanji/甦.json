@@ -1,0 +1,168 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "甦る",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "蘇る",
+          "reading": "よみがえる"
+        },
+        {
+          "word": "甦る",
+          "reading": "よみがえる"
+        },
+        {
+          "word": "蘇える",
+          "reading": "よみがえる"
+        },
+        {
+          "word": "甦える",
+          "reading": "よみがえる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to be resurrected",
+            "to be resuscitated",
+            "to be rehabilitated",
+            "to be revived",
+            "to be refreshed",
+            "to be restored"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to be recalled (e.g. memories)",
+            "to be brought back"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "甦生",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蘇生",
+          "reading": "そせい"
+        },
+        {
+          "word": "甦生",
+          "reading": "そせい"
+        },
+        {
+          "word": "甦生",
+          "reading": "こうせい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "revival",
+            "resuscitation"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "revitalization",
+            "rejuvenation",
+            "regeneration"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "甦",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "甦",
+          "reading": "よみがえ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "resurrection"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

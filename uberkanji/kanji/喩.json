@@ -1,0 +1,859 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "例え",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "例え",
+          "reading": "たとえ"
+        },
+        {
+          "word": "喩え",
+          "reading": "たとえ"
+        },
+        {
+          "word": "譬え",
+          "reading": "たとえ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "example"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "esp. 例え"
+          ]
+        },
+        {
+          "english_definitions": [
+            "simile",
+            "metaphor",
+            "allegory",
+            "fable",
+            "parable"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "esp. 喩え, 譬え"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "例える",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "例える",
+          "reading": "たとえる"
+        },
+        {
+          "word": "喩える",
+          "reading": "たとえる"
+        },
+        {
+          "word": "譬える",
+          "reading": "たとえる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to compare (something) to",
+            "to liken",
+            "to speak figuratively",
+            "to use a simile",
+            "to use a metaphor"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "比喩的",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "比喩的",
+          "reading": "ひゆてき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "figurative"
+          ],
+          "parts_of_speech": [
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "隠喩",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "隠喩",
+          "reading": "いんゆ"
+        },
+        {
+          "word": "隠ゆ",
+          "reading": "いんゆ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "metaphor"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "比喩表現",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "比喩表現",
+          "reading": "ひゆひょうげん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "figurative expression",
+            "metaphorical expression"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "linguistics terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "教諭",
+      "is_common": true,
+      "tags": [
+        "wanikani53"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "教諭",
+          "reading": "きょうゆ"
+        },
+        {
+          "word": "教喩",
+          "reading": "きょうゆ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(licensed) teacher"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "教育職員免許法"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "比喩",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "比喩",
+          "reading": "ひゆ"
+        },
+        {
+          "word": "譬喩",
+          "reading": "ひゆ"
+        },
+        {
+          "word": "比ゆ",
+          "reading": "ひゆ"
+        },
+        {
+          "word": "比諭",
+          "reading": "ひゆ"
+        },
+        {
+          "word": "譬諭",
+          "reading": "ひゆ"
+        },
+        {
+          "word": "譬喩",
+          "reading": "けいゆ"
+        },
+        {
+          "word": "譬諭",
+          "reading": "けいゆ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "simile",
+            "metaphor",
+            "allegory",
+            "parable"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "直喩",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "直喩",
+          "reading": "ちょくゆ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "simile"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Simile"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Simile” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Simile?oldid\u003d495312792"
+            },
+            {
+              "text": "Read “直喩” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/直喩?oldid\u003d42446614"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Simile"
+      }
+    },
+    {
+      "slug": "提喩",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "提喩",
+          "reading": "ていゆ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "synecdoche"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Synecdoche"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Synecdoche” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Synecdoche?oldid\u003d495183586"
+            },
+            {
+              "text": "Read “提喩” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/提喩?oldid\u003d42441126"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Synecdoche"
+      }
+    },
+    {
+      "slug": "換喩",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "換喩",
+          "reading": "かんゆ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "metonymy"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "linguistics terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Metonymy"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Metonymy” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Metonymy?oldid\u003d495277596"
+            },
+            {
+              "text": "Read “換喩” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/換喩?oldid\u003d42546642"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Metonymy"
+      }
+    },
+    {
+      "slug": "引喩",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "引喩",
+          "reading": "いんゆ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "allusion"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Allusion"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Allusion” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Allusion?oldid\u003d494128939"
+            },
+            {
+              "text": "Read “引喩” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/引喩?oldid\u003d40365894"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Allusion"
+      }
+    },
+    {
+      "slug": "譬喩歌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "譬喩歌",
+          "reading": "ひゆか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "metaphorical poem (of the Man\u0027yōshū)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "寓喩",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "寓喩",
+          "reading": "ぐうゆ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "allegory"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "アレゴリー"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "諷喩",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "諷喩",
+          "reading": "ふうゆ"
+        },
+        {
+          "word": "風諭",
+          "reading": "ふうゆ"
+        },
+        {
+          "word": "風喩",
+          "reading": "ふうゆ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "hint",
+            "insinuation",
+            "indirect suggestion",
+            "allegory"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "明喩",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "明喩",
+          "reading": "めいゆ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "simile"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "直喩 ちょくゆ"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "暗喩",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "暗喩",
+          "reading": "あんゆ"
+        },
+        {
+          "word": "暗ゆ",
+          "reading": "あんゆ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "metaphor"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "隠喩"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "たとえ歌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "たとえ歌",
+          "reading": "たとえうた"
+        },
+        {
+          "word": "譬え歌",
+          "reading": "たとえうた"
+        },
+        {
+          "word": "喩え歌",
+          "reading": "たとえうた"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "metaphorical poem (of the Man\u0027yōshū)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "譬喩歌"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "metaphorical form (of waka)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "六義"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "音喩",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "音喩",
+          "reading": "おんゆ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "mimetic word (esp. in manga)",
+            "onomatopoeic word"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

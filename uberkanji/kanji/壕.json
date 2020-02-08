@@ -1,0 +1,572 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "堀",
+      "is_common": true,
+      "tags": [
+        "wanikani40"
+      ],
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "堀",
+          "reading": "ほり"
+        },
+        {
+          "word": "濠",
+          "reading": "ほり"
+        },
+        {
+          "word": "壕",
+          "reading": "ほり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "moat",
+            "fosse"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "canal",
+            "ditch"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Moat"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Moat” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Moat?oldid\u003d491489288"
+            },
+            {
+              "text": "Read “堀” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/堀?oldid\u003d42119357"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Moat"
+      }
+    },
+    {
+      "slug": "塹壕",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "塹壕",
+          "reading": "ざんごう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "trench",
+            "dugout"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Trench warfare"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Trench warfare” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Trench_warfare?oldid\u003d493553026"
+            },
+            {
+              "text": "Read “塹壕” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/塹壕?oldid\u003d42545945"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Trench_warfare"
+      }
+    },
+    {
+      "slug": "防空壕",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "防空壕",
+          "reading": "ぼうくうごう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "air-raid shelter",
+            "bomb shelter"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Air-raid shelter"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Air-raid shelter” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Air-raid_shelter?oldid\u003d494786458"
+            },
+            {
+              "text": "Read “防空壕” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/防空壕?oldid\u003d42668137"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Air-raid_shelter"
+      }
+    },
+    {
+      "slug": "壕",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "壕",
+          "reading": "ごう"
+        },
+        {
+          "word": "濠",
+          "reading": "ごう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "moat",
+            "fosse",
+            "trench",
+            "ditch"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "濠 is usu. filled with water, 壕 is usu. dry"
+          ]
+        },
+        {
+          "english_definitions": [
+            "underground air-raid shelter",
+            "dugout"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "壕"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "外堀",
+      "is_common": false,
+      "tags": [
+        "wanikani40"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "外堀",
+          "reading": "そとぼり"
+        },
+        {
+          "word": "外濠",
+          "reading": "そとぼり"
+        },
+        {
+          "word": "外壕",
+          "reading": "そとぼり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "outer moat (of a castle)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Sotobori"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "内堀",
+      "is_common": false,
+      "tags": [
+        "wanikani40"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "内堀",
+          "reading": "うちぼり"
+        },
+        {
+          "word": "内壕",
+          "reading": "うちぼり"
+        },
+        {
+          "word": "内濠",
+          "reading": "うちぼり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "inner moat",
+            "moat within the castle walls"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "水濠",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "水濠",
+          "reading": "すいごう"
+        },
+        {
+          "word": "水壕",
+          "reading": "すいごう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "water jump (on a racetrack, etc.)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "moat (around a castle, etc.)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "塹壕熱",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "塹壕熱",
+          "reading": "ざんごうねつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "trench fever"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "掩壕",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "掩壕",
+          "reading": "えんごう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "cover trench"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "壕跡",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "壕跡",
+          "reading": "ごうあと"
+        },
+        {
+          "word": "壕跡",
+          "reading": "ほりあと"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "remains of a dugout (usu. military)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "待避壕",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "待避壕",
+          "reading": "たいひごう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "bomb shelter",
+            "dugout",
+            "trench"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

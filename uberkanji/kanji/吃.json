@@ -1,0 +1,704 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "吃逆",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "吃逆",
+          "reading": "しゃっくり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "hiccough",
+            "hiccup"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "吃る",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "吃る",
+          "reading": "どもる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to stammer",
+            "to stutter"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "吃驚",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "吃驚",
+          "reading": "びっくり"
+        },
+        {
+          "word": "喫驚",
+          "reading": "びっくり"
+        },
+        {
+          "reading": "ビックリ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to be surprised",
+            "to be amazed",
+            "to be frightened",
+            "to be astonished",
+            "to get startled",
+            "to jump"
+          ],
+          "parts_of_speech": [
+            "Suru verb",
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone",
+            "Onomatopoeic or mimetic word"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "surprise (e.g. surprise party)"
+          ],
+          "parts_of_speech": [
+            "Noun or verb acting prenominally"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone",
+            "Onomatopoeic or mimetic word"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "びっくり仰天",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "びっくり仰天",
+          "reading": "びっくりぎょうてん"
+        },
+        {
+          "word": "吃驚仰天",
+          "reading": "びっくりぎょうてん"
+        },
+        {
+          "word": "吃驚仰天",
+          "reading": "きっきょうぎょうてん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "astonished",
+            "stunned",
+            "startled out of one\u0027s wits",
+            "thunderstruck",
+            "open-eyed astonishment"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "喫緊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "喫緊",
+          "reading": "きっきん"
+        },
+        {
+          "word": "吃緊",
+          "reading": "きっきん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "urgent",
+            "pressing",
+            "exigent"
+          ],
+          "parts_of_speech": [
+            "No-adjective",
+            "Na-adjective",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "吃水",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "吃水",
+          "reading": "きっすい"
+        },
+        {
+          "word": "喫水",
+          "reading": "きっすい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sea gauge",
+            "draft",
+            "draught"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Draft (hull)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Draft (hull)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Draft_(hull)?oldid\u003d494413462"
+            },
+            {
+              "text": "Read “喫水” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/喫水?oldid\u003d42502054"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Draft_(hull)"
+      }
+    },
+    {
+      "slug": "小吃",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "小吃",
+          "reading": "シャオチー"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "xiaochi",
+            "Chinese street food consumed as a light meal or snack"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Food term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "載貨喫水線",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "載貨喫水線",
+          "reading": "さいかきっすいせん"
+        },
+        {
+          "word": "載貨吃水線",
+          "reading": "さいかきっすいせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Plimsoll line",
+            "Plimsoll mark",
+            "load line"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "吃音",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "吃音",
+          "reading": "きつおん"
+        },
+        {
+          "word": "きつ音",
+          "reading": "きつおん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "stammering",
+            "stuttering",
+            "dysphemia"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "吃り",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "吃り",
+          "reading": "どもり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "stammer",
+            "stutter",
+            "faltering",
+            "speech impediment"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "person with a speech impediment"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Sensitive"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "喫水線",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "喫水線",
+          "reading": "きっすいせん"
+        },
+        {
+          "word": "吃水線",
+          "reading": "きっすいせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "waterline (ship)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "吃音症",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "吃音症",
+          "reading": "きつおんしょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "stuttering",
+            "stammering",
+            "dysphemia"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Stuttering"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Stuttering” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Stuttering?oldid\u003d495403954"
+            },
+            {
+              "text": "Read “吃音症” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/吃音症?oldid\u003d42689105"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Stuttering"
+      }
+    },
+    {
+      "slug": "吃驚-1",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "吃驚",
+          "reading": "きっきょう"
+        },
+        {
+          "word": "喫驚",
+          "reading": "きっきょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "surprise"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "吃",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "吃",
+          "reading": "チー"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "forming a chow by picking up a tile discarded by another player"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Mahjong term",
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "碰 ポン"
+          ],
+          "antonyms": [],
+          "source": [
+            {
+              "language": "Chinese",
+              "word": ""
+            }
+          ],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "吃りながら",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "吃りながら",
+          "reading": "どもりながら"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "stuttering(ly)",
+            "stammering(ly)"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "吃る"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

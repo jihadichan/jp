@@ -1,0 +1,4157 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "又",
+      "is_common": true,
+      "tags": [
+        "wanikani2"
+      ],
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "又",
+          "reading": "また"
+        },
+        {
+          "word": "亦",
+          "reading": "また"
+        },
+        {
+          "word": "復",
+          "reading": "また"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "again",
+            "and",
+            "also",
+            "still (doing something)"
+          ],
+          "parts_of_speech": [
+            "Adverb",
+            "Conjunction",
+            "Prefix"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "複数",
+      "is_common": true,
+      "tags": [
+        "wanikani32"
+      ],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "複数",
+          "reading": "ふくすう"
+        },
+        {
+          "word": "復数",
+          "reading": "ふくすう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "plural",
+            "multiple",
+            "several"
+          ],
+          "parts_of_speech": [
+            "No-adjective",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Plural"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Plural” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Plural?oldid\u003d490816655"
+            },
+            {
+              "text": "Read “複数” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/複数?oldid\u003d42543712"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Plural"
+      }
+    },
+    {
+      "slug": "復習",
+      "is_common": true,
+      "tags": [
+        "wanikani26"
+      ],
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "復習",
+          "reading": "ふくしゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "review (of learned material)",
+            "revision"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "回復",
+      "is_common": true,
+      "tags": [
+        "wanikani26",
+        "wanikani28"
+      ],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "回復",
+          "reading": "かいふく"
+        },
+        {
+          "word": "快復",
+          "reading": "かいふく"
+        },
+        {
+          "word": "恢復",
+          "reading": "かいふく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "restoration",
+            "rehabilitation",
+            "recovery",
+            "return",
+            "replevin",
+            "improvement"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "回復",
+            "恢復"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "recovery (from an illness)",
+            "recuperation",
+            "convalescence"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "esp. 快復"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "往復",
+      "is_common": true,
+      "tags": [
+        "wanikani26"
+      ],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "往復",
+          "reading": "おうふく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "making a round trip",
+            "going and returning",
+            "coming and going"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "round-trip ticket",
+            "return ticket"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Abbreviation"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "往復切符"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "correspondence",
+            "exchanging (letters)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "socializing",
+            "visiting one another"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "復活",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "復活",
+          "reading": "ふっかつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "revival (e.g. musical)",
+            "come-back"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "restoration",
+            "rebirth",
+            "resurrection"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "復興",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "復興",
+          "reading": "ふっこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "revival",
+            "reconstruction",
+            "restoration",
+            "rebuilding",
+            "recovery",
+            "renaissance"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "復旧",
+      "is_common": true,
+      "tags": [
+        "wanikani36"
+      ],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "復旧",
+          "reading": "ふっきゅう"
+        },
+        {
+          "word": "復旧",
+          "reading": "ふくきゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "restoration",
+            "restitution",
+            "rehabilitation"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "報復",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "報復",
+          "reading": "ほうふく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "retaliation",
+            "revenge",
+            "reprisal",
+            "retribution"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "retorsion",
+            "retortion"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Revenge"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Revenge” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Revenge?oldid\u003d494490076"
+            },
+            {
+              "text": "Read “報復” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/報復?oldid\u003d42525824"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Revenge"
+      }
+    },
+    {
+      "slug": "復活祭",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "復活祭",
+          "reading": "ふっかつさい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Easter"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Easter"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Easter” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Easter?oldid\u003d492226702"
+            },
+            {
+              "text": "Read “復活祭” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/復活祭?oldid\u003d42326900"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Easter"
+      }
+    },
+    {
+      "slug": "復帰",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "復帰",
+          "reading": "ふっき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "return",
+            "comeback",
+            "reinstatement"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "carriage return",
+            "CR"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "修復",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "修復",
+          "reading": "しゅうふく"
+        },
+        {
+          "word": "修復",
+          "reading": "しゅふく"
+        },
+        {
+          "word": "修覆",
+          "reading": "しゅうふく"
+        },
+        {
+          "word": "修覆",
+          "reading": "しゅふく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "restoration",
+            "repair",
+            "mending"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "復元",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "復元",
+          "reading": "ふくげん"
+        },
+        {
+          "word": "復原",
+          "reading": "ふくげん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "restoration (to original state)",
+            "reconstruction"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "復讐",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "復讐",
+          "reading": "ふくしゅう"
+        },
+        {
+          "word": "復しゅう",
+          "reading": "ふくしゅう"
+        },
+        {
+          "word": "復讎",
+          "reading": "ふくしゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "revenge"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "復学",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "復学",
+          "reading": "ふくがく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "return to school"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "反復",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "反復",
+          "reading": "はんぷく"
+        },
+        {
+          "word": "反覆",
+          "reading": "はんぷく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "repetition",
+            "iteration",
+            "recursion",
+            "recurrence",
+            "recapitulation"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "復職",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "復職",
+          "reading": "ふくしょく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "reinstatement",
+            "reappointment"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "往復切符",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "往復切符",
+          "reading": "おうふくきっぷ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "round-trip ticket",
+            "return ticket"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "景気回復",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "景気回復",
+          "reading": "けいきかいふく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "economic comeback (rebound, recovery, turnaround)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "復唱",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "復唱",
+          "reading": "ふくしょう"
+        },
+        {
+          "word": "復誦",
+          "reading": "ふくしょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "reciting (to oneself)",
+            "repeating (e.g. an order, to confirm one heard it correctly)"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "復唱",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "復唱",
+          "reading": "ふくしょう"
+        },
+        {
+          "word": "復誦",
+          "reading": "ふくしょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "reciting (to oneself)",
+            "repeating (e.g. an order, to confirm one heard it correctly)"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "復讐心",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "復讐心",
+          "reading": "ふくしゅうしん"
+        },
+        {
+          "word": "復しゅう心",
+          "reading": "ふくしゅうしん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "desire for revenge",
+            "vengeful thought"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "復す",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "復す",
+          "reading": "ふくす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to return to normal",
+            "to recover",
+            "to restore"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "復する"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "経済回復",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "経済回復",
+          "reading": "けいざいかいふく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "economic recovery"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "復員",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "復員",
+          "reading": "ふくいん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "demobilization",
+            "demobilisation",
+            "repatriation"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Demobilization"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Demobilization” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Demobilization?oldid\u003d479977036"
+            },
+            {
+              "text": "Read “復員” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/復員?oldid\u003d41440898"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Demobilization"
+      }
+    },
+    {
+      "slug": "社会復帰",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "社会復帰",
+          "reading": "しゃかいふっき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rehabilitation (in society)"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Rehabilitation (penology)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Rehabilitation (penology)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Rehabilitation_(penology)?oldid\u003d494312337"
+            },
+            {
+              "text": "Read “社会復帰” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/社会復帰?oldid\u003d39898795"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Rehabilitation_(penology)"
+      }
+    },
+    {
+      "slug": "復調",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "復調",
+          "reading": "ふくちょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "demodulation"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "recovery",
+            "getting back to form"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Demodulation"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Demodulation” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Demodulation?oldid\u003d484018921"
+            },
+            {
+              "text": "Read “復調” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/復調?oldid\u003d38418890"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Demodulation"
+      }
+    },
+    {
+      "slug": "復水器",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "復水器",
+          "reading": "ふくすいき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "condenser"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Condenser (heat transfer)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Condenser (heat transfer)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Condenser_(heat_transfer)?oldid\u003d494315542"
+            },
+            {
+              "text": "Read “復水器” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/復水器?oldid\u003d42692468"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Condenser_(heat_transfer)"
+      }
+    },
+    {
+      "slug": "復権",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "復権",
+          "reading": "ふっけん"
+        },
+        {
+          "word": "復権",
+          "reading": "ふくけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rehabilitation",
+            "reinstatement",
+            "restoration of rights"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "復党",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "復党",
+          "reading": "ふくとう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rejoining a political party"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "復刻",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "復刻",
+          "reading": "ふっこく"
+        },
+        {
+          "word": "覆刻",
+          "reading": "ふっこく"
+        },
+        {
+          "word": "複刻",
+          "reading": "ふっこく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "republishing",
+            "republication",
+            "reissuing",
+            "reproduction"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "復配",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "復配",
+          "reading": "ふくはい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "resumption of dividends"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "復古",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "復古",
+          "reading": "ふっこ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "revival",
+            "restoration"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "復刻版",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "復刻版",
+          "reading": "ふっこくばん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "facsimile edition",
+            "reprint"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "王政復古",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "王政復古",
+          "reading": "おうせいふっこ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "restoration of imperial rule",
+            "(in English history) the Restoration"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "復刊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "復刊",
+          "reading": "ふっかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "reissue",
+            "putting back in print"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "復交",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "復交",
+          "reading": "ふっこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "restoration of diplomatic relations"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "反復説",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "反復説",
+          "reading": "はんぷくせつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "biogenetic law",
+            "recapitulation theory (theory that ontogeny recapitulates phylogeny)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Recapitulation theory"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Recapitulation theory” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Recapitulation_theory?oldid\u003d492182685"
+            },
+            {
+              "text": "Read “反復説” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/反復説?oldid\u003d42603428"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Recapitulation_theory"
+      }
+    },
+    {
+      "slug": "柔道整復術",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "柔道整復術",
+          "reading": "じゅうどうせいふくじゅつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "judo therapy"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Sekkotsu"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Sekkotsu” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Sekkotsu?oldid\u003d332287580"
+            },
+            {
+              "text": "Read “柔道整復術” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/柔道整復術?oldid\u003d40709495"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Sekkotsu"
+      }
+    },
+    {
+      "slug": "敗者復活戦",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "敗者復活戦",
+          "reading": "はいしゃふっかつせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "repechage"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Repechage"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Repechage” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Repechage?oldid\u003d490920558"
+            },
+            {
+              "text": "Read “敗者復活戦” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/敗者復活戦?oldid\u003d41278050"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Repechage"
+      }
+    },
+    {
+      "slug": "平均修復時間",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "平均修復時間",
+          "reading": "へいきんしゅうふくじかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "mean time to repair",
+            "MTTR"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Computer terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Mean time to recovery"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Mean time to recovery” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Mean_time_to_recovery?oldid\u003d477256643"
+            },
+            {
+              "text": "Read “平均修復時間” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/平均修復時間?oldid\u003d31102417"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Mean_time_to_recovery"
+      }
+    },
+    {
+      "slug": "部分回復",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "部分回復",
+          "reading": "ぶぶんかいふく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "partial recovery"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Computer terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "本復",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "本復",
+          "reading": "ほんぷく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "complete recovery from illness"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "柔道整復",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "柔道整復",
+          "reading": "じゅうどうせいふく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "judo therapy",
+            "traditional non-surgical osteopathic tissue and bone manipulation therapy"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "克復",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "克復",
+          "reading": "こくふく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "restoration"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "同語反復",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "同語反復",
+          "reading": "どうごはんぷく"
+        },
+        {
+          "word": "同語反覆",
+          "reading": "どうごはんぷく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "tautology"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "linguistics terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "元気回復",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "元気回復",
+          "reading": "げんきかいふく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "recovering one\u0027s spirits",
+            "rejuvenation",
+            "refection"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "超回復",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "超回復",
+          "reading": "ちょうかいふく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "supercompensation",
+            "overcompensation"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "名誉回復",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "名誉回復",
+          "reading": "めいよかいふく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "restoring one\u0027s impaired reputation",
+            "regaining one\u0027s honor",
+            "redeeming oneself"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "疲労回復",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "疲労回復",
+          "reading": "ひろうかいふく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "recovery from exhaustion"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "平復",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "平復",
+          "reading": "へいふく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "restoration to health"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "失地回復",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "失地回復",
+          "reading": "しっちかいふく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "the recovery of lost territory",
+            "recovering (regaining) lost ground (one\u0027s former position)",
+            "fence-mending"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "治安回復",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "治安回復",
+          "reading": "ちあんかいふく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "restoration of public order"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "復する",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "復する",
+          "reading": "ふくする"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to return to normal",
+            "to recover",
+            "to restore"
+          ],
+          "parts_of_speech": [
+            "Suru verb - special class"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "主権回復",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "主権回復",
+          "reading": "しゅけんかいふく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "restoration of sovereignty"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "回復力",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "回復力",
+          "reading": "かいふくりょく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "resilience"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "変若ち水",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "変若ち水",
+          "reading": "おちみず"
+        },
+        {
+          "word": "復ち水",
+          "reading": "おちみず"
+        },
+        {
+          "word": "変若水",
+          "reading": "おちみず"
+        },
+        {
+          "word": "復水",
+          "reading": "おちみず"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rejuvenating water"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "来復",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "来復",
+          "reading": "らいふく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "return",
+            "coming back"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "往復はがき",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "往復はがき",
+          "reading": "おうふくはがき"
+        },
+        {
+          "word": "往復葉書",
+          "reading": "おうふくはがき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "postcard with a reply card attached"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "復元作業",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "復元作業",
+          "reading": "ふくげんさぎょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "restoration",
+            "restoration (restorative) work"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "部分回復",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "部分回復",
+          "reading": "ぶぶんかいふく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "partial recovery"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Computer terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "克復",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "克復",
+          "reading": "こくふく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "restoration"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "復元作業",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "復元作業",
+          "reading": "ふくげんさぎょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "restoration",
+            "restoration (restorative) work"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "元気回復",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "元気回復",
+          "reading": "げんきかいふく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "recovering one\u0027s spirits",
+            "rejuvenation",
+            "refection"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "復する",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "復する",
+          "reading": "ふくする"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to return to normal",
+            "to recover",
+            "to restore"
+          ],
+          "parts_of_speech": [
+            "Suru verb - special class"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "主権回復",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "主権回復",
+          "reading": "しゅけんかいふく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "restoration of sovereignty"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "変若ち水",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "変若ち水",
+          "reading": "おちみず"
+        },
+        {
+          "word": "復ち水",
+          "reading": "おちみず"
+        },
+        {
+          "word": "変若水",
+          "reading": "おちみず"
+        },
+        {
+          "word": "復水",
+          "reading": "おちみず"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rejuvenating water"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "来復",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "来復",
+          "reading": "らいふく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "return",
+            "coming back"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "往復はがき",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "往復はがき",
+          "reading": "おうふくはがき"
+        },
+        {
+          "word": "往復葉書",
+          "reading": "おうふくはがき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "postcard with a reply card attached"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "復号器",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "復号器",
+          "reading": "ふくごうき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "decoder"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Computer terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "復命",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "復命",
+          "reading": "ふくめい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "reporting",
+            "returning (one\u0027s findings to a person)"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "復号化",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "復号化",
+          "reading": "ふくごうか"
+        },
+        {
+          "word": "複号化",
+          "reading": "ふくごうか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "decryption",
+            "decipherment",
+            "decoding"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [
+            "Computer terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "復号",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "復号",
+          "reading": "ふくごう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "decoding",
+            "decryption"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "回復可能",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "回復可能",
+          "reading": "かいふくかのう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "recoverable"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "復古調",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "復古調",
+          "reading": "ふっこちょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "revival or reactionary mood"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "治安回復",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "治安回復",
+          "reading": "ちあんかいふく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "restoration of public order"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "未復員者",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "未復員者",
+          "reading": "みふくいんしゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "unrepatriated person"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "復古論者",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "復古論者",
+          "reading": "ふっころんしゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "reactionary"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "拝復",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "拝復",
+          "reading": "はいふく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Dear Sir or Madam, in reply to your letter ..."
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "salutation of a formal letter of response"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "回復不可能",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "回復不可能",
+          "reading": "かいふくふかのう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "non-recoverable",
+            "unrecoverable",
+            "irreparable",
+            "irreversible",
+            "irretrievable"
+          ],
+          "parts_of_speech": [
+            "Na-adjective",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "祖国復帰",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "祖国復帰",
+          "reading": "そこくふっき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "returning to one\u0027s fatherland"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "復号器",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "復号器",
+          "reading": "ふくごうき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "decoder"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Computer terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "復する",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "復する",
+          "reading": "ふくする"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to return to normal",
+            "to recover",
+            "to restore"
+          ],
+          "parts_of_speech": [
+            "Suru verb - special class"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "復改",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "復改",
+          "reading": "ふっかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "carriage return",
+            "return (LF+CR)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "非基準復帰記録",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "非基準復帰記録",
+          "reading": "ひきじゅんふっききろく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "non-return-to-zero recording",
+            "NRZ",
+            "non-return-to-reference recording"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Computer terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "復文",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "復文",
+          "reading": "ふくぶん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "reply letter",
+            "retranslation (into the original language)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "基準復帰記録",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "基準復帰記録",
+          "reading": "きじゅんふっききろく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "return-to-reference recording"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Computer terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "復帰文字",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "復帰文字",
+          "reading": "ふっきもじ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "carriage return"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Computer terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "変若ち水",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "変若ち水",
+          "reading": "おちみず"
+        },
+        {
+          "word": "復ち水",
+          "reading": "おちみず"
+        },
+        {
+          "word": "変若水",
+          "reading": "おちみず"
+        },
+        {
+          "word": "復水",
+          "reading": "おちみず"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rejuvenating water"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "復業",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "復業",
+          "reading": "ふくぎょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "returning to work"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "柔道整復師",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "柔道整復師",
+          "reading": "じゅうどうせいふくし"
+        },
+        {
+          "word": "柔道征服師",
+          "reading": "じゅうどうせいふくし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "judo therapist"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "報復措置",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "報復措置",
+          "reading": "ほうふくそち"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "reprisals",
+            "retaliatory measures"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "職場復帰",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "職場復帰",
+          "reading": "しょくばふっき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "return to work",
+            "going back to work"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "戦列復帰",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "戦列復帰",
+          "reading": "せんれつふっき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "return to the battle line",
+            "come back to the game (on to the field)",
+            "a comeback"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "復帰作",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "復帰作",
+          "reading": "ふっきさく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "come-back work (film, album, book, etc.)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "拝復",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "拝復",
+          "reading": "はいふく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Dear Sir or Madam, in reply to your letter ..."
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "salutation of a formal letter of response"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "回復不可能",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "回復不可能",
+          "reading": "かいふくふかのう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "non-recoverable",
+            "unrecoverable",
+            "irreparable",
+            "irreversible",
+            "irretrievable"
+          ],
+          "parts_of_speech": [
+            "Na-adjective",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "後退回復",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "後退回復",
+          "reading": "こうたいかいふく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "backward (file) recovery"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Computer terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "回復不能",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "回復不能",
+          "reading": "かいふくふのう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "unrecoverable",
+            "irreversible",
+            "irreparable"
+          ],
+          "parts_of_speech": [
+            "Na-adjective",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "回復不能誤り",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "回復不能誤り",
+          "reading": "かいふくふのうあやまり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "unrecoverable error"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Computer terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

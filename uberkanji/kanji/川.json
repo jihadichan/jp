@@ -1,0 +1,5015 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "川",
+      "is_common": true,
+      "tags": [
+        "wanikani1",
+        "wanikani26"
+      ],
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "川",
+          "reading": "かわ"
+        },
+        {
+          "word": "川",
+          "reading": "がわ"
+        },
+        {
+          "word": "河",
+          "reading": "かわ"
+        },
+        {
+          "word": "河",
+          "reading": "がわ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "river",
+            "stream"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "かわ"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "River",
+            "the ... river"
+          ],
+          "parts_of_speech": [
+            "Suffix"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "suffix used with the names of rivers"
+          ]
+        },
+        {
+          "english_definitions": [
+            "Gawa"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "River"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “River” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/River?oldid\u003d494979187"
+            },
+            {
+              "text": "Read “川” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/川?oldid\u003d42715514"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "http://dbpedia.org/resource/River"
+      }
+    },
+    {
+      "slug": "河川",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "河川",
+          "reading": "かせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rivers"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "小川",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "小川",
+          "reading": "おがわ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "stream",
+            "brook",
+            "creek"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Ogawa"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Ogawa” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Ogawa?oldid\u003d481921872"
+            },
+            {
+              "text": "Read “小川” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/小川?oldid\u003d38613511"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Ogawa"
+      }
+    },
+    {
+      "slug": "川沿い",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "川沿い",
+          "reading": "かわぞい"
+        },
+        {
+          "word": "河沿い",
+          "reading": "かわぞい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "along the river",
+            "riverside"
+          ],
+          "parts_of_speech": [
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "川上",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "川上",
+          "reading": "かわかみ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "upper reaches of a river",
+            "upstream"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "川下"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "川岸",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "川岸",
+          "reading": "かわぎし"
+        },
+        {
+          "word": "河岸",
+          "reading": "かわぎし"
+        },
+        {
+          "word": "河岸",
+          "reading": "かがん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "riverbank",
+            "riverside"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "川幅",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "川幅",
+          "reading": "かわはば"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "width of a river"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "川風",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "川風",
+          "reading": "かわかぜ"
+        },
+        {
+          "word": "河風",
+          "reading": "かわかぜ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "breeze off a river"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "川流れ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "川流れ",
+          "reading": "かわながれ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "being carried away by a current"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "drowning in a river",
+            "person who drowned in a river"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "cancellation",
+            "standing up",
+            "breaking a promise"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "河口",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "河口",
+          "reading": "かこう"
+        },
+        {
+          "word": "河口",
+          "reading": "かわぐち"
+        },
+        {
+          "word": "川口",
+          "reading": "かわぐち"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "mouth of river",
+            "estuary"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Kawaguchi"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Kawaguchi” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Kawaguchi?oldid\u003d419414249"
+            },
+            {
+              "text": "Read “川口” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/川口?oldid\u003d42101837"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Kawaguchi"
+      }
+    },
+    {
+      "slug": "川下り",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "川下り",
+          "reading": "かわくだり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "going downstream (in a boat)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "River rafting ride"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “River rafting ride” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/River_rafting_ride?oldid\u003d491994077"
+            },
+            {
+              "text": "Read “川下り” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/川下り?oldid\u003d42552832"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/River_rafting_ride"
+      }
+    },
+    {
+      "slug": "天の川",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "天の川",
+          "reading": "あまのがわ"
+        },
+        {
+          "word": "天の川",
+          "reading": "あまのかわ"
+        },
+        {
+          "word": "天の河",
+          "reading": "あまのがわ"
+        },
+        {
+          "word": "天の河",
+          "reading": "あまのかわ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Milky Way",
+            "luminous band corresponding to the plane of the galaxy"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Astronomy, etc. term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Milky Way (mythology)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Milky Way (mythology)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Milky_Way_(mythology)?oldid\u003d494982878"
+            },
+            {
+              "text": "Read “天の川” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/天の川?oldid\u003d42033668"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Milky_Way_(mythology)"
+      }
+    },
+    {
+      "slug": "徳川家",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "徳川家",
+          "reading": "とくがわけ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "the House of Tokugawa",
+            "the Tokugawas"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "河原",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "河原",
+          "reading": "かわら"
+        },
+        {
+          "word": "川原",
+          "reading": "かわら"
+        },
+        {
+          "word": "磧",
+          "reading": "かわら"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dry riverbed",
+            "river beach"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "三途の川",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "三途の川",
+          "reading": "さんずのかわ"
+        },
+        {
+          "word": "三途の河",
+          "reading": "さんずのかわ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Sanzu River (Buddhist equivalent of the River Styx)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Buddhist term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "川柳",
+      "is_common": true,
+      "tags": [
+        "wanikani47"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "川柳",
+          "reading": "せんりゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "senryū",
+            "comic haiku",
+            "humorous seventeen-mora poem"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Senryū"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Senryū” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Senryū?oldid\u003d492315282"
+            },
+            {
+              "text": "Read “川柳” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/川柳?oldid\u003d40363021"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Senryū"
+      }
+    },
+    {
+      "slug": "川崎",
+      "is_common": true,
+      "tags": [
+        "wanikani23"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "川崎",
+          "reading": "かわさき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Kawasaki (city)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Kawasaki"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Kawasaki” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Kawasaki?oldid\u003d486319319"
+            },
+            {
+              "text": "Read “川崎” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/川崎?oldid\u003d42335946"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Kawasaki"
+      }
+    },
+    {
+      "slug": "川下",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "川下",
+          "reading": "かわしも"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "downstream"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "川上"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "ライン川",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ライン川",
+          "reading": "ラインがわ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(river) Rhine"
+          ],
+          "parts_of_speech": [
+            "Proper noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Rhein (river)"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Rhine"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Rhine” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Rhine?oldid\u003d492770841"
+            },
+            {
+              "text": "Read “ライン川” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/ライン川?oldid\u003d42343795"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "http://dbpedia.org/resource/Rhine"
+      }
+    },
+    {
+      "slug": "川端",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "川端",
+          "reading": "かわばた"
+        },
+        {
+          "word": "河端",
+          "reading": "かわばた"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "riverbank"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "谷川",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "谷川",
+          "reading": "たにがわ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "mountain stream"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "河川敷",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "河川敷",
+          "reading": "かせんじき"
+        },
+        {
+          "word": "河川敷",
+          "reading": "かせんしき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "flood plain",
+            "river terrace",
+            "riverside area",
+            "area between river and river bank"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "堀川",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "堀川",
+          "reading": "ほりかわ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "canal"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "滝川",
+      "is_common": true,
+      "tags": [
+        "wanikani45"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "滝川",
+          "reading": "たきがわ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rapids"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "四川",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "四川",
+          "reading": "しせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Sichuan (China)",
+            "Szechuan",
+            "Szechwan"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Sichuan (China)",
+            "Szechuan",
+            "Szechwan"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "江戸川",
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "江戸川"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Edo River"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Edo River” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Edo_River?oldid\u003d481280201"
+            },
+            {
+              "text": "Read “江戸川” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/江戸川?oldid\u003d42642769"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": false,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Edo_River"
+      }
+    },
+    {
+      "slug": "淀川",
+      "tags": [
+        "wanikani50"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "淀川"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Yodo River"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Yodo River” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Yodo_River?oldid\u003d493976259"
+            },
+            {
+              "text": "Read “淀川” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/淀川?oldid\u003d42354032"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": false,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Yodo_River"
+      }
+    },
+    {
+      "slug": "川辺",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "川辺",
+          "reading": "かわべ"
+        },
+        {
+          "word": "川べ",
+          "reading": "かわべ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "riverside",
+            "edge of a river"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "川底",
+      "is_common": false,
+      "tags": [
+        "wanikani17"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "川底",
+          "reading": "かわぞこ"
+        },
+        {
+          "word": "河底",
+          "reading": "かわぞこ"
+        },
+        {
+          "word": "河底",
+          "reading": "かてい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "riverbed"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "川尻",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "川尻",
+          "reading": "かわじり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "mouth of a river",
+            "lower stream"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "川面",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "川面",
+          "reading": "かわづら"
+        },
+        {
+          "word": "河面",
+          "reading": "かわづら"
+        },
+        {
+          "word": "川づら",
+          "reading": "かわづら"
+        },
+        {
+          "word": "川面",
+          "reading": "かわも"
+        },
+        {
+          "word": "河面",
+          "reading": "かわも"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "river surface",
+            "surface of a river"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "川魚",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "川魚",
+          "reading": "かわうお"
+        },
+        {
+          "word": "川魚",
+          "reading": "かわざかな"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "river fish",
+            "freshwater fish"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "川路",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "川路",
+          "reading": "かわじ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "river\u0027s course"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "川瀬",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "川瀬",
+          "reading": "かわせ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rapids",
+            "shallows of a river"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "三途川",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "三途川",
+          "reading": "そうずがわ"
+        },
+        {
+          "word": "葬頭川",
+          "reading": "そうずがわ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Sanzu River (Buddhist equivalent of the River Styx)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Buddhist term"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "三途の川"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Sanzugawa"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Sanzu River"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Sanzu River” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Sanzu_River?oldid\u003d480539187"
+            },
+            {
+              "text": "Read “三途川” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/三途川?oldid\u003d40352377"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "http://dbpedia.org/resource/Sanzu_River"
+      }
+    },
+    {
+      "slug": "石川県",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "石川県",
+          "reading": "いしかわけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Ishikawa prefecture (Hokuriku area)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Ishikawa Prefecture"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Ishikawa Prefecture"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Ishikawa Prefecture” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Ishikawa_Prefecture?oldid\u003d494595509"
+            },
+            {
+              "text": "Read “石川県” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/石川県?oldid\u003d42684996"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "http://dbpedia.org/resource/Ishikawa_Prefecture"
+      }
+    },
+    {
+      "slug": "神奈川県",
+      "is_common": false,
+      "tags": [
+        "wanikani36"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "神奈川県",
+          "reading": "かながわけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Kanagawa prefecture (Kanto area)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Kanagawa Prefecture"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Kanagawa Prefecture"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Kanagawa Prefecture” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Kanagawa_Prefecture?oldid\u003d495169745"
+            },
+            {
+              "text": "Read “神奈川県” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/神奈川県?oldid\u003d42767865"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "http://dbpedia.org/resource/Kanagawa_Prefecture"
+      }
+    },
+    {
+      "slug": "香川県",
+      "is_common": false,
+      "tags": [
+        "wanikani37"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "香川県",
+          "reading": "かがわけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Kagawa prefecture (Shikoku)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Kagawa Prefecture"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Kagawa Prefecture"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Kagawa Prefecture” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Kagawa_Prefecture?oldid\u003d494939535"
+            },
+            {
+              "text": "Read “香川県” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/香川県?oldid\u003d42711507"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "http://dbpedia.org/resource/Kagawa_Prefecture"
+      }
+    },
+    {
+      "slug": "川縁",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "川縁",
+          "reading": "かわぶち"
+        },
+        {
+          "word": "川縁",
+          "reading": "かわべり"
+        },
+        {
+          "word": "川べり",
+          "reading": "かわべり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "riverbank",
+            "riverside"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "四川料理",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "四川料理",
+          "reading": "しせんりょうり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Szechuan cuisine",
+            "Sichuan cuisine"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Szechuan cuisine"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Szechuan cuisine” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Szechuan_cuisine?oldid\u003d495455504"
+            },
+            {
+              "text": "Read “四川料理” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/四川料理?oldid\u003d42750934"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Szechuan_cuisine"
+      }
+    },
+    {
+      "slug": "笑い川蝉",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "笑い川蝉",
+          "reading": "わらいかわせみ"
+        },
+        {
+          "word": "笑い翡翠",
+          "reading": "わらいかわせみ"
+        },
+        {
+          "word": "笑翡翠",
+          "reading": "わらいかわせみ"
+        },
+        {
+          "reading": "ワライカワセミ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "laughing kookaburra (Dacelo novaeguineae)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Laughing Kookaburra"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Laughing Kookaburra” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Laughing_Kookaburra?oldid\u003d495096135"
+            },
+            {
+              "text": "Read “ワライカワセミ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/ワライカワセミ?oldid\u003d42722096"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Laughing_Kookaburra"
+      }
+    },
+    {
+      "slug": "石川蛙",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "石川蛙",
+          "reading": "いしかわがえる"
+        },
+        {
+          "reading": "イシカワガエル"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Ishikawa\u0027s frog (Odorrana ishikawae)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Ishikawa\u0027s Frog"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Ishikawa\u0027s Frog” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Ishikawa\u0027s_Frog?oldid\u003d481941112"
+            },
+            {
+              "text": "Read “イシカワガエル” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/イシカワガエル?oldid\u003d37849662"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Ishikawa\u0027s_Frog"
+      }
+    },
+    {
+      "slug": "川端諸子",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "川端諸子",
+          "reading": "かわばたもろこ"
+        },
+        {
+          "reading": "カワバタモロコ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "golden venus chub (Hemigrammocypris rasborella)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Hemigrammocypris rasborella"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Hemigrammocypris rasborella” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Hemigrammocypris_rasborella?oldid\u003d482034961"
+            },
+            {
+              "text": "Read “カワバタモロコ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/カワバタモロコ?oldid\u003d42387751"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Hemigrammocypris_rasborella"
+      }
+    },
+    {
+      "slug": "糸魚川静岡構造線",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "糸魚川静岡構造線",
+          "reading": "いといがわしずおかこうぞうせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Itoigawa-Shizuoka Tectonic Line"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Itoigawa-Shizuoka Tectonic Line"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Itoigawa-Shizuoka Tectonic Line” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Itoigawa-Shizuoka_Tectonic_Line?oldid\u003d465930911"
+            },
+            {
+              "text": "Read “糸魚川静岡構造線” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/糸魚川静岡構造線?oldid\u003d42718322"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Itoigawa-Shizuoka_Tectonic_Line"
+      }
+    },
+    {
+      "slug": "川螻蛄",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "川螻蛄",
+          "reading": "かわげら"
+        },
+        {
+          "word": "襀翅",
+          "reading": "かわげら"
+        },
+        {
+          "word": "𧐐",
+          "reading": "かわげら"
+        },
+        {
+          "reading": "カワゲラ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "stonefly (any insect of order Plecoptera, esp. those of family Perlidae)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Plecoptera"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Plecoptera” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Plecoptera?oldid\u003d490582445"
+            },
+            {
+              "text": "Read “カワゲラ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/カワゲラ?oldid\u003d42084892"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Plecoptera"
+      }
+    },
+    {
+      "slug": "隅田川花火大会",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "隅田川花火大会",
+          "reading": "すみだがわはなびたいかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Sumida River Firework Festival (Tokyo)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Sumidagawa Fireworks Festival"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Sumidagawa Fireworks Festival” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Sumidagawa_Fireworks_Festival?oldid\u003d470246926"
+            },
+            {
+              "text": "Read “隅田川花火大会” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/隅田川花火大会?oldid\u003d42619104"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Sumidagawa_Fireworks_Festival"
+      }
+    },
+    {
+      "slug": "日本川獺",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "日本川獺",
+          "reading": "にほんかわうそ"
+        },
+        {
+          "reading": "ニホンカワウソ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Japanese river otter (Lutra lutra whiteleyi)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Japanese river otter"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Japanese river otter” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Japanese_river_otter?oldid\u003d494813913"
+            },
+            {
+              "text": "Read “ニホンカワウソ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/ニホンカワウソ?oldid\u003d42308378"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Japanese_river_otter"
+      }
+    },
+    {
+      "slug": "松皮",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "松皮",
+          "reading": "まつかわ"
+        },
+        {
+          "word": "松川",
+          "reading": "まつかわ"
+        },
+        {
+          "reading": "マツカワ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "barfin flounder (Verasper moseri)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Barfin flounder"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Barfin flounder” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Barfin_flounder?oldid\u003d464401039"
+            },
+            {
+              "text": "Read “マツカワ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/マツカワ?oldid\u003d40323804"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Barfin_flounder"
+      }
+    },
+    {
+      "slug": "小爪川獺",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "小爪川獺",
+          "reading": "こつめかわうそ"
+        },
+        {
+          "reading": "コツメカワウソ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Asian small-clawed otter (Aonyx cinerea)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Oriental small-clawed otter"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Oriental small-clawed otter” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Oriental_small-clawed_otter?oldid\u003d495098521"
+            },
+            {
+              "text": "Read “コツメカワウソ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/コツメカワウソ?oldid\u003d41971231"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Oriental_small-clawed_otter"
+      }
+    },
+    {
+      "slug": "川獺",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "川獺",
+          "reading": "かわうそ"
+        },
+        {
+          "word": "獺",
+          "reading": "かわうそ"
+        },
+        {
+          "word": "河獺",
+          "reading": "かわうそ"
+        },
+        {
+          "word": "獺",
+          "reading": "うそ"
+        },
+        {
+          "word": "獺",
+          "reading": "おそ"
+        },
+        {
+          "word": "獺",
+          "reading": "だつ"
+        },
+        {
+          "reading": "カワウソ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "otter (Lutra lutra)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Japanese river otter (Lutra lutra whiteleyi)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Otter"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Otter” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Otter?oldid\u003d493687729"
+            },
+            {
+              "text": "Read “カワウソ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/カワウソ?oldid\u003d42498639"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Otter"
+      }
+    },
+    {
+      "slug": "河原鶸",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "河原鶸",
+          "reading": "かわらひわ"
+        },
+        {
+          "word": "川原鶸",
+          "reading": "かわらひわ"
+        },
+        {
+          "reading": "カワラヒワ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Oriental greenfinch (Carduelis sinica)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Oriental Greenfinch"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Oriental Greenfinch” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Oriental_Greenfinch?oldid\u003d494781834"
+            },
+            {
+              "text": "Read “カワラヒワ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/カワラヒワ?oldid\u003d38800439"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Oriental_Greenfinch"
+      }
+    },
+    {
+      "slug": "四川料理",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "四川料理",
+          "reading": "しせんりょうり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Szechuan cuisine",
+            "Sichuan cuisine"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Szechuan cuisine"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Szechuan cuisine” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Szechuan_cuisine?oldid\u003d495455504"
+            },
+            {
+              "text": "Read “四川料理” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/四川料理?oldid\u003d42750934"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Szechuan_cuisine"
+      }
+    },
+    {
+      "slug": "川明太",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "川明太",
+          "reading": "かわめんたい"
+        },
+        {
+          "reading": "カワメンタイ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "burbot (Lota lota)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Burbot"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Burbot” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Burbot?oldid\u003d495179779"
+            },
+            {
+              "text": "Read “カワメンタイ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/カワメンタイ?oldid\u003d42650289"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Burbot"
+      }
+    },
+    {
+      "slug": "古川",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "古川",
+          "reading": "ふるかわ"
+        },
+        {
+          "word": "古河",
+          "reading": "ふるかわ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "old river"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Furukawa"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Furukawa” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Furukawa?oldid\u003d489716949"
+            },
+            {
+              "text": "Read “古川” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/古川?oldid\u003d42171074"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Furukawa"
+      }
+    },
+    {
+      "slug": "感潮河川",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "感潮河川",
+          "reading": "かんちょうかせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "tidal river"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "海嘯 かいしょう"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Tidal river"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Tidal river” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Tidal_river?oldid\u003d492957066"
+            },
+            {
+              "text": "Read “感潮河川” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/感潮河川?oldid\u003d42535017"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Tidal_river"
+      }
+    },
+    {
+      "slug": "川鵜",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "川鵜",
+          "reading": "かわう"
+        },
+        {
+          "word": "河鵜",
+          "reading": "かわう"
+        },
+        {
+          "reading": "カワウ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "great cormorant (Phalacrocorax carbo)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Great Cormorant"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Great Cormorant” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Great_Cormorant?oldid\u003d494903172"
+            },
+            {
+              "text": "Read “カワウ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/カワウ?oldid\u003d42426730"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Great_Cormorant"
+      }
+    },
+    {
+      "slug": "今川焼き",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "今川焼き",
+          "reading": "いまがわやき"
+        },
+        {
+          "word": "今川焼",
+          "reading": "いまがわやき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Japanese muffin containing bean jam, served hot"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Imagawayaki"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Imagawayaki” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Imagawayaki?oldid\u003d493431421"
+            },
+            {
+              "text": "Read “今川焼き” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/今川焼き?oldid\u003d42636661"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Imagawayaki"
+      }
+    },
+    {
+      "slug": "佐川急便",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "佐川急便",
+          "reading": "さがわきゅうびん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Sagawa Express (parcel delivery company)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Sagawa Express"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Sagawa Express” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Sagawa_Express?oldid\u003d491975385"
+            },
+            {
+              "text": "Read “佐川急便” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/佐川急便?oldid\u003d42709023"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Sagawa_Express"
+      }
+    },
+    {
+      "slug": "河川工学",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "河川工学",
+          "reading": "かせんこうがく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "river engineering"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "River engineering"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “River engineering” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/River_engineering?oldid\u003d495102841"
+            },
+            {
+              "text": "Read “河川工学” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/河川工学?oldid\u003d38335762"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/River_engineering"
+      }
+    },
+    {
+      "slug": "川崎病",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "川崎病",
+          "reading": "かわさきびょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Kawasaki disease",
+            "mucocutaneous lymph node syndrome",
+            "MCLS"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Kawasaki disease"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Kawasaki disease” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Kawasaki_disease?oldid\u003d495407733"
+            },
+            {
+              "text": "Read “川崎病” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/川崎病?oldid\u003d42744873"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Kawasaki_disease"
+      }
+    },
+    {
+      "slug": "天上川",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "天上川",
+          "reading": "てんじょうがわ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "river raised above the surrounding land"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Tenjougawa"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "川原毛",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "川原毛",
+          "reading": "かわらげ"
+        },
+        {
+          "word": "瓦毛",
+          "reading": "かわらげ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "buckskin (horse color)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Kawarage"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "川向こう",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "川向こう",
+          "reading": "かわむこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "the other side of a river"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "the other side of the tracks",
+            "place where lower class people live"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Sensitive"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "横川吸虫",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "横川吸虫",
+          "reading": "よこがわきゅうちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Metagonimus yokogawai (species of intestinal fluke)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "白河夜船",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "白河夜船",
+          "reading": "しらかわよふね"
+        },
+        {
+          "word": "白河夜船",
+          "reading": "しらかわよぶね"
+        },
+        {
+          "word": "白川夜船",
+          "reading": "しらかわよふね"
+        },
+        {
+          "word": "白川夜船",
+          "reading": "しらかわよぶね"
+        },
+        {
+          "word": "白川夜舟",
+          "reading": "しらかわよふね"
+        },
+        {
+          "word": "白川夜舟",
+          "reading": "しらかわよぶね"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "being fast asleep (and totally unaware of what is going on around one)"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "know-it-all manner"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "河太郎",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "河太郎",
+          "reading": "かわたろう"
+        },
+        {
+          "word": "河太郎",
+          "reading": "がわたろう"
+        },
+        {
+          "word": "河太郎",
+          "reading": "がたろう"
+        },
+        {
+          "word": "河太郎",
+          "reading": "があたろ"
+        },
+        {
+          "word": "河太郎",
+          "reading": "がたろ"
+        },
+        {
+          "word": "川太郎",
+          "reading": "かわたろう"
+        },
+        {
+          "word": "川太郎",
+          "reading": "がわたろう"
+        },
+        {
+          "word": "川太郎",
+          "reading": "がたろう"
+        },
+        {
+          "word": "川太郎",
+          "reading": "があたろ"
+        },
+        {
+          "word": "川太郎",
+          "reading": "がたろ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "kappa (mythical water-dwelling creature)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "河童"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "北川姫鱒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "北川姫鱒",
+          "reading": "きたかわひめます"
+        },
+        {
+          "reading": "キタカワヒメマス"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Arctic grayling (Thymallus arcticus)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "川魣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "川魣",
+          "reading": "かわかます"
+        },
+        {
+          "word": "川かます",
+          "reading": "かわかます"
+        },
+        {
+          "reading": "カワカマス"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "pike (esp. the Amur pike, Esox reichertii)",
+            "pickerel"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "河川学",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "河川学",
+          "reading": "かせんがく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "potamology",
+            "fluviology"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "川きゅう",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "川きゅう",
+          "reading": "せんきゅう"
+        },
+        {
+          "word": "川芎",
+          "reading": "せんきゅう"
+        },
+        {
+          "reading": "センキュウ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "cnidium rhizome (Cnidium officinale)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "小川小抹香",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "小川小抹香",
+          "reading": "おがわこまっこう"
+        },
+        {
+          "reading": "オガワコマッコウ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dwarf sperm whale (Kogia sima)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "川っ縁",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "川っぷち",
+          "reading": "かわっぷち"
+        },
+        {
+          "word": "川っ縁",
+          "reading": "かわっぷち"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "riverside",
+            "riverbank"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "川縁 かわぶち"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "暴れ川",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "暴れ川",
+          "reading": "あばれがわ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "river which often overflows its banks"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "川崎七分",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "川崎七分",
+          "reading": "かわさきしちぶ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "type of baggy tobi trousers with the baggy part taking up seven-tenths of the full length of the trouser leg"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "徳川時代",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "徳川時代",
+          "reading": "とくがわじだい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Tokugawa period (i.e. the Edo period, 1600-1867 CE)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "江戸時代"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "川明かり",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "川明かり",
+          "reading": "かわあかり"
+        },
+        {
+          "word": "川明り",
+          "reading": "かわあかり"
+        },
+        {
+          "word": "河明かり",
+          "reading": "かわあかり"
+        },
+        {
+          "word": "河明り",
+          "reading": "かわあかり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "glow of a river in the darkness",
+            "surface of a river gleaming in the darkness",
+            "gleam on a river at dusk"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "山川",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "山川",
+          "reading": "さんせん"
+        },
+        {
+          "word": "山川",
+          "reading": "やまかわ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "mountains and rivers"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "河川工事",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "河川工事",
+          "reading": "かせんこうじ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "riparian works"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "徳川方",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "徳川方",
+          "reading": "とくがわがた"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Tokugawa\u0027s side"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "佐川急便事件",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "佐川急便事件",
+          "reading": "さがわきゅうびんじけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Sagawa Express Scandal (1992)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "河床",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "河床",
+          "reading": "かしょう"
+        },
+        {
+          "word": "河床",
+          "reading": "かわどこ"
+        },
+        {
+          "word": "川床",
+          "reading": "かわどこ"
+        },
+        {
+          "word": "川床",
+          "reading": "かわゆか"
+        },
+        {
+          "word": "川床",
+          "reading": "ゆか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "riverbed"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "かしょう",
+            "かわどこ"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "raised platform on the bank of a river for enjoying the cool in summer"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "かわどこ",
+            "かわゆか",
+            "ゆか"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "佐川急便事件",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "佐川急便事件",
+          "reading": "さがわきゅうびんじけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Sagawa Express Scandal (1992)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "川むつ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "川むつ",
+          "reading": "かわむつ"
+        },
+        {
+          "word": "川鯥",
+          "reading": "かわむつ"
+        },
+        {
+          "reading": "カワムツ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dark chub (Nipponocypris temminckii)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "徳川方",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "徳川方",
+          "reading": "とくがわがた"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Tokugawa\u0027s side"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "川施餓鬼",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "川施餓鬼",
+          "reading": "かわせがき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Buddhist services in memory of those drowned in a river",
+            "offering to suffering spirits at the river"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "深川飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "深川飯",
+          "reading": "ふかがわめし"
+        },
+        {
+          "word": "深川めし",
+          "reading": "ふかがわめし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "fukagawa-meshi",
+            "rice cooked with clams"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "川明かり",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "川明かり",
+          "reading": "かわあかり"
+        },
+        {
+          "word": "川明り",
+          "reading": "かわあかり"
+        },
+        {
+          "word": "河明かり",
+          "reading": "かわあかり"
+        },
+        {
+          "word": "河明り",
+          "reading": "かわあかり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "glow of a river in the darkness",
+            "surface of a river gleaming in the darkness",
+            "gleam on a river at dusk"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "徳川時代",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "徳川時代",
+          "reading": "とくがわじだい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Tokugawa period (i.e. the Edo period, 1600-1867 CE)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "江戸時代"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "吉川神道",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "吉川神道",
+          "reading": "よしかわしんとう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Yoshikawa Shinto (Confucianist form of Shinto, stripped of Buddhist influence)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "河海豚",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "河海豚",
+          "reading": "かわいるか"
+        },
+        {
+          "word": "川海豚",
+          "reading": "かわいるか"
+        },
+        {
+          "reading": "カワイルカ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "river dolphin"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "いささ小川",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "いささ小川",
+          "reading": "いささおがわ"
+        },
+        {
+          "word": "細小小川",
+          "reading": "いささおがわ"
+        },
+        {
+          "word": "いさら小川",
+          "reading": "いさらおがわ"
+        },
+        {
+          "word": "細小小川",
+          "reading": "いさらおがわ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "trickling brook"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism",
+            "Obscure term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "川止め",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "川止め",
+          "reading": "かわどめ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "suspension of ferry service"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "河川水",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "河川水",
+          "reading": "かせんすい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "river water"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "いささ川",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "いささ川",
+          "reading": "いささがわ"
+        },
+        {
+          "word": "細小川",
+          "reading": "いささがわ"
+        },
+        {
+          "word": "いさら川",
+          "reading": "いさらがわ"
+        },
+        {
+          "word": "細小川",
+          "reading": "いさらがわ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "trickling brook"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "川水雲",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "川水雲",
+          "reading": "かわもずく"
+        },
+        {
+          "reading": "カワモズク"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Batrachospermum gelatinosum (species of red alga)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "山川万里",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "山川万里",
+          "reading": "さんせんばんり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "being far away across mountains and rivers"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "川波",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "川波",
+          "reading": "かわなみ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "ripples on a river"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "一級河川",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "一級河川",
+          "reading": "いっきゅうかせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "class A river",
+            "specified waterways of special importance protected by the government"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "川洲",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "川洲",
+          "reading": "かわす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sandbank in a river"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "川八目",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "川八目",
+          "reading": "かわやつめ"
+        },
+        {
+          "word": "川八つ目",
+          "reading": "かわやつめ"
+        },
+        {
+          "reading": "カワヤツメ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Arctic lamprey (Lethenteron camtschaticum)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "シベリアヤツメ"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

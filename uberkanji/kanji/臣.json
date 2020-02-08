@@ -1,0 +1,4157 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "大臣",
+      "is_common": true,
+      "tags": [
+        "wanikani29"
+      ],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "大臣",
+          "reading": "だいじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "cabinet minister"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Minister (government)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Minister (government)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Minister_(government)?oldid\u003d482215233"
+            },
+            {
+              "text": "Read “大臣” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/大臣?oldid\u003d39933623"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Minister_(government)"
+      }
+    },
+    {
+      "slug": "総理大臣",
+      "is_common": true,
+      "tags": [
+        "wanikani31"
+      ],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "総理大臣",
+          "reading": "そうりだいじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "prime minister (as the head of a cabinet government)",
+            "premier"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "内閣総理大臣"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "外務大臣",
+      "is_common": false,
+      "tags": [
+        "wanikani31"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "外務大臣",
+          "reading": "がいむだいじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Minister for Foreign Affairs"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Foreign minister"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Foreign minister” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Foreign_minister?oldid\u003d491964798"
+            },
+            {
+              "text": "Read “外務大臣” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/外務大臣?oldid\u003d41216491"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Foreign_minister"
+      }
+    },
+    {
+      "slug": "内閣総理大臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "内閣総理大臣",
+          "reading": "ないかくそうりだいじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "prime minister (as the head of a cabinet government)",
+            "premier"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Prime Minister of Japan"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Prime Minister of Japan” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Prime_Minister_of_Japan?oldid\u003d493949577"
+            },
+            {
+              "text": "Read “内閣総理大臣” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/内閣総理大臣?oldid\u003d42745224"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Prime_Minister_of_Japan"
+      }
+    },
+    {
+      "slug": "法務大臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "法務大臣",
+          "reading": "ほうむだいじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Minister of Justice"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Minister of Justice (Japan)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Minister of Justice (Japan)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Minister_of_Justice_(Japan)?oldid\u003d482156754"
+            },
+            {
+              "text": "Read “法務大臣” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/法務大臣?oldid\u003d41659718"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Minister_of_Justice_(Japan)"
+      }
+    },
+    {
+      "slug": "大蔵大臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "大蔵大臣",
+          "reading": "おおくらだいじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Minister of Finance"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "臣民",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "臣民",
+          "reading": "しんみん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "subject",
+            "national"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "内大臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "内大臣",
+          "reading": "ないだいじん"
+        },
+        {
+          "word": "内大臣",
+          "reading": "うちのおとど"
+        },
+        {
+          "word": "内大臣",
+          "reading": "うちのおおまえつぎみ"
+        },
+        {
+          "word": "内大臣",
+          "reading": "うちのおおおみ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Lord Keeper of the Privy Seal (1885-1945 CE)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "ないだいじん"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Minister of the Interior (669-1868 CE)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Naidaijin"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Naidaijin” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Naidaijin?oldid\u003d493774477"
+            },
+            {
+              "text": "Read “内大臣” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/内大臣?oldid\u003d42133984"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Naidaijin"
+      }
+    },
+    {
+      "slug": "忠臣",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "忠臣",
+          "reading": "ちゅうしん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "loyal retainer",
+            "loyal subject"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "家臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "家臣",
+          "reading": "かしん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "vassal",
+            "retainer"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "国務大臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "国務大臣",
+          "reading": "こくむだいじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Minister of State"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "重臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "重臣",
+          "reading": "じゅうしん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "chief vassal",
+            "senior statesman"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "無任所大臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "無任所大臣",
+          "reading": "むにんしょだいじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "minister without a portfolio"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Minister without portfolio"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Minister without portfolio” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Minister_without_portfolio?oldid\u003d492127319"
+            },
+            {
+              "text": "Read “無任所大臣” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/無任所大臣?oldid\u003d40175384"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Minister_without_portfolio"
+      }
+    },
+    {
+      "slug": "左大臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "左大臣",
+          "reading": "さだいじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Minister of the Left (official in Nara and Heian periods)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Sadaijin"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Sadaijin” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Sadaijin?oldid\u003d491729871"
+            },
+            {
+              "text": "Read “左大臣” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/左大臣?oldid\u003d41400367"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Sadaijin"
+      }
+    },
+    {
+      "slug": "厚生大臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "厚生大臣",
+          "reading": "こうせいだいじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Minister of Health and Welfare"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Health minister"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Health minister” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Health_minister?oldid\u003d492427907"
+            },
+            {
+              "text": "Read “厚生大臣” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/厚生大臣?oldid\u003d35658580"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Health_minister"
+      }
+    },
+    {
+      "slug": "環境大臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "環境大臣",
+          "reading": "かんきょうだいじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Minister for the Environment"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Minister of the Environment (Japan)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Minister of the Environment (Japan)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Minister_of_the_Environment_(Japan)?oldid\u003d466839886"
+            },
+            {
+              "text": "Read “環境大臣” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/環境大臣?oldid\u003d42515782"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Minister_of_the_Environment_(Japan)"
+      }
+    },
+    {
+      "slug": "労働大臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "労働大臣",
+          "reading": "ろうどうだいじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Minister of Labour"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Minister of Labour"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Minister of Labour” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Minister_of_Labour?oldid\u003d494498376"
+            },
+            {
+              "text": "Read “労働大臣” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/労働大臣?oldid\u003d32606920"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Minister_of_Labour"
+      }
+    },
+    {
+      "slug": "右大臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "右大臣",
+          "reading": "うだいじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Minister of the Right (official in Nara and Heian periods)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Udaijin"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Udaijin” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Udaijin?oldid\u003d491729862"
+            },
+            {
+              "text": "Read “右大臣” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/右大臣?oldid\u003d41404749"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Udaijin"
+      }
+    },
+    {
+      "slug": "財務大臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "財務大臣",
+          "reading": "ざいむだいじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Minister of Finance"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Finance minister"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Finance minister” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Finance_minister?oldid\u003d493161603"
+            },
+            {
+              "text": "Read “財務大臣” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/財務大臣?oldid\u003d42562979"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Finance_minister"
+      }
+    },
+    {
+      "slug": "総務大臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "総務大臣",
+          "reading": "そうむだいじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Minister of Internal Affairs and Communications"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Minister of Internal Affairs and Communications (Japan)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Minister of Internal Affairs and Communications (Japan)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Minister_of_Internal_Affairs_and_Communications_(Japan)?oldid\u003d464520965"
+            },
+            {
+              "text": "Read “総務大臣” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/総務大臣?oldid\u003d42190746"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Minister_of_Internal_Affairs_and_Communications_(Japan)"
+      }
+    },
+    {
+      "slug": "国土交通大臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "国土交通大臣",
+          "reading": "こくどこうつうだいじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Minister of Land, Infrastructure and Transport"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Minister of Land, Infrastructure, Transport and Tourism (Japan)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Minister of Land, Infrastructure, Transport and Tourism (Japan)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Minister_of_Land,_Infrastructure,_Transport_and_Tourism_(Japan)?oldid\u003d489795204"
+            },
+            {
+              "text": "Read “国土交通大臣” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/国土交通大臣?oldid\u003d41050434"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Minister_of_Land,_Infrastructure,_Transport_and_Tourism_(Japan)"
+      }
+    },
+    {
+      "slug": "財務大臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "財務大臣",
+          "reading": "ざいむだいじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Minister of Finance"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Finance minister"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Finance minister” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Finance_minister?oldid\u003d493161603"
+            },
+            {
+              "text": "Read “財務大臣” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/財務大臣?oldid\u003d42562979"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Finance_minister"
+      }
+    },
+    {
+      "slug": "防衛大臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "防衛大臣",
+          "reading": "ぼうえいだいじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Minister of Defense",
+            "Minister of Defence"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "防衛相"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Minister of Defense (Japan)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Minister of Defense (Japan)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Minister_of_Defense_(Japan)?oldid\u003d473673613"
+            },
+            {
+              "text": "Read “防衛大臣” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/防衛大臣?oldid\u003d42738469"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Minister_of_Defense_(Japan)"
+      }
+    },
+    {
+      "slug": "環境大臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "環境大臣",
+          "reading": "かんきょうだいじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Minister for the Environment"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Minister of the Environment (Japan)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Minister of the Environment (Japan)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Minister_of_the_Environment_(Japan)?oldid\u003d466839886"
+            },
+            {
+              "text": "Read “環境大臣” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/環境大臣?oldid\u003d42515782"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Minister_of_the_Environment_(Japan)"
+      }
+    },
+    {
+      "slug": "左大臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "左大臣",
+          "reading": "さだいじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Minister of the Left (official in Nara and Heian periods)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Sadaijin"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Sadaijin” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Sadaijin?oldid\u003d491729871"
+            },
+            {
+              "text": "Read “左大臣” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/左大臣?oldid\u003d41400367"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Sadaijin"
+      }
+    },
+    {
+      "slug": "右大臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "右大臣",
+          "reading": "うだいじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Minister of the Right (official in Nara and Heian periods)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Udaijin"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Udaijin” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Udaijin?oldid\u003d491729862"
+            },
+            {
+              "text": "Read “右大臣” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/右大臣?oldid\u003d41404749"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Udaijin"
+      }
+    },
+    {
+      "slug": "人臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "人臣",
+          "reading": "じんしん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "subjects",
+            "retainers"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "謀臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謀臣",
+          "reading": "ぼうしん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "strategist",
+            "tactician",
+            "schemer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "郵政大臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "郵政大臣",
+          "reading": "ゆうせいだいじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Minister of Posts and Telecommunications"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "建設大臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "建設大臣",
+          "reading": "けんせつだいじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Minister of Construction"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "佞臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "佞臣",
+          "reading": "ねいしん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "crafty courtier",
+            "traitor"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "下臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "下臣",
+          "reading": "かしん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "low-rank retainer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "帷幄の臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帷幄の臣",
+          "reading": "いあくのしん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "close adviser",
+            "close advisor"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "讒臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "讒臣",
+          "reading": "ざんしん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "false subject (vassal)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "陪臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "陪臣",
+          "reading": "ばいしん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rear vassal",
+            "daimyo\u0027s retainer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "通商産業大臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "通商産業大臣",
+          "reading": "つうしょうさんぎょうだいじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Minister of International Trade and Industry"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "伴食大臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "伴食大臣",
+          "reading": "ばんしょくだいじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "nominal (figurehead) minister",
+            "titular minister"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "廷臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "廷臣",
+          "reading": "ていしん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "courtier"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "使臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "使臣",
+          "reading": "ししん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "envoy"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "侍臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "侍臣",
+          "reading": "じしん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "courtier",
+            "attendant"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "遺臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遺臣",
+          "reading": "いしん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "surviving retainer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "使臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "使臣",
+          "reading": "ししん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "envoy"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "逆臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "逆臣",
+          "reading": "ぎゃくしん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "treacherous retainer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "寵臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "寵臣",
+          "reading": "ちょうしん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "favored retainer",
+            "favoured retainer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "諫臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "諫臣",
+          "reading": "かんしん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "retainer who dares to dissuade his lord"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "海軍大臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "海軍大臣",
+          "reading": "かいぐんだいじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Minister of the Navy"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "内務大臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "内務大臣",
+          "reading": "ないむだいじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "prewar Home Minister"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "近臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "近臣",
+          "reading": "きんしん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "vassal",
+            "attendant"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "侍臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "侍臣",
+          "reading": "じしん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "courtier",
+            "attendant"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "司法大臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "司法大臣",
+          "reading": "しほうだいじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Minister of Justice"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "乱臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "乱臣",
+          "reading": "らんしん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "traitor"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "叛臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "叛臣",
+          "reading": "はんしん"
+        },
+        {
+          "word": "反臣",
+          "reading": "はんしん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rebellious retainer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "老臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "老臣",
+          "reading": "ろうしん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "old or key retainer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "義臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "義臣",
+          "reading": "ぎしん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "loyal retainer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "旧臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旧臣",
+          "reading": "きゅうしん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "old retainer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "自治大臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "自治大臣",
+          "reading": "じちだいじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Minister of Home Affairs"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "不臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "不臣",
+          "reading": "ふしん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "disloyalty",
+            "unfaithfulness"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "倖臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "倖臣",
+          "reading": "こうしん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "favorite courtier",
+            "favourite courtier"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "先の総理大臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "先の総理大臣",
+          "reading": "さきのそうりだいじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "former prime minister"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "武臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "武臣",
+          "reading": "ぶしん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "military retainer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "沖縄北方対策担当大臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "沖縄北方対策担当大臣",
+          "reading": "おきなわほっぽうたいさくたんとうだいじん"
+        },
+        {
+          "word": "沖縄・北方対策担当大臣",
+          "reading": "おきなわほっぽうたいさくたんとうだいじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "State Minister in Charge of Issues of Okinawa and Northern Territories"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "人臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "人臣",
+          "reading": "じんしん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "subjects",
+            "retainers"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "経済財政政策担当大臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "経済財政政策担当大臣",
+          "reading": "けいざいざいせいせいさくたんとうだいじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "State Minister in Charge of Economic and Fiscal Policy"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "建設大臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "建設大臣",
+          "reading": "けんせつだいじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Minister of Construction"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "義臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "義臣",
+          "reading": "ぎしん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "loyal retainer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "帷幄の臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帷幄の臣",
+          "reading": "いあくのしん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "close adviser",
+            "close advisor"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "旧臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旧臣",
+          "reading": "きゅうしん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "old retainer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "自治大臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "自治大臣",
+          "reading": "じちだいじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Minister of Home Affairs"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "不臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "不臣",
+          "reading": "ふしん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "disloyalty",
+            "unfaithfulness"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "倖臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "倖臣",
+          "reading": "こうしん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "favorite courtier",
+            "favourite courtier"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "遺臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遺臣",
+          "reading": "いしん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "surviving retainer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "先の総理大臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "先の総理大臣",
+          "reading": "さきのそうりだいじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "former prime minister"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "武臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "武臣",
+          "reading": "ぶしん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "military retainer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "陸軍大臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "陸軍大臣",
+          "reading": "りくぐんだいじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Army Minister",
+            "Minister of War"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "主務大臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "主務大臣",
+          "reading": "しゅむだいじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "the cabinet minister in charge"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "文部大臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "文部大臣",
+          "reading": "もんぶだいじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Minister of Education"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "文臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "文臣",
+          "reading": "ぶんしん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "civil official (esp. dealing with literary matters)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "直臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "直臣",
+          "reading": "じきしん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "immediate follower (of the shogun)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Obscure term"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "直参 じきさん"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "外臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "外臣",
+          "reading": "がいしん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "foreign retainer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "運輸大臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "運輸大臣",
+          "reading": "うんゆだいじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Minister of Transport"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "廷臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "廷臣",
+          "reading": "ていしん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "courtier"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "農林大臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "農林大臣",
+          "reading": "のうりんだいじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Minister of Agriculture and Forestry"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Obsolete term"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "農林水産大臣"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "逆臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "逆臣",
+          "reading": "ぎゃくしん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "treacherous retainer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "先の総理大臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "先の総理大臣",
+          "reading": "さきのそうりだいじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "former prime minister"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "武臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "武臣",
+          "reading": "ぶしん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "military retainer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "陸軍大臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "陸軍大臣",
+          "reading": "りくぐんだいじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Army Minister",
+            "Minister of War"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "寵臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "寵臣",
+          "reading": "ちょうしん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "favored retainer",
+            "favoured retainer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "大臣政務官",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "大臣政務官",
+          "reading": "だいじんせいむかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "parliamentary secretary"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "主務大臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "主務大臣",
+          "reading": "しゅむだいじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "the cabinet minister in charge"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "文部大臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "文部大臣",
+          "reading": "もんぶだいじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Minister of Education"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "文臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "文臣",
+          "reading": "ぶんしん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "civil official (esp. dealing with literary matters)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "臣事",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "臣事",
+          "reading": "しんじ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "serving as a retainer"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "海軍大臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "海軍大臣",
+          "reading": "かいぐんだいじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Minister of the Navy"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "運輸大臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "運輸大臣",
+          "reading": "うんゆだいじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Minister of Transport"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "君臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "君臣",
+          "reading": "くんしん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "ruler and ruled",
+            "master and servant"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "文部科学大臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "文部科学大臣",
+          "reading": "もんぶかがくだいじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Minister of Education, Culture, Sports, Science and Technology"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "太政大臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "太政大臣",
+          "reading": "だいじょうだいじん"
+        },
+        {
+          "word": "太政大臣",
+          "reading": "だじょうだいじん"
+        },
+        {
+          "word": "太政大臣",
+          "reading": "おおきおおいどの"
+        },
+        {
+          "word": "太政大臣",
+          "reading": "おおきおおいもうちぎみ"
+        },
+        {
+          "word": "太政大臣",
+          "reading": "おおきおとど"
+        },
+        {
+          "word": "太政大臣",
+          "reading": "おおきまつりごとのおおまえつぎみ"
+        },
+        {
+          "word": "太政大臣",
+          "reading": "おおまつりごとのおおまえつぎみ"
+        },
+        {
+          "word": "太政大臣",
+          "reading": "おおいまつりごとのおおまえつぎみ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Grand Minister",
+            "Chancellor of the Realm"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Daijō Daijin"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Daijō Daijin” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Daijō_Daijin?oldid\u003d492050150"
+            },
+            {
+              "text": "Read “太政大臣” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/太政大臣?oldid\u003d42258395"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Daijō_Daijin"
+      }
+    },
+    {
+      "slug": "臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "臣",
+          "reading": "おみ"
+        },
+        {
+          "word": "臣",
+          "reading": "しん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "retainer",
+            "attendant"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Omi (hereditary title; orig. one of the two highest such titles, later demoted to sixth highest of eight)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "おみ"
+          ],
+          "see_also": [
+            "八色の姓"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "I",
+            "me"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Humble (kenjougo)"
+          ],
+          "restrictions": [
+            "しん"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "used by a servant when speaking to their master"
+          ]
+        },
+        {
+          "english_definitions": [
+            "Omi"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Omi” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Omi?oldid\u003d471440663"
+            },
+            {
+              "text": "Read “臣” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/臣?oldid\u003d40808159"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Omi"
+      }
+    },
+    {
+      "slug": "朝臣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "朝臣",
+          "reading": "ちょうしん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "courtier"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Ason"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Ason” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Ason?oldid\u003d446330646"
+            },
+            {
+              "text": "Read “朝臣” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/朝臣?oldid\u003d40456754"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Ason"
+      }
+    },
+    {
+      "slug": "大殿",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "大殿",
+          "reading": "おとど"
+        },
+        {
+          "word": "大臣",
+          "reading": "おとど"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "minister (of government)",
+            "noble"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Honorific or respectful (sonkeigo)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "nobleman\u0027s residence"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Honorific or respectful (sonkeigo)",
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Otodo"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

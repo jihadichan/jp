@@ -1,0 +1,101 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "晨鴨",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "晨鴨",
+          "reading": "しのりがも"
+        },
+        {
+          "word": "しのり鴨",
+          "reading": "しのりがも"
+        },
+        {
+          "word": "晨り鴨",
+          "reading": "しのりがも"
+        },
+        {
+          "reading": "シノリガモ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "harlequin duck (Clangula hyemalis or Histrionicus histrionicus)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "晨朝",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "晨朝",
+          "reading": "じんじょう"
+        },
+        {
+          "word": "晨朝",
+          "reading": "しんちょう"
+        },
+        {
+          "word": "晨朝",
+          "reading": "じんちょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "around six o\u0027clock AM",
+            "dawn service"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Buddhist term"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "六時"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

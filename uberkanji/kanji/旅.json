@@ -1,0 +1,4197 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "旅行",
+      "is_common": true,
+      "tags": [
+        "wanikani12",
+        "wanikani14"
+      ],
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "旅行",
+          "reading": "りょこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "travel",
+            "trip",
+            "journey",
+            "excursion",
+            "tour"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Travel"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Travel” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Travel?oldid\u003d485250814"
+            },
+            {
+              "text": "Read “旅行” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/旅行?oldid\u003d41778303"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Travel"
+      }
+    },
+    {
+      "slug": "旅館",
+      "is_common": true,
+      "tags": [
+        "wanikani13"
+      ],
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "旅館",
+          "reading": "りょかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "ryokan",
+            "traditional inn",
+            "Japanese-style lodging, usu. professionally-run"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "民宿 みんしゅく"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Ryokan (Japanese inn)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Ryokan (Japanese inn)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Ryokan_(Japanese_inn)?oldid\u003d489253199"
+            },
+            {
+              "text": "Read “旅館” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/旅館?oldid\u003d42282167"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Ryokan_(Japanese_inn)"
+      }
+    },
+    {
+      "slug": "旅客",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "旅客",
+          "reading": "りょかく"
+        },
+        {
+          "word": "旅客",
+          "reading": "りょきゃく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "passenger"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "traveller",
+            "traveler",
+            "tourist"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Passenger"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Passenger” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Passenger?oldid\u003d494600580"
+            },
+            {
+              "text": "Read “旅客” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/旅客?oldid\u003d42696205"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Passenger"
+      }
+    },
+    {
+      "slug": "旅",
+      "is_common": true,
+      "tags": [
+        "wanikani12"
+      ],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "旅",
+          "reading": "たび"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "travel",
+            "trip",
+            "journey"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "旅券",
+      "is_common": true,
+      "tags": [
+        "wanikani28"
+      ],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "旅券",
+          "reading": "りょけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "passport"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "パスポート"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "旅客機",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旅客機",
+          "reading": "りょかくき"
+        },
+        {
+          "word": "旅客機",
+          "reading": "りょかっき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "passenger plane"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Airliner"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Airliner” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Airliner?oldid\u003d491549617"
+            },
+            {
+              "text": "Read “旅客機” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/旅客機?oldid\u003d42447211"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Airliner"
+      }
+    },
+    {
+      "slug": "旅立つ",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旅立つ",
+          "reading": "たびだつ"
+        },
+        {
+          "word": "旅だつ",
+          "reading": "たびだつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to begin a trip",
+            "to depart",
+            "to embark"
+          ],
+          "parts_of_speech": [
+            "Godan verb with tsu ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to die",
+            "to pass away",
+            "to depart this life"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "修学旅行",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "修学旅行",
+          "reading": "しゅうがくりょこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "excursion",
+            "field trip",
+            "school trip"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "旅先",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旅先",
+          "reading": "たびさき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "destination",
+            "goal (of travel)",
+            "place one stays during a journey"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "旅費",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旅費",
+          "reading": "りょひ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "travel expenses"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "海外旅行",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "海外旅行",
+          "reading": "かいがいりょこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "trip abroad",
+            "overseas travel"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "旅行者",
+      "is_common": true,
+      "tags": [
+        "wanikani14"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旅行者",
+          "reading": "りょこうしゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "traveller",
+            "traveler"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "一人旅",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "一人旅",
+          "reading": "ひとりたび"
+        },
+        {
+          "word": "ひとり旅",
+          "reading": "ひとりたび"
+        },
+        {
+          "word": "独り旅",
+          "reading": "ひとりたび"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "travelling alone",
+            "solitary journey"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "旅行会社",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旅行会社",
+          "reading": "りょこうがいしゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "travel agent",
+            "travel agency"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "旅人",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旅人",
+          "reading": "たびびと"
+        },
+        {
+          "word": "たび人",
+          "reading": "たびびと"
+        },
+        {
+          "word": "旅人",
+          "reading": "りょじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "traveller",
+            "traveler",
+            "wayfarer",
+            "tourist"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "船旅",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "船旅",
+          "reading": "ふなたび"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "trip by boat",
+            "sea voyage",
+            "cruise",
+            "sailing"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "旅立ち",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旅立ち",
+          "reading": "たびだち"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "setting off (on a trip)"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "旅路",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旅路",
+          "reading": "たびじ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "journey",
+            "route of a journey"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "宇宙旅行",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "宇宙旅行",
+          "reading": "うちゅうりょこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "space travel"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Space tourism"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Space tourism” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Space_tourism?oldid\u003d495530019"
+            },
+            {
+              "text": "Read “宇宙旅行” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/宇宙旅行?oldid\u003d42203199"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Space_tourism"
+      }
+    },
+    {
+      "slug": "新婚旅行",
+      "is_common": false,
+      "tags": [
+        "wanikani30"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "新婚旅行",
+          "reading": "しんこんりょこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "honeymoon"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Honeymoon"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Honeymoon” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Honeymoon?oldid\u003d492341497"
+            },
+            {
+              "text": "Read “新婚旅行” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/新婚旅行?oldid\u003d41126053"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Honeymoon"
+      }
+    },
+    {
+      "slug": "旅行代理店",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旅行代理店",
+          "reading": "りょこうだいりてん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "travel agent"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Travel agency"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Travel agency” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Travel_agency?oldid\u003d495332647"
+            },
+            {
+              "text": "Read “旅行代理店” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/旅行代理店?oldid\u003d42536096"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Travel_agency"
+      }
+    },
+    {
+      "slug": "自転車旅行",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "自転車旅行",
+          "reading": "じてんしゃりょこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "bicycle trip",
+            "cycling tour"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Bicycle touring"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Bicycle touring” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Bicycle_touring?oldid\u003d494434376"
+            },
+            {
+              "text": "Read “自転車旅行” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/自転車旅行?oldid\u003d42561612"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Bicycle_touring"
+      }
+    },
+    {
+      "slug": "旅客船",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旅客船",
+          "reading": "りょかくせん"
+        },
+        {
+          "word": "旅客船",
+          "reading": "りょきゃくせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "passenger ship"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Passenger ship"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Passenger ship” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Passenger_ship?oldid\u003d493969276"
+            },
+            {
+              "text": "Read “旅客船” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/旅客船?oldid\u003d42419071"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Passenger_ship"
+      }
+    },
+    {
+      "slug": "世界一周旅行",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "世界一周旅行",
+          "reading": "せかいいっしゅうりょこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "round-the-world trip",
+            "world cruise"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "外国旅行",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "外国旅行",
+          "reading": "がいこくりょこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "foreign travel",
+            "overseas trip"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "空の旅",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "空の旅",
+          "reading": "そらのたび"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "air travel",
+            "air trip"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "観光旅行",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "観光旅行",
+          "reading": "かんこうりょこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(sightseeing) tour"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "旅行計画",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旅行計画",
+          "reading": "りょこうけいかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "travel planning",
+            "travel plans"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "旅行記",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旅行記",
+          "reading": "りょこうき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "journal of one\u0027s travels"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "長旅",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "長旅",
+          "reading": "ながたび"
+        },
+        {
+          "word": "長旅",
+          "reading": "ちょうりょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "long trip"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "団体旅行",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "団体旅行",
+          "reading": "だんたいりょこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "group travel"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "家族旅行",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "家族旅行",
+          "reading": "かぞくりょこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "family vacation",
+            "family trip"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "慰安旅行",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "慰安旅行",
+          "reading": "いあんりょこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "pleasure trip",
+            "company (office) trip"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "社員旅行",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "社員旅行",
+          "reading": "しゃいんりょこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "company outing",
+            "company retreat"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "旅行鞄",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旅行鞄",
+          "reading": "りょこうかばん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "traveling bag",
+            "travelling bag",
+            "suitcase"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "旅支度",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旅支度",
+          "reading": "たびじたく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "preparations for a journey"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "旅客列車",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旅客列車",
+          "reading": "りょかくれっしゃ"
+        },
+        {
+          "word": "旅客列車",
+          "reading": "りょきゃくれっしゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "passenger train"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "旅団",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旅団",
+          "reading": "りょだん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "brigade"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Brigade"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Brigade” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Brigade?oldid\u003d495486281"
+            },
+            {
+              "text": "Read “旅団” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/旅団?oldid\u003d42674573"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Brigade"
+      }
+    },
+    {
+      "slug": "旅情",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旅情",
+          "reading": "りょじょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "one\u0027s mood while traveling (travelling)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Summertime (1955 film)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Summertime (1955 film)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Summertime_(1955_film)?oldid\u003d495474917"
+            },
+            {
+              "text": "Read “旅情” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/旅情?oldid\u003d42576389"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Summertime_(1955_film)"
+      }
+    },
+    {
+      "slug": "旅行券",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旅行券",
+          "reading": "りょこうけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "travel voucher",
+            "travel coupon"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "旅行券",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旅行券",
+          "reading": "りょこうけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "travel voucher",
+            "travel coupon"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "旅程",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旅程",
+          "reading": "りょてい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "itinerary",
+            "travel plans"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "distance (of a trip)",
+            "journey"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "旅芸人",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旅芸人",
+          "reading": "たびげいにん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "itinerant entertainer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "旅籠",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旅籠",
+          "reading": "はたご"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "inn",
+            "tavern",
+            "hatago",
+            "Edo period lodging for travellers"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "旅籠屋"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "basket used by travellers to carry food and other supplies"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "basket used by travellers to carry horse fodder"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "orig. meaning"
+          ]
+        },
+        {
+          "english_definitions": [
+            "Hatago"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Hatago"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Hatago” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Hatago?oldid\u003d408753548"
+            },
+            {
+              "text": "Read “旅籠” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/旅籠?oldid\u003d41640473"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "http://dbpedia.org/resource/Hatago"
+      }
+    },
+    {
+      "slug": "よい旅行を",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "良い旅行を",
+          "reading": "よいりょこうを"
+        },
+        {
+          "word": "よい旅行を",
+          "reading": "よいりょこうを"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "\"Bon voyage!\"",
+            "\"Have a nice trip!\""
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "旅慣れる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旅慣れる",
+          "reading": "たびなれる"
+        },
+        {
+          "word": "旅馴れる",
+          "reading": "たびなれる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to be accustomed to traveling (travelling)"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "外国人旅行者",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "外国人旅行者",
+          "reading": "がいこくじんりょこうしゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "foreign tourist"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "赤い旅団",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "赤い旅団",
+          "reading": "あかいりょだん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Red Brigades"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Red Brigades"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Red Brigades” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Red_Brigades?oldid\u003d493097639"
+            },
+            {
+              "text": "Read “赤い旅団” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/赤い旅団?oldid\u003d40286261"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Red_Brigades"
+      }
+    },
+    {
+      "slug": "旅行鳩",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旅行鳩",
+          "reading": "りょこうばと"
+        },
+        {
+          "reading": "リョコウバト"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "passenger pigeon (Ectopistes migratorius)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Passenger Pigeon"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Passenger Pigeon” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Passenger_Pigeon?oldid\u003d494018896"
+            },
+            {
+              "text": "Read “リョコウバト” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/リョコウバト?oldid\u003d42629162"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Passenger_Pigeon"
+      }
+    },
+    {
+      "slug": "旅行者下痢",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旅行者下痢",
+          "reading": "りょこうしゃげり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "traveler\u0027s diarrhea",
+            "traveller\u0027s diarrhoea"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Traveler\u0027s diarrhea"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Traveler\u0027s diarrhea” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Traveler\u0027s_diarrhea?oldid\u003d495270110"
+            },
+            {
+              "text": "Read “旅行者下痢” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/旅行者下痢?oldid\u003d42416696"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Traveler\u0027s_diarrhea"
+      }
+    },
+    {
+      "slug": "旅人の木",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旅人の木",
+          "reading": "たびびとのき"
+        },
+        {
+          "reading": "タビビトノキ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "traveller\u0027s tree (Ravenala madagascariensis)",
+            "traveller\u0027s palm"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Ravenala"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Ravenala” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Ravenala?oldid\u003d484208569"
+            },
+            {
+              "text": "Read “タビビトノキ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/タビビトノキ?oldid\u003d41560859"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Ravenala"
+      }
+    },
+    {
+      "slug": "旅人木",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旅人木",
+          "reading": "りょじんぼく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "traveller\u0027s tree (Ravenala madagascariensis)",
+            "traveller\u0027s palm"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "旅人の木"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "旅がらす",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旅がらす",
+          "reading": "たびがらす"
+        },
+        {
+          "word": "旅烏",
+          "reading": "たびがらす"
+        },
+        {
+          "word": "旅鴉",
+          "reading": "たびがらす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "wanderer",
+            "stranger",
+            "vagrant",
+            "vagabond"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "outsider",
+            "stranger"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Derogatory"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "旅住い",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旅住い",
+          "reading": "たびずまい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "place one stays when traveling (travelling)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "旅信",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旅信",
+          "reading": "りょしん"
+        },
+        {
+          "word": "旅信",
+          "reading": "たびだより"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "message from someone on a journey"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Obscure term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "旅する",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旅する",
+          "reading": "たびする"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to travel",
+            "to take a trip"
+          ],
+          "parts_of_speech": [
+            "Suru verb - special class"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "旅僧",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旅僧",
+          "reading": "たびそう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "traveling priest",
+            "travelling priest"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "旅次",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旅次",
+          "reading": "りょじ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "hotel",
+            "inn"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "数次旅券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "数次旅券",
+          "reading": "すうじりょけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "multiple journey passport"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "死出の旅",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "死出の旅",
+          "reading": "しでのたび"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "one\u0027s last journey",
+            "the journey to the other world",
+            "death"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "旅次",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旅次",
+          "reading": "りょじ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "hotel",
+            "inn"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "旅がらす",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旅がらす",
+          "reading": "たびがらす"
+        },
+        {
+          "word": "旅烏",
+          "reading": "たびがらす"
+        },
+        {
+          "word": "旅鴉",
+          "reading": "たびがらす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "wanderer",
+            "stranger",
+            "vagrant",
+            "vagabond"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "outsider",
+            "stranger"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Derogatory"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "旅信",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旅信",
+          "reading": "りょしん"
+        },
+        {
+          "word": "旅信",
+          "reading": "たびだより"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "message from someone on a journey"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Obscure term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "旅籠屋",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旅籠屋",
+          "reading": "はたごや"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "inn",
+            "tavern",
+            "Edo period lodging for travellers"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "旅籠"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "旅興行",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旅興行",
+          "reading": "たびこうぎょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "touring show"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "数次旅券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "数次旅券",
+          "reading": "すうじりょけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "multiple journey passport"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "死出の旅",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "死出の旅",
+          "reading": "しでのたび"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "one\u0027s last journey",
+            "the journey to the other world",
+            "death"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "外交旅券",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "外交旅券",
+          "reading": "がいこうりょけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "diplomatic passport"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "無銭旅行",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "無銭旅行",
+          "reading": "むせんりょこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "hitchhiking"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "旅商い",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旅商い",
+          "reading": "たびあきない"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "peddling",
+            "peddler",
+            "pedlar"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "あてなき旅",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "あてなき旅",
+          "reading": "あてなきたび"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "journey without a destination"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "旅"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "演奏旅行",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "演奏旅行",
+          "reading": "えんそうりょこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "concert (playing) tour"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "股旅",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "股旅",
+          "reading": "またたび"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "wandering life of a gambler"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "旅回り",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旅回り",
+          "reading": "たびまわり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "touring"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "遊説旅行",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遊説旅行",
+          "reading": "ゆうぜいりょこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "stumping (electioneering) tour"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "旅の者",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旅の者",
+          "reading": "たびのもの"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "traveler",
+            "traveller",
+            "stranger"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "空挺旅団",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "空挺旅団",
+          "reading": "くうていりょだん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Airborne Brigade"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "行旅",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "行旅",
+          "reading": "こうりょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "traveling",
+            "travelling"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "traveler",
+            "traveller"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "旅姿",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旅姿",
+          "reading": "たびすがた"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "traditional Japanese travel outfit",
+            "travel kit"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "軍旅",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "軍旅",
+          "reading": "ぐんりょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "army",
+            "soldiers",
+            "war"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "旅行先",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旅行先",
+          "reading": "りょこうさき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "destination"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "行旅",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "行旅",
+          "reading": "こうりょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "traveling",
+            "travelling"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "traveler",
+            "traveller"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "股旅",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "股旅",
+          "reading": "またたび"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "wandering life of a gambler"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "旅姿",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旅姿",
+          "reading": "たびすがた"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "traditional Japanese travel outfit",
+            "travel kit"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "日帰り旅行",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "日帰り旅行",
+          "reading": "ひがえりりょこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "day trip"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "旧婚旅行",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旧婚旅行",
+          "reading": "きゅうこんりょこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "second honeymoon"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "旅の者",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旅の者",
+          "reading": "たびのもの"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "traveler",
+            "traveller",
+            "stranger"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "研修旅行",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "研修旅行",
+          "reading": "けんしゅうりょこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "study tour"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "狩猟旅行",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "狩猟旅行",
+          "reading": "しゅりょうりょこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "safari"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "貧乏旅行",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貧乏旅行",
+          "reading": "びんぼうりょこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "budget travel",
+            "penniless travel",
+            "travelling on the cheap"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "旅子",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旅子",
+          "reading": "たびこ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "travelling male homosexual prostitute"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "飛子"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "軍旅",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "軍旅",
+          "reading": "ぐんりょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "army",
+            "soldiers",
+            "war"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "傷心旅行",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "傷心旅行",
+          "reading": "しょうしんりょこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "travel to relieve heartbreak",
+            "sentimental journey"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "修旅",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "修旅",
+          "reading": "しゅうりょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "excursion",
+            "field trip",
+            "school trip"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Abbreviation",
+            "Colloquialism"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "修学旅行 しゅうがくりょこう"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "冒険旅行",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "冒険旅行",
+          "reading": "ぼうけんりょこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "adventure travel",
+            "adventuresome trip",
+            "safari"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "超音速旅客機",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "超音速旅客機",
+          "reading": "ちょうおんそくりょかくき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "supersonic airliner (i.e. the Concorde)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "旅宿",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旅宿",
+          "reading": "りょしゅく"
+        },
+        {
+          "word": "旅宿",
+          "reading": "たびやど"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "travellers\u0027 inn",
+            "stage inn"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "羈旅",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "羈旅",
+          "reading": "きりょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "travel",
+            "traveler",
+            "traveller"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "旅亭",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旅亭",
+          "reading": "りょてい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "hotel",
+            "inn"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "旅寝",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旅寝",
+          "reading": "たびね"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sleeping away from home",
+            "overnight stay when traveling"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

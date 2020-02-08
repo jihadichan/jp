@@ -1,0 +1,374 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "包丁",
+      "is_common": true,
+      "tags": [
+        "wanikani41"
+      ],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "包丁",
+          "reading": "ほうちょう"
+        },
+        {
+          "word": "庖丁",
+          "reading": "ほうちょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "kitchen knife",
+            "carving knife"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "cooking",
+            "food"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Japanese cutlery"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Japanese cutlery” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Japanese_cutlery?oldid\u003d491532276"
+            },
+            {
+              "text": "Read “包丁” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/包丁?oldid\u003d42430523"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Japanese_cutlery"
+      }
+    },
+    {
+      "slug": "刺身包丁",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "刺身包丁",
+          "reading": "さしみぼうちょう"
+        },
+        {
+          "word": "刺身庖丁",
+          "reading": "さしみぼうちょう"
+        },
+        {
+          "word": "刺し身包丁",
+          "reading": "さしみぼうちょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sashimi knife"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Sashimi bocho"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Sashimi bocho” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Sashimi_bocho?oldid\u003d416944584"
+            },
+            {
+              "text": "Read “刺身包丁” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/刺身包丁?oldid\u003d37824870"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Sashimi_bocho"
+      }
+    },
+    {
+      "slug": "出刃包丁",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "出刃包丁",
+          "reading": "でばぼうちょう"
+        },
+        {
+          "word": "出刃庖丁",
+          "reading": "でばぼうちょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "knife",
+            "pointed carver"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Deba bōchō"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Deba bōchō” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Deba_bōchō?oldid\u003d468046600"
+            },
+            {
+              "text": "Read “出刃包丁” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/出刃包丁?oldid\u003d42069068"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Deba_bōchō"
+      }
+    },
+    {
+      "slug": "肉切り包丁",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "肉切り包丁",
+          "reading": "にくきりぼうちょう"
+        },
+        {
+          "word": "肉切り庖丁",
+          "reading": "にくきりぼうちょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "carving knife",
+            "butcher\u0027s knife",
+            "cleaver",
+            "meat chopper"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "裁ち庖丁",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "裁ち庖丁",
+          "reading": "たちぼうちょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "tailor\u0027s knife"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "石包丁",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "石包丁",
+          "reading": "いしぼうちょう"
+        },
+        {
+          "word": "石庖丁",
+          "reading": "いしぼうちょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "stone harvesting knife",
+            "stone knife"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "庖厨",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "庖厨",
+          "reading": "ほうちゅう"
+        },
+        {
+          "word": "庖廚",
+          "reading": "ほうちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "kitchen"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

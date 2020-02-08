@@ -1,0 +1,1301 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "寿司",
+      "is_common": true,
+      "tags": [
+        "wanikani35"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "寿司",
+          "reading": "すし"
+        },
+        {
+          "word": "鮓",
+          "reading": "すし"
+        },
+        {
+          "word": "鮨",
+          "reading": "すし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sushi",
+            "anything made with vinegared rice (may also contain vegetables, spices, fish, or other delicacies)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Food term"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "巻き寿司"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Sushi"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Sushi” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Sushi?oldid\u003d495493441"
+            },
+            {
+              "text": "Read “寿司” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/寿司?oldid\u003d42635434"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Sushi"
+      }
+    },
+    {
+      "slug": "寿司屋",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "寿司屋",
+          "reading": "すしや"
+        },
+        {
+          "word": "鮨屋",
+          "reading": "すしや"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sushi shop",
+            "sushi restaurant"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "すし詰め",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "すし詰め",
+          "reading": "すしづめ"
+        },
+        {
+          "word": "鮨詰め",
+          "reading": "すしづめ"
+        },
+        {
+          "word": "寿司詰め",
+          "reading": "すしづめ"
+        },
+        {
+          "word": "鮨詰",
+          "reading": "すしづめ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "jam-packed",
+            "packed in like sardines"
+          ],
+          "parts_of_speech": [
+            "No-adjective",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Idiomatic expression"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "にぎり寿司",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "にぎり寿司",
+          "reading": "にぎりずし"
+        },
+        {
+          "word": "握り寿司",
+          "reading": "にぎりずし"
+        },
+        {
+          "word": "にぎり鮨",
+          "reading": "にぎりずし"
+        },
+        {
+          "word": "握りずし",
+          "reading": "にぎりずし"
+        },
+        {
+          "word": "握り鮨",
+          "reading": "にぎりずし"
+        },
+        {
+          "word": "握鮨",
+          "reading": "にぎりずし"
+        },
+        {
+          "word": "握寿司",
+          "reading": "にぎりずし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "nigirizushi",
+            "hand-formed sushi with a topping of seafood, etc."
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Food term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "回転寿司",
+      "is_common": false,
+      "tags": [
+        "wanikani14"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "回転寿司",
+          "reading": "かいてんずし"
+        },
+        {
+          "word": "回転ずし",
+          "reading": "かいてんずし"
+        },
+        {
+          "word": "回転鮨",
+          "reading": "かいてんずし"
+        },
+        {
+          "word": "回転寿司",
+          "reading": "かいてんすし"
+        },
+        {
+          "word": "回転すし",
+          "reading": "かいてんすし"
+        },
+        {
+          "word": "回転鮨",
+          "reading": "かいてんすし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "conveyor belt sushi",
+            "sushi-go-round",
+            "sushi train",
+            "kaiten-zushi"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Conveyor belt sushi"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Conveyor belt sushi” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Conveyor_belt_sushi?oldid\u003d480958622"
+            },
+            {
+              "text": "Read “回転寿司” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/回転寿司?oldid\u003d42549797"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Conveyor_belt_sushi"
+      }
+    },
+    {
+      "slug": "五目鮨",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "五目寿司",
+          "reading": "ごもくずし"
+        },
+        {
+          "word": "五目ずし",
+          "reading": "ごもくずし"
+        },
+        {
+          "word": "五目鮨",
+          "reading": "ごもくずし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sushi rice mixed with various ingredients (vegetables, fish, etc.)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "なれ鮨",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "なれ鮨",
+          "reading": "なれずし"
+        },
+        {
+          "word": "熟れ鮨",
+          "reading": "なれずし"
+        },
+        {
+          "word": "熟鮨",
+          "reading": "なれずし"
+        },
+        {
+          "word": "馴鮨",
+          "reading": "なれずし"
+        },
+        {
+          "word": "熟寿司",
+          "reading": "なれずし"
+        },
+        {
+          "word": "馴れ寿司",
+          "reading": "なれずし"
+        },
+        {
+          "word": "熟れ寿司",
+          "reading": "なれずし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "narezushi",
+            "fermented sushi (pickled in brine rather than vinegar), precursor of modern sushi"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "太巻き寿司",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "太巻き寿司",
+          "reading": "ふとまきずし"
+        },
+        {
+          "word": "太巻きずし",
+          "reading": "ふとまきずし"
+        },
+        {
+          "word": "太巻き鮨",
+          "reading": "ふとまきずし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "futomaki",
+            "thick roll of makizushi"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "鮒寿司",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鮒寿司",
+          "reading": "ふなずし"
+        },
+        {
+          "word": "鮒ずし",
+          "reading": "ふなずし"
+        },
+        {
+          "word": "鮒鮨",
+          "reading": "ふなずし"
+        },
+        {
+          "word": "鮒鮓",
+          "reading": "ふなずし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "funazushi",
+            "old-style fermented crucian carp sushi"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "なれ鮨 なれずし"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "江戸前寿司",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "江戸前寿司",
+          "reading": "えどまえずし"
+        },
+        {
+          "word": "江戸前鮨",
+          "reading": "えどまえずし"
+        },
+        {
+          "word": "江戸前ずし",
+          "reading": "えどまえずし"
+        },
+        {
+          "word": "江戸前鮓",
+          "reading": "えどまえずし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Edo-style sushi (usu. nigirizushi)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Food term"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "握り寿司 にぎりずし"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "巻き寿司",
+      "is_common": false,
+      "tags": [
+        "wanikani27"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "巻き寿司",
+          "reading": "まきずし"
+        },
+        {
+          "word": "巻きずし",
+          "reading": "まきずし"
+        },
+        {
+          "word": "巻寿司",
+          "reading": "まきずし"
+        },
+        {
+          "word": "巻鮨",
+          "reading": "まきずし"
+        },
+        {
+          "word": "巻き鮨",
+          "reading": "まきずし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "makizushi",
+            "sushi made rolled in nori seaweed with a core of filling"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Food term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "めはり寿司",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "めはり寿司",
+          "reading": "めはりずし"
+        },
+        {
+          "word": "目張り寿司",
+          "reading": "めはりずし"
+        },
+        {
+          "word": "目張り鮨",
+          "reading": "めはりずし"
+        },
+        {
+          "word": "目張り鮓",
+          "reading": "めはりずし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rice ball wrapped in pickled leaf mustard greens"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "高菜",
+            "目を見張る"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "ばら寿司",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ばら寿司",
+          "reading": "ばらずし"
+        },
+        {
+          "word": "ばら鮨",
+          "reading": "ばらずし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "type of sushi with a variety of ingredients sprinkled on the rice"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Kansai dialect"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "五目寿司"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "箱寿司",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "箱寿司",
+          "reading": "はこずし"
+        },
+        {
+          "word": "箱ずし",
+          "reading": "はこずし"
+        },
+        {
+          "word": "箱鮨",
+          "reading": "はこずし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "oshizushi",
+            "sushi rice and other ingredients pressed in box or mould (mold)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Food term"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "押し鮨 おしずし"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "蕪鮨",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蕪鮨",
+          "reading": "かぶらずし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "narezushi of amberjack and turnip (Kanazawa speciality)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Food term"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "なれ鮨 なれずし"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "茶巾寿司",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "茶巾寿司",
+          "reading": "ちゃきんずし"
+        },
+        {
+          "word": "茶巾ずし",
+          "reading": "ちゃきんずし"
+        },
+        {
+          "word": "茶巾寿し",
+          "reading": "ちゃきんずし"
+        },
+        {
+          "word": "茶巾鮨",
+          "reading": "ちゃきんずし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "gomokuzushi wrapped in a thin layer of fried egg"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "磯巻き鮨",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "磯巻き鮨",
+          "reading": "いそまきずし"
+        },
+        {
+          "word": "磯巻鮨",
+          "reading": "いそまきずし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "makizushi comprising mackerel fillet marinated in salt and vinegar, wrapped in rice and covered in shredded kombu"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Food term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "早鮨",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "早鮨",
+          "reading": "はやずし"
+        },
+        {
+          "word": "早鮓",
+          "reading": "はやずし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "type of sushi with vinegared fish and rice lightly pressed overnight"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "鮎鮨",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鮎鮨",
+          "reading": "あゆずし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sweetfish sushi",
+            "ayu sushi",
+            "belly of sweetfish salted, pickled and served on rice"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "手巻き寿司",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "手巻き寿司",
+          "reading": "てまきずし"
+        },
+        {
+          "word": "手巻寿司",
+          "reading": "てまきずし"
+        },
+        {
+          "word": "手巻き鮨",
+          "reading": "てまきずし"
+        },
+        {
+          "word": "手巻鮨",
+          "reading": "てまきずし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "hand-rolled sushi (usu. cone-shaped)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Food term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "蕪鮨",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蕪鮨",
+          "reading": "かぶらずし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "narezushi of amberjack and turnip (Kanazawa speciality)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Food term"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "なれ鮨 なれずし"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "鮎鮨",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鮎鮨",
+          "reading": "あゆずし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sweetfish sushi",
+            "ayu sushi",
+            "belly of sweetfish salted, pickled and served on rice"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "茶巾寿司",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "茶巾寿司",
+          "reading": "ちゃきんずし"
+        },
+        {
+          "word": "茶巾ずし",
+          "reading": "ちゃきんずし"
+        },
+        {
+          "word": "茶巾寿し",
+          "reading": "ちゃきんずし"
+        },
+        {
+          "word": "茶巾鮨",
+          "reading": "ちゃきんずし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "gomokuzushi wrapped in a thin layer of fried egg"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "手巻き寿司",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "手巻き寿司",
+          "reading": "てまきずし"
+        },
+        {
+          "word": "手巻寿司",
+          "reading": "てまきずし"
+        },
+        {
+          "word": "手巻き鮨",
+          "reading": "てまきずし"
+        },
+        {
+          "word": "手巻鮨",
+          "reading": "てまきずし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "hand-rolled sushi (usu. cone-shaped)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Food term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "大阪鮨",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "大阪鮨",
+          "reading": "おおさかずし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Kansai-style sushi (esp. pressed sushi, such as battera)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "バッテラ",
+            "押し鮨 おしずし"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "稲荷寿司",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "いなり寿司",
+          "reading": "いなりずし"
+        },
+        {
+          "word": "稲荷寿司",
+          "reading": "いなりずし"
+        },
+        {
+          "word": "稲荷ずし",
+          "reading": "いなりずし"
+        },
+        {
+          "word": "稲荷鮨",
+          "reading": "いなりずし"
+        },
+        {
+          "word": "いなり鮨",
+          "reading": "いなりずし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "inarizushi",
+            "sushi wrapped in fried tofu"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Food term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "酒寿司",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "酒寿司",
+          "reading": "さけずし"
+        },
+        {
+          "word": "酒鮨",
+          "reading": "さけずし"
+        },
+        {
+          "word": "酒すし",
+          "reading": "さけずし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "fermented sushi made with sake instead of vinegar (speciality of Kagoshima)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Food term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

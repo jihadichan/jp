@@ -1,0 +1,1365 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "名字",
+      "is_common": true,
+      "tags": [
+        "wanikani4",
+        "wanikani51"
+      ],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "名字",
+          "reading": "みょうじ"
+        },
+        {
+          "word": "苗字",
+          "reading": "みょうじ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "surname",
+            "family name"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "名前"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Myouji"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Japanese name"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Japanese name” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Japanese_name?oldid\u003d492962135"
+            },
+            {
+              "text": "Read “名字” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/名字?oldid\u003d42621189"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "http://dbpedia.org/resource/Japanese_name"
+      }
+    },
+    {
+      "slug": "苗",
+      "is_common": true,
+      "tags": [
+        "wanikani51"
+      ],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "苗",
+          "reading": "なえ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "seedling",
+            "young plant"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "rice seedling"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "早苗"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "苗木",
+      "is_common": true,
+      "tags": [
+        "wanikani53"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "苗木",
+          "reading": "なえぎ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "seedling",
+            "sapling",
+            "young tree"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Naegi"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "育苗",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "育苗",
+          "reading": "いくびょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "raising seedlings"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "早苗",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "早苗",
+          "reading": "さなえ"
+        },
+        {
+          "word": "秧",
+          "reading": "さなえ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rice seedling"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "種苗",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "種苗",
+          "reading": "しゅびょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "seeds and seedlings"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "eggs and hatchlings",
+            "(fish) eggs and fry"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "苗床",
+      "is_common": false,
+      "tags": [
+        "wanikani53"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "苗床",
+          "reading": "なえどこ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "nursery",
+            "seedbed",
+            "seed-plot"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "苗代苺",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "苗代苺",
+          "reading": "なわしろいちご"
+        },
+        {
+          "reading": "ナワシロイチゴ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "native raspberry (Rubus parvifolius)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Rubus parvifolius"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Rubus parvifolius” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Rubus_parvifolius?oldid\u003d437989434"
+            },
+            {
+              "text": "Read “ナワシロイチゴ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/ナワシロイチゴ?oldid\u003d39194018"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Rubus_parvifolius"
+      }
+    },
+    {
+      "slug": "苗代茱萸",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "苗代茱萸",
+          "reading": "なわしろぐみ"
+        },
+        {
+          "word": "苗代胡頽子",
+          "reading": "なわしろぐみ"
+        },
+        {
+          "reading": "ナワシログミ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "silverthorn (species of oleaster, Elaeagnus pungens)",
+            "thorny elaeagnus",
+            "thorny olive"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Elaeagnus pungens"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Elaeagnus pungens” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Elaeagnus_pungens?oldid\u003d472878533"
+            },
+            {
+              "text": "Read “ナワシログミ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/ナワシログミ?oldid\u003d40821980"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Elaeagnus_pungens"
+      }
+    },
+    {
+      "slug": "苗圃",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "苗圃",
+          "reading": "びょうほ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "seedbed",
+            "nursery"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Byouho"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "瑠璃虎の尾",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "瑠璃虎の尾",
+          "reading": "るりとらのお"
+        },
+        {
+          "word": "兎児尾苗",
+          "reading": "るりとらのお"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "beach speedwell",
+            "Veronica Longifolia"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "桑苗",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "桑苗",
+          "reading": "そうびょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "mulberry seedling"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "苗売り人",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "苗売り人",
+          "reading": "なえうりにん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "seedling peddler",
+            "nurseryman"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "磚子苗",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "磚子苗",
+          "reading": "くぐ"
+        },
+        {
+          "word": "莎草",
+          "reading": "くぐ"
+        },
+        {
+          "word": "磚子苗",
+          "reading": "いぬくぐ"
+        },
+        {
+          "reading": "イヌクグ"
+        },
+        {
+          "reading": "クグ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Pacific island flatsedge (Cyperus cyperoides)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "苗字帯刀",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "苗字帯刀",
+          "reading": "みょうじたいとう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "the right to bear a surname and to wear a sword (during the Edo period)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "豆苗",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "豆苗",
+          "reading": "とうみょう"
+        },
+        {
+          "word": "豆苗",
+          "reading": "トーミョウ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "pea sprouts"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Food term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [
+            {
+              "language": "Chinese",
+              "word": "“dòumiáo”"
+            }
+          ],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "玉苗",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "玉苗",
+          "reading": "たまなえ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rice seedling"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "早苗"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "苗代",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "苗代",
+          "reading": "なわしろ"
+        },
+        {
+          "word": "苗代",
+          "reading": "なえしろ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rice nursery",
+            "bed for rice seedlings"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "芋茎",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "芋茎",
+          "reading": "ずいき"
+        },
+        {
+          "word": "芋苗",
+          "reading": "ずいき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "taro stem"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Food term"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "芋がら いもがら"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "痘苗",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "痘苗",
+          "reading": "とうびょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "vaccine"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "玉苗",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "玉苗",
+          "reading": "たまなえ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rice seedling"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "早苗"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "苗水",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "苗水",
+          "reading": "なわみず"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "water for a rice nursery"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "苗代時",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "苗代時",
+          "reading": "なわしろどき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "time to prepare a rice nursery"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "苗裔",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "苗裔",
+          "reading": "びょうえい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "descendant"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "痘苗",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "痘苗",
+          "reading": "とうびょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "vaccine"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "芋茎",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "芋茎",
+          "reading": "ずいき"
+        },
+        {
+          "word": "芋苗",
+          "reading": "ずいき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "taro stem"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Food term"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "芋がら いもがら"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "苗頭",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "苗頭",
+          "reading": "びょうとう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "deflection (gunnery)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "早苗鳥",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "早苗鳥",
+          "reading": "さなえどり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "lesser cuckoo (Cuculus poliocephalus)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Obscure term"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "時鳥"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "苗族",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "苗族",
+          "reading": "ミャオぞく"
+        },
+        {
+          "word": "ミャオ族",
+          "reading": "ミャオぞく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Miao (people)",
+            "Hmong"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Miao people"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Miao people” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Miao_people?oldid\u003d494735517"
+            },
+            {
+              "text": "Read “ミャオ族” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/ミャオ族?oldid\u003d42569859"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Miao_people"
+      }
+    },
+    {
+      "slug": "苗-1",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "苗",
+          "reading": "ミャオ"
+        },
+        {
+          "word": "苗",
+          "reading": "びょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Miao (people)",
+            "Hmong"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "ミャオ語",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ミャオ語",
+          "reading": "ミャオご"
+        },
+        {
+          "word": "苗語",
+          "reading": "ミャオご"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Miao (language)",
+            "Hmong"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

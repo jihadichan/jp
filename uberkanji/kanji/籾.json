@@ -1,0 +1,217 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "籾",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "籾",
+          "reading": "もみ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "unhulled rice",
+            "rice in the husk",
+            "paddy"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "rice husks",
+            "chaff"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Abbreviation"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "籾殻"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "籾殻",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "籾殻",
+          "reading": "もみがら"
+        },
+        {
+          "word": "もみ殻",
+          "reading": "もみがら"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rice husks",
+            "chaff"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Chaff"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Chaff” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Chaff?oldid\u003d494125729"
+            },
+            {
+              "text": "Read “籾殻” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/籾殻?oldid\u003d42295596"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Chaff"
+      }
+    },
+    {
+      "slug": "種籾",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "種籾",
+          "reading": "たねもみ"
+        },
+        {
+          "word": "種もみ",
+          "reading": "たねもみ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "seed rice"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "籾摺り",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "籾摺り",
+          "reading": "もみすり"
+        },
+        {
+          "word": "籾摺り",
+          "reading": "もみずり"
+        },
+        {
+          "word": "籾擦り",
+          "reading": "もみすり"
+        },
+        {
+          "word": "籾擦り",
+          "reading": "もみずり"
+        },
+        {
+          "word": "籾摺",
+          "reading": "もみすり"
+        },
+        {
+          "word": "籾摺",
+          "reading": "もみずり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "hulling rice"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

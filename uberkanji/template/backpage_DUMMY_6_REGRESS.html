@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <style>
+
+    </style>
+</head>
+<body>
+
+<!-------------------------------------------------->
+<!-------------- BACK TEMPLATE START --------------->
+<!-------------------------------------------------->
+<link rel="stylesheet" type="text/css" href="uberkanji/statics/datatables.min.css">
+<link rel="stylesheet" type="text/css" href="uberkanji/statics/style.css">
+<div id="debug"></div>
+<div class="wrapper">
+    <div class="layout">
+        <table>
+            <tr>
+                <td id="side-fonts" class="font-cell">
+
+                </td>
+                <td>
+                    <table class="manual-edits">
+                        <tr>
+                            <td class="manual-edits-key">Concept</td>
+                            <td>big or very</td>
+                        </tr>
+                        <tr>
+                            <td class="manual-edits-key">Meanings</td>
+                            <td id="meanings"></td>
+                        </tr>
+                        <tr>
+                            <td class="manual-edits-key" onclick="toggleFurigana()">
+                                Mnemonic
+                                <div class="toggle-furigana">Toggle</div>
+                            </td>
+                            <td id="manual-edits-mnemonic">
+                                meat from pig = pork !done<br><br>ぶた - the people in butan eat <br>トン - tons of pork with butta<br><br>---<br><ruby>豚肉<rt>ぶたにく</rt></ruby> (ぶた, pork)<br># <ruby>豚<rt>とん</rt></ruby> (トン, pig, pork (Noun - used as a prefix))<br>---<br>---<br><ruby>海豚<rt>いるか</rt></ruby> (るか, dolphin (or other small toothed whales, such as porpoises, belugas, etc.))<br>---<br>rest of unclassifieds only kana
+                            </td>
+                        </tr>
+                        <tr>
+                            <td onclick="playCompoundReading()">Play &#9658;</td>
+                            <td>
+                                ぶた.とん
+                            </td>
+                        </tr>
+                        <tr class="no-border">
+                            <td colspan="2">
+                                <table class="readings-overview">
+                                    <tr>
+                                        <td id="most-common-readings" valign="top" class="readings-table"></td>
+                                        <td id="scored-readings" valign="top" class="readings-table"></td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr class="no-border">
+                            <td colspan="2">
+                                <div class="modal-buttons">
+                                    <button class="button" onclick="renderMetaData()">MetaData</button>
+                                    <button class="button" onclick="renderFonts(15, 5)">Fonts</button>
+                                    <button class="button" onclick="renderJisho()">Jisho</button>
+                                    <br>
+                                    <button class="button" id="wordExamples" onclick="renderWordTable('wordExamples')">
+                                        Word Examples
+                                    </button>
+                                    <button class="button" id="unclassifiedReadings" onclick="renderWordTable('unclassifiedReadings')">
+                                        Unknown Readings
+                                    </button>
+                                    <button class="button" id="otherForms" onclick="renderWordTable('otherForms')">Other
+                                        Forms
+                                    </button>
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" id="rendered-content"></td>
+            </tr>
+        </table>
+    </div>
+</div>
+
+<div id="kanji">豚</div>
+<div id="data">{"meanings":"pork, pig","frequency":1864,"components":"肉: meat<br>豕: pig; hog; pig radical (no. 152)","strokes":11,"rtkKeyword":"pork","rtkIndex":577,"onReadings":"トン","kunReadings":"ぶた","wordExamples":[{"word":"豚","reading":"ぶた","meanings":"pig (Sus scrofa domesticus) (Noun)<br>pork<br>fatso, fatty","score":1,"usuallyWrittenAs":"Kanji","freqNF":"2894","freqWK":"5588","foundKanjiReading":"ぶた","type":"fnKJ"},{"word":"豚","reading":"とん","meanings":"pig, pork (Noun - used as a prefix)","score":1,"usuallyWrittenAs":"Kanji","freqNF":"2894","freqWK":"5588","foundKanjiReading":"トン","type":"fnKJ"},{"word":"豚カツ","reading":"とんかつ","meanings":"tonkatsu, breaded pork cutlet (Noun)","score":1,"usuallyWrittenAs":"Kana","foundKanjiReading":"トン","type":"fnKN"},{"word":"豚肉","reading":"ぶたにく","meanings":"pork (Noun)","score":1,"usuallyWrittenAs":"Kanji","freqNF":"7940","freqWK":"16269","foundKanjiReading":"ぶた","type":"fnKJ"},{"word":"豚めし","reading":"ぶためし","meanings":"pork with rice (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ぶた","type":"fnKN"},{"word":"豚トロ","reading":"とんとろ","meanings":"fatty pork (from cheek, neck or shoulder) (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"トン","type":"fnKN"},{"word":"豚バラ","reading":"ぶたばら","meanings":"boneless pork rib, boned pork rib (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ぶた","type":"fnKN"},{"word":"豚コレラ","reading":"とんこれら","meanings":"hog cholera, swine fever (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"トン","type":"fnKN"},{"word":"イベリコ豚","reading":"いべりこぶた","meanings":"black Iberian pig (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ぶた","type":"fnKJ"},{"word":"マイクロ豚","reading":"まいくろぶた","meanings":"miniature pig, micropig (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ぶた","type":"fnKJ"},{"word":"豚かつソース","reading":"とんかつそーす","meanings":"tonkatsu sauce, sauce made from ketchup, Worcester, soy, mirin, mustard, etc. (Noun)","score":0,"usuallyWrittenAs":"Kana","foundKanjiReading":"トン","type":"fnKN"},{"word":"豚インフルエンザ","reading":"ぶたいんふるえんざ","meanings":"swine influenza (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ぶた","type":"fnKN"},{"word":"アフリカ豚コレラ","reading":"あふりかとんこれら","meanings":"African swine fever, AFS (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"トン","type":"fnKN"},{"word":"子豚","reading":"こぶた","meanings":"piglet (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ぶた","type":"fnKJ"},{"word":"養豚","reading":"ようとん","meanings":"pig-keeping, pig farming (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"トン","type":"fnKJ"},{"word":"酢豚","reading":"すぶた","meanings":"sweet-and-sour pork (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ぶた","type":"fnKJ"},{"word":"土豚","reading":"つちぶた","meanings":"aardvark (Orycteropus afer) (Noun)","score":0,"usuallyWrittenAs":"Kana","foundKanjiReading":"ぶた","type":"fnKJ"},{"word":"豚丼","reading":"ぶたどん","meanings":"rice covered with pork and vegetables (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ぶた","type":"fnKJ"},{"word":"白豚","reading":"しろぶた","meanings":"white pig (Noun)<br>white person","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ぶた","type":"fnKJ"},{"word":"猪豚","reading":"いのぶた","meanings":"wild boar and domestic pig hybrid (Noun)","score":0,"usuallyWrittenAs":"Kana","foundKanjiReading":"ぶた","type":"fnKJ"},{"word":"塩豚","reading":"しおぶた","meanings":"salted pork, ham (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ぶた","type":"fnKJ"},{"word":"種豚","reading":"しゅとん","meanings":"sire pig, boar (Noun)<br>brood sow","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"トン","type":"fnKJ"},{"word":"雌豚","reading":"めぶた","meanings":"sow (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ぶた","type":"fnKJ"},{"word":"豚児","reading":"とんじ","meanings":"my child (esp. of one's son) (Noun)<br>foolish son<br>piglet","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"トン","type":"fnKJ"},{"word":"黒豚","reading":"くろぶた","meanings":"Berkshire pig (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ぶた","type":"fnKJ"},{"word":"島豚","reading":"しまぶた","meanings":"Okinawan pig breed (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ぶた","type":"fnKJ"},{"word":"豚舎","reading":"とんしゃ","meanings":"pigpen, pigsty (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"トン","type":"fnKJ"},{"word":"豚脂","reading":"とんし","meanings":"lard, pig fat (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"トン","type":"fnKJ"},{"word":"萌え豚","reading":"もえぶた","meanings":"anime freak, person overly interested in female anime and video game characters (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ぶた","type":"fnKJ"},{"word":"焼き豚","reading":"やきぶた","meanings":"roast pork (Noun)<br>baseball fan","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ぶた","type":"fnKJ"},{"word":"豚バラ肉","reading":"ぶたばらにく","meanings":"boneless pork rib, boned pork rib (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ぶた","type":"fnKN"},{"word":"豚小屋","reading":"ぶたごや","meanings":"pigsty (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ぶた","type":"fnKJ"},{"word":"養豚場","reading":"ようとんじょう","meanings":"pig farm, hog farm, piggery (Noun)<br>Youtonjou (Place)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"トン","type":"fnKJ"},{"word":"豚尾猿","reading":"ぶたおざる","meanings":"pig-tailed macaque (Macaca nemestrina) (Noun)","score":0,"usuallyWrittenAs":"Kana","foundKanjiReading":"ぶた","type":"fnKJ"},{"word":"豚丹毒","reading":"とんたんどく","meanings":"swine erysipelas (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"トン","type":"fnKJ"},{"word":"豚味噌","reading":"ぶたみそ","meanings":"miso mixed with pork, pork miso (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ぶた","type":"fnKJ"},{"word":"豚に真珠","reading":"ぶたにしんじゅ","meanings":"(cast) pearls before swine (Expression)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ぶた","type":"fnKN"},{"word":"キティ豚鼻蝙蝠","reading":"きてぃぶたばなこうもり","meanings":"Kitti's hog-nosed bat (Craseonycteris thonglongyai), bumblebee bat, Old World hog-nosed bat (Noun)","score":0,"usuallyWrittenAs":"Kana","foundKanjiReading":"ぶた","type":"fnKJ"},{"word":"豚を盗んで骨を施す","reading":"ぶたをぬすんでほねをほどこす","meanings":"you cannot excuse a bad deed with a petty act of benevolence, steal a pig and give the feet for alms (Expression)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ぶた","type":"fnKN"},{"word":"豚も煽てりゃ木に登る","reading":"ぶたもおだてりゃきにのぼる","meanings":"even those of low ability can outdo themselves when flattered (Expression)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"ぶた","type":"fnKN"}],"otherForms":[{"word":"焼きとん","reading":"やきとん","meanings":"yakiton, grilled pork on skewers (Noun)","score":0,"usuallyWrittenAs":"Kana","foundKanjiReading":"トン","type":"oFrm"},{"word":"ふぐは食いたし命は惜しし","reading":"ふぐはくいたしいのちはおしし","meanings":"honey is sweet, but the bee stings, I would like to taste fugu, but I value my life, hesitating from doing something because of fear of consequences (Expression)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"???","type":"oFrm"}],"unclassifiedReadings":[{"word":"海豚","reading":"いるか","meanings":"dolphin (or other small toothed whales, such as porpoises, belugas, etc.) (Noun)","score":1,"usuallyWrittenAs":"Kana","freqWK":"10559","foundKanjiReading":"???","type":"fnKJ"},{"word":"河豚","reading":"ふぐ","meanings":"puffer fish, blow fish, fugu, globefish, swellfish (Noun)","score":1,"usuallyWrittenAs":"Kana","freqWK":"14158","foundKanjiReading":"???","type":"fnKJ"},{"word":"いし海豚","reading":"いしいるか","meanings":"Dall's porpoise (Phocoenoides dalli) (Noun)","score":0,"usuallyWrittenAs":"Kana","foundKanjiReading":"???","type":"fnKJ"},{"word":"条海豚","reading":"すじいるか","meanings":"striped dolphin (Stenella coeruleoalba) (Noun)","score":0,"usuallyWrittenAs":"Kana","foundKanjiReading":"???","type":"fnKJ"},{"word":"緑河豚","reading":"みどりふぐ","meanings":"green spotted puffer (Tetraodon nigroviridis) (Noun)","score":0,"usuallyWrittenAs":"Kana","foundKanjiReading":"???","type":"fnKJ"},{"word":"鎌海豚","reading":"かまいるか","meanings":"Pacific white-sided dolphin (Lagenorhynchus obliquidens) (Noun)","score":0,"usuallyWrittenAs":"Kana","foundKanjiReading":"???","type":"fnKJ"},{"word":"鼠海豚","reading":"ねずみいるか","meanings":"harbor porpoise (Phocoena phocoena), harbour porpoise, common porpoise (Noun)","score":0,"usuallyWrittenAs":"Kana","foundKanjiReading":"???","type":"fnKJ"},{"word":"草河豚","reading":"くさふぐ","meanings":"grass puffer (Takifugu niphobles) (Noun)","score":0,"usuallyWrittenAs":"Kana","foundKanjiReading":"???","type":"fnKJ"},{"word":"白海豚","reading":"しろいるか","meanings":"beluga (Delphinapterus leucas), white whale, beluga whale (Noun)","score":0,"usuallyWrittenAs":"Kana","foundKanjiReading":"???","type":"fnKJ"},{"word":"縞河豚","reading":"しまふぐ","meanings":"yellowfin puffer (Takifugu xanthopterus) (Noun)","score":0,"usuallyWrittenAs":"Kana","foundKanjiReading":"???","type":"fnKJ"},{"word":"河海豚","reading":"かわいるか","meanings":"river dolphin (Noun)","score":0,"usuallyWrittenAs":"Kana","foundKanjiReading":"???","type":"fnKJ"},{"word":"真河豚","reading":"まふぐ","meanings":"purple puffer (Takifugu porphyreus) (Noun)","score":0,"usuallyWrittenAs":"Kana","foundKanjiReading":"???","type":"fnKJ"},{"word":"箱河豚","reading":"はこふぐ","meanings":"bluespotted boxfish (Ostracion immaculatus) (Noun)<br>boxfish (any fish of family Ostraciidae), trunkfish","score":0,"usuallyWrittenAs":"Kana","foundKanjiReading":"???","type":"fnKJ"},{"word":"梨河豚","reading":"なしふぐ","meanings":"pear puffer (Takifugu vermicularis) (Noun)","score":0,"usuallyWrittenAs":"Kana","foundKanjiReading":"???","type":"fnKJ"},{"word":"星河豚","reading":"ほしふぐ","meanings":"starry toado (pufferfish, Arothron firmamentum) (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"???","type":"fnKJ"},{"word":"烏河豚","reading":"からす","meanings":"Chinese puffer (Takifugu chinensis) (Noun)","score":0,"usuallyWrittenAs":"Kana","foundKanjiReading":"???","type":"fnKJ"},{"word":"真海豚","reading":"まいるか","meanings":"short-beaked common dolphin (Delphinus delphis) (Noun)","score":0,"usuallyWrittenAs":"Kana","foundKanjiReading":"???","type":"fnKJ"},{"word":"斑海豚","reading":"まだらいるか","meanings":"pantropical spotted dolphin (Stenella attenuata) (Noun)","score":0,"usuallyWrittenAs":"Kana","foundKanjiReading":"???","type":"fnKJ"},{"word":"金剛河豚","reading":"こんごうふぐ","meanings":"longhorn cowfish (Lactoria cornuta) (Noun)","score":0,"usuallyWrittenAs":"Kana","foundKanjiReading":"???","type":"fnKJ"},{"word":"化粧河豚","reading":"けしょうふぐ","meanings":"map puffer (Arothron mappa) (Noun)","score":0,"usuallyWrittenAs":"Kana","foundKanjiReading":"???","type":"fnKJ"},{"word":"半道海豚","reading":"ばんどういるか","meanings":"bottlenose dolphin, bottlenosed dolphin (Tursiops truncatus) (Noun)","score":0,"usuallyWrittenAs":"Kana","foundKanjiReading":"???","type":"fnKJ"},{"word":"潮前河豚","reading":"しょうさいふぐ","meanings":"Takifugu snyderi (species of pufferfish) (Noun)","score":0,"usuallyWrittenAs":"Kana","foundKanjiReading":"???","type":"fnKJ"},{"word":"赤目河豚","reading":"あかめふぐ","meanings":"red-eyed puffer (Takifugu chrysops) (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"???","type":"fnKJ"},{"word":"小針海豚","reading":"こはりいるか","meanings":"Burmeister's porpoise (Phocoena spinipinnis) (Noun)","score":0,"usuallyWrittenAs":"Kana","foundKanjiReading":"???","type":"fnKJ"},{"word":"小紋河豚","reading":"こもんふぐ","meanings":"finepatterned puffer (Takifugu poecilonotus) (Noun)","score":0,"usuallyWrittenAs":"Kana","foundKanjiReading":"???","type":"fnKJ"},{"word":"色分海豚","reading":"いろわけいるか","meanings":"Commerson's dolphin (Cephalorhynchus commersonii), skunk dolphin, panda dolphin (Noun)","score":0,"usuallyWrittenAs":"Kana","foundKanjiReading":"???","type":"fnKJ"},{"word":"糸巻河豚","reading":"いとまきふぐ","meanings":"basketfish (Kentrocapros aculeatus) (Noun)","score":0,"usuallyWrittenAs":"Kana","foundKanjiReading":"???","type":"fnKJ"},{"word":"腹白海豚","reading":"はらじろいるか","meanings":"Chilean dolphin (Cephalorhynchus eutropia), black dolphin (Noun)","score":0,"usuallyWrittenAs":"Kana","foundKanjiReading":"???","type":"fnKJ"},{"word":"小鯱海豚","reading":"こしゃちいるか","meanings":"Haviside's dolphin (Cephalorhynchus heavisidii) (Noun)","score":0,"usuallyWrittenAs":"Kana","foundKanjiReading":"???","type":"fnKJ"},{"word":"背張海豚","reading":"せっぱりいるか","meanings":"Hector's dolphin (Cephalorhynchus hectori) (Noun)","score":0,"usuallyWrittenAs":"Kana","foundKanjiReading":"???","type":"fnKJ"},{"word":"南鎌海豚","reading":"みなみかわいるか","meanings":"Peale's dolphin (Lagenorhynchus australis) (Noun)","score":0,"usuallyWrittenAs":"Kana","foundKanjiReading":"???","type":"fnKJ"},{"word":"小人海豚","reading":"こびといるか","meanings":"tucuxi (Sotalia fluviatilis) (Noun)","score":0,"usuallyWrittenAs":"Kana","foundKanjiReading":"???","type":"fnKJ"},{"word":"嘴長海豚","reading":"はしながいるか","meanings":"spinner dolphin (Stenella longirostris) (Noun)","score":0,"usuallyWrittenAs":"Kana","foundKanjiReading":"???","type":"fnKJ"},{"word":"皺歯海豚","reading":"しわはいるか","meanings":"rough-toothed dolphin (Steno bredanensis) (Noun)","score":0,"usuallyWrittenAs":"Kana","foundKanjiReading":"???","type":"fnKJ"},{"word":"小頭鼠海豚","reading":"こがしらねずみいるか","meanings":"vaquita (Phocoena sinus), cochito, gulf porpoise (Noun)","score":0,"usuallyWrittenAs":"Kana","foundKanjiReading":"???","type":"fnKJ"},{"word":"鼻白鎌海豚","reading":"はなじろかわいるか","meanings":"white-beaked dolphin (Lagenorhynchus albirostris) (Noun)","score":0,"usuallyWrittenAs":"Kana","foundKanjiReading":"???","type":"fnKJ"},{"word":"腹白鎌海豚","reading":"はらじろかまいるか","meanings":"dusky dolphin (Lagenorhynchus obscurus) (Noun)","score":0,"usuallyWrittenAs":"Kana","foundKanjiReading":"???","type":"fnKJ"},{"word":"南半道海豚","reading":"みなみはんどういるか","meanings":"Indo-Pacific bottlenose dolphin (Tursiops aduncus) (Noun)","score":0,"usuallyWrittenAs":"Kana","foundKanjiReading":"???","type":"fnKJ"},{"word":"揚子江河海豚","reading":"ようすこうかわいるか","meanings":"baiji (Lipotes vexillifer), Chinese river dolphin, Yangtze dolphin (Noun)","score":0,"usuallyWrittenAs":"Kana","foundKanjiReading":"???","type":"fnKJ"},{"word":"支那薄色海豚","reading":"しなうすいろいるか","meanings":"Chinese white dolphin (Sousa chinensis chinensis) (Noun)","score":0,"usuallyWrittenAs":"Kana","foundKanjiReading":"???","type":"fnKJ"},{"word":"大西洋鎌海豚","reading":"たいせいようかわいるか","meanings":"Atlantic white-sided dolphin (Lagenorhynchus acutus) (Noun)","score":0,"usuallyWrittenAs":"Kana","foundKanjiReading":"???","type":"fnKJ"},{"word":"大西洋斑海豚","reading":"たいせいようまだらいるか","meanings":"Atlantic spotted dolphin (Stenella frontalis) (Noun)","score":0,"usuallyWrittenAs":"Kana","foundKanjiReading":"???","type":"fnKJ"}],"mostCommonReadings":{"ぶた":27,"トン":13},"scoredReadings":{"ぶた":{"score":2,"fbKJ":2,"fbKN":0},"トン":{"score":2,"fbKJ":1,"fbKN":1}},"compoundReading":"ぶた.とん","searchKey":"ｘ豚"}</div>
+<div id="play-sound">ぶた.とん</div>
+<script src="uberkanji/statics/jquery-3.4.1.min.js" type="application/javascript"></script>
+<script src="uberkanji/statics/backpage.js" type="application/javascript" charset="UTF-8"></script>
+<script src="uberkanji/statics/datatables.min.js" type="application/javascript"></script>
+<script src="uberkanji/statics/jquery.modal.min.js" type="application/javascript"></script>
+<div id="modal" class="modal">
+    <table class="modal-table">
+        <tr><td id="modal-result"></td></tr>
+        <tr><td class="td-textarea" style="padding: 1px"><textarea id="word-area" onclick="selectOnClick(this)" onkeyup="updateRuby()"></textarea></td></tr>
+        <tr><td id="modal-meanings"></td></tr>
+    </table>
+</div>
+<!-------------------------------------------------->
+<!-------------- BACK TEMPLATE END ----------------->
+<!-------------------------------------------------->
+</body>
+</html>

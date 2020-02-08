@@ -1,0 +1,4358 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "壊れる",
+      "is_common": true,
+      "tags": [
+        "wanikani31"
+      ],
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "壊れる",
+          "reading": "こわれる"
+        },
+        {
+          "word": "毀れる",
+          "reading": "こわれる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to be broken",
+            "to break"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to fall through",
+            "to come to nothing"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "壊す",
+      "is_common": true,
+      "tags": [
+        "wanikani29"
+      ],
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "壊す",
+          "reading": "こわす"
+        },
+        {
+          "word": "毀す",
+          "reading": "こわす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to break",
+            "to destroy",
+            "to demolish"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to wreck",
+            "to ruin",
+            "to spoil",
+            "to damage"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to break (a bill, etc.)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "破壊",
+      "is_common": true,
+      "tags": [
+        "wanikani35"
+      ],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "破壊",
+          "reading": "はかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "destruction",
+            "disruption"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "(application) crash"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Computer terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Subversion"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Subversion” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Subversion?oldid\u003d490971006"
+            },
+            {
+              "text": "Read “破壊” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/破壊?oldid\u003d38947399"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Subversion"
+      }
+    },
+    {
+      "slug": "崩壊",
+      "is_common": true,
+      "tags": [
+        "wanikani37"
+      ],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "崩壊",
+          "reading": "ほうかい"
+        },
+        {
+          "word": "崩潰",
+          "reading": "ほうかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "collapse",
+            "crumbling",
+            "breaking down",
+            "caving in"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "(radioactive) decay",
+            "disintegration"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Physics terminology"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "α崩壊"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "壊滅",
+      "is_common": true,
+      "tags": [
+        "wanikani43"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "壊滅",
+          "reading": "かいめつ"
+        },
+        {
+          "word": "潰滅",
+          "reading": "かいめつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "destruction",
+            "annihilation",
+            "devastation",
+            "catastrophe"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "取り壊し",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "取り壊し",
+          "reading": "とりこわし"
+        },
+        {
+          "word": "取壊し",
+          "reading": "とりこわし"
+        },
+        {
+          "word": "取り毀し",
+          "reading": "とりこわし"
+        },
+        {
+          "word": "取毀し",
+          "reading": "とりこわし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "demolition",
+            "pulling down",
+            "destruction",
+            "dismantling"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "取り壊す",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "取り壊す",
+          "reading": "とりこわす"
+        },
+        {
+          "word": "取壊す",
+          "reading": "とりこわす"
+        },
+        {
+          "word": "取り毀す",
+          "reading": "とりこわす"
+        },
+        {
+          "word": "取毀す",
+          "reading": "とりこわす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to demolish",
+            "to tear down",
+            "to pull down"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "倒壊",
+      "is_common": false,
+      "tags": [
+        "wanikani29"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "倒壊",
+          "reading": "とうかい"
+        },
+        {
+          "word": "倒潰",
+          "reading": "とうかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "destruction",
+            "collapse",
+            "crumbling"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "破壊的",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "破壊的",
+          "reading": "はかいてき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "destructive",
+            "devastating"
+          ],
+          "parts_of_speech": [
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "決壊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "決壊",
+          "reading": "けっかい"
+        },
+        {
+          "word": "決潰",
+          "reading": "けっかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "burst (e.g. dam, embankment, levee)",
+            "breach",
+            "collapse",
+            "washout",
+            "rupture"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "壊れ物",
+      "is_common": false,
+      "tags": [
+        "wanikani31"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "壊れ物",
+          "reading": "こわれもの"
+        },
+        {
+          "word": "壊れもの",
+          "reading": "こわれもの"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "fragile article",
+            "breakables"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "broken article"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "環境破壊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "環境破壊",
+          "reading": "かんきょうはかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "environmental destruction"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "壊滅的",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "壊滅的",
+          "reading": "かいめつてき"
+        },
+        {
+          "word": "潰滅的",
+          "reading": "かいめつてき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "devastating",
+            "catastrophic",
+            "crushing"
+          ],
+          "parts_of_speech": [
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "壊死",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "壊死",
+          "reading": "えし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "necrosis"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Necrosis"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Necrosis” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Necrosis?oldid\u003d494270230"
+            },
+            {
+              "text": "Read “壊死” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/壊死?oldid\u003d40240336"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Necrosis"
+      }
+    },
+    {
+      "slug": "損壊",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "損壊",
+          "reading": "そんかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "damage",
+            "destruction"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "自壊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "自壊",
+          "reading": "じかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "disintegration"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "self-destruction"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "半壊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "半壊",
+          "reading": "はんかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "partial destruction"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "全壊",
+      "is_common": false,
+      "tags": [
+        "wanikani29"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "全壊",
+          "reading": "ぜんかい"
+        },
+        {
+          "word": "全潰",
+          "reading": "ぜんかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "complete destruction"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "体を壊す",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "体を壊す",
+          "reading": "からだをこわす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to harm one\u0027s health"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with su ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "ぶち壊す",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ぶち壊す",
+          "reading": "ぶちこわす"
+        },
+        {
+          "word": "打ち壊す",
+          "reading": "ぶちこわす"
+        },
+        {
+          "word": "打壊す",
+          "reading": "ぶちこわす"
+        },
+        {
+          "word": "打ち毀す",
+          "reading": "ぶちこわす"
+        },
+        {
+          "word": "打ち壊す",
+          "reading": "うちこわす"
+        },
+        {
+          "word": "打ちこわす",
+          "reading": "うちこわす"
+        },
+        {
+          "word": "打壊す",
+          "reading": "うちこわす"
+        },
+        {
+          "word": "打ち毀す",
+          "reading": "うちこわす"
+        },
+        {
+          "word": "ブチ壊す",
+          "reading": "ブチこわす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to destroy",
+            "to crush",
+            "to break by striking",
+            "to wreck"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to spoil",
+            "to ruin"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "ぶっ壊す",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ぶっ壊す",
+          "reading": "ぶっこわす"
+        },
+        {
+          "word": "打っ壊す",
+          "reading": "ぶっこわす"
+        },
+        {
+          "word": "打っ毀す",
+          "reading": "ぶっこわす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to destroy",
+            "to crush",
+            "to break by striking",
+            "to wreck"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [
+            "Colloquialism"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "ぶち壊す ぶちこわす"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to spoil",
+            "to ruin"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Colloquialism"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "ぶち壊す ぶちこわす"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "叩き壊す",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "叩き壊す",
+          "reading": "たたきこわす"
+        },
+        {
+          "word": "たたき壊す",
+          "reading": "たたきこわす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to tear down",
+            "to shatter"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "重力崩壊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "重力崩壊",
+          "reading": "じゅうりょくほうかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "gravitational collapse"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Astronomy, etc. term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Gravitational collapse"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Gravitational collapse” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Gravitational_collapse?oldid\u003d495416193"
+            },
+            {
+              "text": "Read “重力崩壊” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/重力崩壊?oldid\u003d41302706"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Gravitational_collapse"
+      }
+    },
+    {
+      "slug": "壊血病",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "壊血病",
+          "reading": "かいけつびょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "scurvy"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Scurvy"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Scurvy” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Scurvy?oldid\u003d493123846"
+            },
+            {
+              "text": "Read “壊血病” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/壊血病?oldid\u003d41627289"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Scurvy"
+      }
+    },
+    {
+      "slug": "崩壊系列",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "崩壊系列",
+          "reading": "ほうかいけいれつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "decay chain"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Decay chain"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Decay chain” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Decay_chain?oldid\u003d487913863"
+            },
+            {
+              "text": "Read “崩壊系列” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/崩壊系列?oldid\u003d41874637"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Decay_chain"
+      }
+    },
+    {
+      "slug": "森林破壊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "森林破壊",
+          "reading": "しんりんはかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "deforestation"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Deforestation"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Deforestation” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Deforestation?oldid\u003d495328129"
+            },
+            {
+              "text": "Read “森林破壊” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/森林破壊?oldid\u003d41336432"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Deforestation"
+      }
+    },
+    {
+      "slug": "蜂群崩壊症候群",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蜂群崩壊症候群",
+          "reading": "ほうぐんほうかいしょうこうぐん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Colony Collapse Disorder",
+            "Vanishing Bee Syndrome"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Colony collapse disorder"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Colony collapse disorder” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Colony_collapse_disorder?oldid\u003d495248943"
+            },
+            {
+              "text": "Read “蜂群崩壊症候群” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/蜂群崩壊症候群?oldid\u003d42686485"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Colony_collapse_disorder"
+      }
+    },
+    {
+      "slug": "壊疽",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "壊疽",
+          "reading": "えそ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "gangrene"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Gangrene"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Gangrene” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Gangrene?oldid\u003d493696022"
+            },
+            {
+              "text": "Read “壊疽” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/壊疽?oldid\u003d42000096"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Gangrene"
+      }
+    },
+    {
+      "slug": "腫瘍壊死因子",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "腫瘍壊死因子",
+          "reading": "しゅようえしいんし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "tumor necrosis factor (e.g. cachexin)",
+            "tumour necrosis factor",
+            "TNF"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Tumor necrosis factors"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Tumor necrosis factors” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Tumor_necrosis_factors?oldid\u003d492470960"
+            },
+            {
+              "text": "Read “腫瘍壊死因子” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/腫瘍壊死因子?oldid\u003d41704540"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Tumor_necrosis_factors"
+      }
+    },
+    {
+      "slug": "国際連合大量破壊兵器廃棄特別委員会",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "国際連合大量破壊兵器廃棄特別委員会",
+          "reading": "こくさいれんごうたいりょうはかいへいきはいきとくべついいんかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "United Nations Special Commission",
+            "UNSCOM"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "United Nations Special Commission"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “United Nations Special Commission” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/United_Nations_Special_Commission?oldid\u003d483746850"
+            },
+            {
+              "text": "Read “国際連合大量破壊兵器廃棄特別委員会” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/国際連合大量破壊兵器廃棄特別委員会?oldid\u003d29906303"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/United_Nations_Special_Commission"
+      }
+    },
+    {
+      "slug": "大量破壊兵器",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "大量破壊兵器",
+          "reading": "たいりょうはかいへいき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "weapons of mass destruction",
+            "WMD"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Weapon of mass destruction"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Weapon of mass destruction” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Weapon_of_mass_destruction?oldid\u003d495349867"
+            },
+            {
+              "text": "Read “大量破壊兵器” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/大量破壊兵器?oldid\u003d42741654"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Weapon_of_mass_destruction"
+      }
+    },
+    {
+      "slug": "相互確証破壊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "相互確証破壊",
+          "reading": "そうごかくしょうはかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "mutual assured destruction"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Mutual assured destruction"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Mutual assured destruction” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Mutual_assured_destruction?oldid\u003d495269133"
+            },
+            {
+              "text": "Read “相互確証破壊” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/相互確証破壊?oldid\u003d42048288"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Mutual_assured_destruction"
+      }
+    },
+    {
+      "slug": "放射性崩壊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "放射性崩壊",
+          "reading": "ほうしゃせいほうかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "radioactive decay"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Radioactive decay"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Radioactive decay” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Radioactive_decay?oldid\u003d495277133"
+            },
+            {
+              "text": "Read “放射性崩壊” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/放射性崩壊?oldid\u003d42691764"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Radioactive_decay"
+      }
+    },
+    {
+      "slug": "金融崩壊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "金融崩壊",
+          "reading": "きんゆうほうかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "financial collapse"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "圧壊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "圧壊",
+          "reading": "あっかい"
+        },
+        {
+          "word": "圧潰",
+          "reading": "あっかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "crushing",
+            "breaking by applying pressure"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "学級崩壊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "学級崩壊",
+          "reading": "がっきゅうほうかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "class disruption (e.g. due to discipline problems)",
+            "classroom chaos"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "経済崩壊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "経済崩壊",
+          "reading": "けいざいほうかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "economic collapse",
+            "economic meltdown"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "壁崩壊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "壁崩壊",
+          "reading": "かべほうかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "fall of a wall"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "e.g. ベルリンの壁崩壊"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "朽壊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "朽壊",
+          "reading": "きゅうかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rotting and crumbling"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "作画崩壊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "作画崩壊",
+          "reading": "さくがほうかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "inconsistently, horribly drawn animated film or cartoon",
+            "animated cartoon episode of lower picture quality than other episodes in the same series"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Slang"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "破壊分子",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "破壊分子",
+          "reading": "はかいぶんし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "subversive",
+            "subversive element"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "不壊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "不壊",
+          "reading": "ふえ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "indestructibility"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "金剛不壊"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "脊椎破壊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "脊椎破壊",
+          "reading": "せきついはかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "spina bifida"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "毀壊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "毀壊",
+          "reading": "きかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "breaking",
+            "demolishing",
+            "smashing",
+            "destroying",
+            "wrecking"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "being broken",
+            "being ruined",
+            "being destroyed",
+            "being worn out"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "金剛不壊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "金剛不壊",
+          "reading": "こんごうふえ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "firm and solid",
+            "sturdy and indestructible",
+            "unshakable",
+            "adamantine"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "自壊作用",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "自壊作用",
+          "reading": "じかいさよう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(the act of) disintegration"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "自己破壊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "自己破壊",
+          "reading": "じこはかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "self-destruction",
+            "self-sabotage"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "核崩壊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "核崩壊",
+          "reading": "かくほうかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "disintegration of a cell nucleus"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "稀崩壊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "稀崩壊",
+          "reading": "きほうかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rare decay"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Physics terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "破壊力",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "破壊力",
+          "reading": "はかいりょく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "destructive power",
+            "destructive energy",
+            "destructive force"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "非破壊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "非破壊",
+          "reading": "ひはかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "non-destructive"
+          ],
+          "parts_of_speech": [
+            "Noun or verb acting prenominally"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "器物損壊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "器物損壊",
+          "reading": "きぶつそんかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "property damage (not including ships, buildings, planes and documents)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Law, etc. term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "破壊靭性",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "破壊靭性",
+          "reading": "はかいじんせい"
+        },
+        {
+          "word": "破壊靱性",
+          "reading": "はかいじんせい"
+        },
+        {
+          "word": "破壊じん性",
+          "reading": "はかいじんせい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "fracture toughness"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "破壊主義者",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "破壊主義者",
+          "reading": "はかいしゅぎしゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "destructionist"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "せん断破壊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "せん断破壊",
+          "reading": "せんだんはかい"
+        },
+        {
+          "word": "剪断破壊",
+          "reading": "せんだんはかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "shear failure"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "細胞崩壊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "細胞崩壊",
+          "reading": "さいぼうほうかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "cytolysis",
+            "breakdown of cells by the destruction of their outer membrane"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "価格破壊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "価格破壊",
+          "reading": "かかくはかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sudden, wide-spread drop in prices"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "破壊加算",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "破壊加算",
+          "reading": "はかいかさん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "destructive addition"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Computer terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "壊乱",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "壊乱",
+          "reading": "かいらん"
+        },
+        {
+          "word": "潰乱",
+          "reading": "かいらん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "corruption (of order, customs, etc.)"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to fall apart (organization, system, etc.)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "破壊主義",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "破壊主義",
+          "reading": "はかいしゅぎ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "destructionism"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "膵臓壊死",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "膵臓壊死",
+          "reading": "すいぞうえし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "pancreatic necrosis"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "原子破壊機",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "原子破壊機",
+          "reading": "げんしはかいき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "cyclotron"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "自然破壊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "自然破壊",
+          "reading": "しぜんはかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "destruction of nature"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "破壊分子",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "破壊分子",
+          "reading": "はかいぶんし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "subversive",
+            "subversive element"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "学級崩壊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "学級崩壊",
+          "reading": "がっきゅうほうかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "class disruption (e.g. due to discipline problems)",
+            "classroom chaos"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "破壊加算",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "破壊加算",
+          "reading": "はかいかさん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "destructive addition"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Computer terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "原子核崩壊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "原子核崩壊",
+          "reading": "げんしかくほうかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "nuclear decay"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Physics terminology",
+            "Obscure term"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "放射性崩壊"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "放射壊変",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "放射壊変",
+          "reading": "ほうしゃかいへん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "radioactive decay"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "放射性崩壊"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "破壊措置命令",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "破壊措置命令",
+          "reading": "はかいそちめいれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "shoot-down order (e.g. for ballistic missile)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "弾道ミサイル破壊措置命令"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "崩壊寸前",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "崩壊寸前",
+          "reading": "ほうかいすんぜん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "on the brink of collapse",
+            "in a state of near-collapse"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "不壊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "不壊",
+          "reading": "ふえ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "indestructibility"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "金剛不壊"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "破壊工作",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "破壊工作",
+          "reading": "はかいこうさく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "subversive activities"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "肺壊疽",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "肺壊疽",
+          "reading": "はいえそ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "pulmonary gangrene",
+            "gangrenous pneumonia"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Medicine, etc. term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "壊れ易い",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "壊れ易い",
+          "reading": "こわれやすい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "fragile",
+            "break easily"
+          ],
+          "parts_of_speech": [
+            "I-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "破壊主義",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "破壊主義",
+          "reading": "はかいしゅぎ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "destructionism"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "非破壊的",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "非破壊的",
+          "reading": "ひはかいてき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "non-destructive"
+          ],
+          "parts_of_speech": [
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Computer terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "破壊主義者",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "破壊主義者",
+          "reading": "はかいしゅぎしゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "destructionist"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "崩壊熱",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "崩壊熱",
+          "reading": "ほうかいねつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "decay heat"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "膵壊死",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "膵壊死",
+          "reading": "すいえし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "pancreatic necrosis"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "膵臓壊死"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "偶像破壊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "偶像破壊",
+          "reading": "ぐうぞうはかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "iconoclasm",
+            "image breaking"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "核崩壊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "核崩壊",
+          "reading": "かくほうかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "disintegration of a cell nucleus"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "稀崩壊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "稀崩壊",
+          "reading": "きほうかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rare decay"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Physics terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "原子核崩壊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "原子核崩壊",
+          "reading": "げんしかくほうかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "nuclear decay"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Physics terminology",
+            "Obscure term"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "放射性崩壊"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "壊れ易い",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "壊れ易い",
+          "reading": "こわれやすい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "fragile",
+            "break easily"
+          ],
+          "parts_of_speech": [
+            "I-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "破壊主義",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "破壊主義",
+          "reading": "はかいしゅぎ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "destructionism"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "破壊主義者",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "破壊主義者",
+          "reading": "はかいしゅぎしゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "destructionist"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "偶像破壊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "偶像破壊",
+          "reading": "ぐうぞうはかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "iconoclasm",
+            "image breaking"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "価格崩壊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "価格崩壊",
+          "reading": "かかくほうかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "price destruction"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "壊乱",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "壊乱",
+          "reading": "かいらん"
+        },
+        {
+          "word": "潰乱",
+          "reading": "かいらん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "corruption (of order, customs, etc.)"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to fall apart (organization, system, etc.)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "壊変毎分",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "壊変毎分",
+          "reading": "かいへんまいふん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "disintegration per minute",
+            "dpm"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Physics terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Counts per minute"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Counts per minute” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Counts_per_minute?oldid\u003d494162260"
+            },
+            {
+              "text": "Read “壊変毎分” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/壊変毎分?oldid\u003d42634344"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Counts_per_minute"
+      }
+    },
+    {
+      "slug": "壊死性筋膜炎",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "壊死性筋膜炎",
+          "reading": "えしせいきんまくえん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "necrotizing fasciitis",
+            "necrotising fasciitis",
+            "flesh-eating bacteria syndrome"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Medicine, etc. term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Necrotizing fasciitis"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Necrotizing fasciitis” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Necrotizing_fasciitis?oldid\u003d494084400"
+            },
+            {
+              "text": "Read “壊死性筋膜炎” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/壊死性筋膜炎?oldid\u003d42522479"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Necrotizing_fasciitis"
+      }
+    },
+    {
+      "slug": "氷河湖決壊洪水",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "氷河湖決壊洪水",
+          "reading": "ひょうがこけっかいこうずい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "glacial lake outburst flood"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Glacial lake outburst flood"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Glacial lake outburst flood” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Glacial_lake_outburst_flood?oldid\u003d489175857"
+            },
+            {
+              "text": "Read “氷河湖決壊洪水” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/氷河湖決壊洪水?oldid\u003d42548863"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Glacial_lake_outburst_flood"
+      }
+    },
+    {
+      "slug": "α崩壊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "α崩壊",
+          "reading": "アルファほうかい"
+        },
+        {
+          "word": "アルファ崩壊",
+          "reading": "アルファほうかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "alpha decay"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Physics terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Alpha decay"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Alpha decay” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Alpha_decay?oldid\u003d491065971"
+            },
+            {
+              "text": "Read “アルファ崩壊” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/アルファ崩壊?oldid\u003d39628010"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Alpha_decay"
+      }
+    },
+    {
+      "slug": "ベータ崩壊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ベータ崩壊",
+          "reading": "ベータほうかい"
+        },
+        {
+          "word": "β崩壊",
+          "reading": "ベータほうかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "beta decay"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Physics terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Beta decay"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Beta decay” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Beta_decay?oldid\u003d491296418"
+            },
+            {
+              "text": "Read “ベータ崩壊” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/ベータ崩壊?oldid\u003d42231939"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Beta_decay"
+      }
+    },
+    {
+      "slug": "住宅バブル崩壊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "住宅バブル崩壊",
+          "reading": "じゅうたくバブルほうかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "collapse of the housing bubble"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "弾道ミサイル破壊措置命令",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "弾道ミサイル破壊措置命令",
+          "reading": "だんどうミサイルはかいそちめいれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "ballistic-missile shoot-down order",
+            "order to shoot down a ballistic missile"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "破壊措置命令"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "バブル崩壊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "バブル崩壊",
+          "reading": "バブルほうかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "collapse of bubble economy",
+            "economic bubble burst"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "オゾン層破壊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "オゾン層破壊",
+          "reading": "オゾンそうはかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "ozone layer depletion"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "山体崩壊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "山体崩壊",
+          "reading": "さんたいほうかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "debris avalanche (of a volcano)",
+            "collapse of volcanic edifice",
+            "sector collapse"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Geology, etc. term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "家庭崩壊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "家庭崩壊",
+          "reading": "かていほうかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "family breakdown",
+            "family disintegration",
+            "collapse of one\u0027s family"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

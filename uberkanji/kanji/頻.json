@@ -1,0 +1,1539 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "頻りに",
+      "is_common": true,
+      "tags": [
+        "wanikani40"
+      ],
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "頻りに",
+          "reading": "しきりに"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "frequently",
+            "repeatedly",
+            "often",
+            "incessantly",
+            "constantly"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "頻り"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "strongly",
+            "eagerly"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "頻繁",
+      "is_common": true,
+      "tags": [
+        "wanikani40"
+      ],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "頻繁",
+          "reading": "ひんぱん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "frequent",
+            "incessant"
+          ],
+          "parts_of_speech": [
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "頻度",
+      "is_common": true,
+      "tags": [
+        "wanikani40"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頻度",
+          "reading": "ひんど"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "frequency (of occurrence)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "瀕死",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "瀕死",
+          "reading": "ひんし"
+        },
+        {
+          "word": "ひん死",
+          "reading": "ひんし"
+        },
+        {
+          "word": "頻死",
+          "reading": "ひんし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dying",
+            "(on the) verge of death"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "降りしきる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "降りしきる",
+          "reading": "ふりしきる"
+        },
+        {
+          "word": "降り頻る",
+          "reading": "ふりしきる"
+        },
+        {
+          "word": "降頻る",
+          "reading": "ふりしきる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to fall incessantly (rain, snow, etc.)",
+            "to downpour"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "頻り",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頻り",
+          "reading": "しきり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "frequent",
+            "continual",
+            "constant",
+            "repeated",
+            "eager"
+          ],
+          "parts_of_speech": [
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "頻りに",
+            "頻りと"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "頻々",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頻々",
+          "reading": "ひんぴん"
+        },
+        {
+          "word": "頻頻",
+          "reading": "ひんぴん"
+        },
+        {
+          "word": "頻ぴん",
+          "reading": "ひんぴん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "frequently",
+            "very often"
+          ],
+          "parts_of_speech": [
+            "Adverb taking the \u0027to\u0027 particle",
+            "Taru-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "一頻り",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "一頻り",
+          "reading": "ひとしきり"
+        },
+        {
+          "word": "一しきり",
+          "reading": "ひとしきり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "for a while",
+            "for some time",
+            "for a period"
+          ],
+          "parts_of_speech": [
+            "Adverb",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "頻発",
+      "is_common": true,
+      "tags": [
+        "wanikani40"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頻発",
+          "reading": "ひんぱつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "frequent occurrence"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "頻脈",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頻脈",
+          "reading": "ひんみゃく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "tachycardia"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Tachycardia"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Tachycardia” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Tachycardia?oldid\u003d494442917"
+            },
+            {
+              "text": "Read “頻脈” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/頻脈?oldid\u003d42158953"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Tachycardia"
+      }
+    },
+    {
+      "slug": "最頻値",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "最頻値",
+          "reading": "さいひんち"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "mode"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Mathematics"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Mode (statistics)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Mode (statistics)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Mode_(statistics)?oldid\u003d495528617"
+            },
+            {
+              "text": "Read “最頻値” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/最頻値?oldid\u003d40988940"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Mode_(statistics)"
+      }
+    },
+    {
+      "slug": "頻く頻く",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頻く頻く",
+          "reading": "しくしく"
+        },
+        {
+          "word": "頻々",
+          "reading": "しくしく"
+        },
+        {
+          "word": "頻頻",
+          "reading": "しくしく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "incessantly",
+            "without stop"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "頻回",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頻回",
+          "reading": "ひんかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "frequent"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "頻繁"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "頻尿",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頻尿",
+          "reading": "ひんにょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "pollakiuria",
+            "frequent urination"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "高頻度",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "高頻度",
+          "reading": "こうひんど"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "high frequency"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "頻る",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頻る",
+          "reading": "しきる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to do ... incessantly",
+            "to do ... hard"
+          ],
+          "parts_of_speech": [
+            "Suffix",
+            "Godan verb with ru ending"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "降りしきる"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "after the -masu stem of a verb"
+          ]
+        },
+        {
+          "english_definitions": [
+            "to happen repeatedly",
+            "to happen over and over again"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "orig. meaning"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "低頻度",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "低頻度",
+          "reading": "ていひんど"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "low frequency"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "出現頻度",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "出現頻度",
+          "reading": "しゅつげんひんど"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "frequency (of appearance)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Computer terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "使用頻度",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "使用頻度",
+          "reading": "しようひんど"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "frequency of use"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "鳴き頻る",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳴き頻る",
+          "reading": "なきしきる"
+        },
+        {
+          "word": "鳴きしきる",
+          "reading": "なきしきる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to chirp or buzz constantly (usu. insects or birds)"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "発信頻度",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "発信頻度",
+          "reading": "はっしんひんど"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "transmission frequency"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Computer terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "発生頻度",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "発生頻度",
+          "reading": "はっせいひんど"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "frequency of occurrence"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Computer terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "利用頻度",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "利用頻度",
+          "reading": "りようひんど"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "frequency of use"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Computer terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "頻回",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頻回",
+          "reading": "ひんかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "frequent"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "頻繁"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "頻りと",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頻りと",
+          "reading": "しきりと"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "frequently",
+            "repeatedly",
+            "incessantly",
+            "continually"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "very",
+            "awfully"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "遺伝子頻度",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遺伝子頻度",
+          "reading": "いでんしひんど"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "gene frequency"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "頻度分布",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頻度分布",
+          "reading": "ひんどぶんぷ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "frequency distribution"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Computer terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "頻出",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頻出",
+          "reading": "ひんしゅつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "frequent appearance",
+            "frequent occurrence"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "頻度数",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頻度数",
+          "reading": "ひんどすう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "frequency"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "迦陵頻伽",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "迦陵頻伽",
+          "reading": "かりょうびんが"
+        },
+        {
+          "word": "迦陵頻迦",
+          "reading": "かりょうびんが"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "kalavinka",
+            "imaginary bird in paradise that sings sweet notes"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Buddhist term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [
+            {
+              "language": "Sanskrit",
+              "word": ""
+            }
+          ],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Karyobinga"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Karyobinga” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Karyobinga?oldid\u003d493539262"
+            },
+            {
+              "text": "Read “迦陵頻伽” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/迦陵頻伽?oldid\u003d42278708"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Karyobinga"
+      }
+    },
+    {
+      "slug": "頻度依存選択",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頻度依存選択",
+          "reading": "ひんどいぞんせんたく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "frequency-dependent selection"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Biology term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Frequency-dependent selection"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Frequency-dependent selection” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Frequency-dependent_selection?oldid\u003d477579399"
+            },
+            {
+              "text": "Read “頻度依存選択” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/頻度依存選択?oldid\u003d39075014"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Frequency-dependent_selection"
+      }
+    },
+    {
+      "slug": "吹き頻る",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "吹き頻る",
+          "reading": "ふきしきる"
+        },
+        {
+          "word": "吹きしきる",
+          "reading": "ふきしきる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to blow violently",
+            "to blow incessantly",
+            "to blow hard (e.g. the wind)"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "泣き頻る",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "泣き頻る",
+          "reading": "なきしきる"
+        },
+        {
+          "word": "泣きしきる",
+          "reading": "なきしきる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to wail",
+            "to cry",
+            "to sob bitterly"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "バースト頻度",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "バースト頻度",
+          "reading": "バーストひんど"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "burst frequency"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Computer terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "頻く",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頻く",
+          "reading": "しく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to occur repeatedly",
+            "to be repeated"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ku ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "is v4k"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "アクセス頻度が低いファイル",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "アクセス頻度が低いファイル",
+          "reading": "アクセスひんどがひくいファイル"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "inactive file"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Computer terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

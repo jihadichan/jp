@@ -1,0 +1,198 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "えのき茸",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "えのき茸",
+          "reading": "えのきたけ"
+        },
+        {
+          "word": "えのき茸",
+          "reading": "えのきだけ"
+        },
+        {
+          "word": "榎茸",
+          "reading": "えのきたけ"
+        },
+        {
+          "word": "榎茸",
+          "reading": "えのきだけ"
+        },
+        {
+          "reading": "エノキタケ"
+        },
+        {
+          "reading": "エノキダケ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "enoki mushroom (Flammulina velutipes)",
+            "winter mushroom",
+            "velvet shank",
+            "enokitake",
+            "enokidake"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Enokitake"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Enokitake” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Enokitake?oldid\u003d495488875"
+            },
+            {
+              "text": "Read “エノキタケ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/エノキタケ?oldid\u003d42500225"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Enokitake"
+      }
+    },
+    {
+      "slug": "榎",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "榎",
+          "reading": "えのき"
+        },
+        {
+          "word": "朴",
+          "reading": "えのき"
+        },
+        {
+          "reading": "エノキ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Japanese hackberry (Celtis sinensis var. japonica)",
+            "Chinese nettle tree"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "enoki mushroom (Flammulina velutipes)",
+            "winter mushroom",
+            "velvet shank",
+            "enokitake",
+            "enokidake"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone",
+            "Abbreviation"
+          ],
+          "restrictions": [
+            "榎",
+            "えのき"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "榎葉",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "榎葉",
+          "reading": "えのは"
+        },
+        {
+          "reading": "エノハ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "landlocked masu salmon"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "山女魚"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+body {
+    background-color: #fff;
+}
+
+.wrapper {
+    width: 100%;
+}
+
+#debug {
+    text-align: center;
+    color: red;
+}
+
+.anki-field {
+    display: none;
+}

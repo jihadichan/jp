@@ -1,0 +1,195 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "岬",
+      "is_common": true,
+      "tags": [
+        "wanikani23",
+        "wanikani59"
+      ],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "岬",
+          "reading": "みさき"
+        },
+        {
+          "word": "崎",
+          "reading": "みさき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "cape (on coast)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "崎",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "崎",
+          "reading": "さき"
+        },
+        {
+          "word": "岬",
+          "reading": "さき"
+        },
+        {
+          "word": "埼",
+          "reading": "さき"
+        },
+        {
+          "word": "碕",
+          "reading": "さき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "small peninsula"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Cape (geography)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Cape (geography)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Cape_(geography)?oldid\u003d490784131"
+            },
+            {
+              "text": "Read “岬” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/岬?oldid\u003d42236354"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Cape_(geography)"
+      }
+    },
+    {
+      "slug": "岬角",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "岬角",
+          "reading": "こうかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "anat promontory",
+            "promontory"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Obscure term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "岬湾",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "岬湾",
+          "reading": "こうわん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "capes and bays",
+            "indentation (of a coast)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Obscure term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

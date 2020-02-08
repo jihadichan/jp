@@ -1,0 +1,562 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "楕円",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "楕円",
+          "reading": "だえん"
+        },
+        {
+          "word": "だ円",
+          "reading": "だえん"
+        },
+        {
+          "word": "橢円",
+          "reading": "だえん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "ellipse"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Ellipse"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Ellipse” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Ellipse?oldid\u003d495492191"
+            },
+            {
+              "text": "Read “楕円” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/楕円?oldid\u003d41892694"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Ellipse"
+      }
+    },
+    {
+      "slug": "楕円形",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "楕円形",
+          "reading": "だえんけい"
+        },
+        {
+          "word": "だ円形",
+          "reading": "だえんけい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "elliptical shape"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "楕円体",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "楕円体",
+          "reading": "だえんたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "ellipsoid body"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Ellipsoid"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Ellipsoid” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Ellipsoid?oldid\u003d492561268"
+            },
+            {
+              "text": "Read “楕円体” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/楕円体?oldid\u003d42504693"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Ellipsoid"
+      }
+    },
+    {
+      "slug": "楕円銀河",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "楕円銀河",
+          "reading": "だえんぎんが"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "elliptical galaxy"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Astronomy, etc. term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Elliptical galaxy"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Elliptical galaxy” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Elliptical_galaxy?oldid\u003d494000476"
+            },
+            {
+              "text": "Read “楕円銀河” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/楕円銀河?oldid\u003d42083754"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Elliptical_galaxy"
+      }
+    },
+    {
+      "slug": "楕円幾何学",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "楕円幾何学",
+          "reading": "だえんきかがく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "elliptic geometry",
+            "Riemannian geometry"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Elliptic geometry"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Elliptic geometry” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Elliptic_geometry?oldid\u003d492799063"
+            },
+            {
+              "text": "Read “楕円幾何学” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/楕円幾何学?oldid\u003d41517348"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Elliptic_geometry"
+      }
+    },
+    {
+      "slug": "回転楕円体",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "回転楕円体",
+          "reading": "かいてんだえんたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "spheroid"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Spheroid"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Spheroid” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Spheroid?oldid\u003d492442351"
+            },
+            {
+              "text": "Read “回転楕円体” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/回転楕円体?oldid\u003d42775825"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Spheroid"
+      }
+    },
+    {
+      "slug": "楕円関数",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "楕円関数",
+          "reading": "だえんかんすう"
+        },
+        {
+          "word": "だ円関数",
+          "reading": "だえんかんすう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "elliptic function"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Mathematics"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "超楕円関数",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "超楕円関数",
+          "reading": "ちょうだえんかんすう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "hyperelliptic function"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Mathematics"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "楕円面",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "楕円面",
+          "reading": "だえんめん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "ellipsoid"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "楕円曲線",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "楕円曲線",
+          "reading": "だえんきょくせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "elliptic curve"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Mathematics"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Elliptic curve"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Elliptic curve” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Elliptic_curve?oldid\u003d494461141"
+            },
+            {
+              "text": "Read “楕円曲線” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/楕円曲線?oldid\u003d42487972"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Elliptic_curve"
+      }
+    },
+    {
+      "slug": "スーパー楕円",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "スーパー楕円",
+          "reading": "スーパーだえん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "superellipse"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Mathematics"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

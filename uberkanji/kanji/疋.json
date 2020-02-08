@@ -1,0 +1,165 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "匹",
+      "is_common": true,
+      "tags": [
+        "wanikani44"
+      ],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "匹",
+          "reading": "ひき"
+        },
+        {
+          "word": "匹",
+          "reading": "き"
+        },
+        {
+          "word": "疋",
+          "reading": "ひき"
+        },
+        {
+          "word": "疋",
+          "reading": "き"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "counter for small animals"
+          ],
+          "parts_of_speech": [
+            "Counter"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "ひき"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "counter for rolls of cloth (two han in size)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "counter for horses"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [
+            "き"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "roll of cloth"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "一匹",
+      "is_common": true,
+      "tags": [
+        "wanikani44"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "一匹",
+          "reading": "いっぴき"
+        },
+        {
+          "word": "１匹",
+          "reading": "いっぴき"
+        },
+        {
+          "word": "一疋",
+          "reading": "いっぴき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "one animal (small)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "two-tan bolt of cloth"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [
+            "一匹"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

@@ -1,0 +1,611 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "瞳",
+      "is_common": true,
+      "tags": [
+        "wanikani46"
+      ],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "瞳",
+          "reading": "ひとみ"
+        },
+        {
+          "word": "眸",
+          "reading": "ひとみ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "pupil (of eye)"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "eye"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "瞳孔",
+      "is_common": false,
+      "tags": [
+        "wanikani46"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "瞳孔",
+          "reading": "どうこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "pupil (of the eye)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Pupil"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Pupil” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Pupil?oldid\u003d494875297"
+            },
+            {
+              "text": "Read “瞳孔” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/瞳孔?oldid\u003d41309421"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Pupil"
+      }
+    },
+    {
+      "slug": "散瞳",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "散瞳",
+          "reading": "さんどう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "mydriasis",
+            "(excessive) dilation of the pupil"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [
+            "縮瞳"
+          ],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Mydriasis"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Mydriasis” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Mydriasis?oldid\u003d495067233"
+            },
+            {
+              "text": "Read “散瞳” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/散瞳?oldid\u003d39563775"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Mydriasis"
+      }
+    },
+    {
+      "slug": "縮瞳",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縮瞳",
+          "reading": "しゅくどう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "miosis",
+            "myosis",
+            "(excessive) constriction of the pupil"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [
+            "散瞳"
+          ],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Miosis"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Miosis” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Miosis?oldid\u003d492174845"
+            },
+            {
+              "text": "Read “縮瞳” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/縮瞳?oldid\u003d38746541"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Miosis"
+      }
+    },
+    {
+      "slug": "白色瞳孔",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "白色瞳孔",
+          "reading": "はくしょくどうこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "leukocoria",
+            "leukokoria",
+            "amaurotic cat\u0027s eye"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "瞳孔反射",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "瞳孔反射",
+          "reading": "どうこうはんしゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "pupillary reflex"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Biology term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "瞳孔拡張",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "瞳孔拡張",
+          "reading": "どうこうかくちょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "pupil dilation"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "瞳孔散大"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "瞳孔括約筋",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "瞳孔括約筋",
+          "reading": "どうこうかつやくきん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sphincter muscle of the pupil",
+            "sphincter pupillae"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Anatomical term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "瞳子",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "瞳子",
+          "reading": "どうし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "pupil"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "瞳孔散大",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "瞳孔散大",
+          "reading": "どうこうさんだい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dilation of the pupil",
+            "mydriasis"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "瞳孔縮小",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "瞳孔縮小",
+          "reading": "どうこうしゅくしょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "pupil contraction"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [
+            "瞳孔散大"
+          ],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "散瞳薬",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "散瞳薬",
+          "reading": "さんどうやく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "mydriatic agent",
+            "mydriatic drug"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "君の瞳に乾杯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "君の瞳に乾杯",
+          "reading": "きみのひとみにかんぱい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "here\u0027s looking at you, kid",
+            "cheers to your eyes"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "from the movie Casablanca"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "瞳を凝らす",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "瞳を凝らす",
+          "reading": "ひとみをこらす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to strain one\u0027s eyes",
+            "to stare"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with su ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "目を凝らす"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

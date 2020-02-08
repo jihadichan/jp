@@ -1,0 +1,998 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "奇麗",
+      "is_common": true,
+      "tags": [
+        "wanikani29"
+      ],
+      "jlpt": [
+        "jlpt-n1",
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "綺麗",
+          "reading": "きれい"
+        },
+        {
+          "word": "奇麗",
+          "reading": "きれい"
+        },
+        {
+          "word": "暉麗",
+          "reading": "きれい"
+        },
+        {
+          "reading": "キレイ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "pretty",
+            "lovely",
+            "beautiful",
+            "fair"
+          ],
+          "parts_of_speech": [
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "clean",
+            "clear",
+            "pure",
+            "tidy",
+            "neat"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "completely",
+            "entirely"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "as きれいに"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "煌びやか",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "煌びやか",
+          "reading": "きらびやか"
+        },
+        {
+          "word": "綺羅びやか",
+          "reading": "きらびやか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "gorgeous",
+            "gaudy",
+            "dazzling",
+            "gay",
+            "resplendent"
+          ],
+          "parts_of_speech": [
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "小奇麗",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "小奇麗",
+          "reading": "こぎれい"
+        },
+        {
+          "word": "小綺麗",
+          "reading": "こぎれい"
+        },
+        {
+          "word": "小ぎれい",
+          "reading": "こぎれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "neat",
+            "trim",
+            "tidy",
+            "pretty"
+          ],
+          "parts_of_speech": [
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "奇麗"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "綺麗さっぱり",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綺麗さっぱり",
+          "reading": "きれいさっぱり"
+        },
+        {
+          "word": "奇麗さっぱり",
+          "reading": "きれいさっぱり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "once and for all",
+            "completely"
+          ],
+          "parts_of_speech": [
+            "Adverb",
+            "Adverb taking the \u0027to\u0027 particle",
+            "Suru verb",
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "spotlessly"
+          ],
+          "parts_of_speech": [
+            "Adverb",
+            "Adverb taking the \u0027to\u0027 particle",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "きれい好き",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "きれい好き",
+          "reading": "きれいずき"
+        },
+        {
+          "word": "綺麗好き",
+          "reading": "きれいずき"
+        },
+        {
+          "word": "奇麗好き",
+          "reading": "きれいずき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "love of cleanliness",
+            "liking to keep things clean",
+            "tidiness (of people)",
+            "neatness"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "綺麗事",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綺麗事",
+          "reading": "きれいごと"
+        },
+        {
+          "word": "奇麗事",
+          "reading": "きれいごと"
+        },
+        {
+          "word": "きれい事",
+          "reading": "きれいごと"
+        },
+        {
+          "word": "綺麗ごと",
+          "reading": "きれいごと"
+        },
+        {
+          "word": "奇麗ごと",
+          "reading": "きれいごと"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "whitewashing",
+            "glossing over",
+            "lip service"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "deftly finishing up",
+            "putting on the final touches"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "original meaning"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "奇想曲",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "奇想曲",
+          "reading": "きそうきょく"
+        },
+        {
+          "word": "綺想曲",
+          "reading": "きそうきょく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "capriccio"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Music term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Capriccio (music)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Capriccio (music)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Capriccio_(music)?oldid\u003d476964113"
+            },
+            {
+              "text": "Read “奇想曲” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/奇想曲?oldid\u003d39479918"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Capriccio_(music)"
+      }
+    },
+    {
+      "slug": "綺羅",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綺羅",
+          "reading": "きら"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "fine clothes"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "綺麗どころ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綺麗どころ",
+          "reading": "きれいどころ"
+        },
+        {
+          "word": "綺麗所",
+          "reading": "きれいどころ"
+        },
+        {
+          "word": "奇麗どころ",
+          "reading": "きれいどころ"
+        },
+        {
+          "word": "奇麗所",
+          "reading": "きれいどころ"
+        },
+        {
+          "word": "綺麗所",
+          "reading": "きれいどこ"
+        },
+        {
+          "word": "奇麗所",
+          "reading": "きれいどこ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "geisha",
+            "Japanese singing and dancing girl"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "dressed-up beautiful woman"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "奇談",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "奇談",
+          "reading": "きだん"
+        },
+        {
+          "word": "綺談",
+          "reading": "きだん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "romantic story",
+            "colorful story",
+            "colourful story",
+            "highly embellished story"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "手奇麗",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "手奇麗",
+          "reading": "てぎれい"
+        },
+        {
+          "word": "手綺麗",
+          "reading": "てぎれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "neatly or cleverly made"
+          ],
+          "parts_of_speech": [
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "綺羅星",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綺羅星",
+          "reading": "きらぼし"
+        },
+        {
+          "word": "煌星",
+          "reading": "きらぼし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "glittering stars"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "身奇麗",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "身奇麗",
+          "reading": "みぎれい"
+        },
+        {
+          "word": "身綺麗",
+          "reading": "みぎれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "neat personal appearance"
+          ],
+          "parts_of_speech": [
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "綾綺殿",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綾綺殿",
+          "reading": "りょうきでん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "pavilion housing the emperor\u0027s bathing quarters and dressing chamber (in Heian Palace)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "十七殿"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "狂言綺語",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "狂言綺語",
+          "reading": "きょうげんきご"
+        },
+        {
+          "word": "狂言綺語",
+          "reading": "きょうげんきぎょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "make-believe fiction"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Derogatory",
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "綺語",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綺語",
+          "reading": "きご"
+        },
+        {
+          "word": "綺語",
+          "reading": "きぎょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "embellishing one\u0027s words (one of the ten evil deeds)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Buddhist term"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "十悪"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "embellished language",
+            "flowery language"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "狂言綺語"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "綺麗な薔薇には棘がある",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綺麗な薔薇には棘がある",
+          "reading": "きれいなばらにはとげがある"
+        },
+        {
+          "word": "綺麗な薔薇には刺がある",
+          "reading": "きれいなばらにはとげがある"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "there is no rose without a thorn",
+            "every rose has its thorn"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [
+            "Proverb"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "綺譚",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綺譚",
+          "reading": "きたん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "beautiful story"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "coined by Kafū Nagai"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "綺",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綺",
+          "reading": "き"
+        },
+        {
+          "word": "綺",
+          "reading": "かんはた"
+        },
+        {
+          "word": "綺",
+          "reading": "かんばた"
+        },
+        {
+          "word": "綺",
+          "reading": "かにはた"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "thin twilled silk fabric"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "綺麗かった",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綺麗かった",
+          "reading": "きれいかった"
+        },
+        {
+          "reading": "キレイかった"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "was pretty",
+            "was beautiful",
+            "was clean"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone",
+            "Kansai dialect"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "綺麗",
+            "綺麗"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "irregular past tense conjugation of 綺麗"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

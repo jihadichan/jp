@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "海里",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "海里",
+          "reading": "かいり"
+        },
+        {
+          "word": "浬",
+          "reading": "かいり"
+        },
+        {
+          "reading": "カイリ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "nautical mile"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Nautical mile"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Nautical mile” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Nautical_mile?oldid\u003d493331120"
+            },
+            {
+              "text": "Read “海里” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/海里?oldid\u003d42330423"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Nautical_mile"
+      }
+    },
+    {
+      "slug": "節-1",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "節",
+          "reading": "のっと"
+        },
+        {
+          "word": "浬",
+          "reading": "のっと"
+        },
+        {
+          "reading": "ノット"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "knot (nautical mile per hour)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

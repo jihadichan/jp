@@ -1,0 +1,4233 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "注意",
+      "is_common": true,
+      "tags": [
+        "wanikani11"
+      ],
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "注意",
+          "reading": "ちゅうい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "caution",
+            "being careful",
+            "attention (heed)",
+            "warning",
+            "advice"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "ご注意"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Attention"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Attention” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Attention?oldid\u003d492670767"
+            },
+            {
+              "text": "Read “注意” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/注意?oldid\u003d42732944"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Attention"
+      }
+    },
+    {
+      "slug": "注射",
+      "is_common": true,
+      "tags": [
+        "wanikani34"
+      ],
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "注射",
+          "reading": "ちゅうしゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "injection"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Injection (medicine)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Injection (medicine)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Injection_(medicine)?oldid\u003d493584979"
+            },
+            {
+              "text": "Read “注射” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/注射?oldid\u003d42736480"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Injection_(medicine)"
+      }
+    },
+    {
+      "slug": "注文",
+      "is_common": true,
+      "tags": [
+        "wanikani11",
+        "wanikani13"
+      ],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "注文",
+          "reading": "ちゅうもん"
+        },
+        {
+          "word": "註文",
+          "reading": "ちゅうもん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "order",
+            "request"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "注目",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "注目",
+          "reading": "ちゅうもく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "notice",
+            "attention",
+            "observation"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "注ぐ",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "注ぐ",
+          "reading": "そそぐ"
+        },
+        {
+          "word": "灌ぐ",
+          "reading": "そそぐ"
+        },
+        {
+          "word": "潅ぐ",
+          "reading": "そそぐ"
+        },
+        {
+          "word": "濺ぐ",
+          "reading": "そそぐ"
+        },
+        {
+          "word": "漑ぐ",
+          "reading": "そそぐ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to pour (into)"
+          ],
+          "parts_of_speech": [
+            "Godan verb with gu ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "注ぐ つぐ"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to sprinkle on (from above)",
+            "to water (e.g. plants)",
+            "to pour onto",
+            "to spray"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to shed (tears)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to concentrate one\u0027s energy (strength, attention, etc.) on",
+            "to devote to",
+            "to fix (one\u0027s eyes) on"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to flow into (e.g. of a river)",
+            "to run into",
+            "to drain into"
+          ],
+          "parts_of_speech": [
+            "Godan verb with gu ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to fall (of rain, snow)",
+            "to pour down"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "注",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "注",
+          "reading": "ちゅう"
+        },
+        {
+          "word": "註",
+          "reading": "ちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "annotation",
+            "explanatory note",
+            "comment"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "注す",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "注す",
+          "reading": "さす"
+        },
+        {
+          "word": "点す",
+          "reading": "さす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to pour",
+            "to add (liquid)",
+            "to serve (drinks)"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "差す さす"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "esp. 注す"
+          ]
+        },
+        {
+          "english_definitions": [
+            "to put on (lipstick, etc.)",
+            "to apply",
+            "to colour",
+            "to dye"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "差す さす"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "esp. 点す"
+          ]
+        },
+        {
+          "english_definitions": [
+            "to light (a fire)",
+            "to burn"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "差す さす"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "esp. 点す"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "注ぐ-1",
+      "is_common": true,
+      "tags": [
+        "wanikani11"
+      ],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "注ぐ",
+          "reading": "つぐ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to pour (into a vessel)",
+            "to fill (a cup, bowl, etc.) with",
+            "to dish out (food or drink)"
+          ],
+          "parts_of_speech": [
+            "Godan verb with gu ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "注釈",
+      "is_common": false,
+      "tags": [
+        "wanikani51"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "注釈",
+          "reading": "ちゅうしゃく"
+        },
+        {
+          "word": "註釈",
+          "reading": "ちゅうしゃく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "notes",
+            "comment",
+            "remark",
+            "annotation"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Annotation"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Annotation” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Annotation?oldid\u003d493244930"
+            },
+            {
+              "text": "Read “注釈” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/注釈?oldid\u003d41941221"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Annotation"
+      }
+    },
+    {
+      "slug": "注ぎ込む",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "注ぎ込む",
+          "reading": "そそぎこむ"
+        },
+        {
+          "word": "注ぎこむ",
+          "reading": "そそぎこむ"
+        },
+        {
+          "word": "そそぎ込む",
+          "reading": "そそぎこむ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to pour into (liquids)",
+            "to pump into"
+          ],
+          "parts_of_speech": [
+            "Godan verb with mu ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "発注",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "発注",
+          "reading": "はっちゅう"
+        },
+        {
+          "word": "発註",
+          "reading": "はっちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "ordering (materials)",
+            "placing an order",
+            "order"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "受注"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "傾注",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "傾注",
+          "reading": "けいちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "devotion",
+            "concentration"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "注入",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "注入",
+          "reading": "ちゅうにゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "pouring",
+            "injection"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "不注意",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "不注意",
+          "reading": "ふちゅうい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "carelessness",
+            "inattention",
+            "thoughtlessness"
+          ],
+          "parts_of_speech": [
+            "Na-adjective",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "要注意",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "要注意",
+          "reading": "ようちゅうい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "attention (care) required",
+            "needs special attention"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "取扱注意",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "取扱注意",
+          "reading": "とりあつかいちゅうい"
+        },
+        {
+          "word": "取り扱い注意",
+          "reading": "とりあつかいちゅうい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "handling warning"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "降り注ぐ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "降り注ぐ",
+          "reading": "ふりそそぐ"
+        },
+        {
+          "word": "降りそそぐ",
+          "reading": "ふりそそぐ"
+        },
+        {
+          "word": "降注ぐ",
+          "reading": "ふりそそぐ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to rain incessantly",
+            "to downpour"
+          ],
+          "parts_of_speech": [
+            "Godan verb with gu ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "注視",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "注視",
+          "reading": "ちゅうし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "gazing steadily at",
+            "observing (a person) closely",
+            "maintain a watch over"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "脚注",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "脚注",
+          "reading": "きゃくちゅう"
+        },
+        {
+          "word": "脚註",
+          "reading": "きゃくちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "footnote"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Note (typography)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Note (typography)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Note_(typography)?oldid\u003d493592298"
+            },
+            {
+              "text": "Read “脚注” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/脚注?oldid\u003d40496141"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Note_(typography)"
+      }
+    },
+    {
+      "slug": "注射器",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "注射器",
+          "reading": "ちゅうしゃき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "injector",
+            "syringe"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Syringe"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Syringe” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Syringe?oldid\u003d489415217"
+            },
+            {
+              "text": "Read “注射器” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/注射器?oldid\u003d41484346"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Syringe"
+      }
+    },
+    {
+      "slug": "注ぎ込む-1",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "注ぎ込む",
+          "reading": "つぎこむ"
+        },
+        {
+          "word": "つぎ込む",
+          "reading": "つぎこむ"
+        },
+        {
+          "word": "注ぎこむ",
+          "reading": "つぎこむ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to invest in",
+            "to sink money into",
+            "to put into",
+            "to lay out (funds)",
+            "to inject",
+            "to impregnate",
+            "to infuse",
+            "to instill",
+            "to implant",
+            "to imbue",
+            "to focus (attention, efforts)"
+          ],
+          "parts_of_speech": [
+            "Godan verb with mu ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "注文書",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "注文書",
+          "reading": "ちゅうもんしょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "written order",
+            "order form"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "注意力",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "注意力",
+          "reading": "ちゅういりょく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "attentiveness"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "注意書き",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "注意書き",
+          "reading": "ちゅういがき"
+        },
+        {
+          "word": "注意書",
+          "reading": "ちゅういがき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "notes",
+            "instructions"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "ご注意",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ご注意",
+          "reading": "ごちゅうい"
+        },
+        {
+          "word": "御注意",
+          "reading": "ごちゅうい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "caution",
+            "being careful",
+            "attention (heed)",
+            "warning",
+            "advice"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "注意書",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "注意書",
+          "reading": "ちゅういしょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "directions",
+            "advisory",
+            "notice",
+            "warning"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "注ぎいれる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "注ぎいれる",
+          "reading": "そそぎいれる"
+        },
+        {
+          "word": "注ぎ入れる",
+          "reading": "そそぎいれる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to pour into"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "追加注文",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "追加注文",
+          "reading": "ついかちゅうもん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "additional order"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "ご注文",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ご注文",
+          "reading": "ごちゅうもん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "order",
+            "request"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "訳注",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "訳注",
+          "reading": "やくちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "translation with notes",
+            "translator\u0027s notes"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "注文品",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "注文品",
+          "reading": "ちゅうもんひん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "ordered goods"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "注意深く",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "注意深く",
+          "reading": "ちゅういぶかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "attentively",
+            "cautiously",
+            "carefully",
+            "watchfully",
+            "with caution"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "注意報",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "注意報",
+          "reading": "ちゅういほう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "warning (e.g. for a storm)",
+            "advisory"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "受注",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "受注",
+          "reading": "じゅちゅう"
+        },
+        {
+          "word": "受註",
+          "reading": "じゅちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "accepting an order",
+            "receiving an order",
+            "orders received"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "発注"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "注意深い",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "注意深い",
+          "reading": "ちゅういぶかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "careful"
+          ],
+          "parts_of_speech": [
+            "I-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "外注",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "外注",
+          "reading": "がいちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "outside order",
+            "outsourcing",
+            "custom (manufacture)"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "特注",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "特注",
+          "reading": "とくちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "special order (goods)",
+            "custom (made)",
+            "bespoke"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "特別注文 とくべつちゅうもん"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "注意を引く",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "注意を引く",
+          "reading": "ちゅういをひく"
+        },
+        {
+          "word": "注意をひく",
+          "reading": "ちゅういをひく"
+        },
+        {
+          "word": "注意を惹く",
+          "reading": "ちゅういをひく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to attract attention"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with ku ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "注意を逸らす",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "注意を逸らす",
+          "reading": "ちゅういをそらす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to distract a person\u0027s attention"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with su ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "水をさす",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "水をさす",
+          "reading": "みずをさす"
+        },
+        {
+          "word": "水を注す",
+          "reading": "みずをさす"
+        },
+        {
+          "word": "水を差す",
+          "reading": "みずをさす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to pour water (into)",
+            "to dilute with water"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with su ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to hinder",
+            "to hamper",
+            "to throw cold water on",
+            "to put a damper on",
+            "to estrange (people)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Idiomatic expression"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "火に油を注ぐ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "火に油を注ぐ",
+          "reading": "ひにあぶらをそそぐ"
+        },
+        {
+          "word": "火に油をそそぐ",
+          "reading": "ひにあぶらをそそぐ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to add fuel to the fire",
+            "to make things worse",
+            "to stir things up"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with gu ending"
+          ],
+          "links": [],
+          "tags": [
+            "Idiomatic expression"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "注ぎ足す",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "注ぎ足す",
+          "reading": "つぎたす"
+        },
+        {
+          "word": "つぎ足す",
+          "reading": "つぎたす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to top up (drinks, water, rice, etc.)",
+            "to replenish"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "朱を注ぐ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "朱を注ぐ",
+          "reading": "しゅをそそぐ"
+        },
+        {
+          "word": "朱をそそぐ",
+          "reading": "しゅをそそぐ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to flush bright red (e.g. of someone\u0027s face)"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with gu ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "目薬を差す",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "目薬を差す",
+          "reading": "めぐすりをさす"
+        },
+        {
+          "word": "目薬を点す",
+          "reading": "めぐすりをさす"
+        },
+        {
+          "word": "目薬を注す",
+          "reading": "めぐすりをさす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to apply eyedrops"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with su ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "注目を引く",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "注目を引く",
+          "reading": "ちゅうもくをひく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to make a splash",
+            "to draw attention"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with ku ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "分注",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "分注",
+          "reading": "ぶんちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dispensing (e.g. reagent from a pipette)",
+            "dispensation"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Warichu"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Warichu” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Warichu?oldid\u003d475211007"
+            },
+            {
+              "text": "Read “分注” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/分注?oldid\u003d41106921"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Warichu"
+      }
+    },
+    {
+      "slug": "しめ縄",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "しめ縄",
+          "reading": "しめなわ"
+        },
+        {
+          "word": "注連縄",
+          "reading": "しめなわ"
+        },
+        {
+          "word": "七五三縄",
+          "reading": "しめなわ"
+        },
+        {
+          "word": "標縄",
+          "reading": "しめなわ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rope used to cordon off consecrated areas or as a talisman against evil"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Shinto term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Shimenawa"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Shimenawa” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Shimenawa?oldid\u003d492858994"
+            },
+            {
+              "text": "Read “注連縄” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/注連縄?oldid\u003d41924684"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Shimenawa"
+      }
+    },
+    {
+      "slug": "注意義務",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "注意義務",
+          "reading": "ちゅういぎむ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "duty of care"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Duty of care"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Duty of care” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Duty_of_care?oldid\u003d493626863"
+            },
+            {
+              "text": "Read “注意義務” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/注意義務?oldid\u003d38404306"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Duty_of_care"
+      }
+    },
+    {
+      "slug": "注連",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "注連",
+          "reading": "しめ"
+        },
+        {
+          "word": "標",
+          "reading": "しめ"
+        },
+        {
+          "word": "七五三",
+          "reading": "しめ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rope used to cordon off consecrated areas or as a talisman against evil"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Shinto term",
+            "Abbreviation"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "注連縄"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "cordoning off",
+            "cordoning-off sign"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "水注",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "水注",
+          "reading": "すいちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "vessel for replenishing inkstone water"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "水滴 すいてき"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "container of fresh water for replenishing the kettle and rinsing bowls (tea ceremony)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "割り注",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "割り注",
+          "reading": "わりちゅう"
+        },
+        {
+          "word": "割注",
+          "reading": "わりちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "inserted notes"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "疏注",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "疏注",
+          "reading": "そちゅう"
+        },
+        {
+          "word": "疏註",
+          "reading": "そちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "notes",
+            "comment",
+            "remark",
+            "annotation"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "注釈"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "評注",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "評注",
+          "reading": "ひょうちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "commentary",
+            "notes and comments"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "点滴静注",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "点滴静注",
+          "reading": "てんてきじょうちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "intravenous drip infusion",
+            "intravenous drip",
+            "drip infusion"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Medicine, etc. term",
+            "Abbreviation"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "点滴静脈注射 てんてきじょうみゃくちゅうしゃ"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "集注",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "集注",
+          "reading": "しゅうちゅう"
+        },
+        {
+          "word": "集註",
+          "reading": "しゅうちゅう"
+        },
+        {
+          "word": "集注",
+          "reading": "しっちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "variorum"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "水注ぎ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "水注ぎ",
+          "reading": "みずつぎ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "container of fresh water for replenishing the kettle and rinsing bowls (tea ceremony)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "付注",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "付注",
+          "reading": "ふちゅう"
+        },
+        {
+          "word": "附註",
+          "reading": "ふちゅう"
+        },
+        {
+          "word": "附注",
+          "reading": "ふちゅう"
+        },
+        {
+          "word": "付註",
+          "reading": "ふちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "annotation",
+            "comment"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "頭注",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頭注",
+          "reading": "とうちゅう"
+        },
+        {
+          "word": "頭註",
+          "reading": "とうちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "headnote"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "注ぎ出す",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "注ぎ出す",
+          "reading": "そそぎだす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to pour out"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "校注",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "校注",
+          "reading": "こうちゅう"
+        },
+        {
+          "word": "校註",
+          "reading": "こうちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "collation editing",
+            "proofreading and annotation"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "牛脂注入肉",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "牛脂注入肉",
+          "reading": "ぎゅうしちゅうにゅうにく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "processed meat injected with a beef tallow mixture"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "割り注",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "割り注",
+          "reading": "わりちゅう"
+        },
+        {
+          "word": "割注",
+          "reading": "わりちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "inserted notes"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "特注品",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "特注品",
+          "reading": "とくちゅうひん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "article specially made to order",
+            "made-to-measure (custom-made) article"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "点滴静注",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "点滴静注",
+          "reading": "てんてきじょうちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "intravenous drip infusion",
+            "intravenous drip",
+            "drip infusion"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Medicine, etc. term",
+            "Abbreviation"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "点滴静脈注射 てんてきじょうみゃくちゅうしゃ"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "点滴注射",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "点滴注射",
+          "reading": "てんてきちゅうしゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "intravenous drip infusion"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "予防注射",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "予防注射",
+          "reading": "よぼうちゅうしゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "immunization",
+            "immunisation",
+            "shots",
+            "inoculation",
+            "preventive injection"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "水注ぎ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "水注ぎ",
+          "reading": "みずつぎ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "container of fresh water for replenishing the kettle and rinsing bowls (tea ceremony)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "集注",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "集注",
+          "reading": "しゅうちゅう"
+        },
+        {
+          "word": "集註",
+          "reading": "しゅうちゅう"
+        },
+        {
+          "word": "集注",
+          "reading": "しっちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "variorum"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "注射液",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "注射液",
+          "reading": "ちゅうしゃえき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "an injection"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "付注",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "付注",
+          "reading": "ふちゅう"
+        },
+        {
+          "word": "附註",
+          "reading": "ふちゅう"
+        },
+        {
+          "word": "附注",
+          "reading": "ふちゅう"
+        },
+        {
+          "word": "付註",
+          "reading": "ふちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "annotation",
+            "comment"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "頭注",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頭注",
+          "reading": "とうちゅう"
+        },
+        {
+          "word": "頭註",
+          "reading": "とうちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "headnote"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "致死注射",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "致死注射",
+          "reading": "ちしちゅうしゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "lethal injection"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "静脈注射",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "静脈注射",
+          "reading": "じょうみゃくちゅうしゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "intravenous injection"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "注ぎ口",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "注ぎ口",
+          "reading": "つぎくち"
+        },
+        {
+          "word": "注ぎ口",
+          "reading": "つぎぐち"
+        },
+        {
+          "word": "注ぎ口",
+          "reading": "そそぎぐち"
+        },
+        {
+          "word": "注口",
+          "reading": "つぎくち"
+        },
+        {
+          "word": "注口",
+          "reading": "つぎぐち"
+        },
+        {
+          "word": "注口",
+          "reading": "そそぎぐち"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "spout"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "校注",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "校注",
+          "reading": "こうちゅう"
+        },
+        {
+          "word": "校註",
+          "reading": "こうちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "collation editing",
+            "proofreading and annotation"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "補注",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "補注",
+          "reading": "ほちゅう"
+        },
+        {
+          "word": "補註",
+          "reading": "ほちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "supplementary note"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "注射痕",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "注射痕",
+          "reading": "ちゅうしゃこん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "injection scar (e.g. injected drugs)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "再注",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "再注",
+          "reading": "さいちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "repeat order"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "転注",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "転注",
+          "reading": "てんちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "applying an extended meaning to a kanji"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "自注",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "自注",
+          "reading": "じちゅう"
+        },
+        {
+          "word": "自註",
+          "reading": "じちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "self-annotation of one\u0027s writings"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "補注",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "補注",
+          "reading": "ほちゅう"
+        },
+        {
+          "word": "補註",
+          "reading": "ほちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "supplementary note"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "注射痕",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "注射痕",
+          "reading": "ちゅうしゃこん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "injection scar (e.g. injected drugs)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "注射針",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "注射針",
+          "reading": "ちゅうしゃばり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "hypodermic needle"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "再注",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "再注",
+          "reading": "さいちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "repeat order"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "割れ物注意",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "割れ物注意",
+          "reading": "われものちゅうい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Fragile",
+            "Handle With Care"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "転注",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "転注",
+          "reading": "てんちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "applying an extended meaning to a kanji"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "注意力欠如障害",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "注意力欠如障害",
+          "reading": "ちゅういりょくけつじょしょうがい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "attention-deficit disorder",
+            "ADD"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "注意力不足活動過多症"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "要注意人物",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "要注意人物",
+          "reading": "ようちゅういじんぶつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "person requiring special attention",
+            "person to be wary of",
+            "person under (police) surveillance",
+            "dangerous person"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "自注",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "自注",
+          "reading": "じちゅう"
+        },
+        {
+          "word": "自註",
+          "reading": "じちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "self-annotation of one\u0027s writings"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "厳重注意",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "厳重注意",
+          "reading": "げんじゅうちゅうい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "reprimand",
+            "stern warning"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "雨注",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "雨注",
+          "reading": "うちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "showering (arrows) upon"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "余白注",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "余白注",
+          "reading": "よはくちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "marginal notes",
+            "glosses"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "諸注意",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "諸注意",
+          "reading": "しょちゅうい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "tips",
+            "pointers"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "閲覧注意",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "閲覧注意",
+          "reading": "えつらんちゅうい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "viewer discretion advised",
+            "not safe for work",
+            "NSFW"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "注意事項",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "注意事項",
+          "reading": "ちゅういじこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "important points",
+            "precautions",
+            "points to note",
+            "suggestions",
+            "hints"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "詳注",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詳注",
+          "reading": "しょうちゅう"
+        },
+        {
+          "word": "詳註",
+          "reading": "しょうちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "detailed commentary",
+            "copious notes"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "前方不注意",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "前方不注意",
+          "reading": "ぜんぽうふちゅうい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "not watching where one is driving",
+            "not keeping one\u0027s eyes on the road"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "筋注",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "筋注",
+          "reading": "きんちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "intramuscular injection"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "油差し",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "油差し",
+          "reading": "あぶらさし"
+        },
+        {
+          "word": "油注し",
+          "reading": "あぶらさし"
+        },
+        {
+          "word": "油さし",
+          "reading": "あぶらさし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "oilcan"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "原注",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "原注",
+          "reading": "げんちゅう"
+        },
+        {
+          "word": "原註",
+          "reading": "げんちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "the original notes"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

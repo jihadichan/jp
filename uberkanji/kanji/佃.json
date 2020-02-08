@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "佃煮",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "佃煮",
+          "reading": "つくだに"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "preserved food boiled in soy"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Tsukudani"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Tsukudani” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Tsukudani?oldid\u003d489657854"
+            },
+            {
+              "text": "Read “佃煮” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/佃煮?oldid\u003d42512040"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Tsukudani"
+      }
+    },
+    {
+      "slug": "佃",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "佃",
+          "reading": "つくだ"
+        },
+        {
+          "word": "佃",
+          "reading": "てん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "cultivated rice field"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

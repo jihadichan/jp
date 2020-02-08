@@ -1,0 +1,659 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "錆",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "錆",
+          "reading": "さび"
+        },
+        {
+          "word": "錆び",
+          "reading": "さび"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rust"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Rust"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Rust” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Rust?oldid\u003d495385726"
+            },
+            {
+              "text": "Read “錆” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/錆?oldid\u003d41727635"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Rust"
+      }
+    },
+    {
+      "slug": "錆びる",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "錆びる",
+          "reading": "さびる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to rust",
+            "to become rusty"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "錆つく",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錆びつく",
+          "reading": "さびつく"
+        },
+        {
+          "word": "錆び付く",
+          "reading": "さびつく"
+        },
+        {
+          "word": "錆付く",
+          "reading": "さびつく"
+        },
+        {
+          "word": "さび付く",
+          "reading": "さびつく"
+        },
+        {
+          "word": "錆つく",
+          "reading": "さびつく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to rust together",
+            "to be rust-covered",
+            "to be rust-eaten"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ku ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to lose one\u0027s skill"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "錆び錆び",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錆び錆び",
+          "reading": "さびさび"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rusted",
+            "rusty"
+          ],
+          "parts_of_speech": [
+            "No-adjective",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "錆びる"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "防錆",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "防錆",
+          "reading": "ぼうせい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "anti-rust"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "防銹"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "金錆",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "金錆",
+          "reading": "かなさび"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rust"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "発錆",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "発錆",
+          "reading": "はっせい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rusting",
+            "onset of rust"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "さび色",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "さび色",
+          "reading": "さびいろ"
+        },
+        {
+          "word": "錆色",
+          "reading": "さびいろ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rust (colour)"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "赤錆",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "赤錆",
+          "reading": "あかさび"
+        },
+        {
+          "word": "赤さび",
+          "reading": "あかさび"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rust"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "錆止め",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錆止め",
+          "reading": "さびどめ"
+        },
+        {
+          "word": "さび止め",
+          "reading": "さびどめ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rust-proofing",
+            "anti-corrosive"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "不錆鋼",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "不錆鋼",
+          "reading": "ふせいこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "stainless steel"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "防錆剤",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "防錆剤",
+          "reading": "ぼうせいざい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "anti-corrosive (agent)",
+            "anti-rust",
+            "corrosion inhibitor"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Corrosion inhibitor"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Corrosion inhibitor” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Corrosion_inhibitor?oldid\u003d493291303"
+            },
+            {
+              "text": "Read “防錆剤” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/防錆剤?oldid\u003d41976065"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Corrosion_inhibitor"
+      }
+    },
+    {
+      "slug": "サビ猫",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "サビ猫",
+          "reading": "サビねこ"
+        },
+        {
+          "word": "さび猫",
+          "reading": "さびねこ"
+        },
+        {
+          "word": "錆猫",
+          "reading": "さびねこ"
+        },
+        {
+          "word": "錆び猫",
+          "reading": "さびねこ"
+        },
+        {
+          "reading": "サビネコ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "tortoiseshell cat"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "錆刀",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錆刀",
+          "reading": "さびがたな"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sword with rusted edge",
+            "useless sword"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Obscure term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "身から出た錆",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "身から出た錆",
+          "reading": "みからでたさび"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "paying for one\u0027s mistakes",
+            "getting one\u0027s just deserts",
+            "suffering the consequences (of one\u0027s own actions)",
+            "reaping what you sow"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [
+            "Idiomatic expression"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

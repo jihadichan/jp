@@ -1,0 +1,4947 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "感染",
+      "is_common": true,
+      "tags": [
+        "wanikani32"
+      ],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "感染",
+          "reading": "かんせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "infection",
+            "contagion"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Infection"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Infection” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Infection?oldid\u003d490004927"
+            },
+            {
+              "text": "Read “感染” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/感染?oldid\u003d42545490"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Infection"
+      }
+    },
+    {
+      "slug": "汚染",
+      "is_common": true,
+      "tags": [
+        "wanikani32"
+      ],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "汚染",
+          "reading": "おせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "pollution",
+            "contamination"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "公害 こうがい"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "伝染",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "伝染",
+          "reading": "でんせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "contagion",
+            "infection"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "染みる",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "染みる",
+          "reading": "しみる"
+        },
+        {
+          "word": "沁みる",
+          "reading": "しみる"
+        },
+        {
+          "word": "滲みる",
+          "reading": "しみる"
+        },
+        {
+          "word": "浸みる",
+          "reading": "しみる"
+        },
+        {
+          "word": "泌みる",
+          "reading": "しみる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to pierce",
+            "to penetrate",
+            "to soak in",
+            "to permeate"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to sting (wound or sensitive area, etc.)",
+            "to smart",
+            "to twinge"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [
+            "染みる",
+            "沁みる"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to be infected (with vice)",
+            "to be steeped (with prejudice)",
+            "to be influenced"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to feel keenly",
+            "to make a deep impression"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "染まる",
+      "is_common": true,
+      "tags": [
+        "wanikani34"
+      ],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "染まる",
+          "reading": "そまる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to be dyed"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to be tainted",
+            "to be infected",
+            "to be stained",
+            "to be steeped"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "染める",
+      "is_common": true,
+      "tags": [
+        "wanikani32"
+      ],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "染める",
+          "reading": "そめる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to dye",
+            "to colour",
+            "to color"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "伝染病",
+      "is_common": true,
+      "tags": [
+        "wanikani32"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "伝染病",
+          "reading": "でんせんびょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "contagious disease",
+            "communicable disease",
+            "transmissible disease",
+            "infectious disease",
+            "epidemic"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Epidemic"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Epidemic” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Epidemic?oldid\u003d495317552"
+            },
+            {
+              "text": "Read “伝染病” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/伝染病?oldid\u003d42742521"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Epidemic"
+      }
+    },
+    {
+      "slug": "感染症",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "感染症",
+          "reading": "かんせんしょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "infectious disease",
+            "infection"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Infectious disease"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Infectious disease” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Infectious_disease?oldid\u003d495055055"
+            },
+            {
+              "text": "Read “感染症” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/感染症?oldid\u003d42264732"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Infectious_disease"
+      }
+    },
+    {
+      "slug": "染色",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "染色",
+          "reading": "せんしょく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dyeing",
+            "staining"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "dyed colour (color)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Dyeing"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Dyeing” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Dyeing?oldid\u003d494649202"
+            },
+            {
+              "text": "Read “染色” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/染色?oldid\u003d42726736"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Dyeing"
+      }
+    },
+    {
+      "slug": "染料",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "染料",
+          "reading": "せんりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dyes"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Dye"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Dye” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Dye?oldid\u003d492886497"
+            },
+            {
+              "text": "Read “染料” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/染料?oldid\u003d42111223"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Dye"
+      }
+    },
+    {
+      "slug": "沁み沁み",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "沁み沁み",
+          "reading": "しみじみ"
+        },
+        {
+          "word": "染み染み",
+          "reading": "しみじみ"
+        },
+        {
+          "word": "沁沁",
+          "reading": "しみじみ"
+        },
+        {
+          "word": "泌み泌み",
+          "reading": "しみじみ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "keenly",
+            "deeply",
+            "fully",
+            "heartily",
+            "seriously",
+            "earnestly"
+          ],
+          "parts_of_speech": [
+            "Adverb",
+            "Adverb taking the \u0027to\u0027 particle"
+          ],
+          "links": [],
+          "tags": [
+            "Onomatopoeic or mimetic word",
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "calmly",
+            "quietly",
+            "softly"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Onomatopoeic or mimetic word",
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "fixedly (e.g. gazing, staring)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Onomatopoeic or mimetic word",
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "染み",
+      "is_common": true,
+      "tags": [
+        "wanikani34"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "染み",
+          "reading": "しみ"
+        },
+        {
+          "reading": "シミ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "stain",
+            "spot",
+            "smudge",
+            "blot",
+            "smear",
+            "blotch"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "spot (on one\u0027s skin, e.g. chloasma, liver spot)",
+            "blemish",
+            "discoloration",
+            "freckle"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "肝斑"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "esp. シミ"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "幼なじみ",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "幼なじみ",
+          "reading": "おさななじみ"
+        },
+        {
+          "word": "幼なじみ",
+          "reading": "おさなじみ"
+        },
+        {
+          "word": "幼馴染み",
+          "reading": "おさななじみ"
+        },
+        {
+          "word": "幼馴染み",
+          "reading": "おさなじみ"
+        },
+        {
+          "word": "幼馴染",
+          "reading": "おさななじみ"
+        },
+        {
+          "word": "幼馴染",
+          "reading": "おさなじみ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "childhood friend",
+            "friend from infancy",
+            "old playmate"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "お馴染み",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "お馴染み",
+          "reading": "おなじみ"
+        },
+        {
+          "word": "御馴染み",
+          "reading": "おなじみ"
+        },
+        {
+          "word": "お馴み",
+          "reading": "おなじみ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "familiar",
+            "well-known",
+            "regular (e.g. customer)",
+            "old stand-by"
+          ],
+          "parts_of_speech": [
+            "No-adjective",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Polite (teineigo)",
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "馴染み"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "染み込む",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "染み込む",
+          "reading": "しみこむ"
+        },
+        {
+          "word": "しみ込む",
+          "reading": "しみこむ"
+        },
+        {
+          "word": "染みこむ",
+          "reading": "しみこむ"
+        },
+        {
+          "word": "沁み込む",
+          "reading": "しみこむ"
+        },
+        {
+          "word": "染込む",
+          "reading": "しみこむ"
+        },
+        {
+          "word": "滲み込む",
+          "reading": "しみこむ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to soak into",
+            "to permeate",
+            "to penetrate"
+          ],
+          "parts_of_speech": [
+            "Godan verb with mu ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "大気汚染",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "大気汚染",
+          "reading": "たいきおせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "air pollution"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Air pollution"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Air pollution” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Air_pollution?oldid\u003d494024304"
+            },
+            {
+              "text": "Read “大気汚染” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/大気汚染?oldid\u003d42629619"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Air_pollution"
+      }
+    },
+    {
+      "slug": "水質汚染",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "水質汚染",
+          "reading": "すいしつおせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "water pollution"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Water pollution"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Water pollution” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Water_pollution?oldid\u003d495479601"
+            },
+            {
+              "text": "Read “水質汚染” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/水質汚染?oldid\u003d42639939"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Water_pollution"
+      }
+    },
+    {
+      "slug": "馴染む",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "馴染む",
+          "reading": "なじむ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to become familiar with",
+            "to fit in",
+            "to adapt oneself",
+            "to get used to",
+            "to grow accustomed to"
+          ],
+          "parts_of_speech": [
+            "Godan verb with mu ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "子供じみた",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "子供じみた",
+          "reading": "こどもじみた"
+        },
+        {
+          "word": "子供染みた",
+          "reading": "こどもじみた"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "childish",
+            "child-like",
+            "immature",
+            "infantile"
+          ],
+          "parts_of_speech": [
+            "Noun or verb acting prenominally"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "子どもっぽい こどもっぽい"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "環境汚染",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "環境汚染",
+          "reading": "かんきょうおせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "environmental pollution"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "汚染物質",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "汚染物質",
+          "reading": "おせんぶっしつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "pollutant",
+            "contaminant"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "馴染み深い",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "馴染み深い",
+          "reading": "なじみぶかい"
+        },
+        {
+          "word": "なじみ深い",
+          "reading": "なじみぶかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "extremely familiar",
+            "very well-acquainted"
+          ],
+          "parts_of_speech": [
+            "I-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "馴染み",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "馴染み",
+          "reading": "なじみ"
+        },
+        {
+          "word": "馴染",
+          "reading": "なじみ"
+        },
+        {
+          "word": "馴じみ",
+          "reading": "なじみ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "intimacy",
+            "friendship",
+            "familiarity"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "空気汚染",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "空気汚染",
+          "reading": "くうきおせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "air pollution"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "染み渡る",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "染み渡る",
+          "reading": "しみわたる"
+        },
+        {
+          "word": "滲み渡る",
+          "reading": "しみわたる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to penetrate",
+            "to pervade",
+            "to spread"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "伝染性",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "伝染性",
+          "reading": "でんせんせい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "contagiousness"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "染め物屋",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "染め物屋",
+          "reading": "そめものや"
+        },
+        {
+          "word": "染物屋",
+          "reading": "そめものや"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dyer",
+            "dye house"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "染め上がり",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "染め上がり",
+          "reading": "そめあがり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "being dyed"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "染色体",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "染色体",
+          "reading": "せんしょくたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "chromosome"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Chromosome"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Chromosome” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Chromosome?oldid\u003d494728146"
+            },
+            {
+              "text": "Read “染色体” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/染色体?oldid\u003d42007083"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Chromosome"
+      }
+    },
+    {
+      "slug": "顔なじみ",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "顔なじみ",
+          "reading": "かおなじみ"
+        },
+        {
+          "word": "顔馴染み",
+          "reading": "かおなじみ"
+        },
+        {
+          "word": "顔馴染",
+          "reading": "かおなじみ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "acquaintance",
+            "friend",
+            "familiar face"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "友禅染",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "友禅染",
+          "reading": "ゆうぜんぞめ"
+        },
+        {
+          "word": "友禅染め",
+          "reading": "ゆうぜんぞめ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "type of dyeing method or pattern",
+            "silk printed by the Yuzen process"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "染織",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "染織",
+          "reading": "せんしょく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dyeing and weaving"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "染まり具合",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "染まり具合",
+          "reading": "そまりぐあい"
+        },
+        {
+          "word": "染まり工合",
+          "reading": "そまりぐあい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "effect of dyeing"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "手を染める",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "手を染める",
+          "reading": "てをそめる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to get involved (with)",
+            "to begin (with)",
+            "to have a hand (in)"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Ichidan verb"
+          ],
+          "links": [],
+          "tags": [
+            "Idiomatic expression"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "染みる-1",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "染みる",
+          "reading": "じみる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to become",
+            "to appear like",
+            "to have a touch of",
+            "to look like"
+          ],
+          "parts_of_speech": [
+            "Auxiliary verb",
+            "Ichidan verb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "悪に染まる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "悪に染まる",
+          "reading": "あくにそまる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to steeped in vice"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with ru ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "染み通る",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "染みとおる",
+          "reading": "しみとおる"
+        },
+        {
+          "word": "染み透る",
+          "reading": "しみとおる"
+        },
+        {
+          "word": "染み通る",
+          "reading": "しみとおる"
+        },
+        {
+          "word": "染透る",
+          "reading": "しみとおる"
+        },
+        {
+          "word": "沁み透る",
+          "reading": "しみとおる"
+        },
+        {
+          "word": "染通る",
+          "reading": "しみとおる"
+        },
+        {
+          "word": "沁透る",
+          "reading": "しみとおる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to soak through"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to be deeply impressed"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "土壌汚染",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "土壌汚染",
+          "reading": "どじょうおせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "soil pollution"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Soil contamination"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Soil contamination” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Soil_contamination?oldid\u003d492845049"
+            },
+            {
+              "text": "Read “土壌汚染” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/土壌汚染?oldid\u003d40518060"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Soil_contamination"
+      }
+    },
+    {
+      "slug": "放射能汚染",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "放射能汚染",
+          "reading": "ほうしゃのうおせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "radioactive contamination"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Radioactive contamination"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Radioactive contamination” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Radioactive_contamination?oldid\u003d493371077"
+            },
+            {
+              "text": "Read “放射能汚染” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/放射能汚染?oldid\u003d42575306"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Radioactive_contamination"
+      }
+    },
+    {
+      "slug": "絞り染め",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絞り染め",
+          "reading": "しぼりぞめ"
+        },
+        {
+          "word": "絞り染",
+          "reading": "しぼりぞめ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "tie-dye"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Shibori"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Shibori” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Shibori?oldid\u003d487732699"
+            },
+            {
+              "text": "Read “絞り染め” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/絞り染め?oldid\u003d40630893"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Shibori"
+      }
+    },
+    {
+      "slug": "人獣共通感染症",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "人獣共通感染症",
+          "reading": "じんじゅうきょうつうかんせんしょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "zoonosis (disease transmissible from animals to humans or vice versa)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "動物由来感染症"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Zoonosis"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Zoonosis” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Zoonosis?oldid\u003d494084066"
+            },
+            {
+              "text": "Read “人獣共通感染症” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/人獣共通感染症?oldid\u003d42132740"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Zoonosis"
+      }
+    },
+    {
+      "slug": "性行為感染症",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "性行為感染症",
+          "reading": "せいこういかんせんしょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sexually transmitted disease",
+            "sexually transmitted infection",
+            "STD",
+            "STI"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Medicine, etc. term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Sexually transmitted disease"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Sexually transmitted disease” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Sexually_transmitted_disease?oldid\u003d493573247"
+            },
+            {
+              "text": "Read “性行為感染症” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/性行為感染症?oldid\u003d40930517"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Sexually_transmitted_disease"
+      }
+    },
+    {
+      "slug": "放射能汚染",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "放射能汚染",
+          "reading": "ほうしゃのうおせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "radioactive contamination"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Radioactive contamination"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Radioactive contamination” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Radioactive_contamination?oldid\u003d493371077"
+            },
+            {
+              "text": "Read “放射能汚染” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/放射能汚染?oldid\u003d42575306"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Radioactive_contamination"
+      }
+    },
+    {
+      "slug": "絞り染め",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絞り染め",
+          "reading": "しぼりぞめ"
+        },
+        {
+          "word": "絞り染",
+          "reading": "しぼりぞめ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "tie-dye"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Shibori"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Shibori” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Shibori?oldid\u003d487732699"
+            },
+            {
+              "text": "Read “絞り染め” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/絞り染め?oldid\u003d40630893"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Shibori"
+      }
+    },
+    {
+      "slug": "蛍光染料",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蛍光染料",
+          "reading": "けいこうせんりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "fluorescent dye"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Optical brightener"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Optical brightener” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Optical_brightener?oldid\u003d491387455"
+            },
+            {
+              "text": "Read “蛍光染料” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/蛍光染料?oldid\u003d38800927"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Optical_brightener"
+      }
+    },
+    {
+      "slug": "日和見感染",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "日和見感染",
+          "reading": "ひよりみかんせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "opportunistic infection"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Opportunistic infection"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Opportunistic infection” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Opportunistic_infection?oldid\u003d487354569"
+            },
+            {
+              "text": "Read “日和見感染” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/日和見感染?oldid\u003d40776984"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Opportunistic_infection"
+      }
+    },
+    {
+      "slug": "伝染性軟属腫",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "伝染性軟属腫",
+          "reading": "でんせんせいなんぞくしゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "molluscum contagiosum",
+            "viral infection of the skin"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Molluscum contagiosum"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Molluscum contagiosum” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Molluscum_contagiosum?oldid\u003d493836253"
+            },
+            {
+              "text": "Read “伝染性軟属腫” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/伝染性軟属腫?oldid\u003d42721695"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Molluscum_contagiosum"
+      }
+    },
+    {
+      "slug": "性染色体",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "性染色体",
+          "reading": "せいせんしょくたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sex chromosome"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "常染色体"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Allosome"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Allosome” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Allosome?oldid\u003d493294454"
+            },
+            {
+              "text": "Read “性染色体” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/性染色体?oldid\u003d42564940"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Allosome"
+      }
+    },
+    {
+      "slug": "残留性有機汚染物質",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "残留性有機汚染物質",
+          "reading": "ざんりゅうせいゆうきおせんぶっしつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "persistent organic pollutant",
+            "POP"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Persistent organic pollutant"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Persistent organic pollutant” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Persistent_organic_pollutant?oldid\u003d494579972"
+            },
+            {
+              "text": "Read “残留性有機汚染物質” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/残留性有機汚染物質?oldid\u003d41591009"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Persistent_organic_pollutant"
+      }
+    },
+    {
+      "slug": "不顕性感染",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "不顕性感染",
+          "reading": "ふけんせいかんせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "inapparent infection",
+            "subclinical infection"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Subclinical infection"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Subclinical infection” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Subclinical_infection?oldid\u003d491317098"
+            },
+            {
+              "text": "Read “不顕性感染” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/不顕性感染?oldid\u003d34798911"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Subclinical_infection"
+      }
+    },
+    {
+      "slug": "院内感染",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "院内感染",
+          "reading": "いんないかんせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "infection incurred while hospitalized (hospitalised)",
+            "nosocomial infection"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Nosocomial infection"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Nosocomial infection” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Nosocomial_infection?oldid\u003d494808413"
+            },
+            {
+              "text": "Read “院内感染” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/院内感染?oldid\u003d41976672"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Nosocomial_infection"
+      }
+    },
+    {
+      "slug": "愛染明王",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "愛染明王",
+          "reading": "あいぜんみょうおう"
+        },
+        {
+          "word": "愛染妙王",
+          "reading": "あいぜんみょうおう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Ragaraja (esoteric school deity of love)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Buddhist term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Rāgarāja"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Rāgarāja” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Rāgarāja?oldid\u003d492119094"
+            },
+            {
+              "text": "Read “愛染明王” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/愛染明王?oldid\u003d42111530"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Rāgarāja"
+      }
+    },
+    {
+      "slug": "本染分倍良",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "本染分倍良",
+          "reading": "ほんそめわけべら"
+        },
+        {
+          "reading": "ホンソメワケベラ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "bluestreak cleaner wrasse (Labroides dimidiatus)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Bluestreak cleaner wrasse"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Bluestreak cleaner wrasse” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Bluestreak_cleaner_wrasse?oldid\u003d486252669"
+            },
+            {
+              "text": "Read “ホンソメワケベラ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/ホンソメワケベラ?oldid\u003d41138694"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Bluestreak_cleaner_wrasse"
+      }
+    },
+    {
+      "slug": "重感染",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "重感染",
+          "reading": "じゅうかんせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "coinfection"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Coinfection"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Coinfection” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Coinfection?oldid\u003d494457244"
+            },
+            {
+              "text": "Read “重感染” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/重感染?oldid\u003d42547070"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Coinfection"
+      }
+    },
+    {
+      "slug": "藍染め",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "藍染め",
+          "reading": "あいぞめ"
+        },
+        {
+          "word": "藍染",
+          "reading": "あいぞめ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "indigo dye"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Aizome"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Aizome” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Aizome?oldid\u003d284740572"
+            },
+            {
+              "text": "Read “藍染” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/藍染?oldid\u003d25679501"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Aizome"
+      }
+    },
+    {
+      "slug": "常染色体",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "常染色体",
+          "reading": "じょうせんしょくたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "autosome (non-sex chromosome)"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "性染色体"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Autosome"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Autosome” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Autosome?oldid\u003d493852229"
+            },
+            {
+              "text": "Read “常染色体” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/常染色体?oldid\u003d42564676"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Autosome"
+      }
+    },
+    {
+      "slug": "伝染性単核球症",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "伝染性単核球症",
+          "reading": "でんせんせいたんかくきゅうしょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "infectious mononucleosis",
+            "mono",
+            "glandular fever"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Infectious mononucleosis"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Infectious mononucleosis” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Infectious_mononucleosis?oldid\u003d495425332"
+            },
+            {
+              "text": "Read “伝染性単核球症” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/伝染性単核球症?oldid\u003d42153988"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Infectious_mononucleosis"
+      }
+    },
+    {
+      "slug": "染め付け",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "染め付け",
+          "reading": "そめつけ"
+        },
+        {
+          "word": "染付",
+          "reading": "そめつけ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dyeing",
+            "printing"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "blue and white ceramics (china, porcelain)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Blue and white porcelain"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Blue and white porcelain” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Blue_and_white_porcelain?oldid\u003d495544785"
+            },
+            {
+              "text": "Read “染付” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/染付?oldid\u003d40533279"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Blue_and_white_porcelain"
+      }
+    },
+    {
+      "slug": "ろうけつ染め",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ろうけつ染め",
+          "reading": "ろうけつぞめ"
+        },
+        {
+          "word": "蝋纈染め",
+          "reading": "ろうけつぞめ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "batik (cloth)"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Rōketsuzome"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Rōketsuzome” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Rōketsuzome?oldid\u003d382861971"
+            },
+            {
+              "text": "Read “ろうけつ染め” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/ろうけつ染め?oldid\u003d39552839"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Rōketsuzome"
+      }
+    },
+    {
+      "slug": "身にしみる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "身にしみる",
+          "reading": "みにしみる"
+        },
+        {
+          "word": "身に染みる",
+          "reading": "みにしみる"
+        },
+        {
+          "word": "身に沁みる",
+          "reading": "みにしみる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to sink deeply into one\u0027s mind",
+            "to come home to",
+            "to go to one\u0027s heart"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Ichidan verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to pierce one\u0027s body (e.g. of wind, cold, etc.)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "愛染明王",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "愛染明王",
+          "reading": "あいぜんみょうおう"
+        },
+        {
+          "word": "愛染妙王",
+          "reading": "あいぜんみょうおう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Ragaraja (esoteric school deity of love)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Buddhist term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Rāgarāja"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Rāgarāja” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Rāgarāja?oldid\u003d492119094"
+            },
+            {
+              "text": "Read “愛染明王” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/愛染明王?oldid\u003d42111530"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Rāgarāja"
+      }
+    },
+    {
+      "slug": "ろうけつ染め",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ろうけつ染め",
+          "reading": "ろうけつぞめ"
+        },
+        {
+          "word": "蝋纈染め",
+          "reading": "ろうけつぞめ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "batik (cloth)"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Rōketsuzome"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Rōketsuzome” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Rōketsuzome?oldid\u003d382861971"
+            },
+            {
+              "text": "Read “ろうけつ染め” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/ろうけつ染め?oldid\u003d39552839"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Rōketsuzome"
+      }
+    },
+    {
+      "slug": "絞り染め",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絞り染め",
+          "reading": "しぼりぞめ"
+        },
+        {
+          "word": "絞り染",
+          "reading": "しぼりぞめ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "tie-dye"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Shibori"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Shibori” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Shibori?oldid\u003d487732699"
+            },
+            {
+              "text": "Read “絞り染め” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/絞り染め?oldid\u003d40630893"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Shibori"
+      }
+    },
+    {
+      "slug": "昔なじみ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "昔なじみ",
+          "reading": "むかしなじみ"
+        },
+        {
+          "word": "昔馴染み",
+          "reading": "むかしなじみ"
+        },
+        {
+          "word": "昔馴染",
+          "reading": "むかしなじみ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "old friend",
+            "familiar face"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "馴染ませる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "馴染ませる",
+          "reading": "なじませる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to blend",
+            "to mix thoroughly and evenly"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "馴染む"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to make fit in",
+            "to domesticate"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "なじみ客",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "なじみ客",
+          "reading": "なじみきゃく"
+        },
+        {
+          "word": "馴染み客",
+          "reading": "なじみきゃく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "regular (customer)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "client who frequently visits the same prostitute"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "化学汚染",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "化学汚染",
+          "reading": "かがくおせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "chemical pollution"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "染み抜き",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "染み抜き",
+          "reading": "しみぬき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "stain removal"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "光化学汚染",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "光化学汚染",
+          "reading": "こうかがくおせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "photochemical pollution"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "古馴染み",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "古馴染み",
+          "reading": "ふるなじみ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "old friend"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "接触伝染",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "接触伝染",
+          "reading": "せっしょくでんせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "contagion"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飛沫感染",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛沫感染",
+          "reading": "ひまつかんせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "droplet infection"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Medicine, etc. term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "年寄り染みた",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "年寄りじみた",
+          "reading": "としよりじみた"
+        },
+        {
+          "word": "年寄り染みた",
+          "reading": "としよりじみた"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "like an old man",
+            "like an old woman"
+          ],
+          "parts_of_speech": [
+            "Noun or verb acting prenominally"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "再感染",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "再感染",
+          "reading": "さいかんせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "getting the same sickness"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "染み付く",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "染み付く",
+          "reading": "しみつく"
+        },
+        {
+          "word": "染みつく",
+          "reading": "しみつく"
+        },
+        {
+          "word": "沁みつく",
+          "reading": "しみつく"
+        },
+        {
+          "word": "染み着く",
+          "reading": "しみつく"
+        },
+        {
+          "word": "染着く",
+          "reading": "しみつく"
+        },
+        {
+          "word": "沁み着く",
+          "reading": "しみつく"
+        },
+        {
+          "word": "染付く",
+          "reading": "しみつく"
+        },
+        {
+          "word": "沁み付く",
+          "reading": "しみつく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to be indelibly stained or ingrained",
+            "to be dyed in deeply"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ku ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "汗染みる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "汗染みる",
+          "reading": "あせじみる"
+        },
+        {
+          "word": "汗じみる",
+          "reading": "あせじみる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to be sweat-stained"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "染み出す",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "染み出す",
+          "reading": "しみだす"
+        },
+        {
+          "word": "しみ出す",
+          "reading": "しみだす"
+        },
+        {
+          "word": "滲み出す",
+          "reading": "しみだす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to ooze (out)",
+            "to seep"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "捺染",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "捺染",
+          "reading": "なっせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "print"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "集団感染",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "集団感染",
+          "reading": "しゅうだんかんせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "mass infection"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "経口感染",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "経口感染",
+          "reading": "けいこうかんせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "oral infection",
+            "orally transmitted infection"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "蝋染め",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蝋染め",
+          "reading": "ろうぞめ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "batik"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "色染め",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "色染め",
+          "reading": "いろぞめ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dyeing"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "摺り込み染め",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "摺り込み染め",
+          "reading": "すりこみぞめ"
+        },
+        {
+          "word": "摺り込み染",
+          "reading": "すりこみぞめ"
+        },
+        {
+          "word": "摺込染",
+          "reading": "すりこみぞめ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "coloring fabric by placing a paper stencil over it and brushing on the dye",
+            "fabric colored in such a manner"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Obscure term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "染め直す",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "染め直す",
+          "reading": "そめなおす"
+        },
+        {
+          "word": "染めなおす",
+          "reading": "そめなおす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to dye again"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "白髪染め",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "白髪染め",
+          "reading": "しらがぞめ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "hair dye"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "先染め",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "先染め",
+          "reading": "さきぞめ"
+        },
+        {
+          "word": "先染",
+          "reading": "さきぞめ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "yarn dyeing",
+            "thread dyeing",
+            "prior dyeing of thread before cloth is woven"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "摺り染め",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "摺り染め",
+          "reading": "すりぞめ"
+        },
+        {
+          "word": "摺り染",
+          "reading": "すりぞめ"
+        },
+        {
+          "word": "摺染",
+          "reading": "すりぞめ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "method of patterning fabric by pounding on leaves (or flowers, etc.) placed on it, or by rubbing in dye made from these materials"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Obscure term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "coloring fabric by placing a paper stencil over it and brushing on the dye",
+            "fabric colored in such a manner"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "摺り込み染め"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "煮染め",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "煮しめ",
+          "reading": "にしめ"
+        },
+        {
+          "word": "煮染め",
+          "reading": "にしめ"
+        },
+        {
+          "word": "煮〆",
+          "reading": "にしめ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dish of vegetables, konnyaku, etc. simmered in soy sauce and water until the liquid is almost gone"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Food term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "二次感染",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "二次感染",
+          "reading": "にじかんせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "secondary infection"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "地染め",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "地染め",
+          "reading": "じぞめ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "texture dyeing"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "媒染",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "媒染",
+          "reading": "ばいせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "color fixing",
+            "colour fixing",
+            "mordantizing"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "染み入る",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "染み入る",
+          "reading": "しみいる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to soak into",
+            "to permeate"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "染み込む"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "染み出し",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "染み出し",
+          "reading": "しみだし"
+        },
+        {
+          "word": "しみ出し",
+          "reading": "しみだし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "seepage"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "染み出す",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "染み出す",
+          "reading": "しみだす"
+        },
+        {
+          "word": "しみ出す",
+          "reading": "しみだす"
+        },
+        {
+          "word": "滲み出す",
+          "reading": "しみだす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to ooze (out)",
+            "to seep"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "染め上げる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "染め上げる",
+          "reading": "そめあげる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to finish dyeing"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "墨染めの衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "墨染めの衣",
+          "reading": "すみぞめのころも"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "priest\u0027s black robe"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "毛染め",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "毛染め",
+          "reading": "けぞめ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "hair coloring",
+            "hair colouring",
+            "hair dye"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "血染め",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "血染め",
+          "reading": "ちぞめ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "bloodstained"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "なじみ客",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "なじみ客",
+          "reading": "なじみきゃく"
+        },
+        {
+          "word": "馴染み客",
+          "reading": "なじみきゃく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "regular (customer)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "client who frequently visits the same prostitute"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "除染",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "除染",
+          "reading": "じょせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "decontamination (e.g. from chemical or radioactive contamination)"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

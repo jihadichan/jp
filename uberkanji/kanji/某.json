@@ -1,0 +1,652 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "某-1",
+      "is_common": true,
+      "tags": [
+        "wanikani60"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "某",
+          "reading": "ぼう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "certain",
+            "one"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Prefix"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "某氏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "某氏",
+          "reading": "ぼうし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "a certain person",
+            "unnamed person",
+            "Mr. So-and-so",
+            "a certain someone who shall remain unnamed"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "某所",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "某所",
+          "reading": "ぼうしょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "certain place"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "誰それ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誰それ",
+          "reading": "だれそれ"
+        },
+        {
+          "word": "誰某",
+          "reading": "だれそれ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "a certain someone",
+            "Mr So-and-so"
+          ],
+          "parts_of_speech": [
+            "Pronoun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "某月",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "某月",
+          "reading": "ぼうげつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "a certain month"
+          ],
+          "parts_of_speech": [
+            "Temporal noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "某高校",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "某高校",
+          "reading": "ぼうこうこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "a certain high school"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "某々",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "某々",
+          "reading": "ぼうぼう"
+        },
+        {
+          "word": "某某",
+          "reading": "ぼうぼう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "so-and-so"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "某日",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "某日",
+          "reading": "ぼうじつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "certain day"
+          ],
+          "parts_of_speech": [
+            "Temporal noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "某国",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "某国",
+          "reading": "ぼうこく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "certain country"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "某省",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "某省",
+          "reading": "ぼうしょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "a certain ministry",
+            "an unspecified ministry"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何の某",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "何の某",
+          "reading": "なんのなにがし"
+        },
+        {
+          "word": "何のなにがし",
+          "reading": "なんのなにがし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "certain person",
+            "certain amount"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "某社",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "某社",
+          "reading": "ぼうしゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "certain company",
+            "unnamed company"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "某の仕業",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "某の仕業",
+          "reading": "ぼうのしわざ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "the work (doings) of so-and-so"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "某誌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "某誌",
+          "reading": "ぼうし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "a certain publication"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何某",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "何がし",
+          "reading": "なにがし"
+        },
+        {
+          "word": "何某",
+          "reading": "なにがし"
+        },
+        {
+          "word": "某",
+          "reading": "なにがし"
+        },
+        {
+          "word": "何某",
+          "reading": "なにぼう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "certain amount",
+            "some"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [
+            "なにがし"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "usu. in the form なにがしか"
+          ]
+        },
+        {
+          "english_definitions": [
+            "certain person",
+            "Mr So-and-so",
+            "a certain ..."
+          ],
+          "parts_of_speech": [
+            "Pronoun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "I",
+            "me"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Humble (kenjougo)",
+            "Archaism"
+          ],
+          "restrictions": [
+            "なにがし"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "某",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "某",
+          "reading": "それがし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "someone",
+            "unknown person"
+          ],
+          "parts_of_speech": [
+            "Pronoun"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "I",
+            "me"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "used by samurai"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

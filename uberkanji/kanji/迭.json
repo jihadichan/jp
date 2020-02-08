@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "更迭",
+      "is_common": true,
+      "tags": [
+        "wanikani58"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "更迭",
+          "reading": "こうてつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "change (of personnel)",
+            "reshuffle (e.g. of a cabinet)",
+            "shake-up",
+            "dismissal (e.g. of a minister)",
+            "replacement"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "迷迭香",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "迷迭香",
+          "reading": "まんねんろう"
+        },
+        {
+          "reading": "マンネンロウ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rosemary"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

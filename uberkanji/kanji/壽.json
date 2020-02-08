@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "寿",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "寿",
+          "reading": "ことぶき"
+        },
+        {
+          "word": "壽",
+          "reading": "ことぶき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "congratulations",
+            "felicitations",
+            "best wishes"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "longevity",
+            "long life"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "頌寿",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頌寿",
+          "reading": "しょうじゅ"
+        },
+        {
+          "word": "頌寿",
+          "reading": "じゅじゅ"
+        },
+        {
+          "word": "頌壽",
+          "reading": "しょうじゅ"
+        },
+        {
+          "word": "頌壽",
+          "reading": "じゅじゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "celebration of longevity"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [
+            "Obscure term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

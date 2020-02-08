@@ -1,0 +1,5218 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "何",
+      "is_common": true,
+      "tags": [
+        "wanikani5"
+      ],
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "何",
+          "reading": "なに"
+        },
+        {
+          "word": "何",
+          "reading": "なん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "what"
+          ],
+          "parts_of_speech": [
+            "Pronoun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "how many"
+          ],
+          "parts_of_speech": [
+            "Prefix"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "なん"
+          ],
+          "see_also": [
+            "何か月"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "followed by a counter"
+          ]
+        },
+        {
+          "english_definitions": [
+            "large number of",
+            "many"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "なん"
+          ],
+          "see_also": [
+            "何度も",
+            "何日も"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "followed by (optional number), counter and も"
+          ]
+        },
+        {
+          "english_definitions": [
+            "you-know-what",
+            "that"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "whatsit",
+            "what\u0027s the expression",
+            "what do you call them"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "what?"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "expressing surprise"
+          ]
+        },
+        {
+          "english_definitions": [
+            "hey!"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "expressing anger or irritability"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何の",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1",
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "何の",
+          "reading": "どの"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "which",
+            "what (way)"
+          ],
+          "parts_of_speech": [
+            "Pre-noun adjectival"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "此の",
+            "其の",
+            "彼の"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何時も",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1",
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "何時も",
+          "reading": "いつも"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "always",
+            "usually",
+            "every time"
+          ],
+          "parts_of_speech": [
+            "Adverb",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "never"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "with neg. verb"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何処",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1",
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "何処",
+          "reading": "どこ"
+        },
+        {
+          "word": "何処",
+          "reading": "いどこ"
+        },
+        {
+          "word": "何所",
+          "reading": "どこ"
+        },
+        {
+          "word": "何所",
+          "reading": "いどこ"
+        },
+        {
+          "word": "何處",
+          "reading": "どこ"
+        },
+        {
+          "word": "何處",
+          "reading": "いどこ"
+        },
+        {
+          "word": "何処",
+          "reading": "いずこ"
+        },
+        {
+          "word": "何処",
+          "reading": "いずく"
+        },
+        {
+          "word": "何処",
+          "reading": "いづこ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "where",
+            "what place"
+          ],
+          "parts_of_speech": [
+            "Pronoun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "ここ",
+            "そこ",
+            "あそこ"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "how much (long, far)",
+            "what extent"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何方-1",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1",
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "何方",
+          "reading": "どなた"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "who?"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone",
+            "Honorific or respectful (sonkeigo)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何故",
+      "is_common": true,
+      "tags": [
+        "wanikani26"
+      ],
+      "jlpt": [
+        "jlpt-n1",
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "何故",
+          "reading": "なぜ"
+        },
+        {
+          "word": "何故",
+          "reading": "なにゆえ"
+        },
+        {
+          "word": "何ゆえ",
+          "reading": "なにゆえ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "why",
+            "how"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "如何して",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1",
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "如何して",
+          "reading": "どうして"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "how",
+            "in what way",
+            "by what means"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "どうやって"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "why",
+            "for what reason",
+            "for what purpose",
+            "what for"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "cannot possibly"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "no way"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "often as. どうして, どうして"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何も",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "何も",
+          "reading": "なにも"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "nothing (with neg. verbs)",
+            "not any"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "and everything else (with noun plus \"mo\")",
+            "all"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何で",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "何で",
+          "reading": "なんで"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "why?",
+            "what for?"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "how?",
+            "by what means?"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "如何しても",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "如何しても",
+          "reading": "どうしても"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "by all means",
+            "at any cost",
+            "no matter what",
+            "at any rate",
+            "surely"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "whether (one is) willing or not",
+            "willingly or unwillingly",
+            "willy-nilly"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "on no account",
+            "by no means"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "with. neg. verb"
+          ]
+        },
+        {
+          "english_definitions": [
+            "in the end",
+            "in the long run",
+            "after all",
+            "eventually"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何時でも",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "何時でも",
+          "reading": "いつでも"
+        },
+        {
+          "word": "何時でも",
+          "reading": "なんどきでも"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(at) any time",
+            "always",
+            "at all times",
+            "whenever"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "何時だって"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何時までも",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "何時までも",
+          "reading": "いつまでも"
+        },
+        {
+          "word": "何時迄も",
+          "reading": "いつまでも"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "forever",
+            "for good",
+            "eternally",
+            "as long as one likes",
+            "indefinitely",
+            "no matter what"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何とも",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "何とも",
+          "reading": "なんとも"
+        },
+        {
+          "word": "何とも",
+          "reading": "なにとも"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "quite",
+            "really",
+            "very",
+            "extremely"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "nothing",
+            "not a bit",
+            "not at all"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "with neg. verb"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何しろ",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "何しろ",
+          "reading": "なにしろ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "at any rate",
+            "anyhow",
+            "anyway",
+            "in any case",
+            "because",
+            "as you know",
+            "for you see"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "何せ"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何分",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "何分",
+          "reading": "なにぶん"
+        },
+        {
+          "word": "何ぶん",
+          "reading": "なにぶん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "some",
+            "any",
+            "(a) little",
+            "of some kind",
+            "of some sort"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "please"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "anyway",
+            "anyhow",
+            "at any rate",
+            "after all"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何となく",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "何となく",
+          "reading": "なんとなく"
+        },
+        {
+          "word": "何となく",
+          "reading": "なにとなく"
+        },
+        {
+          "word": "何と無く",
+          "reading": "なんとなく"
+        },
+        {
+          "word": "何と無く",
+          "reading": "なにとなく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "somehow or other",
+            "for some reason or another",
+            "without knowing why"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "いつの間にか",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "いつの間にか",
+          "reading": "いつのまにか"
+        },
+        {
+          "word": "何時の間にか",
+          "reading": "いつのまにか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "before one knows",
+            "before one becomes aware of",
+            "unnoticed",
+            "unawares"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何と",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "何と",
+          "reading": "なんと"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "what",
+            "how",
+            "whatever"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何より",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "何より",
+          "reading": "なにより"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "above anything else",
+            "above all",
+            "more than anything"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "best",
+            "greatest",
+            "excellent",
+            "wonderful",
+            "most important"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "No-adjective",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何だか",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "何だか",
+          "reading": "なんだか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(a) little",
+            "somewhat",
+            "somehow"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何気ない",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "何気ない",
+          "reading": "なにげない"
+        },
+        {
+          "word": "何気無い",
+          "reading": "なにげない"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "casual",
+            "unconcerned",
+            "nonchalant"
+          ],
+          "parts_of_speech": [
+            "I-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何て",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "何て",
+          "reading": "なんて"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "how ..!",
+            "what ..!"
+          ],
+          "parts_of_speech": [
+            "Noun or verb acting prenominally",
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "what? (questioning)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "usu. 何て言う, etc."
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "如何に",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "如何に",
+          "reading": "いかに"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "how",
+            "in what way"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "however much",
+            "however (e.g. easy, rich, sad)",
+            "whatever",
+            "how much"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "hey",
+            "oi"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone",
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "如何にも",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "如何にも",
+          "reading": "いかにも"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "indeed",
+            "really",
+            "phrase indicating agreement"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何卒",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "何卒",
+          "reading": "なにとぞ"
+        },
+        {
+          "word": "何とぞ",
+          "reading": "なにとぞ"
+        },
+        {
+          "word": "何卒",
+          "reading": "なにそつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "please",
+            "kindly",
+            "I beg of you",
+            "if it pleases you"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [
+            "Humble (kenjougo)"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "どうぞ"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "by all means",
+            "without fail"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "どうぞ"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何だかんだ",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "何だかんだ",
+          "reading": "なんだかんだ"
+        },
+        {
+          "word": "何だ彼だ",
+          "reading": "なんだかんだ"
+        },
+        {
+          "word": "何だかだ",
+          "reading": "なんだかだ"
+        },
+        {
+          "word": "何だ彼だ",
+          "reading": "なんだかだ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "something or other",
+            "one thing or another",
+            "this or that"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "如何",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1",
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "如何",
+          "reading": "どう"
+        },
+        {
+          "word": "如何",
+          "reading": "いかが"
+        },
+        {
+          "word": "如何",
+          "reading": "いか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "how",
+            "in what way",
+            "how about"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "斯う",
+            "然う",
+            "ああ"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何時",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1",
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "何時",
+          "reading": "いつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "when",
+            "how soon"
+          ],
+          "parts_of_speech": [
+            "Adverbial noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何方",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1",
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "何方",
+          "reading": "どちら"
+        },
+        {
+          "word": "何方",
+          "reading": "どっち"
+        },
+        {
+          "word": "何方",
+          "reading": "いずかた"
+        },
+        {
+          "word": "何方",
+          "reading": "いずち"
+        },
+        {
+          "word": "何方",
+          "reading": "どち"
+        },
+        {
+          "word": "何方",
+          "reading": "いずし"
+        },
+        {
+          "word": "何方",
+          "reading": "なにざま"
+        },
+        {
+          "word": "孰方",
+          "reading": "どちら"
+        },
+        {
+          "word": "孰方",
+          "reading": "どっち"
+        },
+        {
+          "word": "孰方",
+          "reading": "いずかた"
+        },
+        {
+          "word": "孰方",
+          "reading": "いずち"
+        },
+        {
+          "word": "孰方",
+          "reading": "どち"
+        },
+        {
+          "word": "孰方",
+          "reading": "いずし"
+        },
+        {
+          "word": "孰方",
+          "reading": "なにざま"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "which way",
+            "which direction",
+            "where"
+          ],
+          "parts_of_speech": [
+            "Pronoun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "此方 こちら",
+            "其方",
+            "彼方 あちら"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "どちら is polite"
+          ]
+        },
+        {
+          "english_definitions": [
+            "which one (esp. of two alternatives)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "who"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "どちら様"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何れ",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1",
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "何れ",
+          "reading": "どれ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "which (of three or more)"
+          ],
+          "parts_of_speech": [
+            "Pronoun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "此れ",
+            "其れ",
+            "彼 あれ"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "whichever",
+            "any"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "どれも"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "with a verb in 〜ても form"
+          ]
+        },
+        {
+          "english_definitions": [
+            "well",
+            "now",
+            "let me see"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "どれどれ"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "幾何学",
+      "is_common": true,
+      "tags": [
+        "wanikani31"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "幾何学",
+          "reading": "きかがく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "geometry"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Geometry"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Geometry” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Geometry?oldid\u003d495215623"
+            },
+            {
+              "text": "Read “幾何学” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/幾何学?oldid\u003d42520603"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Geometry"
+      }
+    },
+    {
+      "slug": "何か",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "何か",
+          "reading": "なにか"
+        },
+        {
+          "word": "何か",
+          "reading": "なんか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "something",
+            "some",
+            "any"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "somehow",
+            "for some reason"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "(is there) something (you want, etc.)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何でも",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "何でも",
+          "reading": "なんでも"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "any",
+            "anything",
+            "whatever",
+            "whatever one likes",
+            "everything",
+            "all"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "I am told",
+            "I hear",
+            "I understand",
+            "they say"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "at start of sentence"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何とか",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "何とか",
+          "reading": "なんとか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "something",
+            "something or other",
+            "so-and-so"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "somehow",
+            "anyhow",
+            "one way or another"
+          ],
+          "parts_of_speech": [
+            "Adverb",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "handling, dealing with"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何時か",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "何時か",
+          "reading": "いつか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sometime",
+            "someday",
+            "one day",
+            "some time or other",
+            "the other day",
+            "in due course",
+            "in time"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何処か",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "何処か",
+          "reading": "どこか"
+        },
+        {
+          "word": "何処か",
+          "reading": "どっか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "somewhere",
+            "anywhere",
+            "in some respects"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Noun",
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何故なら",
+      "is_common": true,
+      "tags": [
+        "wanikani28"
+      ],
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "何故なら",
+          "reading": "なぜなら"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "because",
+            "the reason is",
+            "if you want to know why"
+          ],
+          "parts_of_speech": [
+            "Conjunction"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何れ-1",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "何れ",
+          "reading": "いずれ"
+        },
+        {
+          "word": "何れ",
+          "reading": "いづれ"
+        },
+        {
+          "word": "孰れ",
+          "reading": "いずれ"
+        },
+        {
+          "word": "孰れ",
+          "reading": "いづれ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "where",
+            "which",
+            "who"
+          ],
+          "parts_of_speech": [
+            "Adverb",
+            "Pronoun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "anyway",
+            "anyhow",
+            "at any rate"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "sooner or later",
+            "eventually",
+            "one of these days",
+            "at some future date or time"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "both",
+            "either",
+            "any",
+            "all",
+            "whichever"
+          ],
+          "parts_of_speech": [
+            "Pronoun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何度",
+      "is_common": true,
+      "tags": [
+        "wanikani9"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "何度",
+          "reading": "なんど"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "how many times?",
+            "how often?"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何回",
+      "is_common": true,
+      "tags": [
+        "wanikani5"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "何回",
+          "reading": "なんかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "how many times?"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何事",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "何事",
+          "reading": "なにごと"
+        },
+        {
+          "word": "何ごと",
+          "reading": "なにごと"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "what",
+            "something",
+            "everything"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "nothing (with neg. verb)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "something or other",
+            "unspecified matter"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何百",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "何百",
+          "reading": "なんびゃく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "hundreds"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何千",
+      "is_common": true,
+      "tags": [
+        "wanikani5"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "何千",
+          "reading": "なんぜん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "many thousands"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何十",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "何十",
+          "reading": "なんじゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "several tens"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何ら",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "何ら",
+          "reading": "なんら"
+        },
+        {
+          "word": "何ら",
+          "reading": "なにら"
+        },
+        {
+          "word": "何等",
+          "reading": "なんら"
+        },
+        {
+          "word": "何等",
+          "reading": "なにら"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "whatever",
+            "what",
+            "what sort of",
+            "any kind of"
+          ],
+          "parts_of_speech": [
+            "Adverb",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "nothing whatever (with neg. verb)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何者",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "何者",
+          "reading": "なにもの"
+        },
+        {
+          "word": "何もの",
+          "reading": "なにもの"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "who",
+            "what kind of person"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何にも",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "何にも",
+          "reading": "なんにも"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "nothing at all"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "何も"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何なり",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "何なり",
+          "reading": "なんなり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "anything",
+            "whatever"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何やら",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "何やら",
+          "reading": "なにやら"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "something",
+            "for some reason",
+            "some kind of"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "どの位",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "どの位",
+          "reading": "どのくらい"
+        },
+        {
+          "word": "何の位",
+          "reading": "どのくらい"
+        },
+        {
+          "word": "何のくらい",
+          "reading": "どのくらい"
+        },
+        {
+          "word": "どの位",
+          "reading": "どのぐらい"
+        },
+        {
+          "word": "何の位",
+          "reading": "どのぐらい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "how long",
+            "how far",
+            "how much"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Adverbial noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "何れくらい どれくらい"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何故か",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "何故か",
+          "reading": "なぜか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "somehow",
+            "for some reason",
+            "without knowing why"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何かと",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "何かと",
+          "reading": "なにかと"
+        },
+        {
+          "word": "何彼と",
+          "reading": "なにかと"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "one way or another"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "幾何",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "幾何",
+          "reading": "きか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "geometry"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "いつ頃",
+      "is_common": true,
+      "tags": [
+        "wanikani45"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "いつ頃",
+          "reading": "いつごろ"
+        },
+        {
+          "word": "何時頃",
+          "reading": "いつごろ"
+        },
+        {
+          "word": "何時ごろ",
+          "reading": "いつごろ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "about when",
+            "about what time",
+            "how soon"
+          ],
+          "parts_of_speech": [
+            "Temporal noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何時-1",
+      "is_common": true,
+      "tags": [
+        "wanikani7"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "何時",
+          "reading": "なんじ"
+        },
+        {
+          "word": "何時",
+          "reading": "なんどき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "what time"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何れくらい",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "どれ位",
+          "reading": "どれくらい"
+        },
+        {
+          "word": "何れくらい",
+          "reading": "どれくらい"
+        },
+        {
+          "word": "何れ位",
+          "reading": "どれくらい"
+        },
+        {
+          "word": "どれ位",
+          "reading": "どれぐらい"
+        },
+        {
+          "word": "何れぐらい",
+          "reading": "どれぐらい"
+        },
+        {
+          "word": "何れ位",
+          "reading": "どれぐらい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "how long",
+            "how far",
+            "how much"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Adverbial noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "どの位 どのくらい"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何人か",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "何人か",
+          "reading": "なんにんか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "some people",
+            "a few people",
+            "several people"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Noun",
+            "No-adjective",
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "如何いう",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "どう言う",
+          "reading": "どういう"
+        },
+        {
+          "word": "如何いう",
+          "reading": "どういう"
+        },
+        {
+          "word": "如何言う",
+          "reading": "どういう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "somehow",
+            "how",
+            "in what way",
+            "why",
+            "what kind of"
+          ],
+          "parts_of_speech": [
+            "Pre-noun adjectival"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "どんな"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何年",
+      "is_common": true,
+      "tags": [
+        "wanikani5"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "何年",
+          "reading": "なんねん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "what year",
+            "how many years"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何人",
+      "is_common": true,
+      "tags": [
+        "wanikani5"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "何人",
+          "reading": "なんにん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "how many people",
+            "a number of people"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何処にも",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "何処にも",
+          "reading": "どこにも"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "nowhere (with neg. verb)",
+            "not anywhere"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "everywhere",
+            "anywhere",
+            "anyplace"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "何処でも"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何日",
+      "is_common": true,
+      "tags": [
+        "wanikani5"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "何日",
+          "reading": "なんにち"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "what day"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "how many days"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "どう仕様も無い",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "どう仕様もない",
+          "reading": "どうしようもない"
+        },
+        {
+          "word": "如何しようもない",
+          "reading": "どうしようもない"
+        },
+        {
+          "word": "如何しようも無い",
+          "reading": "どうしようもない"
+        },
+        {
+          "word": "どう仕様も無い",
+          "reading": "どうしようもない"
+        },
+        {
+          "word": "如何仕様も無い",
+          "reading": "どうしようもない"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "it cannot be helped",
+            "there\u0027s nothing for it",
+            "it\u0027s no use fighting back",
+            "it\u0027s hopeless",
+            "there is no way out of it"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "I-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何という",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "何という",
+          "reading": "なんという"
+        },
+        {
+          "word": "何と言う",
+          "reading": "なんという"
+        },
+        {
+          "word": "何と言う",
+          "reading": "なんとゆう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "how (beautiful, etc.)",
+            "what a ..."
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "nothing worth mentioning",
+            "nothing special"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "with neg. verb, esp. as 何ということもない"
+          ]
+        },
+        {
+          "english_definitions": [
+            "of what name"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何処までも",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "何処までも",
+          "reading": "どこまでも"
+        },
+        {
+          "word": "何処迄も",
+          "reading": "どこまでも"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "anywhere",
+            "for all time",
+            "to the ends of the earth"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "through thick and thin",
+            "come hell or high water",
+            "to the bitter end",
+            "to the utmost"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "persistently",
+            "stubbornly"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "in all respects",
+            "on every point"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "thoroughly",
+            "exhaustively"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何方も",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "何方も",
+          "reading": "どちらも"
+        },
+        {
+          "word": "何方も",
+          "reading": "どっちも"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "both",
+            "either"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "いつも通り",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "いつも通り",
+          "reading": "いつもどおり"
+        },
+        {
+          "word": "いつも通り",
+          "reading": "いつもとおり"
+        },
+        {
+          "word": "何時も通り",
+          "reading": "いつもどおり"
+        },
+        {
+          "word": "何時も通り",
+          "reading": "いつもとおり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "as always",
+            "as usual"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "何時もの通りに"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何時に無く",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "何時に無く",
+          "reading": "いつになく"
+        },
+        {
+          "word": "何時になく",
+          "reading": "いつになく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "unusually"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何物",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "何物",
+          "reading": "なにもの"
+        },
+        {
+          "word": "何もの",
+          "reading": "なにもの"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "something"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "nothing (with neg. verb)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何れ何れ",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "何れ何れ",
+          "reading": "どれどれ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "which"
+          ],
+          "parts_of_speech": [
+            "Pronoun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "何れ どれ"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "emphatic"
+          ]
+        },
+        {
+          "english_definitions": [
+            "let me see",
+            "well now"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何々",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "何々",
+          "reading": "なになに"
+        },
+        {
+          "word": "何何",
+          "reading": "なになに"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "such and such (when being vague, placeholder, etc.)",
+            "this and that"
+          ],
+          "parts_of_speech": [
+            "Pronoun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "What?",
+            "What is the matter?",
+            "What are the items?"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Let\u0027s see... (e.g. when about to read a letter)",
+            "well, well"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何もない",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "何もない",
+          "reading": "なにもない"
+        },
+        {
+          "word": "何も無い",
+          "reading": "なにもない"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "nothing",
+            "empty"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "I-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何人-1",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "何人",
+          "reading": "なにびと"
+        },
+        {
+          "word": "何人",
+          "reading": "なんびと"
+        },
+        {
+          "word": "何びと",
+          "reading": "なにびと"
+        },
+        {
+          "word": "何びと",
+          "reading": "なんびと"
+        },
+        {
+          "word": "何人",
+          "reading": "なんぴと"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "anyone",
+            "any person",
+            "whoever"
+          ],
+          "parts_of_speech": [
+            "Pronoun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何れも",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "何れも",
+          "reading": "どれも"
+        },
+        {
+          "word": "何れも",
+          "reading": "いずれも"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "any",
+            "all",
+            "every",
+            "both",
+            "either",
+            "none (with neg. verb)"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何時まで",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "何時まで",
+          "reading": "いつまで"
+        },
+        {
+          "word": "何時迄",
+          "reading": "いつまで"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "how long?",
+            "till when?"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何時もより",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "何時もより",
+          "reading": "いつもより"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "more than usual"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何もかも",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "何もかも",
+          "reading": "なにもかも"
+        },
+        {
+          "word": "何も彼も",
+          "reading": "なにもかも"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "anything and everything",
+            "just about everything"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Noun",
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "如何なる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "如何なる",
+          "reading": "いかなる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "any kind of"
+          ],
+          "parts_of_speech": [
+            "Pre-noun adjectival"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "with neg. verb"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何事も",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "何事も",
+          "reading": "なにごとも"
+        },
+        {
+          "word": "何ごとも",
+          "reading": "なにごとも"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "anything",
+            "whatever"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "nothing (with neg. verb)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "何事もなく"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何処でも",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "何処でも",
+          "reading": "どこでも"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "anywhere"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何らか",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "何らか",
+          "reading": "なんらか"
+        },
+        {
+          "word": "何等か",
+          "reading": "なんらか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "some",
+            "any",
+            "in any way",
+            "of some kind",
+            "of some sort"
+          ],
+          "parts_of_speech": [
+            "No-adjective",
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何歳",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "何歳",
+          "reading": "なんさい"
+        },
+        {
+          "word": "何才",
+          "reading": "なんさい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "how old?",
+            "what age?"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何時から",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "何時から",
+          "reading": "いつから"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "since when",
+            "from when",
+            "how long"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何一つ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "何一つ",
+          "reading": "なにひとつ"
+        },
+        {
+          "word": "何ひとつ",
+          "reading": "なにひとつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(not) one"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "usu. in neg. phrases"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何度か",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "何度か",
+          "reading": "なんどか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "several times",
+            "once or twice"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "どれ程",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "どれ程",
+          "reading": "どれほど"
+        },
+        {
+          "word": "何程",
+          "reading": "どれほど"
+        },
+        {
+          "word": "何れ程",
+          "reading": "どれほど"
+        },
+        {
+          "word": "何程",
+          "reading": "なにほど"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "how much (long, far)"
+          ],
+          "parts_of_speech": [
+            "Adverb",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何番",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "何番",
+          "reading": "なんばん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "what number"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何処にでも",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "何処にでも",
+          "reading": "どこにでも"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "anywhere"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "何処でも"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "何処でも with に"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何か月",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "何ヶ月",
+          "reading": "なんかげつ"
+        },
+        {
+          "word": "何ヵ月",
+          "reading": "なんかげつ"
+        },
+        {
+          "word": "何カ月",
+          "reading": "なんかげつ"
+        },
+        {
+          "word": "何か月",
+          "reading": "なんかげつ"
+        },
+        {
+          "word": "何ケ月",
+          "reading": "なんかげつ"
+        },
+        {
+          "word": "何箇月",
+          "reading": "なんかげつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "how many months?",
+            "how long?"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "ヶ月"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "いつ何どき",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "いつ何どき",
+          "reading": "いつなんどき"
+        },
+        {
+          "word": "何時何時",
+          "reading": "いつなんどき"
+        },
+        {
+          "word": "何時なんどき",
+          "reading": "いつなんどき"
+        },
+        {
+          "word": "いつ何時",
+          "reading": "いつなんどき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "at any time",
+            "at any moment"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何年間",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "何年間",
+          "reading": "なんねんかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "many years"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何にでも",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "何にでも",
+          "reading": "なんにでも"
+        },
+        {
+          "word": "何にでも",
+          "reading": "なににでも"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "everything",
+            "for (to) everything",
+            "(in) anything"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "何でも"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何かしら",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "何かしら",
+          "reading": "なにかしら"
+        },
+        {
+          "word": "何か知ら",
+          "reading": "なにかしら"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "somehow or other",
+            "for some reason"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "something or other"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何でも無い",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "何でもない",
+          "reading": "なんでもない"
+        },
+        {
+          "word": "何でも無い",
+          "reading": "なんでもない"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "easy",
+            "trifling",
+            "harmless",
+            "of no concern",
+            "nothing"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "I-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "nothing of the sort",
+            "not at all"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "ではない"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "in the form of 〜でもなんでもない"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何語",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "何語",
+          "reading": "なにご"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "what language"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何日も",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "何日も",
+          "reading": "なんにちも"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "for many days",
+            "for several days"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "何日"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何回か",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "何回か",
+          "reading": "なんかいか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "a few times"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何でもかんでも",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "何でもかんでも",
+          "reading": "なんでもかんでも"
+        },
+        {
+          "word": "何でも彼んでも",
+          "reading": "なんでもかんでも"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "anything and everything",
+            "all sorts of things",
+            "by all means"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "何でもかでも"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何曜日",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "何曜日",
+          "reading": "なんようび"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "what day?",
+            "what day of the week?"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "何人も",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "何人も",
+          "reading": "なにびとも"
+        },
+        {
+          "word": "何人も",
+          "reading": "なんびとも"
+        },
+        {
+          "word": "何人も",
+          "reading": "なんぴとも"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(no matter) who",
+            "everyone",
+            "anyone"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "なにびと"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "nobody"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "with neg. verb"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

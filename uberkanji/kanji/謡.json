@@ -1,0 +1,942 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "歌う",
+      "is_common": true,
+      "tags": [
+        "wanikani12",
+        "wanikani60"
+      ],
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "歌う",
+          "reading": "うたう"
+        },
+        {
+          "word": "唄う",
+          "reading": "うたう"
+        },
+        {
+          "word": "謡う",
+          "reading": "うたう"
+        },
+        {
+          "word": "詠う",
+          "reading": "うたう"
+        },
+        {
+          "word": "唱う",
+          "reading": "うたう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to sing"
+          ],
+          "parts_of_speech": [
+            "Godan verb with u ending",
+            "Transitive verb",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to sing (one\u0027s praises in a poem, etc.)",
+            "to compose a poem",
+            "to recite a poem"
+          ],
+          "parts_of_speech": [
+            "Godan verb with u ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "esp. 歌う, 詠う"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "童謡",
+      "is_common": true,
+      "tags": [
+        "wanikani54"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "童謡",
+          "reading": "どうよう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "children\u0027s song",
+            "nursery rhyme"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Nursery rhyme"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Nursery rhyme” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Nursery_rhyme?oldid\u003d494640949"
+            },
+            {
+              "text": "Read “童謡” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/童謡?oldid\u003d42701704"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Nursery_rhyme"
+      }
+    },
+    {
+      "slug": "民謡",
+      "is_common": true,
+      "tags": [
+        "wanikani54"
+      ],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "民謡",
+          "reading": "みんよう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "folk song",
+            "popular song"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Min\u0027yō"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Min\u0027yō” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Min\u0027yō?oldid\u003d437322069"
+            },
+            {
+              "text": "Read “民謡” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/民謡?oldid\u003d42570253"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Min\u0027yō"
+      }
+    },
+    {
+      "slug": "歌謡",
+      "is_common": true,
+      "tags": [
+        "wanikani54"
+      ],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "歌謡",
+          "reading": "かよう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "song",
+            "ballad"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "歌謡曲",
+      "is_common": true,
+      "tags": [
+        "wanikani56"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歌謡曲",
+          "reading": "かようきょく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "kayōkyoku",
+            "form of Japanese popular music that developed during the Showa era"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "(Western) pop song"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "early Showa era term"
+          ]
+        },
+        {
+          "english_definitions": [
+            "Kayōkyoku"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Kayōkyoku” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Kayōkyoku?oldid\u003d495460478"
+            },
+            {
+              "text": "Read “歌謡曲” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/歌謡曲?oldid\u003d41867451"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Kayōkyoku"
+      }
+    },
+    {
+      "slug": "謡曲",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謡曲",
+          "reading": "ようきょく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "noh song"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Yōkyoku"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Yōkyoku” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Yōkyoku?oldid\u003d399262664"
+            },
+            {
+              "text": "Read “謡曲” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/謡曲?oldid\u003d36005757"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Yōkyoku"
+      }
+    },
+    {
+      "slug": "謡",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謡",
+          "reading": "うたい"
+        },
+        {
+          "word": "謡い",
+          "reading": "うたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "noh chanting",
+            "recitation"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "地謡座前",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "地謡座前",
+          "reading": "じうたいざまえ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "stage left (on a noh stage), in front of the chorus"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Obscure term"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "地謡前"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "素謡",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "素謡",
+          "reading": "すうたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "bare noh chanting",
+            "vocal-only noh theater performance, with no dancing or instruments",
+            "unaccompanied utai"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "謡 うたい"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "神謡集",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "神謡集",
+          "reading": "しんようしゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "collection of mythology"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "民謡音階",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "民謡音階",
+          "reading": "みんようおんかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "folk scale (anhemitonic pentatonic scale: mi, so, la, ti, re)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "古謡",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "古謡",
+          "reading": "こよう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "traditional (folk) song"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "俗謡",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "俗謡",
+          "reading": "ぞくよう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "popular song",
+            "ballad",
+            "folk song",
+            "ditty"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "俚謡",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "俚謡",
+          "reading": "りよう"
+        },
+        {
+          "word": "里謡",
+          "reading": "りよう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "ballad",
+            "folk song",
+            "popular song"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "謡物",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謡物",
+          "reading": "うたいもの"
+        },
+        {
+          "word": "謡い物",
+          "reading": "うたいもの"
+        },
+        {
+          "word": "歌い物",
+          "reading": "うたいもの"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "utai (noh chant) piece for recitation"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "歌物"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "地謡",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "地謡",
+          "reading": "じうたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "noh chorus"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "歌歌い",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歌うたい",
+          "reading": "うたうたい"
+        },
+        {
+          "word": "歌唄い",
+          "reading": "うたうたい"
+        },
+        {
+          "word": "歌歌い",
+          "reading": "うたうたい"
+        },
+        {
+          "word": "歌謡い",
+          "reading": "うたうたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "singer",
+            "vocalist"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "nagauta singer (in kabuki)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "長唄"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "singer of Noh chants"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "謡"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "地謡前",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "地謡前",
+          "reading": "じうたいまえ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "stage left (on a noh stage), in front of the chorus"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "地謡座"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "地謡座",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "地謡座",
+          "reading": "じうたいざ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "noh chorus seating area",
+            "side stage (noh)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "地謡"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "謡を謡う",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謡を謡う",
+          "reading": "うたいをうたう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to recite an utai (noh chant)"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with u ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+.layout {
+    font-family: 'DejaVu Sans', Arial, Helvetica, sans-serif;
+    width: 785px;
+    margin: 0 auto;
+}
+
+.layout table {
+    border: 0;
+}
+
+.wrapper-table {
+    width: 750px;
+    margin-top: 30px;
+}
+
+.sentence-table table {
+    width: 100%;
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+
+.sentence-table td {
+    border: 1px #ccc solid;
+}
+
+#solution {
+    min-height: 100vh;
+}
+
+#overlay {
+    position: fixed; /* Sit on top of the page content */
+    display: block; /* Hidden by default */
+    width: 100%; /* Full width (cover the whole page) */
+    height: 100%; /* Full height (cover the whole page) */
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #fff; /* Black background with opacity */
+    z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
+    cursor: pointer; /* Add a pointer on hover */
+}
+
+#overlay-text {
+    font-family: Verdana, Arial, sans-serif;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    font-size: 2em;
+    color: #ccc;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+}
+
+
+
+/************************************************************************************/
+/* SENTENCE */
+/************************************************************************************/
+
+.options-wrapper td {
+    border: 0;
+}
+
+#options {
+    width: 100px;
+    padding: 5px;
+}
+
+.options-button {
+    height: 30px;
+    width: 100%;
+    margin: 4px 0 0 0;
+    background-color: #eee;
+    text-align: center;
+    border: 1px #999 solid;
+}
+
+#sentence {
+    font-size: 1.2em;
+    padding: 10px;
+    border: 1px #ccc solid;
+}
+
+#notes {
+    padding: 10px;
+}
+
+#source-cell td {
+    padding: 10px;
+    font-size: 0.8em;
+}
+
+/* HIGHLIGHTING */
+
+.hl-blue {
+    color: #3549ff;
+}
+
+.hl-purple {
+    color: #b433ff;
+}
+
+.hl-green {
+    color: #008016;
+}
+
+.hl-green-light {
+    color: #63802b;
+}
+
+.hl-red {
+    color: #ff1c17;
+}
+
+.hl-orange {
+    color: #ff742a;
+}
+
+.hl-grey {
+    color: #404040;
+}
+
+.hl-yellow {
+    color: #ffbe2b;
+}
+
+.detail-highlight {
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
+/* FLAGS */
+
+.informal {
+    margin-top: 20px;
+    color: #73aece;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.formal {
+    margin-top: 20px;
+    color: #e8b900;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+#notes li {
+    padding-bottom: 5px;
+}
+
+.vocab {
+    margin-top: 20px;
+    font-size: 0.9em;
+    font-weight: bold;
+    color: #bbb;
+    text-align: right;
+}
+
+.vocab-word {
+    white-space: nowrap;
+    font-size: 1.1em;
+    text-align: center;
+}
+
+.vocab-translation {
+    width: 100%;
+}
+
+.vocab-table td {
+    padding: 7px 10px;
+    border: 1px solid #ddd;
+}
+
+
+/************************************************************************************/
+/* RENDERED */
+/************************************************************************************/
+
+.analysis-table {
+
+}
+
+.analysis-table table {
+    width: 700px;
+    border-spacing: 0;
+    border-collapse: collapse;
+    margin: 20px auto;
+}
+
+.analysis-table td {
+    border: 1px #ccc solid;
+}
+
+.part-column {
+    min-width: 150px;
+}
+
+.details-column {
+    width: 70%;
+}
+
+.other-column {
+    min-width: 150px;
+}
+
+.analysis-inner-table table {
+    margin: 5px;
+    width: 100%;
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+
+.analysis-inner-table td {
+    border: 0;
+    font-size: 0.8em;
+}
+
+.part-cell {
+    font-size: 1.2em;
+    text-align: center;
+}
+
+.analysis-cell {
+    vertical-align: top;
+}
+
+.detail-cell {
+    width: 100px;
+}
+
+.other-cell {
+    width: 90px;
+}
+
+.jisho {
+    border: 0;
+    width: 100%;
+    min-height: 1200px;
+}

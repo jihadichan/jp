@@ -1,0 +1,979 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "嵐",
+      "is_common": true,
+      "tags": [
+        "wanikani44"
+      ],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "嵐",
+          "reading": "あらし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "storm",
+            "tempest"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "storm",
+            "hullaballoo",
+            "uproar",
+            "winds (e.g. of change)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Idiomatic expression"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Storm"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Storm” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Storm?oldid\u003d495017692"
+            },
+            {
+              "text": "Read “嵐” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/嵐?oldid\u003d41851687"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Storm"
+      }
+    },
+    {
+      "slug": "砂嵐",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "砂嵐",
+          "reading": "すなあらし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sandstorm"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "noise (video)",
+            "snow"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "スノーノイズ"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Dust storm"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Dust storm” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Dust_storm?oldid\u003d494310130"
+            },
+            {
+              "text": "Read “砂嵐” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/砂嵐?oldid\u003d40869406"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Dust_storm"
+      }
+    },
+    {
+      "slug": "大嵐",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "大嵐",
+          "reading": "おおあらし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "raging storm"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "青嵐",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "青嵐",
+          "reading": "あおあらし"
+        },
+        {
+          "word": "青嵐",
+          "reading": "せいらん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "wind blowing through fresh verdure"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "mountain air"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "せいらん"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "山荒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "山荒",
+          "reading": "やまあらし"
+        },
+        {
+          "word": "山荒らし",
+          "reading": "やまあらし"
+        },
+        {
+          "word": "豪猪",
+          "reading": "やまあらし"
+        },
+        {
+          "word": "山嵐",
+          "reading": "やまあらし"
+        },
+        {
+          "reading": "ヤマアラシ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "porcupine (any mammal of suborder Hystricomorpha)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Porcupine"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Porcupine” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Porcupine?oldid\u003d495481709"
+            },
+            {
+              "text": "Read “ヤマアラシ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/ヤマアラシ?oldid\u003d42460261"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Porcupine"
+      }
+    },
+    {
+      "slug": "磁気嵐",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "磁気嵐",
+          "reading": "じきあらし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "magnetic storm"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Geomagnetic storm"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Geomagnetic storm” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Geomagnetic_storm?oldid\u003d494677218"
+            },
+            {
+              "text": "Read “磁気嵐” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/磁気嵐?oldid\u003d41634925"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Geomagnetic_storm"
+      }
+    },
+    {
+      "slug": "嵐の大洋",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "嵐の大洋",
+          "reading": "あらしのたいよう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Oceanus Procellarum (lunar mare)",
+            "Ocean of Storms"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Oceanus Procellarum"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Oceanus Procellarum” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Oceanus_Procellarum?oldid\u003d491065119"
+            },
+            {
+              "text": "Read “嵐の大洋” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/嵐の大洋?oldid\u003d42668586"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Oceanus_Procellarum"
+      }
+    },
+    {
+      "slug": "晴嵐",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "晴嵐",
+          "reading": "せいらん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "mountain vapor",
+            "mountain vapour"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Aichi M6A"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Aichi M6A” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Aichi_M6A?oldid\u003d484785550"
+            },
+            {
+              "text": "Read “晴嵐” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/晴嵐?oldid\u003d42746796"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Aichi_M6A"
+      }
+    },
+    {
+      "slug": "春嵐",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "春嵐",
+          "reading": "しゅんらん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "spring storm"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "政界の嵐",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "政界の嵐",
+          "reading": "せいかいのあらし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "political storm"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "嵐の前の静けさ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "嵐の前の静けさ",
+          "reading": "あらしのまえのしずけさ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "calm before a storm",
+            "lull before the storm"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "嵐気",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "嵐気",
+          "reading": "らんき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "mountain mist",
+            "mountain air"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "夜嵐",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "夜嵐",
+          "reading": "よあらし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "night storm"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "山嵐",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "山嵐",
+          "reading": "やまあらし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "mountain storm"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "yamaarashi",
+            "judo throwing technique"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Martial arts term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "宇宙線嵐",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "宇宙線嵐",
+          "reading": "うちゅうせんあらし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "cosmic ray storm"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "小夜嵐",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "小夜嵐",
+          "reading": "さよあらし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "strong nighttime wind"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "翠嵐",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "翠嵐",
+          "reading": "すいらん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "the sense of being engulfed in a green, mountainous atmosphere"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "雪嵐",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "雪嵐",
+          "reading": "ゆきあらし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "snowstorm",
+            "blizzard"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "吹雪"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "砂塵嵐",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "砂塵嵐",
+          "reading": "さじんあらし"
+        },
+        {
+          "word": "砂じんあらし",
+          "reading": "さじんあらし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dust storm",
+            "sand storm"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "嵐を呼ぶ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "嵐を呼ぶ",
+          "reading": "あらしをよぶ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to cause a commotion",
+            "to create a big stir",
+            "to invoke a storm"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with bu ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "コップの中の嵐",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "コップの中の嵐",
+          "reading": "コップのなかのあらし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "storm in a teacup"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

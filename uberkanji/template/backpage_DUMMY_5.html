@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <style>
+
+    </style>
+</head>
+<body>
+
+<!-------------------------------------------------->
+<!-------------- BACK TEMPLATE START --------------->
+<!-------------------------------------------------->
+<link rel="stylesheet" type="text/css" href="uberkanji/statics/datatables.min.css">
+<link rel="stylesheet" type="text/css" href="uberkanji/statics/style.css">
+<div id="debug"></div>
+<div class="wrapper">
+    <div class="layout">
+        <table>
+            <tr>
+                <td id="side-fonts" class="font-cell">
+
+                </td>
+                <td>
+                    <table class="manual-edits">
+                        <tr>
+                            <td class="manual-edits-key">Concept</td>
+                            <td>big or very</td>
+                        </tr>
+                        <tr>
+                            <td class="manual-edits-key">Meanings</td>
+                            <td id="meanings"></td>
+                        </tr>
+                        <tr>
+                            <td class="manual-edits-key" onclick="toggleFurigana()">
+                                Mnemonic
+                                <div class="toggle-furigana">Toggle</div>
+                            </td>
+                            <td id="manual-edits-mnemonic">
+                                if you raise your hand against your bring-up and hit it, then child services will remove it<br><br>てっ - we can test to remove it but it probably won't end well<br><br>---<br><ruby>撤退<rt>てったい</rt></ruby> (てっ, evacuation, withdrawal, revocation, repeal, retreat)
+                            </td>
+                        </tr>
+                        <tr>
+                            <td onclick="playCompoundReading()">Play &#9658;</td>
+                            <td>
+                                せい.しょう.じょう.なま.き
+                            </td>
+                        </tr>
+                        <tr class="no-border">
+                            <td colspan="2">
+                                <table class="readings-overview">
+                                    <tr>
+                                        <td id="most-common-readings" valign="top" class="readings-table"></td>
+                                        <td id="scored-readings" valign="top" class="readings-table"></td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr class="no-border">
+                            <td colspan="2">
+                                <div class="modal-buttons">
+                                    <button class="button" onclick="renderMetaData()">MetaData</button>
+                                    <button class="button" onclick="renderFonts(15, 5)">Fonts</button>
+                                    <button class="button" onclick="renderJisho()">Jisho</button>
+                                    <br>
+                                    <button class="button" id="wordExamples" onclick="renderWordTable('wordExamples')">
+                                        Word Examples
+                                    </button>
+                                    <button class="button" id="unclassifiedReadings" onclick="renderWordTable('unclassifiedReadings')">
+                                        Unknown Readings
+                                    </button>
+                                    <button class="button" id="otherForms" onclick="renderWordTable('otherForms')">Other
+                                        Forms
+                                    </button>
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" id="rendered-content"></td>
+            </tr>
+        </table>
+    </div>
+</div>
+
+<div id="kanji">替</div>
+<div id="data">{"meanings":"remove, withdraw, disarm, dismantle, reject, exclude","frequency":811,"components":"手: hand<br>育: bring up; grow up; raise; rear<br>攵: strike; hit; folding chair radical variant (no. 66)","strokes":15,"rtkKeyword":"remove","rtkIndex":822,"onReadings":"テツ","wordExamples":[],"otherForms":[{"word":"徹頭徹尾","reading":"てっとうてつび","meanings":"thoroughly, through and through (Adverb)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"テツ","type":"oFrm"}],"unclassifiedReadings":[{"word":"撤退","reading":"てったい","meanings":"evacuation, withdrawal, revocation, repeal, retreat (Noun)","score":1,"usuallyWrittenAs":"Kanji","freqNF":"4338","freqWK":"1568","foundKanjiReading":"???","type":"fnKJ"},{"word":"撤廃","reading":"てっぱい","meanings":"annulment, abolition, repeal, rescission (Noun)","score":1,"usuallyWrittenAs":"Kanji","freqWK":"7522","foundKanjiReading":"???","type":"fnKJ"},{"word":"撤去","reading":"てっきょ","meanings":"withdrawal, revocation, repeal (Noun)<br>demolition, removal","score":1,"usuallyWrittenAs":"Kanji","freqNF":"11792","freqWK":"2887","foundKanjiReading":"???","type":"fnKJ"},{"word":"撤回","reading":"てっかい","meanings":"withdrawal, retraction, revocation, repeal (Noun)","score":1,"usuallyWrittenAs":"Kanji","freqNF":"6108","freqWK":"7174","foundKanjiReading":"???","type":"fnKJ"},{"word":"撤収","reading":"てっしゅう","meanings":"removal (e.g. of a building), dismantling (e.g. a tent), striking (e.g. a stage set) (Noun)<br>withdrawal (of troops), evacuation, retreating","score":1,"usuallyWrittenAs":"Kanji","freqNF":"10086","freqWK":"14105","foundKanjiReading":"???","type":"fnKJ"},{"word":"撤兵","reading":"てっぺい","meanings":"withdrawal of troops (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"???","type":"fnKJ"},{"word":"規制撤廃","reading":"きせいてっぱい","meanings":"abolition of regulations, deregulation (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"???","type":"fnKJ"},{"word":"白紙撤回","reading":"はくしてっかい","meanings":"complete revocation, total retraction (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"???","type":"fnKJ"},{"word":"市場撤退","reading":"しじょうてったい","meanings":"pulling out of a market, withdrawing from a market (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"???","type":"fnKJ"},{"word":"部隊撤退","reading":"ぶたいてったい","meanings":"troop withdrawal (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"???","type":"fnKJ"},{"word":"前言撤回","reading":"ぜんげんてっかい","meanings":"taking back what one just said, eating one's words, negating one's previous comment, opinion, etc. (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"???","type":"fnKJ"},{"word":"全面撤退","reading":"ぜんめんてったい","meanings":"total (full-scale) withdrawal, complete pullout (pullback) (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"???","type":"fnKJ"},{"word":"軍備撤廃","reading":"ぐんびてっぱい","meanings":"complete disarmament (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"???","type":"fnKJ"},{"word":"全艦撤退","reading":"ぜんかんてったい","meanings":"All ships retreat (military command), complete ship withdrawal (Expression)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"???","type":"fnKJ"},{"word":"戦略的撤退","reading":"せんりゃくてきてったい","meanings":"strategic withdrawal, strategic retreat (Noun)","score":0,"usuallyWrittenAs":"Kanji","foundKanjiReading":"???","type":"fnKJ"}],"mostCommonReadings":{},"scoredReadings":{},"searchKey":"ｘ撤"}</div>
+<div id="play-sound">たい</div>
+<script src="uberkanji/statics/jquery-3.4.1.min.js" type="application/javascript"></script>
+<script src="uberkanji/statics/backpage.js" type="application/javascript" charset="UTF-8"></script>
+<script src="uberkanji/statics/datatables.min.js" type="application/javascript"></script>
+<script src="uberkanji/statics/jquery.modal.min.js" type="application/javascript"></script>
+<div id="modal" class="modal">
+    <table class="modal-table">
+        <tr><td id="modal-result"></td></tr>
+        <tr><td class="td-textarea" style="padding: 1px"><textarea id="word-area" onclick="selectOnClick(this)" onkeyup="updateRuby()"></textarea></td></tr>
+        <tr><td id="modal-meanings"></td></tr>
+    </table>
+</div>
+<!-------------------------------------------------->
+<!-------------- BACK TEMPLATE END ----------------->
+<!-------------------------------------------------->
+</body>
+</html>

@@ -1,0 +1,174 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "禁固",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "禁錮",
+          "reading": "きんこ"
+        },
+        {
+          "word": "禁固",
+          "reading": "きんこ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "imprisonment (without forced labour)",
+            "incarceration",
+            "confinement"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "懲役"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "重禁錮",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "重禁錮",
+          "reading": "じゅうきんこ"
+        },
+        {
+          "word": "重禁固",
+          "reading": "じゅうきんこ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "major imprisonment",
+            "imprisonment with hard labor (hard labour)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Obsolete term"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "軽禁錮 けいきんこ"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "軽禁錮",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "軽禁錮",
+          "reading": "けいきんこ"
+        },
+        {
+          "word": "軽禁固",
+          "reading": "けいきんこ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "minor imprisonment",
+            "imprisonment without hard labor (hard labour)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Obsolete term"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "重禁錮 じゅうきんこ"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "禁固刑",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "禁固刑",
+          "reading": "きんこけい"
+        },
+        {
+          "word": "禁錮刑",
+          "reading": "きんこけい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(penalty of) imprisonment"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

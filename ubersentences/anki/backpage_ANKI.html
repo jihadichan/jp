@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+</head>
+<body>
+<!--------------------------------------------------------------------------->
+<!-- COPY FROM HERE -->
+<!--------------------------------------------------------------------------->
+<link rel="stylesheet" type="text/css" href="ubersentences/statics/commons.css">
+<link rel="stylesheet" type="text/css" href="ubersentences/statics/backpage-style.css">
+<div id="debug"></div>
+<div id="solution" class="wrapper">
+    <div id="overlay">
+        <div id="overlay-text">
+            1. Listen<br>
+            2. Translate<br>
+            3. Click<br>
+        </div>
+    </div>
+    <div class="layout">
+        <table class="wrapper-table">
+            <!--------------------------------------------------------------------------->
+            <!-- SENTENCE -->
+            <!--------------------------------------------------------------------------->
+            <tr>
+                <td>
+                    <div class="sentence-table">
+                        <table>
+                            <tr class="options-wrapper">
+                                <td id="sentence">{{sentence}}</td>
+                                <td id="options" rowspan="2"></td>
+                            </tr>
+                            <tr>
+                                <td id="notes">{{notes}}</td>
+                            </tr>
+                            <tr id="source-cell"></tr>
+                        </table>
+                    </div>
+                </td>
+            </tr>
+
+            <!--------------------------------------------------------------------------->
+            <!-- RENDERED -->
+            <!--------------------------------------------------------------------------->
+            <tr>
+                <td id="rendered-content"></td>
+            </tr>
+        </table>
+    </div>
+</div>
+<div id="data" class="anki-field">{{data}}</div>
+<div id="sentence-raw" class="anki-field">{{sentence}}</div>
+<div id="mp3" class="anki-field">{{mp3}}</div>
+<div class="anki-field">[sound:ubersentences/mp3/{{mp3}}]</div>
+<div id="source" class="anki-field">{{source}}</div>
+<script src="ubersentences/statics/jquery-3.4.1.min.js" type="application/javascript"></script>
+<script src="ubersentences/statics/backpage.js" type="application/javascript" charset="UTF-8"></script>
+<!--------------------------------------------------------------------------->
+<!-- TO HERE -->
+<!--------------------------------------------------------------------------->
+</body>
+</html>

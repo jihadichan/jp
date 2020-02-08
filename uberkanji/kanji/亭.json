@@ -1,0 +1,707 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "亭主",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "亭主",
+          "reading": "ていしゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "household head",
+            "master",
+            "host (e.g. of a tea gathering)",
+            "innkeeper",
+            "owner (e.g. of an hotel)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "husband"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "料亭",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "料亭",
+          "reading": "りょうてい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "ryotei",
+            "traditional Japanese restaurant (esp. a luxurious one)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Ryōtei"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Ryōtei” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Ryōtei?oldid\u003d420783120"
+            },
+            {
+              "text": "Read “料亭” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/料亭?oldid\u003d41006509"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Ryōtei"
+      }
+    },
+    {
+      "slug": "泉亭-1",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "泉亭",
+          "reading": "せんてい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "arbor facing a spring (arbour)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "四阿"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "旗亭",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旗亭",
+          "reading": "きてい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "restaurant",
+            "inn"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "旅亭",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旅亭",
+          "reading": "りょてい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "hotel",
+            "inn"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "勘亭流",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勘亭流",
+          "reading": "かんていりゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Kantei style of calligraphy"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "池亭",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "池亭",
+          "reading": "ちてい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "arbor (arbour, bower) by a lake"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "涼亭",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "涼亭",
+          "reading": "りょうてい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "pavilion in a garden (used to keep cool)",
+            "gazebo"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "東屋"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "亭亭",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "亭亭",
+          "reading": "ていてい"
+        },
+        {
+          "word": "亭々",
+          "reading": "ていてい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "lofty (tree)"
+          ],
+          "parts_of_speech": [
+            "Taru-adjective",
+            "Adverb taking the \u0027to\u0027 particle"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "若竹亭",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "若竹亭",
+          "reading": "わかたけてい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "the Wakatake Variety Theater"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "亭主関白",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "亭主関白",
+          "reading": "ていしゅかんぱく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "domineering husband",
+            "hectoring husband",
+            "husband who rules the roost"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "亭午",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "亭午",
+          "reading": "ていご"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "noon"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "亭",
+      "is_common": false,
+      "tags": [
+        "wanikani50"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "亭",
+          "reading": "てい"
+        },
+        {
+          "word": "亭",
+          "reading": "ちん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "arbor",
+            "arbour",
+            "bower",
+            "pavilion"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "suffix forming the final part of the pseudonyms of some writers and performers"
+          ],
+          "parts_of_speech": [
+            "Suffix"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "てい"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "suffix forming the final part of the name of a restaurant"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "てい"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Chinese pavilion"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Chinese pavilion” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Chinese_pavilion?oldid\u003d466641066"
+            },
+            {
+              "text": "Read “亭” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/亭?oldid\u003d40830560"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Chinese_pavilion"
+      }
+    },
+    {
+      "slug": "席亭",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "席亭",
+          "reading": "せきてい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "entertainment hall (for rakugo, manzai, magic, music, etc.)",
+            "vaudeville theater (theatre)",
+            "music hall"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "寄席"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "vaudeville theater manager",
+            "music hall proprietor"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "亭主の好きな赤烏帽子",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "亭主の好きな赤烏帽子",
+          "reading": "ていしゅのすきなあかえぼし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "family members should fall into line with the head of the family even if his taste is a little odd, like wearing a red eboshi, which is ordinarily black"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [
+            "Proverb"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "烏帽子"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "知らぬは亭主許り也",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "知らぬは亭主ばかりなり",
+          "reading": "しらぬはていしゅばかりなり"
+        },
+        {
+          "word": "知らぬは亭主許り也",
+          "reading": "しらぬはていしゅばかりなり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "the husband is always the last to know",
+            "everyone knows of the wife\u0027s infidelity but the cuckolded husband"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [
+            "Idiomatic expression"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

@@ -1,0 +1,291 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "畑",
+      "is_common": true,
+      "tags": [
+        "wanikani41"
+      ],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "畑",
+          "reading": "はたけ"
+        },
+        {
+          "word": "畑",
+          "reading": "はた"
+        },
+        {
+          "word": "畠",
+          "reading": "はたけ"
+        },
+        {
+          "word": "畠",
+          "reading": "はた"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "field (for fruits, vegetables, etc.)",
+            "cultivated land",
+            "vegetable plot",
+            "kitchen garden",
+            "plantation"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "field (of specialization)",
+            "sphere",
+            "area"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suffix"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "はたけ"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "ばたけ when suf"
+          ]
+        },
+        {
+          "english_definitions": [
+            "womb",
+            "birth",
+            "birthplace"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Colloquialism"
+          ],
+          "restrictions": [
+            "はたけ"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Field (agriculture)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Field (agriculture)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Field_(agriculture)?oldid\u003d488126198"
+            },
+            {
+              "text": "Read “畑” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/畑?oldid\u003d41588722"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Field_(agriculture)"
+      }
+    },
+    {
+      "slug": "田畑",
+      "is_common": true,
+      "tags": [
+        "wanikani41"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "田畑",
+          "reading": "たはた"
+        },
+        {
+          "word": "田畑",
+          "reading": "でんぱた"
+        },
+        {
+          "word": "田畑",
+          "reading": "でんばた"
+        },
+        {
+          "word": "田畑",
+          "reading": "たはたけ"
+        },
+        {
+          "word": "田畠",
+          "reading": "たはた"
+        },
+        {
+          "word": "田畠",
+          "reading": "でんぱた"
+        },
+        {
+          "word": "田畠",
+          "reading": "でんばた"
+        },
+        {
+          "word": "田畠",
+          "reading": "たはたけ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "fields (of rice and other crops)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "段々畑",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "段々畑",
+          "reading": "だんだんばたけ"
+        },
+        {
+          "word": "だんだん畑",
+          "reading": "だんだんばたけ"
+        },
+        {
+          "word": "段段畑",
+          "reading": "だんだんばたけ"
+        },
+        {
+          "word": "段々畠",
+          "reading": "だんだんばたけ"
+        },
+        {
+          "word": "段段畠",
+          "reading": "だんだんばたけ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "terraced fields",
+            "terraced farm"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "桑畑",
+      "is_common": false,
+      "tags": [
+        "wanikani49"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "桑畑",
+          "reading": "くわばたけ"
+        },
+        {
+          "word": "桑畑",
+          "reading": "くわばた"
+        },
+        {
+          "word": "桑畠",
+          "reading": "くわばたけ"
+        },
+        {
+          "word": "桑畠",
+          "reading": "くわばた"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "mulberry field",
+            "mulberry plantation"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

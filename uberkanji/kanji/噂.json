@@ -1,0 +1,593 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "噂",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "噂",
+          "reading": "うわさ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rumour",
+            "rumor",
+            "report",
+            "hearsay",
+            "gossip",
+            "common talk"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Rumor"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Rumor” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Rumor?oldid\u003d484482767"
+            },
+            {
+              "text": "Read “噂” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/噂?oldid\u003d42530356"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Rumor"
+      }
+    },
+    {
+      "slug": "噂話",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "噂話",
+          "reading": "うわさばなし"
+        },
+        {
+          "word": "噂話し",
+          "reading": "うわさばなし"
+        },
+        {
+          "word": "うわさ話",
+          "reading": "うわさばなし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "gossip"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "噂を聞く",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "噂を聞く",
+          "reading": "うわさをきく"
+        },
+        {
+          "word": "うわさを聞く",
+          "reading": "うわさをきく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to hear a rumor",
+            "to get wind of"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with ku ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "噂をすれば影",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "噂をすれば影",
+          "reading": "うわさをすればかげ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "speak of the devil"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [
+            "Proverb"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "噂をすれば影が射す"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "人の噂も七十五日",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "人の噂も七十五日",
+          "reading": "ひとのうわさもしちじゅうごにち"
+        },
+        {
+          "word": "人の噂も七十五日",
+          "reading": "ひとのうわさもななじゅうごにち"
+        },
+        {
+          "word": "人の噂も７５日",
+          "reading": "ひとのうわさもしちじゅうごにち"
+        },
+        {
+          "word": "人の噂も７５日",
+          "reading": "ひとのうわさもななじゅうごにち"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "a wonder lasts but nine days",
+            "gossip lasts just 75 days"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [
+            "Proverb"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "風の噂",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "風の噂",
+          "reading": "かぜのうわさ"
+        },
+        {
+          "word": "風のうわさ",
+          "reading": "かぜのうわさ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "hearsay",
+            "rumor",
+            "grapevine"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "風の便り かぜのたより"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "噂通り",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "噂通り",
+          "reading": "うわさどおり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rumor that appears to be quite true (rumour)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "噂が流れる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "噂が流れる",
+          "reading": "うわさがながれる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to have rumors going around (rumours)",
+            "to have rumors spread"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Ichidan verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "噂を流す"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "噂をすれば影が射す",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "噂をすれば影が射す",
+          "reading": "うわさをすればかげがさす"
+        },
+        {
+          "word": "噂をすれば影がさす",
+          "reading": "うわさをすればかげがさす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "speak of the devil and he shall appear",
+            "speak rumours of someone and they shall appear"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [
+            "Proverb"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "噂を流す",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "噂を流す",
+          "reading": "うわさをながす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to spread rumors",
+            "to spread rumours"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with su ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "浮いた噂",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "浮いた噂",
+          "reading": "ういたうわさ"
+        },
+        {
+          "word": "浮いたうわさ",
+          "reading": "ういたうわさ"
+        },
+        {
+          "word": "浮いたウワサ",
+          "reading": "ういたウワサ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "amorous rumour (rumor)",
+            "romantic gossip"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "噂に違わぬ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "噂に違わぬ",
+          "reading": "うわさにたがわぬ"
+        },
+        {
+          "word": "噂にたがわぬ",
+          "reading": "うわさにたがわぬ"
+        },
+        {
+          "word": "うわさに違わぬ",
+          "reading": "うわさにたがわぬ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "living up to one\u0027s reputation"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Noun or verb acting prenominally"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "噂を立てられる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "噂を立てられる",
+          "reading": "うわさをたてられる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to be gossiped about"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Ichidan verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "噂に上る",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "噂に上る",
+          "reading": "うわさにのぼる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to be gossiped about"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with ru ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

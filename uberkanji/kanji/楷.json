@@ -1,0 +1,185 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "楷書",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "楷書",
+          "reading": "かいしょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "printed style (of writing Chinese characters)",
+            "square style",
+            "block style",
+            "standard style"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "楷書体",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "楷書体",
+          "reading": "かいしょたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "square (block) style of printed typeface"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "楷書"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Regular script"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Regular script” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Regular_script?oldid\u003d466702319"
+            },
+            {
+              "text": "Read “楷書体” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/楷書体?oldid\u003d40462023"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Regular_script"
+      }
+    },
+    {
+      "slug": "楷の木",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "楷の木",
+          "reading": "かいのき"
+        },
+        {
+          "word": "楷樹",
+          "reading": "かいのき"
+        },
+        {
+          "reading": "カイノキ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Chinese pistache (Pistacia chinensis)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "楷行草",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "楷行草",
+          "reading": "かいぎょうそう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "printed, semi-cursive, and cursive scripts"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "楷書",
+            "行書",
+            "草書",
+            "行草 ぎょうそう"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

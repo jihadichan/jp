@@ -1,0 +1,753 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "堀",
+      "is_common": true,
+      "tags": [
+        "wanikani40"
+      ],
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "堀",
+          "reading": "ほり"
+        },
+        {
+          "word": "濠",
+          "reading": "ほり"
+        },
+        {
+          "word": "壕",
+          "reading": "ほり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "moat",
+            "fosse"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "canal",
+            "ditch"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Moat"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Moat” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Moat?oldid\u003d491489288"
+            },
+            {
+              "text": "Read “堀” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/堀?oldid\u003d42119357"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Moat"
+      }
+    },
+    {
+      "slug": "濠太剌利",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "濠太剌利",
+          "reading": "オーストラリア"
+        },
+        {
+          "word": "豪太剌利",
+          "reading": "オーストラリア"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Australia"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "壕",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "壕",
+          "reading": "ごう"
+        },
+        {
+          "word": "濠",
+          "reading": "ごう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "moat",
+            "fosse",
+            "trench",
+            "ditch"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "濠 is usu. filled with water, 壕 is usu. dry"
+          ]
+        },
+        {
+          "english_definitions": [
+            "underground air-raid shelter",
+            "dugout"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "壕"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "外堀",
+      "is_common": false,
+      "tags": [
+        "wanikani40"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "外堀",
+          "reading": "そとぼり"
+        },
+        {
+          "word": "外濠",
+          "reading": "そとぼり"
+        },
+        {
+          "word": "外壕",
+          "reading": "そとぼり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "outer moat (of a castle)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Sotobori"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "内堀",
+      "is_common": false,
+      "tags": [
+        "wanikani40"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "内堀",
+          "reading": "うちぼり"
+        },
+        {
+          "word": "内壕",
+          "reading": "うちぼり"
+        },
+        {
+          "word": "内濠",
+          "reading": "うちぼり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "inner moat",
+            "moat within the castle walls"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "環濠",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "環濠",
+          "reading": "かんごう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(circular) moat"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "白豪主義",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "白豪主義",
+          "reading": "はくごうしゅぎ"
+        },
+        {
+          "word": "白濠主義",
+          "reading": "はくごうしゅぎ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "White Australia Policy (pre-1965 Australian immigration policy)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "White Australia policy"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “White Australia policy” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/White_Australia_policy?oldid\u003d495375346"
+            },
+            {
+              "text": "Read “白豪主義” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/白豪主義?oldid\u003d41683552"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/White_Australia_policy"
+      }
+    },
+    {
+      "slug": "豪",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "豪",
+          "reading": "ごう"
+        },
+        {
+          "word": "濠",
+          "reading": "ごう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Australia"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Noun - used as a prefix",
+            "Noun - used as a suffix"
+          ],
+          "links": [],
+          "tags": [
+            "Abbreviation"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "オーストラリア"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "伏射濠",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "伏射濠",
+          "reading": "ふくしゃごう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sheltered trench"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "水濠",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "水濠",
+          "reading": "すいごう"
+        },
+        {
+          "word": "水壕",
+          "reading": "すいごう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "water jump (on a racetrack, etc.)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "moat (around a castle, etc.)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "空堀",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "空堀",
+          "reading": "からぼり"
+        },
+        {
+          "word": "空濠",
+          "reading": "からぼり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dry moat"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "豪州",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "豪州",
+          "reading": "ごうしゅう"
+        },
+        {
+          "word": "濠洲",
+          "reading": "ごうしゅう"
+        },
+        {
+          "word": "濠州",
+          "reading": "ごうしゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Australia"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "日米豪",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "日米豪",
+          "reading": "にちべいごう"
+        },
+        {
+          "word": "日米濠",
+          "reading": "にちべいごう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Japan-America-Australia"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "豪日",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "豪日",
+          "reading": "ごうにち"
+        },
+        {
+          "word": "濠日",
+          "reading": "ごうにち"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Australia-Japan"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "環濠集落",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "環濠集落",
+          "reading": "かんごうしゅうらく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "moated settlement (Yayoi period)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "濠太剌利海蜂水母",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "濠太剌利海蜂水母",
+          "reading": "オーストラリアうんばちくらげ"
+        },
+        {
+          "reading": "オーストラリアウンバチクラゲ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sea wasp (Chironex fleckeri)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}
