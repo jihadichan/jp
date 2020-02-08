@@ -1,5 +1,7 @@
 package converters.djtgrammar;
 
+import converters.djtgrammar.DjtGrammarPage.DjtSentence;
+
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
@@ -11,7 +13,7 @@ public class RunDjtToMarkDownConverter {
 
     private static final String pathToShortenedCsvBaseFile = "data/djt/shortened.csv";
     private static final Path grammarGuide = Paths.get("grammarguide");
-    private static final Path itemsFolder = grammarGuide.resolve(Paths.get("items"));
+    private static final Path itemsFolder = Paths.get("items");
 
     public static void main(final String[] args) {
         makeSureGrammarGuideFolderIsOk();
@@ -28,17 +30,66 @@ public class RunDjtToMarkDownConverter {
     }
 
     private static String createGrammarPage(final DjtGrammarPage djtGrammarPage) {
-        String page = "# Grammar Guide\n\n<table>";
+        String page = "# " + djtGrammarPage.grammarItem + "\n\n";
 
+        // ------------------------------------------------------------------------------------------ //
+        // SUMMARY
+        // ------------------------------------------------------------------------------------------ //
+        page += "## Summary\n\n" +
+                "<table>";
 
+        if (djtGrammarPage.grammarSummary != null && !djtGrammarPage.grammarSummary.equals("")) {
+            page += "<tr>" +
+                    "   <td>Summary<td>" +
+                    "   <td>" + djtGrammarPage.grammarSummary + "</td>" +
+                    "<tr>";
+        }
+        if (djtGrammarPage.equivalent != null && !djtGrammarPage.equivalent.equals("")) {
+            page = "<tr>" +
+                    "   <td>English<td>" +
+                    "   <td>" + djtGrammarPage.equivalent + "</td>" +
+                    "<tr>";
+        }
+        if (djtGrammarPage.partOfSpeech != null && !djtGrammarPage.partOfSpeech.equals("")) {
+            page = "<tr>" +
+                    "   <td>Part of speech<td>" +
+                    "   <td>" + djtGrammarPage.partOfSpeech + "</td>" +
+                    "<tr>";
+        }
         page += "</table>";
+        if (djtGrammarPage.relatedExpression != null && !djtGrammarPage.relatedExpression.equals("")) {
+            page = "<tr>" +
+                    "   <td>Related expression<td>" +
+                    "   <td>" + djtGrammarPage.relatedExpression + "</td>" +
+                    "<tr>";
+        }
+        page += "</table>";
+        if (djtGrammarPage.antonymExpression != null && !djtGrammarPage.antonymExpression.equals("")) {
+            page = "<tr>" +
+                    "   <td>Antonym expression<td>" +
+                    "   <td>" + djtGrammarPage.antonymExpression + "</td>" +
+                    "<tr>";
+        }
+        page += "</table>\n\n";
+
+        // ------------------------------------------------------------------------------------------ //
+        // EXAMPLE SENTENCES
+        // ------------------------------------------------------------------------------------------ //
+        page += "## Example Sentences\n\n" +
+                "<table>";
+
+        for (final DjtSentence djtSentence : djtGrammarPage.sentences) {
+            page = "<tr><td>" + djtSentence.japanese + "<td><tr>" +
+                    "<tr><td>" + djtSentence.english + "<td><tr>";
+        }
+        page += "</table>\n\n";
 
         return page;
     }
 
     private static void createItemsFolder() {
-        if (!itemsFolder.toFile().mkdir()) {
-            throw new IllegalStateException("Couldn't create directory: " + itemsFolder);
+        if (!grammarGuide.resolve(itemsFolder).toFile().mkdir()) {
+            throw new IllegalStateException("Couldn't create directory: " + grammarGuide.resolve(itemsFolder));
         }
     }
 
@@ -47,7 +98,7 @@ public class RunDjtToMarkDownConverter {
         try {
             Files.write(path, page.getBytes());
         } catch (final IOException e) {
-            throw new IllegalStateException("Couldn't write " + path);
+            throw new IllegalStateException("Couldn't write " + path, e);
         }
     }
 

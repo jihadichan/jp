@@ -153,8 +153,8 @@ public class DjtGrammarPage {
 
     public static class DjtSentence {
 
-        private final String japanese;
-        private final String english;
+        final String japanese;
+        final String english;
 
         public DjtSentence(final String japanese, final String english) {
             this.japanese = japanese;
