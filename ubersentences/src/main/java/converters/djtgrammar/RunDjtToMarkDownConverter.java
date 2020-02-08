@@ -45,27 +45,27 @@ public class RunDjtToMarkDownConverter {
                     "<tr>";
         }
         if (djtGrammarPage.equivalent != null && !djtGrammarPage.equivalent.equals("")) {
-            page = "<tr>" +
+            page += "<tr>" +
                     "   <td>English<td>" +
                     "   <td>" + djtGrammarPage.equivalent + "</td>" +
                     "<tr>";
         }
         if (djtGrammarPage.partOfSpeech != null && !djtGrammarPage.partOfSpeech.equals("")) {
-            page = "<tr>" +
+            page += "<tr>" +
                     "   <td>Part of speech<td>" +
                     "   <td>" + djtGrammarPage.partOfSpeech + "</td>" +
                     "<tr>";
         }
         page += "</table>";
         if (djtGrammarPage.relatedExpression != null && !djtGrammarPage.relatedExpression.equals("")) {
-            page = "<tr>" +
+            page += "<tr>" +
                     "   <td>Related expression<td>" +
                     "   <td>" + djtGrammarPage.relatedExpression + "</td>" +
                     "<tr>";
         }
         page += "</table>";
         if (djtGrammarPage.antonymExpression != null && !djtGrammarPage.antonymExpression.equals("")) {
-            page = "<tr>" +
+            page += "<tr>" +
                     "   <td>Antonym expression<td>" +
                     "   <td>" + djtGrammarPage.antonymExpression + "</td>" +
                     "<tr>";
@@ -79,11 +79,13 @@ public class RunDjtToMarkDownConverter {
                 "<table>";
 
         for (final DjtSentence djtSentence : djtGrammarPage.sentences) {
-            page = "<tr><td>" + djtSentence.japanese + "<td><tr>" +
+            page += "<tr><td>" + djtSentence.japanese + "<td><tr>" +
                     "<tr><td>" + djtSentence.english + "<td><tr>";
         }
         page += "</table>\n\n";
 
+        System.out.println(page);
+        System.exit(0);
         return page;
     }
 

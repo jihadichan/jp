@@ -32,7 +32,7 @@ public class DjtGrammarPage {
     final String grammarSummary;
     final String equivalent;
     final List<DjtSentence> sentences;
-    final Path grammarBookImagePath;
+    final Path grammarBookImagePath; // TODO move images to project folder
     final String grammarBookHtml;
     final String syntaxHtml;
     final String partOfSpeech;
