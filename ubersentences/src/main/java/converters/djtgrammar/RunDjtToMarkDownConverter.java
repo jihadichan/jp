@@ -40,35 +40,33 @@ public class RunDjtToMarkDownConverter {
 
         if (djtGrammarPage.grammarSummary != null && !djtGrammarPage.grammarSummary.equals("")) {
             page += "<tr>" +
-                    "   <td>Summary<td>" +
+                    "   <td>Summary</td>" +
                     "   <td>" + djtGrammarPage.grammarSummary + "</td>" +
-                    "<tr>";
+                    "</tr>";
         }
         if (djtGrammarPage.equivalent != null && !djtGrammarPage.equivalent.equals("")) {
             page += "<tr>" +
-                    "   <td>English<td>" +
+                    "   <td>English</td>" +
                     "   <td>" + djtGrammarPage.equivalent + "</td>" +
-                    "<tr>";
+                    "</tr>";
         }
         if (djtGrammarPage.partOfSpeech != null && !djtGrammarPage.partOfSpeech.equals("")) {
             page += "<tr>" +
-                    "   <td>Part of speech<td>" +
+                    "   <td>Part of speech</td>" +
                     "   <td>" + djtGrammarPage.partOfSpeech + "</td>" +
-                    "<tr>";
+                    "</tr>";
         }
-        page += "</table>";
         if (djtGrammarPage.relatedExpression != null && !djtGrammarPage.relatedExpression.equals("")) {
             page += "<tr>" +
-                    "   <td>Related expression<td>" +
+                    "   <td>Related expression</td>" +
                     "   <td>" + djtGrammarPage.relatedExpression + "</td>" +
-                    "<tr>";
+                    "</tr>";
         }
-        page += "</table>";
         if (djtGrammarPage.antonymExpression != null && !djtGrammarPage.antonymExpression.equals("")) {
             page += "<tr>" +
-                    "   <td>Antonym expression<td>" +
+                    "   <td>Antonym expression</td>" +
                     "   <td>" + djtGrammarPage.antonymExpression + "</td>" +
-                    "<tr>";
+                    "</tr>";
         }
         page += "</table>\n\n";
 
@@ -79,8 +77,8 @@ public class RunDjtToMarkDownConverter {
                 "<table>";
 
         for (final DjtSentence djtSentence : djtGrammarPage.sentences) {
-            page += "<tr><td>" + djtSentence.japanese + "<td><tr>" +
-                    "<tr><td>" + djtSentence.english + "<td><tr>";
+            page += "<tr><td>" + djtSentence.japanese + "</td></tr>" +
+                    "<tr><td>" + djtSentence.english + "</td></tr>";
         }
         page += "</table>\n\n";
 
