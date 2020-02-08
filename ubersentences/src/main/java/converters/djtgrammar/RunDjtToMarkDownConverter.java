@@ -110,7 +110,7 @@ public class RunDjtToMarkDownConverter {
         for (final DjtGrammarPage grammarPage : grammarPages) {
             page += "<tr>" +
                     "<td>" + grammarPage.markdownFileName + ". " +
-                    "<a href='items/" + grammarPage.markdownFileName + "'>" + grammarPage.grammarItem + ".md</a>" +
+                    "<a href='items/" + grammarPage.markdownFileName + ".md'>" + grammarPage.grammarItem + "</a>" +
                     "</td>" +
                     "<td>" +
                     "<ul>";
