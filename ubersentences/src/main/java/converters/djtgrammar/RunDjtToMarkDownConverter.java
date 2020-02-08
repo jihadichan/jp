@@ -82,8 +82,8 @@ public class RunDjtToMarkDownConverter {
         }
         page += "</table>\n\n";
 
-        System.out.println(page);
-        System.exit(0);
+//        System.out.println(page);
+//        System.exit(0);
         return page;
     }
 
