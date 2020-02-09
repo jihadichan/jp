@@ -120,7 +120,7 @@ public class RunDjtToMarkDownConverter {
         // ------------------------------------------------------------------------------------------ //
         if (djtGrammarPage.grammarBookImagePath != null) {
             final String grammarBookPage = "Grammar Book Page";
-            toc.append("![" + tocCount.incrementAndGet() + ". " + grammarBookPage + "](" + grammarBookPage.toLowerCase() + ")<br>\n");
+            toc.append(createTocEntry(tocCount.incrementAndGet(), grammarBookPage));
             page += "## " + grammarBookPage + "\n\n";
             page += "![](" + djtGrammarPage.grammarBookImagePath + ")\n\n";
         }
