@@ -25,11 +25,12 @@ public class RunDjtToMarkDownConverter {
         // Create grammar detail pages
         createItemsFolder();
         reader.getSentences().forEach(djtGrammarPage ->
-            writeToFile(createGrammarPage(djtGrammarPage), itemsFolder.resolve(djtGrammarPage.markdownFileName + ".md")));
+                writeToFile(createGrammarPage(djtGrammarPage), itemsFolder.resolve(djtGrammarPage.markdownFileName + ".md")));
     }
 
     private static String createGrammarPage(final DjtGrammarPage djtGrammarPage) {
         String page = "# " + djtGrammarPage.grammarItem + "\n\n";
+
 
         // ------------------------------------------------------------------------------------------ //
         // SUMMARY
@@ -69,6 +70,7 @@ public class RunDjtToMarkDownConverter {
         }
         page += "</table>\n\n";
 
+
         // ------------------------------------------------------------------------------------------ //
         // EXAMPLE SENTENCES
         // ------------------------------------------------------------------------------------------ //
@@ -82,6 +84,23 @@ public class RunDjtToMarkDownConverter {
                     "</tr>";
         }
         page += "</table>\n\n";
+
+
+        // ------------------------------------------------------------------------------------------ //
+        // FORMATION
+        // ------------------------------------------------------------------------------------------ //
+
+        if (djtGrammarPage.syntaxHtml != null && !djtGrammarPage.syntaxHtml.equals("")) {
+            page += djtGrammarPage.syntaxHtml + "\n\n";
+        }
+
+        // ------------------------------------------------------------------------------------------ //
+        // GRAMMAR DETAILED EXPLANATION
+        // ------------------------------------------------------------------------------------------ //
+
+        if (djtGrammarPage.grammarBookHtml != null && !djtGrammarPage.grammarBookHtml.equals("")) {
+            page += djtGrammarPage.grammarBookHtml + "\n\n";
+        }
 
 //        System.out.println(page);
 //        System.exit(0);
