@@ -24,9 +24,8 @@ public class RunDjtToMarkDownConverter {
 
         // Create grammar detail pages
         createItemsFolder();
-        reader.getSentences().forEach(djtGrammarPage -> {
-            writeToFile(createGrammarPage(djtGrammarPage), itemsFolder.resolve(djtGrammarPage.markdownFileName + ".md"));
-        });
+        reader.getSentences().forEach(djtGrammarPage ->
+            writeToFile(createGrammarPage(djtGrammarPage), itemsFolder.resolve(djtGrammarPage.markdownFileName + ".md")));
     }
 
     private static String createGrammarPage(final DjtGrammarPage djtGrammarPage) {
