@@ -14,7 +14,7 @@ public class DjtShortenedCsvReader {
     private final List<String> inputCsvLines;
     private final List<DjtGrammarPage> sentences = new ArrayList<>();
 
-    public DjtShortenedCsvReader(final String pathToShortenedCsvBaseFile) {
+    DjtShortenedCsvReader(final String pathToShortenedCsvBaseFile) {
         this.inputCsvLines = loadCsvLinesAsList(pathToShortenedCsvBaseFile);
         this.checkForInvalidLines();
         this.inputCsvLines.forEach(line ->
@@ -27,7 +27,7 @@ public class DjtShortenedCsvReader {
         }
 
         this.inputCsvLines.forEach(line -> {
-
+            // todo do we have invalid lines?
         });
     }
 

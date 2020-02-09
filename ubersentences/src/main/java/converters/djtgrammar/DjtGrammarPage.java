@@ -1,5 +1,7 @@
 package converters.djtgrammar;
 
+import java.io.IOException;
+import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
@@ -10,10 +12,12 @@ import java.util.concurrent.atomic.AtomicInteger;
 import java.util.regex.Pattern;
 
 import static config.Config.COLUMN_DELIMITER;
+import static converters.djtgrammar.RunDjtToMarkDownConverter.grammarGuide;
 
 public class DjtGrammarPage {
 
-    private static final Path ankiRootFolder = Paths.get("/home/cc/.local/share/Anki2/User 1/collection.media");
+    private static final Path imageBackupFolder = Paths.get("data/djt/bookpages_BACKUP");
+    private static final Path imageDestinationFolder = Paths.get("img");
     private static final Pattern cellQuotePattern = Pattern.compile("^\"|\"$");
     private static final Pattern doubleQuotePattern = Pattern.compile("\"\"");
     private static final Pattern standardQuotePattern = Pattern.compile("\"");
@@ -33,7 +37,7 @@ public class DjtGrammarPage {
     final String grammarSummary;
     final String equivalent;
     final List<DjtSentence> sentences;
-    final Path grammarBookImagePath; // TODO move images to project folder
+    final Path grammarBookImagePath;
     final String grammarBookHtml;
     final String syntaxHtml;
     final String partOfSpeech;
@@ -52,9 +56,9 @@ public class DjtGrammarPage {
         this.grammarBookHtml = removeEscapedQuotes(getAtIndexOrNull(36, cells));
         this.syntaxHtml = removeEscapedQuotes(getAtIndexOrNull(37, cells));
         this.partOfSpeech = getAtIndexOrNull(38, cells);
-        String relExp = getAtIndexOrNull(39, cells);
+        final String relExp = getAtIndexOrNull(39, cells);
         this.relatedExpression = relExp != null ? expressionCleaningPattern.matcher(relExp).replaceAll("") : null;
-        String antExp = getAtIndexOrNull(40, cells);
+        final String antExp = getAtIndexOrNull(40, cells);
         this.antonymExpression = antExp != null ? expressionCleaningPattern.matcher(antExp).replaceAll("") : null;
         this.markdownFileName = String.valueOf(fileNameCount.getAndIncrement());
     }
@@ -68,11 +72,24 @@ public class DjtGrammarPage {
     }
 
     private static Path createImagePath(final String text) {
-        final Path path = ankiRootFolder.resolve(imagePathPattern.matcher(text).replaceAll(""));
-        if (!path.toFile().exists()) {
-            throw new IllegalStateException("Image file in card does not exist: " + path);
+        final String fileName = imagePathPattern.matcher(text).replaceAll("");
+
+        final Path destination = grammarGuide.resolve(imageDestinationFolder.resolve(fileName));
+        if (!destination.toFile().exists()) {
+            final Path backup = imageBackupFolder.resolve(fileName);
+            if (!backup.toFile().exists()) {
+                throw new IllegalStateException("Can't find grammar book image '" + fileName + "'. Search in " +
+                        "'" + destination + "' and '" + backup + "'");
+            }
+            try {
+                Files.copy(backup, destination);
+            } catch (final IOException e) {
+                throw new IllegalStateException("Failed to copy '" + fileName + "'. From " +
+                        "'" + destination + "' to '" + backup + "'");
+            }
         }
-        return path;
+
+        return Paths.get("..").resolve(imageDestinationFolder.resolve(fileName));
     }
 
     private static String getAtIndexOrNull(final int index, final List<String> cells) {
