@@ -39,7 +39,7 @@ public class RunDjtToMarkDownConverter {
         // SUMMARY
         // ------------------------------------------------------------------------------------------ //
         final String summary = "Summary";
-        toc.append("![" + tocCount.incrementAndGet() + ". " + summary + "](" + summary.toLowerCase() + ")<br>\n");
+        toc.append(createTocEntry(tocCount.incrementAndGet(), summary));
         page += "## " + summary + "\n\n" +
                 "<table>";
 
@@ -81,7 +81,7 @@ public class RunDjtToMarkDownConverter {
         // ------------------------------------------------------------------------------------------ //
         if (djtGrammarPage.syntaxHtml != null && !djtGrammarPage.syntaxHtml.equals("")) {
             final String formation = "Formation";
-            toc.append("![" + tocCount.incrementAndGet() + ". " + formation + "](" + formation.toLowerCase() + ")<br>\n");
+            toc.append(createTocEntry(tocCount.incrementAndGet(), formation));
             page += "## " + formation + "\n\n";
             page += djtGrammarPage.syntaxHtml + "\n\n";
         }
@@ -91,7 +91,7 @@ public class RunDjtToMarkDownConverter {
         // EXAMPLE SENTENCES
         // ------------------------------------------------------------------------------------------ //
         final String exampleSentences = "Example Sentences";
-        toc.append("![" + tocCount.incrementAndGet() + ". " + exampleSentences + "](" + exampleSentences.toLowerCase() + ")<br>\n");
+        toc.append(createTocEntry(tocCount.incrementAndGet(), exampleSentences));
         page += "## " + exampleSentences + "\n\n" +
                 "<table>";
 
@@ -109,7 +109,7 @@ public class RunDjtToMarkDownConverter {
         // ------------------------------------------------------------------------------------------ //
         if (djtGrammarPage.grammarBookHtml != null && !djtGrammarPage.grammarBookHtml.equals("")) {
             final String explanation = "Explanation";
-            toc.append("![" + tocCount.incrementAndGet() + ". " + explanation + "](" + explanation.toLowerCase() + ")<br>\n");
+            toc.append(createTocEntry(tocCount.incrementAndGet(), explanation));
             page += "## " + explanation + "\n\n";
             page += djtGrammarPage.grammarBookHtml + "\n\n";
         }
@@ -125,8 +125,12 @@ public class RunDjtToMarkDownConverter {
             page += "![](" + djtGrammarPage.grammarBookImagePath + ")\n\n";
         }
 
-        page = toc.toString() +"\n\n"+ page;
+        page = toc.toString() + "\n\n" + page;
         return page;
+    }
+
+    private static String createTocEntry(final int count, final String name) {
+        return "[" + count + ". " + name + "](#" + name.toLowerCase().replaceAll(" ", "-").trim() + ")<br>\n";
     }
 
     private static void createItemsFolder(final Path folderName) {
