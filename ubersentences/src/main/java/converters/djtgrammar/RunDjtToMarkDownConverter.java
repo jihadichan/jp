@@ -89,18 +89,20 @@ public class RunDjtToMarkDownConverter {
         // ------------------------------------------------------------------------------------------ //
         // FORMATION
         // ------------------------------------------------------------------------------------------ //
-
         if (djtGrammarPage.syntaxHtml != null && !djtGrammarPage.syntaxHtml.equals("")) {
+            page += "## Formation\n\n";
             page += djtGrammarPage.syntaxHtml + "\n\n";
         }
 
         // ------------------------------------------------------------------------------------------ //
         // GRAMMAR DETAILED EXPLANATION
         // ------------------------------------------------------------------------------------------ //
-
         if (djtGrammarPage.grammarBookHtml != null && !djtGrammarPage.grammarBookHtml.equals("")) {
+            page += "## Explanation\n\n";
             page += djtGrammarPage.grammarBookHtml + "\n\n";
         }
+
+
 
 //        System.out.println(page);
 //        System.exit(0);
