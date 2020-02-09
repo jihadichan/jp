@@ -10,10 +10,11 @@ import java.util.List;
 import java.util.concurrent.atomic.AtomicBoolean;
 import java.util.concurrent.atomic.AtomicInteger;
 
+import static converters.djtgrammar.DjtConfig.grammarGuide;
+import static converters.djtgrammar.DjtConfig.pathToShortenedCsvBaseFile;
+
 public class RunDjtToMarkDownConverter {
 
-    private static final String pathToShortenedCsvBaseFile = "data/djt/shortened.csv";
-    public static final Path grammarGuide = Paths.get("grammarguide");
     private static final Path itemsFolder = Paths.get("items");
     private static final Path imageFolder = Paths.get("img");
 
@@ -51,7 +52,7 @@ public class RunDjtToMarkDownConverter {
         }
         if (djtGrammarPage.equivalent != null && !djtGrammarPage.equivalent.equals("")) {
             page += "<tr>" +
-                    "   <td>English</td>" +
+                    "   <td>Equivalent</td>" +
                     "   <td>" + djtGrammarPage.equivalent + "</td>" +
                     "</tr>";
         }

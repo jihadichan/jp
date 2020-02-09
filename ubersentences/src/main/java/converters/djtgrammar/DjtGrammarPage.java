@@ -12,7 +12,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 import java.util.regex.Pattern;
 
 import static config.Config.COLUMN_DELIMITER;
-import static converters.djtgrammar.RunDjtToMarkDownConverter.grammarGuide;
+import static converters.djtgrammar.DjtConfig.grammarGuide;
 
 public class DjtGrammarPage {
 
