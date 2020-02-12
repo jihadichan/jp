@@ -147,10 +147,10 @@ function renderNoteLists(jQuerySelection) {
             var word = split[0].replace(/^# */, "").trim();
             var translation = split.length === 2 ? split[1].trim() : split.slice(1, split.length).join("");
 
-            if(word.match(/.*\[.*?]/)) {
+            if (word.match(/.*\[.*?]/)) {
                 var wordSplit = word.split("\[");
                 var rt = wordSplit.slice(1, wordSplit.length).join("").replace("]", "");
-                word = "<ruby>"+wordSplit[0]+"<rt>"+rt+"</rt></ruby>";
+                word = "<ruby>" + wordSplit[0] + "<rt>" + rt + "</rt></ruby>";
             }
 
             table += "<tr><td class='vocab-word'>" + word + "</td><td class='vocab-translation'>" + translation + "</td></tr>";
@@ -177,9 +177,18 @@ function renderNoteMarkers(jQuerySelection) {
 }
 
 function renderSourceCell() {
-    var source = $('#source').html();
+    var raw = $('#source').html();
+    var source = raw;
     if (source !== "") {
-        $('#source-cell').html("<td>" + source + "</td>");
+        var regex = /\bhttp.*\b/;
+        var match = regex.exec(source);
+        while (match != null) {
+            source = source.replace(regex, "");
+            raw = raw.replace(regex, "<a target='_blank' href='"+match[0]+"'>"+match[0]+"</a>");
+            match = regex.exec(source);
+        }
+
+        $('#source-cell').html("<td>" + raw + "</td>");
     }
 }
 

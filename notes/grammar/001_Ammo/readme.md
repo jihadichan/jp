@@ -1,42 +1,4 @@
 <!--- FILE_TOC -->
-[1. Jap Ammo](#jap-ammo)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.1 Random notes](#random-notes)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.2 は & です](#--)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.2.1 が Particle](#-particle)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.3 This / That + adjectives これ / それ / あれ](#this--that--adjectives-----)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.4 Noun Negation](#noun-negation)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.5 I & NA adjectives](#i--na-adjectives)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.6 Adjective Negation](#adjective-negation)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.7 Adjectives Past & Past Negatives](#adjectives-past--past-negatives)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.8 Verbs basics & を particle](#verbs-basics---particle)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.8.1 を particle](#-particle)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.9 *Verb*ing is *adj.*](#verbing-is-adj)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.10 Verb Masu (Polite) form](#verb-masu-polite-form)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.11 Particles at / in / with に / で / と](#particles-at--in--with-----)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.12 negation of masu verbs ません](#negation-of-masu-verbs-)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.13 past tense & past negative of masu verbs](#past-tense--past-negative-of-masu-verbs)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.14 て-form](#-form)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.14.1 Request (TE) form + Present Continuous (doING)](#request-te-form--present-continuous-doing)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.14.2 TE form う/つ/る ending](#te-form--ending)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.14.3 TE form く & ぐ ending](#te-form----ending)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.14.4 TE form む/ぶ/ぬ ending](#te-form--ending)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.14.5 TE form す, する & くる ending](#te-form-----ending)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.14.6 OVERVIEW -て form conjugation](#overview---form-conjugation)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.14.7 Examples](#examples)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.15 INFORMAL PAST TENSE](#informal-past-tense)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.16 Have been / done たことがある](#have-been--done-)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.17 Want to / たい](#want-to--)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.18 DON'T Want to do](#dont-want-to-do)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.19 May / Can I do ~? Can I use?](#may--can-i-do--can-i-use)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.20 INFORMAL NEGATION VERBS (ない do / will not)](#informal-negation-verbs--do--will-not)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.21 Don't do ~ (ないでください）](#dont-do--)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.22 Informal Past Negative form of Verbs](#informal-past-negative-form-of-verbs)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.23 Haven't done yet (てない)](#havent-done-yet-)<br>
-<!--- TOC_END -->
-
-
-
-
 
 
 
@@ -594,7 +556,19 @@ More words related to the position of something:
 
 
 
-　ー　決めていません
+## Basis Words
+
+| Japanese | English                         |
+| -------- | ------------------------------- |
+| ます     | used to                         |
+| ある     | to be, to exist                 |
+| ない     | nonexistent,not (i.e. negation) |
+| じゃない | is not, am not, are not         |
+|          |                                 |
+|          |                                 |
+|          |                                 |
+|          |                                 |
+|          |                                 |
 
 
 
