@@ -1,11 +1,13 @@
 package converters.djtgrammar;
 
+import com.google.gson.GsonBuilder;
 import converters.djtgrammar.DjtGrammarPage.DjtSentence;
 
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.atomic.AtomicBoolean;
 import java.util.concurrent.atomic.AtomicInteger;
@@ -17,6 +19,7 @@ public class RunDjtToMarkDownConverter {
 
     private static final Path itemsFolder = Paths.get("items");
     private static final Path imageFolder = Paths.get("img");
+    private static final List<DjtSearchData> searchDataList = new ArrayList<>();
 
     public static void main(final String[] args) {
         setUpGrammarFolder();
@@ -25,9 +28,19 @@ public class RunDjtToMarkDownConverter {
         // Index
         writeToFile(createIndexPage(reader.getSentences()), Paths.get("readme.md"));
 
+        // Search Data JS
+        writeToFile(createSearchDataJs(), Paths.get("jihadichan.github.io/searchData.js"));
+
         // Create grammar detail pages
         reader.getSentences().forEach(djtGrammarPage ->
                 writeToFile(createGrammarPage(djtGrammarPage), itemsFolder.resolve(djtGrammarPage.markdownFileName + ".md")));
+    }
+
+    private static String createSearchDataJs() {
+        String js = "var pageBaseUrl = \"" + DjtConfig.repoBaseUrl + "/"+itemsFolder.toString()+"/\";\n";
+        js += "var grammarItems = " + new GsonBuilder().setPrettyPrinting().create().toJson(searchDataList) + ";";
+
+        return js;
     }
 
     private static String createGrammarPage(final DjtGrammarPage djtGrammarPage) {
@@ -153,6 +166,13 @@ public class RunDjtToMarkDownConverter {
         String page = "# Grammar Guide\n\n<table>";
 
         for (final DjtGrammarPage grammarPage : grammarPages) {
+            final DjtSearchData searchData = new DjtSearchData();
+            searchData.fln = grammarPage.markdownFileName;
+            searchData.itm = grammarPage.grammarItem;
+            searchData.sum = grammarPage.grammarSummary.equals("") ? null : grammarPage.grammarSummary;
+            searchData.eqv = grammarPage.equivalent.equals("") ? null : grammarPage.equivalent;
+            searchData.pos = grammarPage.partOfSpeech;
+
             page += "<tr>" +
                     "<td>" + grammarPage.markdownFileName + ". " +
                     "<a href='items/" + grammarPage.markdownFileName + ".md'>" + grammarPage.grammarItem + "</a>" +
@@ -164,6 +184,7 @@ public class RunDjtToMarkDownConverter {
             page += grammarPage.partOfSpeech == null ? "" : "<li>" + grammarPage.partOfSpeech + "</li>";
             page += "</ul>" +
                     "</td></tr>";
+            searchDataList.add(searchData);
         }
         page += "</table>";
 
@@ -171,7 +192,7 @@ public class RunDjtToMarkDownConverter {
     }
 
     private static void setUpGrammarFolder() {
-        System.out.println("Checking if " + grammarGuide + "... ");
+        System.out.println("Checking " + grammarGuide + "... ");
         if (!grammarGuide.toFile().exists() || !grammarGuide.toFile().isDirectory()) {
             throw new IllegalStateException("Can't find folder " + grammarGuide + "/ - Must be in the root folder of the project");
         }
@@ -183,6 +204,7 @@ public class RunDjtToMarkDownConverter {
             Files.walk(grammarGuide)
                     .filter(path -> !path.toString().equals(grammarGuide.toString()))
                     .filter(path -> !path.toString().endsWith(".png"))
+                    .filter(path -> !path.toString().contains("jihadichan.github.io"))
                     .forEach(path -> {
                         final String pathAsString = path.toString();
                         boolean isAllowed = false;
@@ -213,6 +235,17 @@ public class RunDjtToMarkDownConverter {
             createItemsFolder(itemsFolder);
         }
 
+    }
+
+    /**
+     * For creating the JSON for search page
+     */
+    static class DjtSearchData {
+        String itm = null; // Grammar item
+        String fln = null; // File name
+        String sum = null; // Summary
+        String eqv = null; // Equivalent
+        String pos = null; // Parts of speech
     }
 
 }
