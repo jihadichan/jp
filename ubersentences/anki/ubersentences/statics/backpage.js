@@ -6,7 +6,10 @@ try {
     $('#debug').text("JSON parse error. " + e.message);
 }
 var highlightToggle = true;
-var isRevealed = false;
+var CORS_PROXY = "https://cors-anywhere.herokuapp.com/";
+var currentVocabMarkupObj = {};
+var lastCalledUrl = "";
+var lastReceivedResponse = "";
 
 /*********************************************************************************/
 // RENDERED SECTION
@@ -17,6 +20,7 @@ function removeOverlay() {
 }
 
 function addShowSolutionClickEvent() {
+    removeOverlay(); // todo remove
     $('#solution').on("click", function () {
         removeOverlay();
     });
@@ -31,6 +35,7 @@ function renderAnalysisTable(shouldHighLight) {
 
     $(data).each(function (index, analysisElement) {
         if (analysisElement.partsOfSpeech && $.inArray("記号", analysisElement.partsOfSpeech) === -1) {
+            var word = analysisElement.baseForm ? analysisElement.baseForm : analysisElement.surface;
             var surface = wrapWithHighlight(shouldHighLight, analysisElement, analysisElement.surface);
             var details = "<div class='analysis-inner-table'><table>";
 
@@ -64,9 +69,11 @@ function renderAnalysisTable(shouldHighLight) {
             var other = "<div class='analysis-inner-table'><table>";
             other += analysisElement.freqNF !== "99999" ? "<tr><td class='other-cell'>Freq. NF:</td><td>" + analysisElement.freqNF + "</td></tr>" : "";
             other += analysisElement.freqWK !== "99999" ? "<tr><td class='other-cell'>Freq. WK:</td><td>" + analysisElement.freqWK + "</td></tr>" : "";
+            other += "<tr><td colspan='2' class='other-cell add-vocab'>" +
+                "<a href=\"#modal\" rel=\"modal:open\" onclick='fetchWordFromJishoApi(\"" + word.trim() + "\")'>Add</a>" +
+                "</td></tr>";
             other += "</table></div>";
 
-            var word = analysisElement.baseForm ? analysisElement.baseForm : analysisElement.surface;
             table += "<tr>" +
                 "<td class='part-cell' onclick='renderJishoWithWord(\"" + word + "\")'>" + surface + "</td>" +
                 "<td class='analysis-cell'>" + details + "</td>" +
@@ -138,29 +145,40 @@ function renderNoteLists(jQuerySelection) {
     }
 
     // Create vocab table
+    var table = createVocabTableHtml(vocabLines);
+    html += table;
+
+    jQuerySelection.html(html)
+}
+
+function createVocabTableHtml(vocabLines) {
     var table = "";
     if (vocabLines.length > 0) {
         table += "<div class='vocab'>Vocab</div><table class='vocab-table'>";
 
         $(vocabLines).each(function (index, value) {
-            var split = value.split(":");
-            var word = split[0].replace(/^# */, "").trim();
-            var translation = split.length === 2 ? split[1].trim() : split.slice(1, split.length).join("");
+            if (value !== "") {
+                var split = value.split(":");
+                var word = split[0].replace(/^# */, "").trim();
+                var translation = split.length === 2 ? split[1].trim() : split.slice(1, split.length).join(":");
 
-            if (word.match(/.*\[.*?]/)) {
-                var wordSplit = word.split("\[");
-                var rt = wordSplit.slice(1, wordSplit.length).join("").replace("]", "");
-                word = "<ruby>" + wordSplit[0] + "<rt>" + rt + "</rt></ruby>";
+                if (word.match(/.*\[.*?]/)) {
+                    var wordSplit = word.split("\[");
+                    var rt = wordSplit.slice(1, wordSplit.length).join("").replace("]", "");
+                    word = "<ruby>" + wordSplit[0] + "<rt>" + rt + "</rt></ruby>";
+                }
+                var wordCell = word === "" ? "style='border:0 !important;'" : "";
+                table += "" +
+                    "<tr>" +
+                    "   <td class='vocab-word' " + wordCell + " nowrap>" + word + "</td>" +
+                    "   <td class='vocab-translation'>" + translation + "</td>" +
+                    "</tr>";
             }
-
-            table += "<tr><td class='vocab-word'>" + word + "</td><td class='vocab-translation'>" + translation + "</td></tr>";
         });
 
         table += "</table>";
     }
-    html += table;
-
-    jQuerySelection.html(html)
+    return table;
 }
 
 function renderNoteMarkers(jQuerySelection) {
@@ -184,7 +202,7 @@ function renderSourceCell() {
         var match = regex.exec(source);
         while (match != null) {
             source = source.replace(regex, "");
-            raw = raw.replace(regex, "<a target='_blank' href='"+match[0]+"'>"+match[0]+"</a>");
+            raw = raw.replace(regex, "<a target='_blank' href='" + match[0] + "'>" + match[0] + "</a>");
             match = regex.exec(source);
         }
 
@@ -213,9 +231,7 @@ function wrapWithHighlight(shouldHighlight, analysisElement, sentencePart) {
     // Base part of speech
     var pos = analysisElement.partsOfSpeech[0];
 
-    // Case based overwrite ...
-    // todo mmmh.. can we do that better? Seems to be a crappy solution. Switch is limited, but otherwise we would
-    //  need a shitload of ifs with indexOf()
+    // Case based overwrite ... yeah...
     if (analysisElement.partsOfSpeech[1]) {
         switch (analysisElement.partsOfSpeech[1]) {
             case "代名詞":
@@ -300,7 +316,15 @@ function renderOptions() {
     renderAnalysisButton(jQuerySelection);
     renderTranslateButton(jQuerySelection);
     renderSourceButton(jQuerySelection);
+    renderVocabButton(jQuerySelection);
     renderMailToButton(jQuerySelection);
+}
+
+function renderVocabButton(jQuerySelection) {
+    jQuerySelection.html(jQuerySelection.html() + "" +
+        "<button class='options-button' onclick='renderJishoVocabLookup()'>" +
+        "<a href='#modal' rel='modal:open'>Vocab</a>" +
+        "</button>");
 }
 
 function renderSourceButton(jQuerySelection) {
@@ -364,8 +388,244 @@ function replaySentence() {
 // JISHO SCRAPER
 /*********************************************************************************/
 
-// todo can't get this shit to work. HTTP requests are blocked by CORS policy. Scraping an iframe also not
-//  possible for the same reason.
+function createUrl(word) {
+    return CORS_PROXY + "https://jisho.org/api/v1/search/words?keyword=" + word;
+}
+
+function fetchWordFromJishoApi(word) {
+    var modal = $('#modal');
+
+    var url = createUrl(word);
+    if (url === lastCalledUrl) {
+        renderTranslationTable(modal, lastReceivedResponse);
+        return;
+    }
+    lastCalledUrl = url;
+
+    jQuery.ajax({
+        type: "GET",
+        url: url,
+        beforeSend: function () {
+            modal.html("<div class='loading'>Loading</div>");
+        },
+        success: function (body) {
+            lastReceivedResponse = body;
+            renderTranslationTable(modal, body);
+        },
+        error: function (jqXHR, textStatus, errorThrown) {
+            // todo show in modal
+            $('#debug').text("Couldn't fetch response from Jisho API. Probably cross origin proxy failed or API is down.")
+        }
+    });
+}
+
+function renderTranslationTable(modal, body) {
+    var data = body.data;
+    var html = "";
+
+    // OUTPUT
+    html += "" +
+        "<div class='vocab-output'>" +
+        "   <div id='vocab-preview'></div>" +
+        "   <label><textarea id='vocab-markup'></textarea><button style='float: right' onclick='resetMarkupObj()'>Reset</button></label>" +
+        "</div>";
+
+    // WORDS
+    html += "<div class='translation-table'><table>";
+    $(data).each(function (index, entity) {
+
+        var word = extractWord(entity);
+        var rt = word.reading ? "<rt>" + word.reading + "</rt>" : "";
+        html += "" +
+            "<tr class='translation-row'>" +
+            "   <td class='translation-writing'>" +
+            "       <ruby>" + word.writing + rt + "</ruby>" +
+            "   </td>" +
+            "   <td class='translation-english'><ul>";
+
+        $(entity.senses).each(function (index2, sense) {
+            var entry = {
+                word: word,
+                allForms: extractOtherForms(entity.japanese),
+                sense: sense.english_definitions.join("; ") + createTagsAndInfo(sense)
+            };
+            html += "<li class='translation-sense' onclick='addToVocabMarkupTextarea(\"" + escape(encodeURIComponent(JSON.stringify(entry))) + "\")'>" + sense.english_definitions.join("; ") + "</li>";
+        });
+        html += "" +
+            "   </ul></td>" +
+            "</tr>";
+    });
+    html += "</table></div>";
+    modal.html(html);
+
+    updateVocabMarkUp();
+}
+
+function createTagsAndInfo(sense) {
+    var info = "";
+    if (!sense.tags && !sense.info) {
+        return "";
+    }
+    if (sense.tags.length > 0 || sense.info.length > 0) {
+        info += "<div class=\"info\">(";
+        var infoArray = [];
+        if (sense.parts_of_speech.length > 0) infoArray.push(sense.parts_of_speech.filter(function (val) {return val;}).join("; "));
+        if (sense.info.length > 0) infoArray.push(sense.info.filter(function (val) {return val;}).join("; "));
+        if (sense.tags.length > 0) infoArray.push(sense.tags.filter(function (val) {return val;}).join("; "));
+        info += infoArray.filter(function (val) {return val;}).join("; ");
+        info += ")</div>";
+    }
+    info = info.replace("Usually written using kana alone", "usu. written as kana");
+
+    return info;
+}
+
+function resetMarkupObj() {
+    currentVocabMarkupObj = {};
+    updateVocabMarkUp();
+}
+
+function updateVocabMarkUp() {
+    var markup = createMarkupText();
+    $('#vocab-markup').val(markup);
+    $('#vocab-preview').html(createVocabTableHtml(markup.split("\n")));
+}
+
+function addToVocabMarkupTextarea(entry) {
+    entry = JSON.parse(decodeURIComponent(unescape(entry)));
+
+    // Create new word
+    if (!currentVocabMarkupObj[entry.word.writing]) {
+        // Main word
+        var word = {};
+        word.word = [entry.word];
+
+        // Other Forms
+        var otherForms = addOtherForms(entry.allForms, entry.word);
+        if (otherForms.length > 0) {
+            word.word = word.word.concat(otherForms);
+        }
+
+        // Senses
+        word.senses = [];
+        word.senses.push(entry.sense);
+        currentVocabMarkupObj[entry.word.writing] = word;
+    } else { // Add to existing word
+        var isAlreadyInSenses = false;
+        $(currentVocabMarkupObj[entry.word.writing].senses).each(function (index, existingSense) {
+            if (existingSense === entry.sense) {
+                isAlreadyInSenses = true;
+            }
+        });
+        if (!isAlreadyInSenses) {
+            currentVocabMarkupObj[entry.word.writing].senses.push(entry.sense);
+        }
+    }
+
+    updateVocabMarkUp();
+}
+
+function addOtherForms(allForms, existingForm) {
+    var otherForms = [];
+    $.each(allForms, function (index, word) {
+        if (word.writing !== existingForm.writing) {
+            otherForms.push(word);
+        }
+    });
+    return otherForms;
+}
+
+function extractOtherForms(otherFormsRaw) {
+    var otherForms = [];
+    $.each(otherFormsRaw, function (index, entity) {
+        var word = {};
+        if (entity.word) {
+            word.writing = entity.word;
+        }
+        if (entity.reading) {
+            if (word.writing) {
+                word.reading = entity.reading;
+            } else {
+                word.writing = entity.reading;
+            }
+        }
+        otherForms.push(word);
+    });
+
+    return otherForms;
+}
+
+function createMarkupText() {
+    var markup = "";
+    $.each(currentVocabMarkupObj, function (key, row) {
+        var writing = row.word[0].writing;
+        var reading = row.word[0].reading ? "<rt>" + row.word[0].reading + "</rt>" : "";
+        var otherForms = "";
+        if (row.word.length > 1) {
+            otherForms += "<div class='ofrms'><div>oFrms</div>";
+            for (var x = 1; x < row.word.length; x++) {
+                otherForms += "<div>" + row.word[x].writing + "</div>";
+            }
+            otherForms += "</div>";
+        }
+        markup += "#<ruby>" + writing + reading + "</ruby>" + otherForms + ":<ul><li>" + row.senses[0] + "</li>";
+        // if (row.senses.length > 1) {
+        //     for (var i = 1; i < row.senses.length; i++) {
+        //         markup += "#:" + row.senses[i] + "\n";
+        //     }
+        // }
+
+        if (row.senses.length > 1) {
+            for (var i = 1; i < row.senses.length; i++) {
+                markup += "<li>" + row.senses[i] + "</li>";
+            }
+        }
+        markup += "</ul>\n";
+    });
+    return markup.replace(/\n$/, "");
+}
+
+function extractWord(entity) {
+    var word = {};
+    if (entity.japanese[0].word) {
+        word.writing = entity.japanese[0].word;
+    }
+    if (entity.japanese[0].reading) {
+        if (word.writing) {
+            word.reading = entity.japanese[0].reading;
+        } else {
+            word.writing = entity.japanese[0].reading;
+        }
+    }
+    return word;
+}
+
+function renderJishoVocabLookup() {
+    var form = "";
+
+    form += "" +
+        "<div class=\"search-inputs\">" +
+        "<label>" +
+        "   <span class=\"hint\">Looks up words via Jisho API</span>" +
+        "   <input type=\"text\" id=\"search-field\" placeholder=\" Search...\"/>" +
+        "   <input type=\"button\" id='search-button' onclick=\"searchWord()\" value=\"Search\">" +
+        "</label>" +
+        "</div>";
+
+    $('#modal').html(form);
+    $('#search-field').keypress(function (e) {
+        if (e.keyCode === 13) {
+            searchWord();
+        }
+    });
+}
+
+function searchWord() {
+    var term = $('#search-field').val().trim();
+    if (term !== "") {
+        fetchWordFromJishoApi(term);
+    }
+}
 
 
 /*********************************************************************************/
@@ -377,3 +637,4 @@ renderOptions();
 // renderAnalysisTable(); // Done in renderHighlights()
 renderHighlights(); // Renders also sentence
 addShowSolutionClickEvent();
+
