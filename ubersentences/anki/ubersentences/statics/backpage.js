@@ -411,6 +411,7 @@ function fetchWordFromJishoApi(word) {
         success: function (body) {
             lastReceivedResponse = body;
             renderTranslationTable(modal, body);
+            console.log(body);
         },
         error: function (jqXHR, textStatus, errorThrown) {
             // todo show in modal
@@ -435,6 +436,7 @@ function renderTranslationTable(modal, body) {
     $(data).each(function (index, entity) {
 
         var word = extractWord(entity);
+        console.log("extracted", word);
         var rt = word.reading ? "<rt>" + word.reading + "</rt>" : "";
         html += "" +
             "<tr class='translation-row'>" +
@@ -466,13 +468,21 @@ function createTagsAndInfo(sense) {
     if (!sense.tags && !sense.info) {
         return "";
     }
-    if (sense.tags.length > 0 || sense.info.length > 0) {
+    if (sense.tags.length > 0 || sense.info.length > 0 || sense.parts_of_speech.length) {
         info += "<div class=\"info\">(";
         var infoArray = [];
-        if (sense.parts_of_speech.length > 0) infoArray.push(sense.parts_of_speech.filter(function (val) {return val;}).join("; "));
-        if (sense.info.length > 0) infoArray.push(sense.info.filter(function (val) {return val;}).join("; "));
-        if (sense.tags.length > 0) infoArray.push(sense.tags.filter(function (val) {return val;}).join("; "));
-        info += infoArray.filter(function (val) {return val;}).join("; ");
+        if (sense.parts_of_speech.length > 0) infoArray.push(sense.parts_of_speech.filter(function (val) {
+            return val;
+        }).join("; "));
+        if (sense.info.length > 0) infoArray.push(sense.info.filter(function (val) {
+            return val;
+        }).join("; "));
+        if (sense.tags.length > 0) infoArray.push(sense.tags.filter(function (val) {
+            return val;
+        }).join("; "));
+        info += infoArray.filter(function (val) {
+            return val;
+        }).join("; ");
         info += ")</div>";
     }
     info = info.replace("Usually written using kana alone", "usu. written as kana");
@@ -493,7 +503,7 @@ function updateVocabMarkUp() {
 
 function addToVocabMarkupTextarea(entry) {
     entry = JSON.parse(decodeURIComponent(unescape(entry)));
-
+    console.log("vocab", entry);
     // Create new word
     if (!currentVocabMarkupObj[entry.word.writing]) {
         // Main word
@@ -521,6 +531,7 @@ function addToVocabMarkupTextarea(entry) {
             currentVocabMarkupObj[entry.word.writing].senses.push(entry.sense);
         }
     }
+    console.log("currentVocabMarkupObj", currentVocabMarkupObj);
 
     updateVocabMarkUp();
 }
@@ -555,6 +566,35 @@ function extractOtherForms(otherFormsRaw) {
     return otherForms;
 }
 
+// todo delete, pre oFrms rewrite
+// function createMarkupText() {
+//     var markup = "";
+//     $.each(currentVocabMarkupObj, function (key, row) {
+//         var writing = row.word[0].writing;
+//         var reading = row.word[0].reading ? "<rt>" + row.word[0].reading + "</rt>" : "";
+//         var otherForms = "";
+//         if (row.word.length > 1) {
+//             otherForms += "<div class='ofrms'><div>oFrms</div>";
+//             for (var x = 1; x < row.word.length; x++) {
+//                 var oFrmWriting = row.word[x].writing;
+//                 var oFrmReading = row.word[x].reading ? "<rt>" + row.word[x].reading + "</rt>" : "";
+//
+//                 otherForms += "<div><ruby>" + oFrmWriting + oFrmReading + "</ruby></div>";
+//             }
+//             otherForms += "</div>";
+//         }
+//         markup += "#<ruby>" + writing + reading + "</ruby>" + otherForms + ":<ul><li>" + row.senses[0] + "</li>";
+//
+//         if (row.senses.length > 1) {
+//             for (var i = 1; i < row.senses.length; i++) {
+//                 markup += "<li>" + row.senses[i] + "</li>";
+//             }
+//         }
+//         markup += "</ul>\n";
+//     });
+//     return markup.replace(/\n$/, "");
+// }
+
 function createMarkupText() {
     var markup = "";
     $.each(currentVocabMarkupObj, function (key, row) {
@@ -562,23 +602,25 @@ function createMarkupText() {
         var reading = row.word[0].reading ? "<rt>" + row.word[0].reading + "</rt>" : "";
         var otherForms = "";
         if (row.word.length > 1) {
-            otherForms += "<div class='ofrms'><div>oFrms</div>";
+            otherForms += "<li class='np'><span class='ofrms'>Other Forms　";
             for (var x = 1; x < row.word.length; x++) {
-                otherForms += "<div>" + row.word[x].writing + "</div>";
+                var oFrmWriting = row.word[x].writing;
+                var oFrmReading = row.word[x].reading ? "<rt>" + row.word[x].reading + "</rt>" : "";
+
+                otherForms += "<ruby>" + oFrmWriting + oFrmReading + "</ruby>、";
             }
-            otherForms += "</div>";
+            otherForms = otherForms.replace(/、 ?$/, "");
+            otherForms += "</span></li>";
         }
-        markup += "#<ruby>" + writing + reading + "</ruby>" + otherForms + ":<ul><li>" + row.senses[0] + "</li>";
-        // if (row.senses.length > 1) {
-        //     for (var i = 1; i < row.senses.length; i++) {
-        //         markup += "#:" + row.senses[i] + "\n";
-        //     }
-        // }
+        markup += "#<ruby>" + writing + reading + "</ruby>:<ul><li>" + row.senses[0] + "</li>";
 
         if (row.senses.length > 1) {
             for (var i = 1; i < row.senses.length; i++) {
                 markup += "<li>" + row.senses[i] + "</li>";
             }
+        }
+        if (otherForms !== "") {
+            markup += otherForms;
         }
         markup += "</ul>\n";
     });
@@ -586,8 +628,10 @@ function createMarkupText() {
 }
 
 function extractWord(entity) {
+    console.log(entity);
     var word = {};
     if (entity.japanese[0].word) {
+        console.log("word: ", entity.japanese[0].word);
         word.writing = entity.japanese[0].word;
     }
     if (entity.japanese[0].reading) {

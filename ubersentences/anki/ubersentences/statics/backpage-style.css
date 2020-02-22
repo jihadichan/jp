@@ -330,9 +330,13 @@ width: 100%;
     font-size: 0.7em;
     line-height: 100%;
 }
+.np {
+    list-style-type:none;
+}
+
 .ofrms {
     color: #777777;
-    font-size: 0.7em;
+    font-size: 0.9em;
     text-align: left;
     margin-top: 5px;
     white-space: nowrap !important;

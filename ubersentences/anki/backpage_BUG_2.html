@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+</head>
+<body>
+<link rel="stylesheet" type="text/css" href="ubersentences/statics/commons.css">
+<link rel="stylesheet" type="text/css" href="ubersentences/statics/backpage-style.css">
+<div id="debug"></div>
+<div id="solution" class="wrapper">
+    <div id="overlay">
+        <div id="overlay-text">
+            1. Listen<br>
+            2. Translate<br>
+            3. Click<br>
+        </div>
+    </div>
+    <div class="layout">
+        <table class="wrapper-table">
+            <!--------------------------------------------------------------------------->
+            <!-- SENTENCE -->
+            <!--------------------------------------------------------------------------->
+            <tr>
+                <td>
+                    <div class="sentence-table">
+                        <table>
+                            <tr class="options-wrapper">
+                                <td id="sentence">飲み物やカップやナプキンは、いらない？</td>
+                                <td id="options" rowspan="2"></td>
+                            </tr>
+                            <tr>
+                                <td id="notes">
+                                    You don't need (things like) drink, cup, or napkin, etc.?<br>- 114 Basic Grammar - Noun-related Particles: The Vague Listing 「や」 and 「とか」 particles
+                                </td>
+                            </tr>
+                            <tr id="source-cell"></tr>
+                        </table>
+                    </div>
+                </td>
+            </tr>
+
+            <!--------------------------------------------------------------------------->
+            <!-- RENDERED -->
+            <!--------------------------------------------------------------------------->
+            <tr>
+                <td id="rendered-content"></td>
+            </tr>
+        </table>
+    </div>
+</div>
+<div id="data" class="anki-field">
+    [{"surface":"飲み物","reading":"ノミモノ","pos":0,"freqNF":"2698","freqWK":"17490","partsOfSpeech":["名詞","一般"]},{"surface":"や","pos":3,"freqNF":"90","freqWK":"19","partsOfSpeech":["助詞","並立助詞"]},{"surface":"カップ","pos":4,"freqNF":"2329","freqWK":"1717","partsOfSpeech":["名詞","一般"]},{"surface":"や","pos":7,"freqNF":"90","freqWK":"19","partsOfSpeech":["助詞","並立助詞"]},{"surface":"ナプキン","pos":8,"freqNF":"11038","freqWK":"99999","partsOfSpeech":["名詞","一般"]},{"surface":"は","pronunciation":"ワ","pos":12,"freqNF":"2","freqWK":"4","partsOfSpeech":["助詞","係助詞"]},{"surface":"、","pos":13,"freqNF":"99999","freqWK":"99999","partsOfSpeech":["記号","読点"]},{"surface":"いら","baseForm":"いる","conjugationForm":"未然形","conjugationType":"五段・ラ行","pos":14,"freqNF":"24","freqWK":"10755","partsOfSpeech":["動詞","自立"]},{"surface":"ない","conjugationForm":"基本形","conjugationType":"特殊・ナイ","pos":16,"freqNF":"14","freqWK":"6815","partsOfSpeech":["助動詞"]},{"surface":"？","pos":18,"freqNF":"99999","freqWK":"99999","partsOfSpeech":["記号","一般"]}]
+</div>
+<div id="sentence-raw" class="anki-field">虫が全然好きじゃないです</div>
+<div id="mp3" class="anki-field">taekim/1581266292520-飲み物やカップやナプキンはいらない.mp3</div>
+<div class="anki-field">[sound:ubersentences/mp3/{{mp3}}]</div>
+<div id="source" class="anki-field">https://youtu.be/fW9myvPDhto?list=PLd5-Wp_4tLqYZxS5j3g6kbeOfVXlTkr3N&t=420</div>
+<div id="jisho-iframe" class="anki-field"></div>
+<script src="ubersentences/statics/jquery-3.4.1.min.js" type="application/javascript"></script>
+<script src="ubersentences/statics/jquery.modal.min.js" type="application/javascript" charset="UTF-8"></script>
+<script src="ubersentences/statics/backpage.js" type="application/javascript" charset="UTF-8"></script>
+<div id="modal" class="modal"></div>
+</body>
+</html>
