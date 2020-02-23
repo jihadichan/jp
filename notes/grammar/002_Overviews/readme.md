@@ -14,7 +14,7 @@
   - Te-form is simply the informal past where the た is replaced with て
   - There are also other less important forms (e.g. potential form, passive form, etc). 
 
-  **:heavy_exclamation_mark::heavy_exclamation_mark::heavy_exclamation_mark: NOTE:** Notice that ALL forms are somewhat a transformation of the stem, where the vowel is changed in some way.
+  **:heavy_exclamation_mark::heavy_exclamation_mark::heavy_exclamation_mark: NOTE:** Notice that ALL forms are somewhat a transformation of the ending, where the vowel is changed in some way.
 
 ### ある
 
