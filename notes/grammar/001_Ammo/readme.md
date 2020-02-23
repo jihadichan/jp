@@ -509,7 +509,7 @@ More words related to the position of something:
 
 ## Don't do ~ (ないでください）
 
-- Information negation (-ない) + で = "Please" don't [...]
+- Informal negation (-ない) + で = "Please" don't [...]
 - This is not the harshest "don't"
 - To make a more formal you can attach -ください
 - Examples

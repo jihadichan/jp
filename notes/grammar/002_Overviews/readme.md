@@ -1,30 +1,48 @@
+<!-- FILE_TOC -->
+
+
+
 # Conjugations
 
-## Conjugation bases
+## Conjugation building blocks
 
-### Copula
+- Noun & na-adjectives conjugations are simply conjugations of だ
+- i-adjective conjugations are a mix of conjugations from だ　＆　ある
+- Verbs, have 3 main stems depending on the ending of the verb and all grammar constructs are an attachment to or replacement of them.
+  - Masu stem + conjugations of ます
+  - Negative stem + conjugations of ない
+  - Te-form is simply the informal past where the た is replaced with て
+  - There are also other less important forms (e.g. potential form, passive form, etc). 
 
-A copula is a word meaning “to be” (see だ), and is used to predicate a sentence, giving the subject identity, properties, state, or membership in a group. Unlike in English, however, the Japanese copula can’t be used to show existence – instead you must use the verbs いる (iru) for animate beings and ある (aru) for inanimate objects. 
+  **:heavy_exclamation_mark::heavy_exclamation_mark::heavy_exclamation_mark: NOTE:** Notice that ALL forms are somewhat a transformation of the stem, where the vowel is changed in some way.
 
 ### ある
+
+- See also ない
 
 | Type                | Plain | Negative | Polite | Polite Neg.|
 | ------------------- | ----- | ------ | ------ | ------ |
 | Present | ある | ない | あります | ありません |
 | Past    | あった | なかった | ありました | ありませんでした |
+|Te-form|あって||||
+|Negative te-form|なくて||||
 
 Source: https://www.tanoshiijapanese.com/dictionary/conjugation_details.cfm?entry_id=28301&
 
 
 
-### する
+### ない
 
-| Type                | Plain | Negative | Polite | Polite Neg.|
-| ------------------- | ----- | ------ | ------ | ------ |
-| Present | する  | しない     | します   | しません       |
-| Past    | した  | しなかった | しました | しませんでした |
+- See also ある
+- ない is actually an adjective
 
-Source: https://www.tanoshiijapanese.com/dictionary/conjugation_details.cfm?entry_id=14743
+| Type             | Plain    | Negative     |
+| ---------------- | -------- | ------------ |
+| Present          | ない     | なくない     |
+| Past             | なかった | なくなかった |
+| Negative te-form | なくて   |              |
+
+Source: https://jisho.org/search/%E3%81%AA%E3%81%84 -> Show Inflections
 
 
 
@@ -41,7 +59,22 @@ Source: https://jisho.org/word/%E5%A2%97%E3%81%99 -> Show Inflections
 
 
 
+### する
+
+| Type                | Plain | Negative | Polite | Polite Neg.|
+| ------------------- | ----- | ------ | ------ | ------ |
+| Present | する  | しない     | します   | しません       |
+| Past    | した  | しなかった | しました | しませんでした |
+|Te-form|して||||
+|Negative te-form|しなくて||||
+
+Source: https://www.tanoshiijapanese.com/dictionary/conjugation_details.cfm?entry_id=14743
+
+
+
 ### だ
+
+A copula is a word meaning “to be”, and is used to predicate a sentence, giving the subject identity, properties, state, or membership in a group. Unlike in English, however, the Japanese copula can’t be used to show existence – instead you must use the verbs いる (iru) for animate beings and ある (aru) for inanimate objects. 
 
 - The verb だ is a contraction of the である
 - In the negative forms, じゃ is a colloquial contraction of では. Used in formal documents.
@@ -63,66 +96,30 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 
 
 
-## Nouns
-
-| Type                 | Conjugation |
-| -------------------- | ----------- |
-| Negative             | 魚じゃない     |
-| Past                 | 魚だった       |
-| Past negative        | 魚じゃなかった |
-
-
-
-## Adjectives
-
-### i-adjective
-
-| Type                 | Conjugation |
-| -------------------- | ----------- |
-| Negative             | 高くない |
-| Past                 | 高かった |
-| Past negative        | 高くなかった |
-| Polite present       | 高いです |
-| Polite negative      | 高くありません |
-| Polite past          | 高かったです |
-| Polite past negative | 高くありませんでした |
-
-### na-adjective
-
-| Type                 | Conjugation |
-| -------------------- | ----------- |
-| Negative             | 暇じゃない |
-| Past                 | 暇だった               |
-| Past negative        | 暇じゃなかった         |
-| Polite present       | 暇です                 |
-| Polite negative      | 暇ではありません       |
-| Polite past          | 暇でした               |
-| Polite past negative | 暇ではありませんでした |
-
 
 
 ## Verbs
 
-Examples of -iru / -eru ending verbs:
 
-```
-食べる = tabERU
-見る = mIRU
-起きる = okIRU
-```
+### Stems
 
-Examples of "other verbs":
+![](stems.png)
 
-```
-書く = kakU
-話す = hanasU
-言う = iU
-買う = kaU
-待つ = matsU
-ある = ARU
-売る = URU
-取る = tORU
-```
+- **来る**、**する**、**ある** are irregulars and must be learned separately. 
+
+- **ta-form** is the base for:
+
+  - て-form, replace た with て
+
+- **masu-form** is the base for: 
+
+  - たい-form, replace ます with たい
+
+- **negative-form** is the base for:
+
+  - passive-form
+  - causative-form
+
 
 
 
@@ -147,6 +144,8 @@ Stem for form:
 
 **Masu-Form Conjugations**
 
+- See ます in "conjugation bases"
+
 | Type    | Conjugations |
 | ---------------- | ------------------- |
 | Present | 食べます         |
@@ -169,20 +168,7 @@ Stem for form:
 
 
 
-## Te-Form
-
-### Overview
-
-| Ending       | Replacement |
-| ------------ | ----------- |
-| -iる / -eる  | て          |
-| う / つ / る | って        |
-| く / ぐ      | いて / いで |
-| む / ぶ / ぬ | んで        |
-| -す / -する  | して        |
-| くる         | きて        |
-
-### Examples
+### Te-Form
 
 | Basic                 | -て form        |
 | --------------------- | --------------- |
@@ -206,16 +192,59 @@ Stem for form:
 
 
 
+## Nouns
+
+- Nouns simply use the conjugations of the plain form of だ 
+
+| Type          | Conjugation    |
+| ------------- | -------------- |
+| Negative      | 魚じゃない     |
+| Past          | 魚だった       |
+| Past negative | 魚じゃなかった |
+
+
+
+## Adjectives
+
+### i-adjective
+
+| Type                 | Conjugation          |
+| -------------------- | -------------------- |
+| Negative             | 高くない             |
+| Past                 | 高かった             |
+| Past negative        | 高くなかった         |
+| Polite present       | 高いです             |
+| Polite negative      | 高くありません       |
+| Polite past          | 高かったです         |
+| Polite past negative | 高くありませんでした |
+
+### na-adjective
+
+| Type                 | Conjugation            |
+| -------------------- | ---------------------- |
+| Negative             | 暇じゃない             |
+| Past                 | 暇だった               |
+| Past negative        | 暇じゃなかった         |
+| Polite present       | 暇です                 |
+| Polite negative      | 暇ではありません       |
+| Polite past          | 暇でした               |
+| Polite past negative | 暇ではありませんでした |
+
+
+
 # Must-know words
 
 | Japanese   | English                  |
 | ---------- | ------------------------ |
 | これ       | this                     |
 | ここ       | here                     |
+|こんな|such|
 | それ       | that (near to listener)  |
 | そこ       | there (near to listener) |
+|そんな|such|
 | あれ       | that (further away)      |
 | あそこ     | there (further away)     |
+|あんな|such|
 | 誰か     | Someone                  |
 | 何か     | Something                |
 | いつか   | Sometime                 |
@@ -232,4 +261,16 @@ Stem for form:
 | どこでも | Anywhere                 |
 | どこにも | Nowhere                 |
 | どれでも | Whichever                |
+|ので|because|
+|なので|because|
+|そろそろ|soon|
+|だから|that is why|
+|から|from, because|
+|||
+|||
+|||
+|||
+|||
+
+
 

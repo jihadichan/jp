@@ -20,9 +20,15 @@ function removeOverlay() {
 }
 
 function addShowSolutionClickEvent() {
-    removeOverlay(); // todo remove
+    removeOverlay(); // todo remove this line if you want to enable the overlay.
     $('#solution').on("click", function () {
         removeOverlay();
+    });
+}
+
+function addToggleFuriganaClickEvent() {
+    $('#sentence').on("click", function () {
+        toggleFurigana();
     });
 }
 
@@ -190,6 +196,10 @@ function renderNoteMarkers(jQuerySelection) {
     if (html.indexOf("!frm") > -1) {
         html = html.replace(/!frm/, "");
         html += "<div class='formal'>FORMAL</div>"
+    }
+    if (html.indexOf("!ani") > -1) {
+        html = html.replace(/!ani/, "");
+        html += "<div class='anime'>ANIME</div>"
     }
     jQuerySelection.html(html);
 }
@@ -645,13 +655,18 @@ function extractWord(entity) {
 }
 
 function renderJishoVocabLookup() {
-    var form = "";
+    var selectedText = "";
+    if (window.getSelection) {
+        selectedText = window.getSelection().toString();
+    } else if (document.selection && document.selection.type !== "Control") {
+        selectedText = document.selection.createRange().text;
+    }
 
-    form += "" +
+    var form = "" +
         "<div class=\"search-inputs\">" +
         "<label>" +
         "   <span class=\"hint\">Looks up words via Jisho API</span>" +
-        "   <input type=\"text\" id=\"search-field\" placeholder=\" Search...\"/>" +
+        "   <input type=\"text\" id=\"search-field\" placeholder=\" Search...\" value=\"" + selectedText + "\"/>" +
         "   <input type=\"button\" id='search-button' onclick=\"searchWord()\" value=\"Search\">" +
         "</label>" +
         "</div>";
@@ -681,4 +696,5 @@ renderOptions();
 // renderAnalysisTable(); // Done in renderHighlights()
 renderHighlights(); // Renders also sentence
 addShowSolutionClickEvent();
+addToggleFuriganaClickEvent();
 
