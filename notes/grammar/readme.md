@@ -32,7 +32,26 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.21 Don't do ~ (ないでください）](001_Ammo/readme.md#dont-do--)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.22 Informal Past Negative form of Verbs](001_Ammo/readme.md#informal-past-negative-form-of-verbs)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.23 Haven't done yet (てない)](001_Ammo/readme.md#havent-done-yet-)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.24 Basis Words](001_Ammo/readme.md#basis-words)<br>
+[2. Conjugations](002_Overviews/readme.md#conjugations)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.1 Conjugation building blocks](002_Overviews/readme.md#conjugation-building-blocks)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.1.1 ある](002_Overviews/readme.md#)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.1.2 ない](002_Overviews/readme.md#)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.1.3 ます](002_Overviews/readme.md#)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.1.4 する](002_Overviews/readme.md#)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.1.5 だ](002_Overviews/readme.md#)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.2 Verbs](002_Overviews/readme.md#verbs)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.2.1 Stems](002_Overviews/readme.md#stems)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.2.2 Masu-Form](002_Overviews/readme.md#masu-form)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.2.3 Informal negation](002_Overviews/readme.md#informal-negation)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.2.4 Te-Form](002_Overviews/readme.md#te-form)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.3 Nouns](002_Overviews/readme.md#nouns)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.4 Adjectives](002_Overviews/readme.md#adjectives)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.4.1 i-adjective](002_Overviews/readme.md#i-adjective)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.4.2 na-adjective](002_Overviews/readme.md#na-adjective)<br>
+[3. Must-know words](002_Overviews/readme.md#must-know-words)<br>
 <!--- TOC_END -->
+
 
 
 
