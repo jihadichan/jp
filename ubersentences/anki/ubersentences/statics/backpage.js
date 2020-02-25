@@ -321,19 +321,26 @@ function renderOptions() {
     var jQuerySelection = $('#options');
     renderReplayButton(jQuerySelection);
     renderHighLightButton(jQuerySelection);
-    renderFuriganaButton(jQuerySelection);
     renderJishoButton(jQuerySelection);
     renderAnalysisButton(jQuerySelection);
     renderTranslateButton(jQuerySelection);
     renderSourceButton(jQuerySelection);
     renderVocabButton(jQuerySelection);
+    renderGrammarButton(jQuerySelection);
     renderMailToButton(jQuerySelection);
 }
 
 function renderVocabButton(jQuerySelection) {
     jQuerySelection.html(jQuerySelection.html() + "" +
         "<button class='options-button' onclick='renderJishoVocabLookup()'>" +
-        "<a href='#modal' rel='modal:open'>Vocab</a>" +
+        "   <a href='#modal' rel='modal:open'>Vocab</a>" +
+        "</button>");
+}
+
+function renderGrammarButton(jQuerySelection) {
+    jQuerySelection.html(jQuerySelection.html() + "" +
+        "<button class='options-button' onclick='renderGrammarLookup()'>" +
+        "   <a href='#modal' rel='modal:open'>Grammar</a>" +
         "</button>");
 }
 
@@ -365,10 +372,6 @@ function renderJishoButton(jQuerySelection) {
 
 function renderHighLightButton(jQuerySelection) {
     jQuerySelection.html(jQuerySelection.html() + "<button class='options-button' onclick='renderHighlights()'>Highlight</button>");
-}
-
-function renderFuriganaButton(jQuerySelection) {
-    jQuerySelection.html(jQuerySelection.html() + "<button class='options-button' onclick='toggleFurigana()'>Furigana</button>");
 }
 
 function toggleFurigana() {
@@ -576,35 +579,6 @@ function extractOtherForms(otherFormsRaw) {
     return otherForms;
 }
 
-// todo delete, pre oFrms rewrite
-// function createMarkupText() {
-//     var markup = "";
-//     $.each(currentVocabMarkupObj, function (key, row) {
-//         var writing = row.word[0].writing;
-//         var reading = row.word[0].reading ? "<rt>" + row.word[0].reading + "</rt>" : "";
-//         var otherForms = "";
-//         if (row.word.length > 1) {
-//             otherForms += "<div class='ofrms'><div>oFrms</div>";
-//             for (var x = 1; x < row.word.length; x++) {
-//                 var oFrmWriting = row.word[x].writing;
-//                 var oFrmReading = row.word[x].reading ? "<rt>" + row.word[x].reading + "</rt>" : "";
-//
-//                 otherForms += "<div><ruby>" + oFrmWriting + oFrmReading + "</ruby></div>";
-//             }
-//             otherForms += "</div>";
-//         }
-//         markup += "#<ruby>" + writing + reading + "</ruby>" + otherForms + ":<ul><li>" + row.senses[0] + "</li>";
-//
-//         if (row.senses.length > 1) {
-//             for (var i = 1; i < row.senses.length; i++) {
-//                 markup += "<li>" + row.senses[i] + "</li>";
-//             }
-//         }
-//         markup += "</ul>\n";
-//     });
-//     return markup.replace(/\n$/, "");
-// }
-
 function createMarkupText() {
     var markup = "";
     $.each(currentVocabMarkupObj, function (key, row) {
@@ -654,13 +628,18 @@ function extractWord(entity) {
     return word;
 }
 
-function renderJishoVocabLookup() {
+function getSelectedText() {
     var selectedText = "";
     if (window.getSelection) {
         selectedText = window.getSelection().toString();
     } else if (document.selection && document.selection.type !== "Control") {
         selectedText = document.selection.createRange().text;
     }
+    return selectedText;
+}
+
+function renderJishoVocabLookup() {
+    var selectedText = getSelectedText();
 
     var form = "" +
         "<div class=\"search-inputs\">" +
@@ -677,6 +656,37 @@ function renderJishoVocabLookup() {
             searchWord();
         }
     });
+}
+
+function renderGrammarLookup() {
+    var selectedText = getSelectedText();
+
+    var form = "" +
+        "<div class=\"search-inputs\">" +
+        "<label>" +
+        "   <span class=\"hint\">Lookup grammar point:</span><br>" +
+        "   <input type=\"text\" style='width: 100%;' id=\"search-field\" placeholder=\" Search...\" " +
+        "value=\"" + selectedText + "\" onkeyup='updateGrammarSearchLinks()' onblur='updateGrammarSearchLinks()'/>" +
+        "</label>" +
+        "<div><a target='_blank' id='github-search'></a></div>" +
+        "<div><a target='_blank' id='stackexchange-search'></a></div>" +
+        "<div><a target='_blank' id='google-search'></a></div>" +
+        "</div>";
+
+    $('#modal').html(form);
+}
+
+function updateGrammarSearchLinks() {
+    var searchTerm = $('#search-field').val();
+    updateSingleGrammarLink('github-search', "https://jihadichan.github.io/?q=" + searchTerm.trim());
+    updateSingleGrammarLink('stackexchange-search', "https://japanese.stackexchange.com/search?q=" + searchTerm.trim());
+    updateSingleGrammarLink('google-search', "https://www.google.com/search?q=grammar+" + searchTerm.trim());
+}
+
+function updateSingleGrammarLink(cssId, url) {
+    var link = $('#' + cssId);
+    link.attr("href", url);
+    link.text(url);
 }
 
 function searchWord() {

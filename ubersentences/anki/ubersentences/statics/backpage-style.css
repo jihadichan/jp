@@ -12,11 +12,13 @@ body {
 }
 
 .wrapper-table {
+    max-width: 750px;
     width: 750px;
     margin-top: 30px;
 }
 
 .sentence-table table {
+    max-width: 750px;
     width: 100%;
     border-spacing: 0;
     border-collapse: collapse;
@@ -346,7 +348,6 @@ width: 100%;
     font-size: 0.9em;
     text-align: left;
     margin-top: 5px;
-    white-space: nowrap !important;
 }
 
 #search-field {
@@ -361,6 +362,13 @@ width: 100%;
 .search-inputs {
     margin: 0 auto;
     display: inline;
+}
+
+.search-inputs a {
+    color: black;
+}
+.search-inputs div {
+    margin-top: 20px;
 }
 
 #search-button {
