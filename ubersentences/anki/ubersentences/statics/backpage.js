@@ -674,6 +674,7 @@ function renderGrammarLookup() {
         "</div>";
 
     $('#modal').html(form);
+    updateGrammarSearchLinks();
 }
 
 function updateGrammarSearchLinks() {
