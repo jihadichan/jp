@@ -98,7 +98,7 @@ A copula is a word meaning “to be”, and is used to predicate a sentence, giv
 - The verb だ is a contraction of the である
 - In the negative forms, じゃ is a colloquial contraction of では. Used in formal documents.
 - Replacing *arimasen* with *nai desu* expresses a stronger negation.
-- The attributive form of the copula is である, but the particles *no* and *na* are generally used instead. This *no* is the familiar [modifying particle](http://www.japaneseprofessor.com/lessons/beginning/modifying-particle-no/), but in some cases *na* is used instead (such as the “explaining” construction *na no da/desu*).
+- The attributive form of the copula is である, but the particles の and な are generally used instead. This の is the familiar [modifying particle](http://www.japaneseprofessor.com/lessons/beginning/modifying-particle-no/), but in some cases な is used instead (such as the “explaining” construction *na no da/desu*).
 
 | Type                | Plain         | Polite                         | Honorific              |
 | ------------------- | ------------- | ------------------------------ | ---------------------- |
@@ -119,34 +119,31 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 
 ## Verbs
 
+### Syllable transformation
+
+| Base | i    | a    | e    | o    |
+| ---- | ---- | ---- | ---- | ---- |
+| u    | i    | wa   | e    | o    |
+| tsu  | chi  | ta   | te   | to   |
+| ru   | ri   | ra   | re   | ro   |
+| ku   | ki   | ka   | ke   | ko   |
+| gu   | gi   | ga   | ge   | go   |
+| nu   | ni   | na   | ne   | no   |
+| bu   | bi   | ba   | be   | bo   |
+| mu   | mi   | ma   | me   | mo   |
+| su   | shi  | sa   | se   | so   |
+
+
+
 
 ### Stems
 
 ![](stems.png)
 
-- **来る**、**する**、**ある** are irregulars and must be learned separately. 
-
-- **ta-form** is the base for:
-
-  - て-form, replace た with て
-
-- **masu-form** is the base for: 
-
-  - たい-form, replace ます with たい
-
-- **negative-form** is the base for:
-
-  - passive-form
-  - causative-form
 
 
 
-
-### Masu-Form
-
-Stem for form:
-
-- たい-form (want to)
+### Masu-form examples
 
 | Base          | Masu-Form           |
 | ---------------- | ------------------- |
@@ -172,7 +169,7 @@ Stem for form:
 | Past | 食べました |
 | Past-negative | 食べませんでした |
 
-### Informal negation
+### Informal negation examples
 
 | Base        | Negation       |
 | ----------- | -------------- |
@@ -187,7 +184,7 @@ Stem for form:
 
 
 
-### Te-Form
+### Te-Form examples
 
 | Basic                 | -て form        |
 | --------------------- | --------------- |
