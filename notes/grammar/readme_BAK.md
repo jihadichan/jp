@@ -135,7 +135,6 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 
 
 
-
 ### Stems
 
 ![](stems.png)
