@@ -39,13 +39,16 @@ Source: https://www.tanoshiijapanese.com/dictionary/conjugation_details.cfm?entr
 
 **無い** - nonexistent, not being - i-adjective
 
-| Type             | Plain    | Negative     |
-| ---------------- | -------- | ------------ |
-| Present          | ない     | なくない     |
-| Past             | なかった | なくなかった |
-| Negative te-form | なくて   |              |
+| Type                | Plain    | Negative     |
+| ------------------- | -------- | ------------ |
+| Present             | ない     | なくない     |
+| Past                | なかった | なくなかった |
+| Negative te-form 1* | なくて   |              |
+| Negative te-form 2* | ないで   |              |
 
 Source: https://jisho.org/search/%E3%81%AA%E3%81%84 -> Show Inflections
+
+* yeah... no idea how they differ, see grammar guide for なくて and ないで
 
 
 
@@ -175,43 +178,51 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 
 | Particle | Explanation                                                  |
 | -------- | ------------------------------------------------------------ |
+|で|- Marks a place, area, or length of time inside which something occurs.<br>- Marks a method, tool or circumstance under which something happens.<br>- Marks a material or substance; composition.<br>- See also "connecting sentences"|
 |でも|- Conjunction, equal to "but", "however"<br>- After question word (誰, 何, どこ, etc) it turns them into "unspecific qualifiers", like "any". E.g. 誰でも (anybody), 何でも (anything), いつでも (anytime)|
-| が       | - Identifier particle (also called subject particle), identifies the topic |
-| は       | - Topic particle (identifies what it is that you’re talking about) |
+| は       | - Topic particle (identifies what it is that you’re talking about)<br>- Contrasts one option or thing against others. (A vs. B, C, D)<br>- Used when elaborating on things already known to the listener. |
+|へ|- Indicates direction or goal (e.g. "to")pronounced え in modern Japanese|
 |か|- Question marker in polite speech, i.e. '?'. Can also occur as *か*よ、like '?!'<br>- Attached to the end of a relative clause makes a mini-question inside a larger sentence. E.g. 昨日何を食べたか忘れた - "Forgot what I ate yesterday"<br>- After question word (誰, 何, どこ, etc) it turns them into "unspecific qualifiers", like "some".  E.g. 誰か (somewhere)、何か (something), どこか (somewhere), etc.|
+|が|- Identifier particle (also called subject particle), identifies the topic<br>- Distinguishes one option or thing from others. (A vs. ???)<br>- Used when adding new things/information to a conversation.<br>- Used when describing specific things with adjectives.<br>- Marks objects of potential-form verbs. (can/able to)<br>- See also "connecting sentences"|
 | も       | - Inclusive / exclusive topic particle (i.e. "also" or "not, neither" with negation)<br>- After question word (誰, 何, どこ, etc) it turns them into "unspecific qualifiers" (see か),<br>Can mostly also be negated E.g. 誰も (Everybody/Nobody), 何も (Nothing - negative only) |
 |ね|- At sentence end, equivalent to “right?”, “isn’t it?”. Same as German "... ne?"|
+|に|- The "target particle"<br>- Marks an indirect object (the person/thing an action is done for/directed toward)<br>- Marks a destination, direction or specific place for an action. (to/at)<br/>- Marks a specific point in time (ie. Monday / 3pm / 1972 / July)<br>- Marks a period of time that something repeats in.<br>- Marks direct objects for: なる (to become), あう (to meet), のる (to ride)|
 | の | - Possessive particle. Connects nouns: AのB = "A's B" or "B of A". E.g.<br>アメリカの大学  = College of America.<br>- Can replace a noun, e.g. 白いのは... - white thing is... - Equivalent to 物 (こと)<br>- Nominalizer for verbs and adjectives. Like -ING in English. E.g. 勉強するの - studyING<br>- Indicates explanation or need for one (i.e. "Look, here’s the reason"), when used as sentence ending. Also ん, のだ or んだ. And *な*のだ or なんだ needed for differentiation. ジムのだ (It is Jim’s) vs ジムなのだ (It is Jim). The だ can also be conjugated<br>E.g. のじゃない、 んじゃなかった、etc |
-|て・で| - For comma lists like "He is X, Y, and Z". See Special Grammar. |
-|とか|- "and", "or" for nouns, implies more items. E.g. "X and Y and Z etc.". Same as や, but is more colloquial. See Special Grammar.|
-| や       | - "and", "or" for nouns, implies more items. E.g. "X and Y and Z etc.". Same as とか, but is less colloquial. See Special Grammar. |
+| と | - Marks a person that an action is done with.<br>- Links nouns to create a complete “and” group.<br>- Marks quoted speech or phrasal objects: おもう (to think), かく (to write)<br>- Shows a natural/predictable “if-then” relationship between clauses.<br>- Marks onomatopoeic words. |
+| を | - Marks the grammatical object of a sentence. It follows nouns and noun phrases.<br>- With verbs of motion, shows where the motion occurs.<br>- Partly used for suru-verbs |
 | よ | - At sentence end, informing the listener of something new or emphasis. Like "you know". Also as よね |
-|          |                                                              |
-|          |                                                              |
 
 
 
 # Grammar points
 
-| Grammar Point         | Explanation                                                  |
-| --------------------- | ------------------------------------------------------------ |
-| Relative clause       | If there are "qualifiers" before the subject, then it's a relative sentence. e.g. <br>学生だった人は... - Person who was a student... |
-| Sentence order        | Only rule is that the verb comes at the end. The subject and object can be shifted however you want. |
-| Adjectives to adverbs | i-adjectives: 早い → 早く、na-adjectives: きれい → きれいに<br>E.g. 早く食べた - quickly ate |
-| Verb + motion verb    | Frm: [verb with masu-stem] + [maybe a particle] + 行く OR 来る.<br>E.g. 見に行く - "go to see"<br>Can also be conjugated: 遊びにきた - "came to play"、持っていって - "go and bring" |
-| どうか                | どう + か - when used in an "implicit question" (see か particle) it's roughly equivalent to saying “whether or not” |
-|                       |                                                              |
-|                       |                                                              |
-|                       |                                                              |
-|                       |                                                              |
+| Grammar Point                   | Explanation                                                  |
+| ------------------------------- | ------------------------------------------------------------ |
+| Relative clause                 | If there are "qualifiers" before the subject, then it's a relative sentence. e.g. <br>学生だった人は... - Person who was a student... |
+| Sentence order                  | Only rule is that the verb comes at the end. The subject and object can be shifted however you want. |
+| Adjectives to adverbs           | i-adjectives: 早い → 早く、na-adjectives: きれい → きれいに<br>E.g. 早く食べた - quickly ate |
+| Verb + motion verb              | Frm: [verb with masu-stem] + [maybe a particle] + 行く OR 来る.<br>E.g. 見に行く - "go to see"<br>Can also be conjugated: 遊びにきた - "came to play"、持っていって - "go and bring" |
+| どうか                          | どう + か - when used in an "implicit question" (see か particle) it's roughly equivalent to saying “whether or not” |
+| Potential form exceptions       | Use 見える and 聞こえる when you want to say that you can see or hear something. If however, you wanted to say that you were given the opportunity to see or hear something, you would use the regular potential form. |
+| 〜にする                        | に + する means “to decide on [X]”.                   |
+| 〜なる                          | - When using with nouns and adjectives use with に, i.e. 〜になる<br>- When using 〜なる with i-adjectives, instead of using ~になる, you need to conjugate the adjective to its negative stem and then attach なる. E.g. 強くなる (become strong), 強くなかった (was not strong), 強くなった (became strong(er))<br>- When using with verb add a generic noun such as a generic event: こと (事) or an appearance/manner: よう (様） |
+| Transitive / Intransitive Verbs | The difference between the two is that transitive verbs is an action done by an active agent while intransitive verbs are used when something occurs without a direct agent.|
+|||
+|||
+|||
+|||
+|||
+|||
 
 
 
-# Special Grammar Points
+# Grammar Groups
+
+
 
 ## Connecting sentences
 
-| Particle |                                                              |
+| Japanese | Explanation |
 | -------- | ------------------------------------------------------------ |
 | て・で   | For **comma lists for nouns and adjectives**, like "He is X, Y, and Z".<br>Nouns and na-adjectives: Attach で, e.g. 静かで<br>i-adjectives: Negative stem + て, e.g. 暑くない → 暑くて.<br>Also for conjugated nouns: 彼女じゃない → 彼女じゃなくて.<br>The last item isn't conjugated to the て ending. <br>E.g. 田中さんは、お金持ち*で*、かっこ*よくて*、魅力的ですね。<br>"Tanaka-san is rich, handsome, and charming, isn’t he?"<br>For **verbs** use the regular て form. E.g.<br>食堂に*行って*、昼ご飯を*食べて*、昼寝をする。<br>"I will go to cafeteria, eat lunch, and take a nap." |
 | とか・や | **"and", "or" for nouns**, implies more items. E.g. "X and Y and Z etc.". とか is more colloquial than や. Tense is determined by the last verb. Examples:<br>飲み物*や*カップ*や*ナプキンは、いらない？<br>"You don’t need (things like) drink, cup, or napkin, etc.?"<br>飲み物*とか*カップ*とか*ナプキンは、いらない？<br>You don’t need (things like) drink, cup, or napkin, etc.? |
@@ -219,6 +230,35 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 |し|- **List for reasons** for multiple states or actions.<br>- Works like や. Also implies that there are other reasons.<br>- For any non-conjugated noun or na-adjective you need to add だ.<br>先生だし、年上だし・・・。<br>"Well, he’s/she’s the teacher, and older…"<br>優しいし、かっこいいし、面白いから。<br>"Because he’s kind, attractive, and interesting (among other things)."|
 | から     | - because; since<br>- The two sentences are always ordered [reason] から [result].<br>- When the reason is a non-conjugated noun or na-adjective you must use だから, otherwise it would sound like "from". |
 | ので     | - because of ...; the reason is ...;<br>- Pretty much the same as から. [reason] から [result]<br>- When the reason is a non-conjugated noun or na-adjective you must use なので<br>- Like のだ this can occur as ので、んで、なので、なんで |
-| のに     | - despite<br>- Used as ので. Also needs a な when used with non-conjugated noun or na-adjective. E.g.  学生なのに、彼女は勉強しない。<br>"Despite being a student, she does not study." |
-| けど・が | - but; however; although<br>- Used in the same manner as から and ので, but expresses contradiction.<br>- Just like 「から」 the declarative 「だ」 is required for nouns and na-adjectives. E.g.<br>今日は暇だけど、明日は忙しい。<br>"I’m free today but I will be busy tomorrow." |
+| のに     | - despite<br>- Used as ので. Also needs a な when used with non-conjugated noun or na-adjective.<br>E.g.  学生なのに、彼女は勉強しない。<br>"Despite being a student, she does not study." |
+| けど・が | - but; however; although<br>- Used in the same manner as から and ので, but expresses contradiction.<br>- If there is no contraction, then the meaning is more like "and".<br>- Just like 「から」 the declarative 「だ」 is required for nouns and na-adjectives. E.g.<br>今日は暇だけど、明日は忙しい。<br>"I’m free today but I will be busy tomorrow."<br>デパートに行きましたが、何も欲しくなかったです。<br>"I went to department store but there was nothing I wanted." |
+
+
+
+## Te-form usages
+
+| て・で +addition<div/> | Meaning                                                      |
+| ---------------------------------------------------------- | ------------------------------------------------------------ |
+| ～てください                                               | - Means "Please do X" <br>- In casual speech, it is often common to simply drop the ください part.<br>- Negative is built via "negative form" + で. E.g. 買わないで. |
+| ～ている                                                   | - Indicates continuous action, i.e. "currently doING something".<br>- Conjugations work the same as with 居る.<br>E.g. 読んでいます (is reading, polite), 読んでいない (is not reading)<br>- Can also indicate an "enduring state-of-being".<br>E.g. 知っている = "I know", 持っている = "to have / possess"<br>- When used with motion verbs like 行っている or 来ている it means that you "completed the motion, and now you exist in that state." |
+| ～てある                                                   | - By replacing 「いる」 with 「ある」, instead of a continuing action, it becomes a resultant state after the action has already taken place. Usually, this expression is used to explain that something is in a state of completion. |
+| ～ておく                                                   | - While 「～てある」 carries a nuance of a completed action in preparation for something else, 「～ておく」 explicitly states that the action is done (or will be done) with the future in mind. E.g.<br>晩ご飯を作っておく。<br>I make dinner (in advance for the future). |
+| ～ていく<br>～てくる                                       | - When “to go” 行く or “to come” 来る is used with the te-form, to show that an action is oriented toward or from someplace. While 「持っている」 means you are in a state of holding something (in possession of), when the 「いる」 is replaced with 「いく」 or 「くる」, it means you are taking or bringing something. |
+| 〜てはだめ<br>〜てはいけない<br>〜てはならない             | - Expresses things that must NOT be done<br>- いけない and ならない conjugate like i-adjectives but are not actual adjectives.<br>- Base for いけない is いける (行ける)<br>- Base for ならない is なる (成る)<br>ここに入ってはいけません。<br>"You must not enter here." |
+
+
+
+## Conditionals
+
+| Type             | Explanation                                                  |
+| ---------------- | ------------------------------------------------------------ |
+| と               | - Natural consequence conditional. Simple if-then. E.g.<br>電気を消す*と*暗くなる。<br>"If you turn off the lights, it will get dark." |
+| なら             | - Contextual conditional. You can use this particle to express what will happen given a certain context. A context must be present to use it.<br>- Attach なら to the context in which the conditional would occur. You must NOT attach the declarative だ.<br>みんなが行く*なら*私も行く。<br>"If given that everybody is going, then I’ll go too." |
+| Conditional Form | - Conditional just expresses a regular “if” condition without any assumptions or embedded meanings.<br>- Uses conditional form.<br>楽しければ、私も行く。<br>"If it’s fun, I’ll go too." |
+| たら / だら      | - Past tense + ら.<br>- Like the ば conditional, it is also a general conditional.<br>お金があったらいいね。<br>"If I had money, it would be good, huh?" |
+|もし|- NOT a conditional<br>- もし is a supplement to add a sense of uncertainty on whether the condition is true.<br>もしよかったら、映画を観に行きますか？<br>"If by any chance it’s ok with you, go to watch movie?"|
+
+
+
+## Must / must not
 
