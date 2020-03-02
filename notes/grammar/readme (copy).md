@@ -249,9 +249,7 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 | 〜てはだめ<br>〜てはいけない<br>〜てはならない               | - Expresses things that must NOT be done<br>- いけない and ならない conjugate like i-adjectives but are not actual adjectives.<br>- Base for いけない is いける (行ける)<br>- Base for ならない is なる (成る)<br>ここに入ってはいけません。<br>"You must not enter here." |
 | ~ても...                                                     | - Saying something is ok to do or not do<br>- Te-form and the 「も」 particle, you are essentially saying, “even if you do X…” Common words that come after this include いい, 大丈夫, or 構わない. E.g.<br>~てもいい<br>~ても大丈夫<br/>~ても構わない<br/>全部飲んでも構わないよ。<br>I don’t mind if you drink it all. (lit: Even if you drink it all, I don’t mind, you know.) |
 | ~てみる                                                      | - To try something out<br>- Mnemonic: Sequence of an action and then seeing the result<br>- Conjugations happen on as always on 見る<br>お酒を飲んでみましたが、すごく眠くなりました。<br>I tried drinking alcohol and I became extremely sleepy. |
-| 〜てあげる                                                   | - Express the giving of a favor (verb) you must use the ever useful te-form and then attach 「あげる」. See "Giving and receiving" |
-| 〜てもらえる<br>〜てくれる                                   | - Make requests. See "Giving and receiving".                 |
-| ~て欲しい                                                    | - When combined with the te-form of a verb, it means “to want something done”<br>部屋をきれいにしてほしいのよ。<br>It is that I want the room cleaned up, you know. |
+| 〜てあげる                                                   | - Express the giving of a favor (verb) you must use the ever useful te-form and then attach 「あげる」. |
 
 
 
