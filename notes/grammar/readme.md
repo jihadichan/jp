@@ -237,7 +237,7 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 
 ## Te-form usages
 
-| て・で +addition<img width=200/> | Meaning                                                      |
+| て・で +addition&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Meaning                                                      |
 | ---------------------------------------------------------- | ------------------------------------------------------------ |
 | ～てください                                               | - Means "Please do X" <br>- In casual speech, it is often common to simply drop the ください part.<br>- Negative is built via "negative form" + で. E.g. 買わないで. |
 | ～ている                                                   | - Indicates continuous action, i.e. "currently doING something".<br>- Conjugations work the same as with 居る.<br>E.g. 読んでいます (is reading, polite), 読んでいない (is not reading)<br>- Can also indicate an "enduring state-of-being".<br>E.g. 知っている = "I know", 持っている = "to have / possess"<br>- When used with motion verbs like 行っている or 来ている it means that you "completed the motion, and now you exist in that state." |
