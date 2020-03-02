@@ -262,3 +262,10 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 
 ## Must / must not
 
+| Japanese                                                     | Explanation                                                  |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Must NOT do<br>〜てはだめ<br>〜てはいけない<br>〜てはならない | - Expresses things that must NOT be done<br>- いけない and ならない conjugate like i-adjectives but are not actual adjectives.<br>- Base for いけない is いける (行ける)<br>- Base for ならない is なる (成る)<br>ここに入ってはいけません。<br>"You must not enter here." |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+
