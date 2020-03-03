@@ -189,9 +189,11 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 |か|- Question marker in polite speech, i.e. '?'. Can also occur as *か*よ、like '?!'<br>- Attached to the end of a relative clause makes a mini-question inside a larger sentence. E.g. 昨日何を食べたか忘れた - "Forgot what I ate yesterday"<br>- After question word (誰, 何, どこ, etc) it turns them into "unspecific qualifiers", like "some".  E.g. 誰か (somewhere)、何か (something), どこか (somewhere), etc.|
 |が|- Identifier particle (also called subject particle), identifies the topic<br>- Distinguishes one option or thing from others. (A vs. ???)<br>- Used when adding new things/information to a conversation.<br>- Used when describing specific things with adjectives.<br>- Marks objects of potential-form verbs. (can/able to)<br>- See also "connecting sentences"|
 | も       | - Inclusive / exclusive topic particle (i.e. "also" or "not, neither" with negation)<br>- After question word (誰, 何, どこ, etc) it turns them into "unspecific qualifiers" (see か),<br>Can mostly also be negated E.g. 誰も (Everybody/Nobody), 何も (Nothing - negative only) |
+|な|- You can use 「な」 in place of 「ね」 when it sounds too soft and reserved for what you want to say<br>- The 「な」 sentence-ending particle is often used with the question marker 「か」 to indicate that the speaker is considering something.<br>今日は雨が降るかな？<br>I wonder if it’ll rain today.|
 |ね|- At sentence end, equivalent to “right?”, “isn’t it?”. Same as German "... ne?"|
 |に|- The "target particle"<br>- Marks an indirect object (the person/thing an action is done for/directed toward)<br>- Marks a destination, direction or specific place for an action. (to/at)<br/>- Marks a specific point in time (ie. Monday / 3pm / 1972 / July)<br>- Marks a period of time that something repeats in.<br>- Marks direct objects for: なる (to become), あう (to meet), のる (to ride)|
 | の | - Possessive particle. Connects nouns: AのB = "A's B" or "B of A". E.g.<br>アメリカの大学  = College of America.<br>- Can replace a noun, e.g. 白いのは... - white thing is... - Equivalent to 物 (こと)<br>- Nominalizer for verbs and adjectives. Like -ING in English. E.g. 勉強するの - studyING<br>- Indicates explanation or need for one (i.e. "Look, here’s the reason"), when used as sentence ending. Also ん, のだ or んだ. And *な*のだ or なんだ needed for differentiation. ジムのだ (It is Jim’s) vs ジムなのだ (It is Jim). The だ can also be conjugated<br>E.g. のじゃない、 んじゃなかった、etc |
+|さ|- Basically a very casual form of 「よ」, is similar to the English “like” in that some people throw it in at the end of almost every single phrase.|
 | と | - Marks a person that an action is done with.<br>- Links nouns to create a complete “and” group.<br>- Marks quoted speech or phrasal objects: おもう (to think), かく (to write)<br>- Shows a natural/predictable “if-then” relationship between clauses.<br>- Marks onomatopoeic words. |
 | を | - Marks the grammatical object of a sentence. It follows nouns and noun phrases.<br>- With verbs of motion, shows where the motion occurs.<br>- Partly used for suru-verbs |
 | よ | - At sentence end, informing the listener of something new or emphasis. Like "you know". Also as よね |
@@ -213,8 +215,8 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 | Transitive / Intransitive Verbs                              | The difference between the two is that transitive verbs is an action done by an active agent while intransitive verbs are used when something occurs without a direct agent. |
 | 欲しい<br>ほしい                                             | - Want to.<br>- Works like 好き.<br>- When combined with the te-form of a verb, it means “to want something done” |
 | Volitional form&nbsp;(casual)                                | - The term volitional here means a will to do something. E.g. “let’s” or “shall we?”<br>テーマパークに行こう！<br>Let’s go to theme park! |
-|                                                              |                                                              |
-|                                                              |                                                              |
+| だい？<br>かい？                                             | - 「かい」 and 「だい」 are strongly masculine sentence endings for asking questions. 「かい」 is used for yes/no questions while 「だい」 is used for open-ended questions. |
+| Gender-specific particles                                    | - Using 「わ」 is just like 「よ」 except it will make you sound very feminine<br>-「かしら」 is also a very feminine version of 「かな」(see な particle)<br>-「ぞ」 and 「ぜ」 are identical to 「よ」 except that it makes you sound “cool” and manly |
 |                                                              |                                                              |
 |                                                              |                                                              |
 
@@ -427,4 +429,39 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 - Other Counters
 - Using 「目」 to show order
 - ... holy f...
+
+
+
+## Casual Patterns and Slang
+
+- The fundamental goal of slang is to reduce mouth movement, example 1:
+  ここ**はつまら**ないから私**の家に**行こう。
+  ここ**つまん**ないから、私**んち**行こう。
+  Example 2:
+  **まった**く、いつまでこんな**ところ**で、ぐずぐず**するん**だよ。
+  **った**く、　いつまでこんな**とこ**で、　ぐずぐず**すん**だよ。
+- While written Japanese already has fairly loose rules regarding sentence order, casual spoken Japanese takes it one step further.
+  Correct: それは何？
+  Slang: 何それ？
+- 「じゃん」 is an abbreviation of 「じゃない」, the negative conjugation for nouns and na-adjectives. 
+  - Though derived from 「じゃない」, 「じゃん」 is always used to confirm the positive.
+  - It can be attached to the end of any sentence regardless of whether it ends in a noun, adjective, verb, or adverb.
+  - 「じゃん」 is basically saying something along the lines of, “See, I’m right, aren’t I?”
+- Using 「つ」 for 「という」. This may sound hard to believe but if you really slur 「という」 together, it becomes something resembling 「つ」. E.g.
+  だから、違うんだつうの！
+  "Like I said, you’re wrong!"
+  - If you want even more emphasis, you can even add a small 「つ」. This usually means you are really at the brink of your patience. E.g.
+    だから、違うんだっつうの！
+    "Like I said, you’re wrong!"
+- 「ってば」 and 「ったら」 is yet another type of abbreviation for 「という」 similar to 「って」 as discussed in the defining and describing section.  In this case, it’s an abbreviation of the conditional form of 「という」, which is 「といえば」 and 「といったら」. By using this abbreviation, you are essentially saying something along the lines of, “If I told you once, I told you a million times!”
+  もう行くってば！
+  "I told you I’m going already!"
+- In the case of 「何か」, while 「なにか」 is the correct reading, it is often contracted to just 「なんか」 in casual speech.
+  - 「なんか」 also has a function similar to the word “like” in English. By “like”, I’m not talking about the actual word but the kind that has no meaning and some people use just about anywhere in the sentence. Similarly, 「なんか」 can also be used as a filler without any actual meaning. 
+    今日は、なんか忙しいみたいよ。(なんか is just a filler word and can be left out)
+    "I guess he’s like busy today."
+- 「やがる」 is a verb suffix used to indicate hatred or contempt for the person doing the action. Strong language is not used in normal, everyday conversations. You simply attach it to the masu-stem of the verb. After that, 「やがる」 is conjugated just like a regular る-verb. 
+  あんなやつに負けやがって。じゃ、どうすんだよ？
+  "Losing to a guy like that. Well, what are you going to do?"
+  - Stems maybe from 嫌がる (iyagaru, to dislike) ?
 
