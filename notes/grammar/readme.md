@@ -8,8 +8,11 @@
 ## Conjugation building blocks
 
 - Noun & na-adjectives conjugations are simply conjugations of だ
+
 - i-adjective conjugations are a mix of conjugations from だ　＆　ある
-- Verbs stem are based on their dictionary form ending, where the vowel is changed in some way.
+
+- Verb stems are based on their dictionary form ending, where the vowel is changed in some way.
+
 
 **有る** - to be, to exist (only inanimate objects) - verb
 
@@ -238,6 +241,8 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 
 ## Te-form stem usages
 
+- :exclamation: **NOTE:** The *te* form of a Japanese verb is used when the verb has some kind of connection to the following words.
+
 | て・で +addition&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Meaning                                                      |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ～てください                                                 | - Means "Please do X" <br>- It's a conjugation of 下さる, which is a honorific form of くれる. Like being handed down something.<br>- In casual speech, it is often common to simply drop the ください part.<br>- Negative is built via "negative form" + で. E.g. 買わないで. |
@@ -261,10 +266,23 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 | -------------------- | ------------------------------------------------------------ |
 | stem + たい          | - means "want to", if negated "don't want to"<br>- たい is conjugated like an i-adjective, i.e. negative = たくない<br>温泉に行きたい。<br>I want to go to hot spring. |
 | stem + ましょう      | - volitional form (polite)<br>- Same as "Volitional form (casual)" (see Unsorted Grammar Point), but formal |
-|                      |                                                              |
+| stem + なさい        | - firm but polite requests. See "Making requests".           |
 |                      |                                                              |
 
 
+
+## Negative-form stem usages
+
+| Neg.&nbsp;stem&nbsp;+&nbsp;addi.&nbsp; | Explanation                                    |
+| -------------------------------------- | ---------------------------------------------- |
+| stem + で                              | - Negative te-form, used for negative requests |
+|                                        |                                                |
+|                                        |                                                |
+|                                        |                                                |
+
+
+
+## 
 
 ## Volitional-form stem usages
 
@@ -335,6 +353,78 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 | 遣る     | - Usually used for pets, animals, and such, you can substitute 「やる」, which normally means “to do”, for 「あげる」.<br>犬に餌をやった？<br/>Did you give the dog food?<br>- In order to ask for a favor you must use the ever useful te-form<br>車を買ってくれるの？<br>You’ll give me the favor of buying a car for me? |
 | 暮れる   | - 「くれる」 is also a verb meaning “to give” but unlike 「あげる」, it is from the receiver’s point of view. You must use this verb when someone *else* is giving something or doing something for you<br>友達が私にプレゼントをくれた。<br>Friend gave present to me.<br>- Similarly, when used in the third-person, the speaker is speaking from the receiver’s point of view and not the giver.<br>先生がこれを学生にくれる。<br>The teacher give this to student. (looking at it from the student’s point of view) |
 | 貰う     | - “to receive”<br>私が友達*に*プレゼントをもらった。<br>I received present from friend. |
-|Asking&nbsp;favors|- You can make requests by using 「くれる」 and the potential form of 「もらう」 (can I receive the favor of…).<br>- It is not normal to explicitly include the subject and target like this:<br>あなたが、私に千円を貸してくれる？<br>Will you give me the favor of lending 1000 yen?<br>私が、あなたに千円を貸してもらえる？<br>Can I receive the favor of you lending 1000 yen?<br>- You can use the negative to make the request a little softer.<br>ちょっと静かにしてくれない？<br/>Won’t you be a little quieter?|
-|Asking not to do&nbsp;something|- In order to request that someone *not* do something, you simply attach 「で」 to the negative form of the verb and proceed as before.<br>高い物を買わないでくれる？<br/>Can you not buy expensive thing(s)?|
+|Asking&nbsp;favors|See "Making requests"|
+|Asking not to do&nbsp;something|See "Making requests"|
+
+
+
+## Making requests
+
+- :heavy_exclamation_mark: NOTE: 「ください」 is a special conjugation of 「くださる」, which is the honorific form of 「くれる」. Because 「ください」 like the masu-form must always come at the end sentence or a relative clause, you cannot use it to directly modify a noun. But you can still use it inside a sentence if it's in a direct quote (see と)
+
+| Japanese                                  | Explanation                                                  |
+| ----------------------------------------- | ------------------------------------------------------------ |
+| Asking&nbsp;favors                        | - You can make requests by using 「くれる」 and the potential form of 「もらう」 (can I receive the favor of…). by attaching it to the te-form of a verb<br>- It is not normal to explicitly include the subject and target like this:<br>あなたが、私に千円を貸してくれる？<br>Will you give me the favor of lending 1000 yen?<br>私が、あなたに千円を貸してもらえる？<br>Can I receive the favor of you lending 1000 yen?<br>- You can use the negative to make the request a little softer.<br>ちょっと静かにしてくれない？<br>Won’t you be a little quieter? |
+| Asking not&nbsp;to&nbsp;do&nbsp;something | - In order to request that someone *not* do something, you simply attach 「で」 to the negative form of the verb and proceed as before.<br>高い物を買わないでくれる？<br>Can you not buy expensive thing(s)? |
+| 〜をください<br>〜をくれる？<br>〜てくれ  | -「ください」here is a direct request for something while 「くれる」 is used as a question asking for someone to give something.<br>それをください。<br>Please give me that.<br>それをくれる？<br>Can you give me that?<br>- To sound particularly commanding and manly, remove the る.<br>日本語で話してくれ。<br/>Speak in Japanese. |
+| 〜てください<br>〜ないでください          | - Direct polite request. Te-form + ください<br>漢字で書いてください。<br>Please write it in kanji.<br>- Negative request: Negative te-form + ください<br>ここにこないでください。<br>Please don’t come here. |
+| ～ちょうだい<br>〜頂戴                    | - Casual request. A casual alternative of 「ください」. Has a slightly feminine and childish nuance and is always written in Hiragana. Grammatically, it’s used exactly the same way as 「ください」. |
+| ～なさい                                  | - Firm but polite request. Used when a mother is scolding her child or when a teacher wants a delinquent student to pay attention.<br>- masu-stem + なさい<br>よく聞きなさい！<br>Listen well!<br>まだいっぱいあるから、たくさん食べな。<br>There’s still a lot, so eat a lot. |
+| Imperative Form                           | - In reality, the command form is rarely used as Japanese people tend to be too polite to use imperatives.<br>- See imperative form conjugations<br>あっち行け！<br>Go away!<br>- Negative command form. Simply attach simply attach な to the base verb.<br>それを食べるな！<br>Don’t eat that! |
+
+
+
+## Numbers and Counting
+
+- The Japanese number system is spread into units of four. So a number such as 10,000,000 is actually split up as 1000,0000.
+  - That's why they go from 10k to 100m to 1 trillion ...
+  - Once you get past 1万 (10,000), you start all over until you reach 9,999万, then it rotates to 1億 (100,000,000).
+- You can simply count from 1 to 99 with just these ten numbers. Japanese is easier than English in this respect because you do not have to memorize separate words such as “twenty” or “fifty”. In Japanese, it’s simply just “two ten” and “five ten”.
+
+| Number      | Kanji | Reading&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    |
+| ----------- | ----- | ---------- |
+| 1           | 一    | いち       |
+| 2           | 二    | に         |
+| 3           | 三    | さん       |
+| 4           | 四    | し／よん   |
+| 5           | 五    | ご         |
+| 6           | 六    | ろく       |
+| 7           | 七    | しち／なな |
+| 8           | 八    | はち       |
+| 9           | 九    | きゅう     |
+| 10          | 十    | じゅう     |
+| 100         | 百    | ひゃく     |
+| 1000        | 千    | せん       |
+| 10000       | 万    | まん       |
+| 100 million | 億    | おく       |
+| 1 trillion  | 兆    | ちょう     |
+
+**Counting**
+
+| Kanji  | Number | Reading        |
+| ------ | ------ | -------------- |
+| 三十一 | 31     | さんじゅういち |
+| 五十四 | 54     | ごじゅうよん   |
+| 七十七 | 77     | ななじゅうなな |
+| 二十   | 20     | にじゅう       |
+| 300 | 三百 | さんびゃく |
+| 600 | 六百 | ろっぴゃく |
+| 800 | 八百 | はっぴゃく |
+| 3000 | 三千 | さんぜん |
+| 8000 | 八千 | はっせん |
+|10^12|一兆|いっちょう|
+|43,076|四万三千七十六|よんまんさんぜんななじゅうろく|
+|706,249,222|七億六百二十四万九千二百二十二|ななおくろっぴゃくにじゅうよんまんきゅうせんにひゃくにじゅうに|
+|500,000,000,020,001|五百兆二万一|ごひゃくちょうにまんいち|
+
+**// TODO**
+
+- Numbers smaller or less than 1
+- Counting and Counters
+- Dates
+- Time
+- A Span of Time
+- Other Counters
+- Using 「目」 to show order
+- ... holy f...
 
