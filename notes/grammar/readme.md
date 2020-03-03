@@ -22,6 +22,7 @@
 | Past    | あった | なかった | ありました | ありませんでした |
 |Te-form|あって||||
 |Negative te-form|なくて||||
+|Keigo|ござる||ございます||
 
 Source: https://www.tanoshiijapanese.com/dictionary/conjugation_details.cfm?entry_id=28301
 
@@ -188,7 +189,7 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 |へ|- Indicates direction or goal (e.g. "to")pronounced え in modern Japanese|
 |か|- Question marker in polite speech, i.e. '?'. Can also occur as *か*よ、like '?!'<br>- Attached to the end of a relative clause makes a mini-question inside a larger sentence. E.g. 昨日何を食べたか忘れた - "Forgot what I ate yesterday"<br>- After question word (誰, 何, どこ, etc) it turns them into "unspecific qualifiers", like "some".  E.g. 誰か (somewhere)、何か (something), どこか (somewhere), etc.|
 |が|- Identifier particle (also called subject particle), identifies the topic<br>- Distinguishes one option or thing from others. (A vs. ???)<br>- Used when adding new things/information to a conversation.<br>- Used when describing specific things with adjectives.<br>- Marks objects of potential-form verbs. (can/able to)<br>- See also "connecting sentences"|
-| も       | - Inclusive / exclusive topic particle (i.e. "also" or "not, neither" with negation)<br>- After question word (誰, 何, どこ, etc) it turns them into "unspecific qualifiers" (see か),<br>Can mostly also be negated E.g. 誰も (Everybody/Nobody), 何も (Nothing - negative only) |
+| も       | - Inclusive / exclusive topic particle (i.e. "also" or "not, neither" with negation)<br>- After question word (誰, 何, どこ, etc) it turns them into "unspecific qualifiers" (see か),<br>Can mostly also be negated E.g. 誰も (Everybody/Nobody), 何も (Nothing - negative only)<br>- When the 「も」 particle comes after some type of amount, it means that the amount indicated is way too much. |
 |な|- You can use 「な」 in place of 「ね」 when it sounds too soft and reserved for what you want to say<br>- The 「な」 sentence-ending particle is often used with the question marker 「か」 to indicate that the speaker is considering something.<br>今日は雨が降るかな？<br>I wonder if it’ll rain today.|
 |ね|- At sentence end, equivalent to “right?”, “isn’t it?”. Same as German "... ne?"|
 |に|- The "target particle"<br>- Marks an indirect object (the person/thing an action is done for/directed toward)<br>- Marks a destination, direction or specific place for an action. (to/at)<br/>- Marks a specific point in time (ie. Monday / 3pm / 1972 / July)<br>- Marks a period of time that something repeats in.<br>- Marks direct objects for: なる (to become), あう (to meet), のる (to ride)|
@@ -212,12 +213,18 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 | Potential form exceptions                                    | Use 見える and 聞こえる when you want to say that you can see or hear something. If however, you wanted to say that you were given the opportunity to see or hear something, you would use the regular potential form. |
 | 〜にする                                                     | に + する means “to decide on [X]”.                          |
 | 〜なる                                                       | - When using with nouns and na-adjectives use with に, i.e. 〜になる<br>- When using 〜なる with i-adjectives, instead of using ~になる, you need to conjugate the adjective to its negative stem and then attach なる. E.g. 強くなる (become strong), 強くなかった (was not strong), 強くなった (became strong(er))<br>- When using with verbs add a generic noun such as a generic event: こと (事) or an appearance/manner: よう (様） |
-| Transitive / Intransitive Verbs                              | The difference between the two is that transitive verbs is an action done by an active agent while intransitive verbs are used when something occurs without a direct agent. |
+| Transitive / Intransitive&nbsp;Verbs                         | The difference between the two is that transitive verbs is an action done by an active agent while intransitive verbs are used when something occurs without a direct agent. |
 | 欲しい<br>ほしい                                             | - Want to.<br>- Works like 好き.<br>- When combined with the te-form of a verb, it means “to want something done” |
 | Volitional form&nbsp;(casual)                                | - The term volitional here means a will to do something. E.g. “let’s” or “shall we?”<br>テーマパークに行こう！<br>Let’s go to theme park! |
 | だい？<br>かい？                                             | - 「かい」 and 「だい」 are strongly masculine sentence endings for asking questions. 「かい」 is used for yes/no questions while 「だい」 is used for open-ended questions. |
 | Gender-specific particles                                    | - Using 「わ」 is just like 「よ」 except it will make you sound very feminine<br>-「かしら」 is also a very feminine version of 「かな」(see な particle)<br>-「ぞ」 and 「ぜ」 are identical to 「よ」 except that it makes you sound “cool” and manly |
-|                                                              |                                                              |
+| Humble Form                                                  | Humble Conjugation: お + stem + する<br>先生、お聞きしたいことがありますが。<br/>Teacher, there’s something I want to ask you. |
+| しまう                                                       | - Express an action that has taken place unintentionally often with unsatisfactory results, i.e. "dang it..."<br>しまった！<br>Oh no! (I screwed up!)<br>- Express an action that is done or happened unintentionally.<br>Te-form of verb + しまう<br>毎日ケーキを食べて、２キロ太ってしまいました。<br>I ate cake everyday and I (unintentionally) gained two kilograms.<br>- In casual speech, the 「～てしまう」 is often substituted by 「～ちゃう」 while 「～でしまう」 is substituted by 「じゃう」. Both 「～ちゃう」 and 「～じゃう」 conjugate just like regular u-verbs.<br>- Occasionally but not usually, 「しまう」 will have the meaning “to finish something completely” rather than the unintended action. |
+| こと...ある                                                  | - When you combine 「こと」, the generic word for an event with 「ある」, you can talk about whether an event exists or not.<br>- E.g. ことはある、ことはありません、ことがある、ことない、こともない |
+| ところ                                                       | - 「ところ」（所） is usually used to indicate a generic physical location. However, it can also hold a much broader meaning ranging from a characteristic to a place in time. |
+| もの                                                         | - The generic object noun 「もの」 can be used as a casual and feminine way of emphasizing something. This is identical to the explanatory feminine emphasis expressed by the 「の」 particle. Just like the explanatory 「の」 particle, the 「の」 is often changed into 「ん」 resulting in 「もん」. |
+| かもしれない<br>かも知れない                                 | - 「かもしれない」 is used to mean “maybe” or “possibly” and is less certain than the word 「多分」. It attaches to the end of a complete clause.<br>- For noun and na-adjective clauses, the declarative 「だ」 must be removed.<br>- The conjugation base is 知れる<br>- It can be abbreviated to just 「かも」 in casual speech. |
+| でしょう                                                     | - 「でしょう」 is used to express a level of some certainty and is close in meaning to 「多分」. Just like 「～です／～ます」, it must come at the end of a complete sentence. It does not have any other conjugations.<br>- You can also replace 「～ですか」 with 「～でしょうか」<br>- In casual speech it can be shortened to 「でしょ」. The casual version has a much stronger flavor often sounding more like, “See, I told you so!”<br>だから、時間がないって言ったでしょう！<br>That’s why I told you there was no time! |
 |                                                              |                                                              |
 
 
@@ -259,6 +266,7 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 | 〜てあげる                                                   | - Express the giving of a favor (verb) you must use the ever useful te-form and then attach 「あげる」. See "Giving and receiving" |
 | 〜てもらえる<br>〜てくれる                                   | - Make requests. See "Giving and receiving".                 |
 | ~て欲しい                                                    | - When combined with the te-form of a verb, it means “to want something done”<br>部屋をきれいにしてほしいのよ。<br>It is that I want the room cleaned up, you know. |
+| 〜*て*しまった                                               | - Express an action that is done or happened unintentionally.<br>毎日ケーキを食べて、２キロ太ってしまいました。<br>I ate cake everyday and I (unintentionally) gained two kilograms. |
 
 
 
@@ -268,8 +276,8 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 | -------------------- | ------------------------------------------------------------ |
 | stem + たい          | - means "want to", if negated "don't want to"<br>- たい is conjugated like an i-adjective, i.e. negative = たくない<br>温泉に行きたい。<br>I want to go to hot spring. |
 | stem + ましょう      | - volitional form (polite)<br>- Same as "Volitional form (casual)" (see Unsorted Grammar Point), but formal |
-| stem + なさい        | - firm but polite requests. See "Making requests".           |
-|                      |                                                              |
+| stem + なさい        | - Firm but polite requests. See "Making requests".           |
+| stem + すぎる        | - When 「すぎる」 is attached to the end of other verbs and adjectives, it means that it is too much or that it has exceeded the normal levels. |
 
 
 
@@ -464,4 +472,68 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
   あんなやつに負けやがって。じゃ、どうすんだよ？
   "Losing to a guy like that. Well, what are you going to do?"
   - Stems maybe from 嫌がる (iyagaru, to dislike) ?
+
+
+
+## Causative and Passive Verbs
+
+| Japanese                        | Explanation                                                  |
+| ------------------------------- | ------------------------------------------------------------ |
+| Causative&nbsp;Verbs            | - The causative form (see verbs conjugation) can mean either making or letting  someone do something, i.e. “make someone do” and “let someone do”. The result is then conjugated like an -eる verb.<br>- When the causative form is used with 「あげる」 and 「くれる」, it almost always means to “let someone do”.<br>先生が質問をたくさん聞かせてくれた。<br>Teacher let (someone) ask lots of questions.<br>その部長は、よく長時間働かせる。<br/>That manager often makes (people) work long hours. |
+| Shortened Causative Form        | - Instead of せる the ending becomes す, e.g. 行かせる -> 行かす<br>- If the causative form has a さ stem (e.g. iる & eる verbs), then it becomes さす, e.g. 食べさせる -> 食べさす<br>- 「する」 becomes 「さす」<br>- 「くる」 becomes 「こさす」<br>- The further conjugation is then that of す verbs |
+| Passive Form                    | - The passive form 〜られる is used to express that something is done to somebody. Conjugation in that is that of -eる verbs<br>外国人に質問を聞かれたが、答えられなかった。<br>I was asked a question by a foreigner but I couldn’t answer.<br>- Using passive form is another more polite way to express an action<br>どうする？ – What will you do? (lit: How do?)<br/>どうしますか？ – Regular polite.<br/>どうされますか？- Passive polite. |
+| Causative-Passive Forms         | - The causative-passive form is simply the combination of causative and passive conjugations to mean that the action of making someone do something was done to that person. This would effectively translate into, “[someone] is made to do [something]”. The important thing to remember is the order of conjugation. The verb is first conjugated to the causative and then passive, never the other way around. E.g. 食べる → 食べさせる → 食べさせられる<br>朝ご飯は食べたくなかったのに、食べさせられた。<br/>Despite not wanting to eat breakfast, I *was made to eat* it. |
+| Shorter Causative-Passive Forms | - Going along with the shorter causative alternative, you can also use the same conjugation for the causative-passive form. The idea is to simply used the shortened causative form instead of using the regular causative conjugation.<br>行く → 行か → 行かす → 行かされる<br>- This form cannot be used in cases where the shorter causative form ends in 「さす」, in other words, you can’t have a 「さされる」 ending. I.e. this is WRONG:<br>食べ*る* → 食べ*さす* → 食べ~~さされる~~ |
+
+
+
+## Honorific and Humble Forms
+
+- The first thing to remember is that the speaker always considers himself/herself to be at the lowest level. So any actions performed by oneself are in humble form while actions performed by anyone else seen from the view of the speaker uses the honorific form.
+
+**// TODO** - see http://www.guidetojapanese.org/learn/grammar/honorific 
+
+**Honorific and Humble Verbs**
+
+| Plain | Honorific | Humble |
+| ----- | --------- | ------ |
+|する|なさる|致す|
+|行く|いらっしゃる／おいでになる|参る|
+|来る|いらっしゃる／おいでになる|参る|
+|いる|いらっしゃる／おいでになる|おる|
+|見る|ご覧になる|拝見する|
+|聞く|－|伺う|
+|言う|おっしゃる|申す／申し上げる|
+|あげる|－|差し上げる|
+|くれる|下さる|－|
+|もらう|－|いただく|
+|食べる|召し上がる|いただく|
+|飲む|召し上がる|いただく|
+|知っている|ご存知（です）|存じる|
+
+**Honorific verbs with special conjugations**
+
+| Plain | ます-form | Past ます-form | Negative ます-form | Past-negative ます-form |
+| ----- | --------- | -------------- | ------------------ | ----------------------- |
+|なさる|なさいます|なさいました|なさいません|なさいませんでした|
+|いらっしゃる|いらっしゃいます|いらっしゃいました|いらっしゃいません|いらっしゃいませんでした|
+|おっしゃる|おっしゃいます|おっしゃいました|おっしゃいません|おっしゃいませんでした|
+|下さる|下さいます|下さいました|下さいません|下さいませんでした|
+|ござる|ございます|ございました|ございません|ございませんでした|
+
+
+
+## Expressing Amounts
+
+| Japanese | Explanation                                                  |
+| -------- | ------------------------------------------------------------ |
+| だけ     | - The particle 「だけ」 is used to express that that’s all there is. Just like the other particles we have already learned, it is directly attached to the end of whichever word that it applies to.<br>- Unlike some particles, you can directly attach 「だけ」 to verbs as well. |
+| のみ     | - A particle that is essentially identical both grammatically and in meaning to 「だけ」 is 「のみ」. However, unlike 「だけ」, which is used in regular conversations, 「のみ」 is usually only used in a written context. |
+| しか     | - 「しか」 must be used to indicate the lack of everything else. In other words, the rest of the sentence must always be negative.<br>- しか」 has an embedded negative meaning while 「だけ」 doesn’t have any particular nuance.<br>これだけ見る。<br>See just this.<br>これだけ見ない。<br>Don’t see just this.<br>これしか見ない。<br>Don’t see anything else but this. |
+| っきゃ   | - 「っきゃ」 is another version of 「しか」 that means essentially the same thing and works exactly the same way. |
+| ばかり   | - 「ばかり」 is used to express the condition where there’s so much of something to the point where there’s nothing else.<br>- In more casual situations, 「ばかり」 is usually pronounced 「ばっかり」 or just 「ばっか」. |
+| すぎる   | - 「すぎる」 is a regular ru-verb written 「過ぎる」 meaning, “to exceed”.<br>- Verbs: masu-stem + すぎる<br>- na-adjectives: Just attach すぎる<br>- For negative verbs and adjectives: REPLACE last い with さ and attach すぎる.<br>- Most regular i-adjectives such as 「危ない」 or 「少ない」just REMOVE the い  and attach すぎる. |
+| も       | - When the 「も」 particle comes after some type of amount, it means that the amount indicated is way too much.<br>昨日、電話三回もしたよ！<br>I called you like three times yesterday! |
+| ほど     | The noun 「ほど」（程） is attached to a word in a sentence to express the extent of something. It can modify nouns as well as verbs.<br>今日の天気はそれほど暑くない。<br>Today’s weather is not hot to that extent. |
+| ～さ     | - Add 「さ」 to adjectives to indicate an amount of that adjective. For example, we can attach 「さ」 to the adjective for “high” in order to get “height”.<br>- For i-adjectives, replace the い with さ.<br>- For na-adjectives just attach it. |
 
