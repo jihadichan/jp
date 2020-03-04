@@ -52,7 +52,8 @@ Source: https://www.tanoshiijapanese.com/dictionary/conjugation_details.cfm?entr
 
 Source: https://jisho.org/search/%E3%81%AA%E3%81%84 -> Show Inflections
 
-* yeah... no idea how they differ, see grammar guide for なくて and ないで
+* *yeah... no idea how they differ, see grammar guide for なくて and ないで
+* ない is sometimes shortened to ん
 
 
 
@@ -205,7 +206,6 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 
 | Grammar Point&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Explanation                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-|                                                              |                                                              |
 | Sentence order                                               | Only rule is that the verb comes at the end. The subject and object can be shifted however you want. |
 | Adjectives to adverbs                                        | i-adjectives: 早い → 早く、na-adjectives: きれい → きれいに<br>E.g. 早く食べた - quickly ate |
 | Verb + motion verb                                           | Frm: [verb with masu-stem] + [maybe a particle] + 行く OR 来る.<br>E.g. 見に行く - "go to see"<br>Can also be conjugated: 遊びにきた - "came to play"、持っていって - "go and bring" |
@@ -215,7 +215,6 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 | 〜なる                                                       | - When using with nouns and na-adjectives use with に, i.e. 〜になる<br>- When using 〜なる with i-adjectives, instead of using ~になる, you need to conjugate the adjective to its negative stem and then attach なる. E.g. 強くなる (become strong), 強くなかった (was not strong), 強くなった (became strong(er))<br>- When using with verbs add a generic noun such as a generic event: こと (事) or an appearance/manner: よう (様） |
 | Transitive / Intransitive&nbsp;Verbs                         | The difference between the two is that transitive verbs is an action done by an active agent while intransitive verbs are used when something occurs without a direct agent. |
 | 欲しい<br>ほしい                                             | - Want to.<br>- Works like 好き.<br>- When combined with the te-form of a verb, it means “to want something done” |
-| Volitional form&nbsp;(casual)                                | - The term volitional here means a will to do something. E.g. “let’s” or “shall we?”<br>テーマパークに行こう！<br>Let’s go to theme park! |
 | だい？<br>かい？                                             | - 「かい」 and 「だい」 are strongly masculine sentence endings for asking questions. 「かい」 is used for yes/no questions while 「だい」 is used for open-ended questions. |
 | Gender-specific particles                                    | - Using 「わ」 is just like 「よ」 except it will make you sound very feminine<br>-「かしら」 is also a very feminine version of 「かな」(see な particle)<br>-「ぞ」 and 「ぜ」 are identical to 「よ」 except that it makes you sound “cool” and manly |
 | Humble Form                                                  | Humble Conjugation: お + stem + する<br>先生、お聞きしたいことがありますが。<br/>Teacher, there’s something I want to ask you. |
@@ -224,8 +223,36 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 | ところ                                                       | - 「ところ」（所） is usually used to indicate a generic physical location. However, it can also hold a much broader meaning ranging from a characteristic to a place in time. |
 | もの                                                         | - The generic object noun 「もの」 can be used as a casual and feminine way of emphasizing something. This is identical to the explanatory feminine emphasis expressed by the 「の」 particle. Just like the explanatory 「の」 particle, the 「の」 is often changed into 「ん」 resulting in 「もん」. |
 | かもしれない<br>かも知れない                                 | - 「かもしれない」 is used to mean “maybe” or “possibly” and is less certain than the word 「多分」. It attaches to the end of a complete clause.<br>- For noun and na-adjective clauses, the declarative 「だ」 must be removed.<br>- The conjugation base is 知れる<br>- It can be abbreviated to just 「かも」 in casual speech. |
-| でしょう                                                     | - 「でしょう」 is used to express a level of some certainty and is close in meaning to 「多分」. Just like 「～です／～ます」, it must come at the end of a complete sentence. It does not have any other conjugations.<br>- You can also replace 「～ですか」 with 「～でしょうか」<br>- In casual speech it can be shortened to 「でしょ」. The casual version has a much stronger flavor often sounding more like, “See, I told you so!”<br>だから、時間がないって言ったでしょう！<br>That’s why I told you there was no time! |
-|                                                              |                                                              |
+| でしょう                                                     | - 「でしょう」 is used to express a level of some certainty and is close in meaning to 「多分」. Just like 「～です／～ます」, it must come at the end of a complete sentence. It does not have any other conjugations.<br>- It's the polite volitional form of だ. And だろうis the plain form.<br>- You can also replace 「～ですか」 with 「～でしょうか」<br>- In casual speech it can be shortened to 「でしょ」. The casual version has a much stronger flavor often sounding more like, “See, I told you so!”<br>だから、時間がないって言ったでしょう！<br>That’s why I told you there was no time! |
+| わけ                                                         | - Used to express a conclusion. <br>つまり、語学には、能力がないという訳か。<br>Jim: So basically, it *means* that you don’t have ability at language.<br>中国語が読めるわけがない。<br>There’s no way I can read Chinese. (lit: There is no reasoning for [me] to be able to read Chinese.)<br>- When using with ない the particle can be dropped, i.e. ～わけない instead of 〜わけがない<br>- Can also mean that something is very easy (lit: requires no explanation). |
+| とする                                                       | - Used for making hypotheses, e.g. assume, suppose<br>- 「とする」 is really just a combination of the quotation particle 「と」 and the verb 「する」 meaning “to do”.<br>- [verb]とする. This means literally that you are doing like “[verb]” (in quotes). When used with the volitional, it becomes: “Doing like making motion to do [verb]”. In other words, you are acting as if to make a motion to do [verb].<br>明日に行くとする。<br>Assume we go tomorrow.<br>- Note that conjugations happen with する, i.e. are irregular and not easy to recognize as such. E.g.  としたら is する in past form with the conditional たら ending. |
+| ～ばかり                                                     | - Indicate that one has just finished doing something<br>- Take the past tense of verb that you want to indicate as just being completed and add 「ばかり」. This is used with only the past tense of verbs and is not to be confused with the 「ばかり」 used with nouns to express amounts.<br>- In slang you can hear people use 「ばっか」 instead of 「ばかり」.<br>すみません、今食べたばかりなので、お腹がいっぱいです。<br>Sorry, but I’m full having just eaten. |
+| 〜とたん                                                     | - Kind of as a supplement to 「ばかり」, we will cover one way to say something happened as soon as something else occurs. To use this grammar, add 「とたん」 to the past tense of the first action that happened. It is also common to add the 「に」 target particle to indicate that specific point in time.<br>窓を開けたとたんに、猫が跳んでいった。<br>As soon as I opened window, cat jumped out. |
+| 〜ながら                                                     | - Used to express that one action is taking place in conjunction with another action.<br>- masu-stem + ながら<br>テレビを観ながら、宿題をする。<br>Do homework while watching TV.<br>- Used it with nouns or adjectives to talk about what something is while something else, i.e. “While it’s unfortunate, something something…”. As ながらも changes the meaning from “while” to “even while”.<br>貧乏ながらも、高級なバッグを買っちゃったよ。<br>Even while I’m poor, I ended up buying a high quality bag. |
+| 〜まくる                                                     | - Verb suffix to indicate doing something with "reckless abandon to the activity", i.e. to do relentlessly or "all the time"<br>- masu-stem + まくる<br>やりまくっている - doing all the time<br>やりまくっていない - don’t do all the time<br>やりまくっていた - did all the time<br>やりまくっていなかった - didn’t do all the time |
+| ～やすい<br>～にくい                                         | - To describe an action as being easy, change the verb to the masu stem and add 「やすい」. To describe an action as being difficult, attach 「にくい」 to the stem.<br>しゃべる → しゃべり → しゃべりにくい<br>食べにくい<br>食べにくくない<br>食べにくかった<br>食べにくくなかった<br>この字は読みにくい<br>This hand-writing is hard to read. |
+| ～がたい<br>～づらい                                         | - The kanji for 「にくい」 actually comes from 「難い」 which can also be read as 「かたい」. As a result, you can also add a voiced version 「～がたい」 as a verb suffix to express the same thing as 「にくい」. Yet another, more coarse variation of stem + 「にくい」 is to use 「づらい」 instead which is a slightly transformed version of 「辛い」（つらい）. This is not to be confused with the same 「辛い」（からい）, which means spicy! |
+| まま                                                         | - Grammatical phrase to express a lack of change in something, e.g. "the way it is" Grammatically, it is used just like a regular noun.<br>このままで宜しいですか？<br>Is it ok just like this? |
+| 〜っぱなし<br>〜っ放し                                       | - The verb 「放す」 meaning “to set loose”, can be used in various ways in regards to leaving something the way it is. For instance, a variation 「放っとく」 is used when you want to say “Leave me alone”.<br>- As suffix you can attach it to the masu stem of any verb to describe the act of doing something and leaving it that way without changing it. You can treat the combination like a regular noun. The suffix carries a nuance that the thing left alone is due to oversight or neglect. |
+| である                                                       | - 「である」 is another type of state-of-being that is primarily used to state facts in a neutral, official sounding manner. だ is the contraction of である. Works like using だ and です.<br>- The negative is ではない (colloquial じゃない、じゃ is a colloquial contraction of では)<br>学生である - is student<br>学生ではない - is not student<br>学生であった	- was student<br>学生ではなかった	- was not student |
+| ～がる                                                       | - Used when you want to make an observation about how someone is feeling. Therefore, you would not use it for your own emotions since guessing about your own emotions is not necessary.<br>- Can only be used with adjectives<br>For i-adjectives: 怖い → 怖がる<br>For na-adjectives: 嫌 → 嫌がる |
+| 〜ばかり                                                     | - Like ～がる but for verbs. <br>For present, non-negative: Conjugate the verb to the 「ん」 negative form and attach 「ばかり」: <br>言う → 言わない → 言わん → 言わんばかり<br>For all other tenses: Attach 「ばかり」 to the end of the verb: <br>言わなかった → 言わなかったばかり |
+| 〜めく                                                       | - Used to indicate that something is showing the signs of a certain state. Unlike the 「～がる」 grammar, there is no action that indicates anything; merely the atmosphere gives off the impression of the state.<br>- This grammar is used by simply attaching 「めく」 to the noun or na-adjective. Conjugations on the suffix work then like on a -ku verb |
+| ～ざるを得ない                                               | - Used when there’s something that just can’t be helped and must be done. It uses the negative of the verb 「得る」 or “obtain”, to roughly mean that “one cannot obtain not doing of an action”.<br>- To say that you can’t not do something replace the 「ない」 part of the negative verb with 「ざる」, then attach 「を得ない」 to the end of the verb.<br>食る → 食べない → 食べざる → 食べざるを得ない<br>行く → 行かない → 行かざる → 行かざるを得ない<br>する → せざる → せざるをえない<br>くる → こざる → こざるをえない |
+| やむを得ない                                                 | - This grammar is very similar to the one we just learned above except that it uses the verb 「止む」 to say that one cannot obtain the stopping of something. It is used to describe something that one is forced to do due to some circumstances. The difference here is that this is a complete phrase, which can be used for a general situation that doesn’t involve any specific action. In other words, you’re not actually forced to *do* something; rather it describes a situation that cannot be helped. If you have already learned 「仕方がない」 or 「しょうがない」, this grammar means pretty much the same thing. |
+| ～かねる                                                     | - 「かねる」 is a ru-verb that is used as a suffix to other verbs to express a person’s inability, reluctance, or refusal to do something. It is often used in the negative as 「かねない」 to indicate that there is a possibility that the verb in question might happen.<br>- To say that something cannot be done using 「かねる」, change the verb to the masu stem and attach 「かねる」. |
+| ～がち                                                       | - Say that something is likely to occur. In other words, the result becomes a description of something as being likely.<br>- For verbs: Attach 「がち」 to the stem of the verb.<br>- For nouns: Attach 「がち」 to the appropriate noun<br>- All adjectives that are conjugated with 「～がち」 become a noun/na-adjective (it itself is a na-adjective). |
+| ～つつ                                                       | - 「つつ」 is a verb modifier that can be attached to the masu stem of verbs to express an ongoing occurrence. There are 2 ways to use this grammar point: <br>1. The first is almost identical to the 「～ながら」 grammar.<br>2. The second way to use this grammar is to express the existence of a continuing process by using 「ある」, the verb for existence. Everything is the same as before except that you attach 「ある」 to 「つつ」 to produce 「～つつある」. |
+| きらいがある                                                 | -「きらいがある」 is a fixed expression used to describe a bad tendency or habit. I suspect that 「きらい」 here *might* have something to do with the word for hateful: 「嫌い」. The 「きらい」 in this grammar functions as a noun. 「ある」 is simply the existence verb for inanimate objects. |
+| だらけ                                                       | - 「だらけ」 is usually used when something is riddled everywhere. It generally carries a negative connotation. There is no conjugation rule to cover here, all you need to do is attach 「だらけ」 to the noun that is just all over the place.<br>間違い → 間違いだらけ (riddled with mistakes)<br>埃 → 埃だらけ (riddled with dust) |
+| まみれ                                                       | - 「まみれ」 may seem very similar to 「だらけ」 but there are some very important subtle differences. It’s only used for actually physical objects so you can’t say "riddled with mistakes" (see だらけ). Plus, you can only use it for things that literally cover the object. So you can use it for things like liquids and dust, but you can’t use it for things like scratches and garbage.<br>- The grammatical rules are the same as 「だらけ」. |
+| ずくめ                                                       | - ずくめ」 describes something that applies to the whole thing. For instance, if we were talking about the human body, the expression “is [X] from head to toe” might be close to what 「ずくめ」 means. Usually used with a color to describe people completely dressed in that color.<br>- Grammatically, 「ずくめ」 works in exactly the same ways as 「だらけ」 and 「まみれ」. |
+| が早いか                                                     | - Used to describe something that happened the instant something else occurred<br>- You attach 「が早いか」 to the first verb, then you describe the event that happened the next instant. The curious thing about this grammar is that the 「が」 particle comes right after the verb. Remember, you can do this *only* with this specific grammatical phrase.<br>言う → 言うが早いか<br>言う → 言った → 言ったが早いか |
+| や・や否や                                                   | - The 「や」 or 「や否や」（やいなや） phrase, when appended to a verb, is used to described something that happened right after that verb. Its meaning is essential the same as 「が早いか」.<br>- You can use this grammar by attaching 「や」 or 「や否や」 to the dictionary form of the first verb that occurred.<br>見る → 見るや<br>見る → 見るや否や |
+| そばから                                                     | - 「そばから」 is yet another grammar that describes an event that happens right after another. However, unlike the expressions we have covered so far, 「そばから」 implies that the events are a recurring pattern. For example, you would use this grammar to express the fact that you just clean and clean your room only for it to get dirty again soon after.<br>- Besides this difference, the rules for using this expression are exactly the same as 「が早いか」 and 「や否や」. Just attach 「そばから」 to the dictionary form of the first verb that occurred.<br>読む → 読むそばから<br>する → するそばから |
+| 思いきや                                                     | - You use this grammar when you think one thing, but much to your astonishment, things actually turn out to be very different.<br>- Attach 「思いきや」 to the thought using the quotation 「と」.<br/>ある → ある*と* → あると*思いきや* |
+| ～がてら                                                     | - This rather formal and seldom-used grammar is used to indicate that two actions were done at the same time. The nuance is a bit difference from 「ながら」 in that some or all of the time spent on doing one action was also used to do another action as an aside. Remember, 「ながら」 is used to describe two exactly concurrent actions.<br>- Attach 「がてら」 to the noun or masu verb stem of the main action. In case of a noun, the verb 「する」 is inferred.<br>散歩 → 散歩がてら<br>作る → 作り → 作りがてら |
+| ～あげく（挙句）                                             | - 「あげく」 is a grammar used to describe a result, usually negative, that came about after a great deal of effort. Because this grammar is used to describe a result from an action already completed, it is used with the past tense of the verb. 「あげく」 is essentially treated the same as any noun. In other words, you would need the 「の」 particle to modify another noun.<br>- Attach 「あげく」 to the verb or noun that created the end result （「の」 particle is required for nouns）<br>けんか → けんかのあげく<br>考えた → 考えたあげく |
 
 
 
@@ -254,8 +281,9 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 
 | て・で +addition&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Meaning                                                      |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 〜て、〜で、...                                              | - Multiple verbs in te-form in a list express a sequence of actions, i.e. it works like "and", "then", etc. Note: This is only for casual speech. The formal version of this is to use the masu form stem.<br>食べなくて寝た。<br>"I didn’t eat, (and) then I went to sleep"<br>- Single verbs in te-form express a request for an action. See ～てください. |
 | ～てください                                                 | - Means "Please do X" <br>- It's a conjugation of 下さる, which is a honorific form of くれる. Like being handed down something.<br>- In casual speech, it is often common to simply drop the ください part.<br>- Negative is built via "negative form" + で. E.g. 買わないで. |
-| ~ないで                                                      | - Request to not do something.<br>- Negative is built via "negative form" + で. E.g. 買わないで.<br>- 「くれる」 or 「もらえる」can be added at the end. Can also be omitted.<br>高い物を買わないでくれる？<br/>Can you not buy expensive thing(s)? |
+| 〜ないで                                                     | - Request to not do something.<br>- Negative is built via "negative form" + で. E.g. 買わないで.<br>- 「くれる」 or 「もらえる」can be added at the end. Can also be omitted.<br>高い物を買わないでくれる？<br/>Can you not buy expensive thing(s)?<br>- Indicate an action that was done *without* doing another action<br>何も食べないで寝ました。<br>Went to sleep without eating anything. |
 | ～ている                                                     | - Indicates continuous action, i.e. "currently doING something".<br>- Conjugations work the same as with 居る.<br>E.g. 読んでいます (is reading, polite), 読んでいない (is not reading)<br>- Can also indicate an "enduring state-of-being".<br>E.g. 知っている = "I know", 持っている = "to have / possess"<br>- When used with motion verbs like 行っている or 来ている it means that you "completed the motion, and now you exist in that state." |
 | ～てある                                                     | - By replacing 「いる」 with 「ある」, instead of a continuing action, it becomes a resultant state after the action has already taken place. Usually, this expression is used to explain that something is in a state of completion. |
 | ～ておく                                                     | - While 「～てある」 carries a nuance of a completed action in preparation for something else, 「～ておく」 explicitly states that the action is done (or will be done) with the future in mind. E.g.<br>晩ご飯を作っておく。<br>I make dinner (in advance for the future). |
@@ -266,43 +294,48 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 | 〜てあげる                                                   | - Express the giving of a favor (verb) you must use the ever useful te-form and then attach 「あげる」. See "Giving and receiving" |
 | 〜てもらえる<br>〜てくれる                                   | - Make requests. See "Giving and receiving".                 |
 | ~て欲しい                                                    | - When combined with the te-form of a verb, it means “to want something done”<br>部屋をきれいにしてほしいのよ。<br>It is that I want the room cleaned up, you know. |
-| 〜*て*しまった                                               | - Express an action that is done or happened unintentionally.<br>毎日ケーキを食べて、２キロ太ってしまいました。<br>I ate cake everyday and I (unintentionally) gained two kilograms. |
+| 〜てしまった                                                 | - Express an action that is done or happened unintentionally.<br>毎日ケーキを食べて、２キロ太ってしまいました。<br>I ate cake everyday and I (unintentionally) gained two kilograms. |
 
 
 
 ## Masu-form stem usages
 
-| ます-stem + addition | Explanation                                                  |
-| -------------------- | ------------------------------------------------------------ |
-| stem + たい          | - means "want to", if negated "don't want to"<br>- たい is conjugated like an i-adjective, i.e. negative = たくない<br>温泉に行きたい。<br>I want to go to hot spring. |
-| stem + ましょう      | - volitional form (polite)<br>- Same as "Volitional form (casual)" (see Unsorted Grammar Point), but formal |
-| stem + なさい        | - Firm but polite requests. See "Making requests".           |
-| stem + すぎる        | - When 「すぎる」 is attached to the end of other verbs and adjectives, it means that it is too much or that it has exceeded the normal levels. |
-
-
+| ます-stem + addition&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Explanation                                                  |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 〜たい                                                       | - means "want to", if negated "don't want to"<br>- たい is conjugated like an i-adjective, i.e. negative = たくない<br>温泉に行きたい。<br>I want to go to hot spring. |
+| 〜ましょう                                                   | - volitional form (polite)<br>- Same as "Volitional form (casual)" (see Unsorted Grammar Point), but formal |
+| 〜なさい                                                     | - Firm but polite requests. See "Making requests".           |
+| 〜すぎる                                                     | - When 「すぎる」 is attached to the end of other verbs and adjectives, it means that it is too much or that it has exceeded the normal levels. |
+| 〜ながら                                                     | - Used to express that one action is taking place in conjunction with another action. See 〜ながら |
+| 〜まくる                                                     | - Verb suffix to indicate reckless abandon to the activity. See 〜まくる |
+| 〜方                                                         | - Verb suffix to express a way to do that verb. See Making Comparisons. |
+| ～やすい<br>～にくい                                         | - To describe an action as being easy, change the verb to the stem and add 「やすい」. To describe an action as being difficult, attach 「にくい」 to the stem. |
+| 〜っぱなし<br/>〜っ放し                                      | - As suffix you can attach it to the masu stem of any verb to describe the act of doing something and leaving it that way without changing it. |
+| Sequences in formal speech                                   | - To express sequences of actions in formal speech the te-form is not used. This practice is used only in regular everyday speech. Formal speeches, narration, and written publications employ the masu verb stem instead of the te-form to describe sequential actions. |
+| 〜さえ                                                       | - Expresses the minimum requirement of something. Attach to masu stem if the word is not already in te-form. See Expectations. |
 
 ## Negative-form stem usages
 
-| Neg.&nbsp;stem&nbsp;+&nbsp;addi.&nbsp; | Explanation                                    |
-| -------------------------------------- | ---------------------------------------------- |
-| stem + で                              | - Negative te-form, used for negative requests |
-|                                        |                                                |
-|                                        |                                                |
-|                                        |                                                |
+| Neg.&nbsp;stem&nbsp;+&nbsp;addi.&nbsp; | Explanation                                                  |
+| -------------------------------------- | ------------------------------------------------------------ |
+| 〜で                                   | - Negative te-form, used for negative requests. See 〜ないで.<br>- Can also mean without. |
+| 〜ず                                   | - Same as 〜ないで meaning "without" but more formal.<br>- Exceptional conjugations: する → せず、くる → こず |
+| 〜ん                                   | - Shortened version of "stem + ない"<br>- Exceptional conjugations: する → せん、くる → こん |
+| 〜め                                   | - Shortened version of "stem + ない"<br>- Exceptional conjugations: する → せぬ、 くる → こぬ |
 
 
-
-## 
 
 ## Volitional-form stem usages
 
 | Vol.&nbsp;stem&nbsp;+&nbsp;addi.&nbsp; | Explanation                                                  |
 | -------------------------------------- | ------------------------------------------------------------ |
-| stem + とする                          | - To attempt to do something<br>- You need to conjugate the verb into the volitional, enclose it in a quotation (so that we can perform an action on the clause) and finally add the verb する<br>毎日、勉強を避けようとする。<br>Everyday, she attempts to avoid study. |
-|                                        |                                                              |
-|                                        |                                                              |
-|                                        |                                                              |
-
+|Volitional form&nbsp;(casual)|- The term volitional here means a will to do something. E.g. “let’s” or “shall we?”<br>テーマパークに行こう！<br>Let’s go to theme park!|
+| 〜とする                               | - To attempt to do something<br>- You need to conjugate the verb into the volitional, enclose it in a quotation (so that we can perform an action on the clause) and finally add the verb する<br>毎日、勉強を避けようとする。<br>Everyday, she attempts to avoid study. |
+| Negative volitional | - The negative volitional is used to express negative intention. This means that there is a will for something to not happen or that someone is set out to not do something. As a result, because one is trying not to do something, it’s probably not going to happen. Essentially, it is a very stiff and formal version of 「でしょう」 and 「だろう」. That doesn’t mean you can use the negative volitional to say “let’s not” or “try not to”. The tone of this grammar is one of very strong determination to not do something<br>- Verbs are conjugated to the negative volitional by simply attaching 「まい」 to the verb. Another alternative is to attach 「まい」 to the masu stem.<br>- For ru-verbs: Attach「まい」 to the verb or verb stem.<br/>見る → 見るまい<br/>見る → 見まい<br/>- For u-verbs: Attach 「まい」 to the end of the verb: 行くまい<br/>Exceptions:<br/>する → するまい or しまい<br/>くる → くるまい<br/>- This conjugation must always come last. For masu-form, attach 「まい」 to the masu-form verb. なる → なり → なります → なりますまい |
+| やめる | - You cannot use the negative volitional to say “let’s not” or “try not to”. In order to express “let’s not”, you can use the verb, 「やめる」 with the regular volitional. In order to express an effort to not do something, you can use 「ようにする」 with the negative verb. |
+| Express a lack of relation | - We can use both volitional and negative volitional forms to say it doesn’t matter whether something is going to happen or not.<br>- Attach 「が」 to the volitional and negative volitional form of the verb.<br>食べる → 食べよう　/　食べまい → 食べようが　/　食べまいが<br>行く → 行こう　/　行くまい → 行こうが　/　行くまいが |
+|であろう|- Used to express likelihood<br>- The answer is to conjugate the verb 「ある」 from the formal state-of-being 「である」 to the volitional to produce 「であろう」. Remember 「でしょう」 can already be used as a polite form, so this form is even a step above that in formality.<br>困難 → 困難であろう<br>する → するであろう|
+|かろう|- Volitional fr い endings<br>- We learned in the lesson about formal grammar that 「ではない」 was the negative of 「である」. So how would we say something like 「であろう」 but for the negative? Remove the last 「い」 and attach 「かろう」. You can use it for negatives and i-adjectives just like the 「かった」 past conjugation form.<br>ではない → ではなかろう<br>早い → 早かろう|
 
 
 
@@ -319,7 +352,7 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 
 
 
-## Must / must not
+## Must / Must not
 
 | Japanese                                                     | Explanation                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -329,7 +362,7 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 
 
 
-## Relative clauses
+## Relative Clauses
 
 | Japanese | Explanation                                                  |
 | -------- | ------------------------------------------------------------ |
@@ -368,7 +401,7 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 
 
 
-## Making requests
+## Making Requests
 
 - :heavy_exclamation_mark: NOTE: 「ください」 is a special conjugation of 「くださる」, which is the honorific form of 「くれる」. Because 「ください」 like the masu-form must always come at the end sentence or a relative clause, you cannot use it to directly modify a noun. But you can still use it inside a sentence if it's in a direct quote (see と)
 
@@ -536,4 +569,41 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 | も       | - When the 「も」 particle comes after some type of amount, it means that the amount indicated is way too much.<br>昨日、電話三回もしたよ！<br>I called you like three times yesterday! |
 | ほど     | The noun 「ほど」（程） is attached to a word in a sentence to express the extent of something. It can modify nouns as well as verbs.<br>今日の天気はそれほど暑くない。<br>Today’s weather is not hot to that extent. |
 | ～さ     | - Add 「さ」 to adjectives to indicate an amount of that adjective. For example, we can attach 「さ」 to the adjective for “high” in order to get “height”.<br>- For i-adjectives, replace the い with さ.<br>- For na-adjectives just attach it. |
+
+
+
+## Similarity or Hearsay
+
+| Japanese&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Explanation                                                  |
+| -------------------------------------------------------- | ------------------------------------------------------------ |
+| よう（様）                                               | - 「よう」 means an appearance or manner. Used to say that something has an appearance or manner of a certain state. This word can be used in many ways to express similarity, i.e. "looks like".<br>ここには、誰もいないようだ。<br>Looks like no one is here.<br>- When directly modifying nouns or na-adjectives, you must use the 「の」 particle for nouns or attach 「な」 to na-adjectives.<br>学生のようだ。<br>Looks like it’s a student.<br>- We can attach the target particle to say things like, “I heard it like that” or “I said it like…”.<br>何も起こらなかったように言った。<br>Said (it) like nothing happened. |
+| みたい                                                   | - To say something looks like something else<br>- The main difference is that this 「みたい」 can be attached directly to nouns, adjectives, and verbs just like particles. And it's only used in casual situation.<br>- Do not confuse this with the 「たい」 conjugation of 「見る」.<br>犬みたい - looks like a dog<br>犬じゃないみたい - doesn’t look like a dog<br>犬だったみたい - looked like a dog<br>犬じゃなかったみたい - didn’t look like a dog |
+| ～そう                                                   | - Used to indicate a likely outcome given the situation.<br>- Verbs must be changed to the masu stem.<br>- The 「い」 in i-adjectives must be dropped except for 「いい」.<br>-「いい」 must first be conjugated to 「よさ」.<br>- For all negatives, the 「い」 must be replaced with 「さ」.<br>- This grammar does not work with plain nouns.<br>バランスが崩れて、一瞬倒れそうだった。<br>Losing my balance, I seemed likely to fall for a moment.<br>この漬物はおいしそう！<br>I bet this pickled vegetable is tasty! (This pickled vegetable looks good!)<br>- ～そう can't be used with nouns. Use だろう or でしょう (volitional form of だ), e.g. 学生でしょう、学生だろう |
+| ～そうだ                                                 | - Used for talking about things you heard that doesn’t necessary have anything to do with how you yourself, think or feel.<br>- Note that this is different from ～そう. Unlike ～そう, you can simply attach 「そうだ」 to verbs and i-adjectives. For na-adjectives and nouns, you must indicate the state-of-being by adding 「だ」 to the noun/na-adjective. Also, notice that 「そう」 itself must always end in 「だ」、「です」、or 「でございます」. These differences are what distinguishes this grammar from the one we learned in the last section. There are no tenses for this grammar.<br>明日、雨が降るそうだ。<br/>I hear that it’s going to rain tomorrow.<br>だそうです。<br>So I hear. |
+| ～らしい                                                 | - Used to show that things appear to be a certain way due to what you’ve heard. This is different from 「～そうだ」because 「～そうだ」 indicates something you heard about specifically while 「らしい」 means things seem to be a certain way based on some things you heard about the subject.<br>- 「らしい」 can be directly attached to nouns, adjectives, or verbs. It conjugates like a normal i-adjective.<br>こない*らしい*。<br>Seems like it (based on what I heard). |
+| っぽい                                                   | - A really casual way to express similarity is to attach 「っぽい」 to the word that reflects the resemblance. You can use it as a casual version for all the different types of expression for similarity covered above.<br>- 「 っぽい」 conjugates just like an i-adjective<br>あの人はちょっと韓国人っぽいよね。<br>That person looks a little like Korean person, huh? |
+
+
+
+## Making Comparisons
+
+| Japanese&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Explanation                                                  |
+| -------------------------------------------------------- | ------------------------------------------------------------ |
+| 方（ほう）                                               | - Used for comparison by saying one way of things is better, worse, etc., than the other way. Grammatically, it works just like any other regular nouns.<br>- Use it with nouns by utilizing the 「の」 particle.<br>ご飯の方がおいしい<br>- Grammatically, it’s no different from a regular noun.<br>Rice is tastier. (lit: The way of rice is tasty.)<br>学生じゃない方がいいよ。<br/>It’s better to not be a student. (lit: The way of not being student is good.)<br>- For non-negative verbs, you can also use the past tense to add more certainty and confidence, particularly when making suggestions.<br>ゆっくり食べた方が健康にいいよ。<br>It’s better for your health to eat slowly.<br>- You can also attach 「方」 to the masu stem of verbs to express a way to do that verb. In this usage, 「方」 is read as 「かた」 and the result becomes a noun. For example, 「行き方」（いきかた） means, “the way to go” or 「食べ方」（たべかた）means, “the way to eat”.<br>新宿の行き方は分かりますか。<br>Do you know the way to go to Shinjuku?<br>そういう食べ方は体によくないよ。<br>Eating in that way is not good for your body. |
+| より                                                     | - You can think of 「より」 as being the opposite of 「方」.<br>- It attaches directly to the back of any word. It is usually used in conjunction with 「方」 to say something like, “This way is better as opposed to that way.”, but it is no requirement to do so.<br>花より団子。<br>Dango rather than flowers. (This is a very famous saying.)<br>ご飯の方が、パンよりおいしい。<br>Rice tastes better than bread. (lit: The rice way is tasty as opposed to bread.)<br>- You can also use 「より」 with question words such as 「誰」、「何」、or 「どこ」 to make a superlative by comparing with everything or everybody else. In this case, though not required, it is common to include the 「も」 particle.<br>商品の品質を何より大切にしています。<br>We place value in product’s quality over anything else. |
+| によって                                                 | - When you want to say, “depending on [X]”, you can do this in Japanese by simply attaching 「によって」 to [X]. This is simply the te-form of 「よる」.<br>人によって話が違う。<br>The story is different depending on the person. |
+| によると                                                 | - Another expression using 「よる」 is by using it with the target and the decided conditional 「と」 to indicate a source of information. In English, this would translate to “according to [X]” where 「によると」 is attached to [X].<br>天気予報によると、今日は雨だそうだ。<br>According to the weather forecast, I hear today is rain. |
+
+
+
+## Expectations
+
+| Japanese       | Explanation                                                  |
+| -------------- | ------------------------------------------------------------ |
+| はず           | - Used to express something that was or is supposed to be. You can treat 「はず」 just like a regular noun as it is usually attached to the adjective or verb that is supposed to be or supposed to happen.<br>日曜日のはず (noun)<br>可能なはず (na-adjective)<br>おいしいはず (i-adjective)<br>帰るはず (verb)<br>Negative: 帰るはず → 帰るはずがない<br>そう簡単に直せるはずがないよ。<br>It’s not supposed to be that easy to fix. |
+| べき           | - 「べき」 is a verb suffix used to describe something that is supposed to be done. This suffix is commonly defined as “should”, but cannot be used as a word.<br>- Unlike the 「はず」 grammar, there is no expectation that something is going to happen. Rather, this grammar describes what one should do in a given circumstance.<br>-「べき」 works just like a regular noun and so you can conjugate it as 「べきじゃない」、「べきだった」, and so on.<br>行う → 行うべき<br>する → するべき<br>For the generic “to do ” verb 「する」 only, you can remove the 「る」<br>Example: する＋べき → すべき |
+| べく           | - Used to describe what one tries to do<br>- While 「べき」 describes a strong suggestion, changing it to 「べく」 allows you to describe what one did in order to carry out that suggestion<br>- Grammatically, 「べく」 is really a conjunctive form of 「べき」, similar to what the te-form does to connect another phrase.<br>早く帰るべき。<br>Should go home early.<br>早く帰るべく、準備をし始めた。<br>In trying to go home early, started the preparations.<br>Same as 「べき」, you can remove the 「る」 for the generic “to do ” verb 「する」 only<br>Example: する＋べく → すべく |
+| べからず       | - Used to describe things one must not do. It's another form of another from of 「べき」, but expresses the opposite meaning.<br>- Conjugations work the same way as above.<br>ゴミ捨てるべからず。<br>You must not throw away trash. |
+| さえ<br>でさえ | - In English, we might say, “not even close” to show that not even the minimum expectation has been met. In Japanese, we can express this by attaching 「さえ」 to the object or verb that miserably failed to reach what one would consider to be a bare minimum requirement. Conversely, you can also use the same grammar in a positive sense to express something is all you need.<br>- Nouns: Attach 「さえ」 or 「でさえ」 to the minimum requirement. There are no grammatical differences but it does sound a bit more emphatic.<br>- For verbs: Change the verb to the masu stem and attach 「さえ」. For verbs in te-form, attach 「さえ」 to 「て／で」. You can also attach 「さえ」 to the stem of verbs to express a minimum action for a result.<br>お金さえあれば、何でも出来るよ。<br>The least you need is money and you can do anything.<br>お弁当を買うお金さえなかった。<br>I didn’t even have money to buy lunch.<br>- 「（で）すら」 is a older variation of 「（で）さえ」 that is not as commonly used. It is essentially interchangeable with 「（で）さえ」 except that it is generally used only with nouns. |
+| おろか         | - This grammar comes from the adjective 「愚か」 which means to be foolish or stupid. However, in this case, you’re not making fun of something, rather by using 「おろか」, you can indicate that something is so ridiculous that it’s not even worth considering.<br>漢字はおろか、ひらがなさえ読めないよ！<br>Forget about Kanji, I can’t even read Hiragana! |
 
