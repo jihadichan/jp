@@ -289,7 +289,7 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 
 
 
-## Connecting sentences (and, or, because, etc)
+## Connecting Sentences (and, or, because, etc)
 
 | Japanese | Explanation |
 | -------- | ------------------------------------------------------------ |
@@ -304,7 +304,7 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 
 
 
-## Te-form stem usages
+## Te-form Stem Usages
 
 - :exclamation: **NOTE:** The *te* form of a Japanese verb is used when the verb has some kind of connection to the following words.
 
@@ -327,7 +327,7 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 
 
 
-## Masu-form stem usages
+## Masu Form Stem Usages
 
 | ます-stem + addition&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Explanation                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -343,7 +343,7 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 | Sequences in formal speech                                   | - To express sequences of actions in formal speech the te-form is not used. This practice is used only in regular everyday speech. Formal speeches, narration, and written publications employ the masu verb stem instead of the te-form to describe sequential actions. |
 | 〜さえ                                                       | - Expresses the minimum requirement of something. Attach to masu stem if the word is not already in te-form. See Expectations. |
 
-## Negative-form stem usages
+## Negative-form Stem Usages
 
 | Neg.&nbsp;stem&nbsp;+&nbsp;addi.&nbsp; | Explanation                                                  |
 | -------------------------------------- | ------------------------------------------------------------ |
@@ -354,7 +354,7 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 
 
 
-## Volitional-form stem usages
+## Expression for Volition
 
 | Vol.&nbsp;stem&nbsp;+&nbsp;addi.&nbsp; | Explanation                                                  |
 | -------------------------------------- | ------------------------------------------------------------ |
@@ -364,7 +364,7 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 | やめる | - You cannot use the negative volitional to say “let’s not” or “try not to”. In order to express “let’s not”, you can use the verb, 「やめる」 with the regular volitional. In order to express an effort to not do something, you can use 「ようにする」 with the negative verb. |
 | Express a lack of relation | - We can use both volitional and negative volitional forms to say it doesn’t matter whether something is going to happen or not.<br>- Attach 「が」 to the volitional and negative volitional form of the verb.<br>食べる → 食べよう　/　食べまい → 食べようが　/　食べまいが<br>行く → 行こう　/　行くまい → 行こうが　/　行くまいが |
 |であろう|- Used to express likelihood<br>- The answer is to conjugate the verb 「ある」 from the formal state-of-being 「である」 to the volitional to produce 「であろう」. Remember 「でしょう」 can already be used as a polite form, so this form is even a step above that in formality.<br>困難 → 困難であろう<br>する → するであろう|
-|かろう|- Volitional fr い endings<br>- We learned in the lesson about formal grammar that 「ではない」 was the negative of 「である」. So how would we say something like 「であろう」 but for the negative? Remove the last 「い」 and attach 「かろう」. You can use it for negatives and i-adjectives just like the 「かった」 past conjugation form.<br>ではない → ではなかろう<br>早い → 早かろう|
+|かろう|- Volitional for い endings<br>- We learned in the lesson about formal grammar that 「ではない」 was the negative of 「である」. So how would we say something like 「であろう」 but for the negative? Remove the last 「い」 and attach 「かろう」. You can use it for negatives and i-adjectives just like the 「かった」 past conjugation form.<br>ではない → ではなかろう<br>早い → 早かろう|
 
 
 
