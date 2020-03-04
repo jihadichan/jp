@@ -11,7 +11,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[4.2 Te-form Stem Usages](#te-form-stem-usages)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[4.3 Masu Form Stem Usages](#masu-form-stem-usages)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[4.4 Negative-form Stem Usages](#negative-form-stem-usages)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[4.5 Expression for Volition](#expression-for-volition)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[4.5 Expressing Volitions](#expressing-volitions)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[4.6 Conditionals (if-then)](#conditionals-if-then)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[4.7 Must / Must not](#must--must-not)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[4.8 Relative Clauses](#relative-clauses)<br>
@@ -27,6 +27,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[4.18 Making Comparisons](#making-comparisons)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[4.19 Expectations](#expectations)<br>
 <!--- TOC_END -->
+
 
 
 
@@ -355,7 +356,7 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 
 
 
-## Expression for Volition
+## Expressing Volitions
 
 | Vol.&nbsp;stem&nbsp;+&nbsp;addi.&nbsp; | Explanation                                                  |
 | -------------------------------------- | ------------------------------------------------------------ |
