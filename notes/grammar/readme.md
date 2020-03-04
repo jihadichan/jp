@@ -1,4 +1,33 @@
 <!--- FILE_TOC -->
+[1. Conjugations](#conjugations)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.1 Conjugation building blocks](#conjugation-building-blocks)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.2 Verbs](#verbs)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.3 Nouns](#nouns)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.4 Adjectives](#adjectives)<br>
+[2. Particles](#particles)<br>
+[3. Unsorted Grammar Points](#unsorted-grammar-points)<br>
+[4. Grammar Groups](#grammar-groups)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[4.1 Connecting sentences (and, or, because, etc)](#connecting-sentences-and-or-because-etc)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[4.2 Te-form stem usages](#te-form-stem-usages)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[4.3 Masu-form stem usages](#masu-form-stem-usages)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[4.4 Negative-form stem usages](#negative-form-stem-usages)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[4.5 Volitional-form stem usages](#volitional-form-stem-usages)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[4.6 Conditionals (if-then)](#conditionals-if-then)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[4.7 Must / Must not](#must--must-not)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[4.8 Relative Clauses](#relative-clauses)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[4.9 Defining and Describing](#defining-and-describing)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[4.10 Giving and receiving](#giving-and-receiving)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[4.11 Making Requests](#making-requests)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[4.12 Numbers and Counting](#numbers-and-counting)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[4.13 Casual Patterns and Slang](#casual-patterns-and-slang)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[4.14 Causative and Passive Verbs](#causative-and-passive-verbs)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[4.15 Honorific and Humble Forms](#honorific-and-humble-forms)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[4.16 Expressing Amounts](#expressing-amounts)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[4.17 Similarity or Hearsay](#similarity-or-hearsay)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[4.18 Making Comparisons](#making-comparisons)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[4.19 Expectations](#expectations)<br>
+<!--- TOC_END -->
+
 
 
 
