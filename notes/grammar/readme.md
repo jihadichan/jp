@@ -504,35 +504,18 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 
 ## Casual Patterns and Slang
 
-- The fundamental goal of slang is to reduce mouth movement, example 1:
-  ここ**はつまら**ないから私**の家に**行こう。
-  ここ**つまん**ないから、私**んち**行こう。
-  Example 2:
-  **まった**く、いつまでこんな**ところ**で、ぐずぐず**するん**だよ。
-  **った**く、　いつまでこんな**とこ**で、　ぐずぐず**すん**だよ。
-- While written Japanese already has fairly loose rules regarding sentence order, casual spoken Japanese takes it one step further.
-  Correct: それは何？
-  Slang: 何それ？
+- The fundamental goal of slang is to reduce mouth movement, example 1:<br>ここ**はつまら**ないから私**の家に**行こう。<br>ここ**つまん**ないから、私**んち**行こう。<br>Example 2:<br>**まった**く、いつまでこんな**ところ**で、ぐずぐず**するん**だよ。<br>**った**く、　いつまでこんな**とこ**で、　ぐずぐず**すん**だよ。<br>
+- While written Japanese already has fairly loose rules regarding sentence order, casual spoken Japanese takes it one step further.<br>Correct: それは何？<br>Slang: 何それ？
 - 「じゃん」 is an abbreviation of 「じゃない」, the negative conjugation for nouns and na-adjectives. 
   - Though derived from 「じゃない」, 「じゃん」 is always used to confirm the positive.
   - It can be attached to the end of any sentence regardless of whether it ends in a noun, adjective, verb, or adverb.
   - 「じゃん」 is basically saying something along the lines of, “See, I’m right, aren’t I?”
-- Using 「つ」 for 「という」. This may sound hard to believe but if you really slur 「という」 together, it becomes something resembling 「つ」. E.g.
-  だから、違うんだつうの！
-  "Like I said, you’re wrong!"
-  - If you want even more emphasis, you can even add a small 「つ」. This usually means you are really at the brink of your patience. E.g.
-    だから、違うんだっつうの！
-    "Like I said, you’re wrong!"
-- 「ってば」 and 「ったら」 is yet another type of abbreviation for 「という」 similar to 「って」 as discussed in the defining and describing section.  In this case, it’s an abbreviation of the conditional form of 「という」, which is 「といえば」 and 「といったら」. By using this abbreviation, you are essentially saying something along the lines of, “If I told you once, I told you a million times!”
-  もう行くってば！
-  "I told you I’m going already!"
+- Using 「つ」 for 「という」. This may sound hard to believe but if you really slur 「という」 together, it becomes something resembling 「つ」. E.g.<br>だから、違うんだつうの！<br>"Like I said, you’re wrong!"
+  - If you want even more emphasis, you can even add a small 「つ」. This usually means you are really at the brink of your patience. E.g.<br>だから、違うんだっつうの！<br>"Like I said, you’re wrong!"
+- 「ってば」 and 「ったら」 is yet another type of abbreviation for 「という」 similar to 「って」 as discussed in the defining and describing section.  In this case, it’s an abbreviation of the conditional form of 「という」, which is 「といえば」 and 「といったら」. By using this abbreviation, you are essentially saying something along the lines of, “If I told you once, I told you a million times!”<br>もう行くってば！<br>"I told you I’m going already!"
 - In the case of 「何か」, while 「なにか」 is the correct reading, it is often contracted to just 「なんか」 in casual speech.
-  - 「なんか」 also has a function similar to the word “like” in English. By “like”, I’m not talking about the actual word but the kind that has no meaning and some people use just about anywhere in the sentence. Similarly, 「なんか」 can also be used as a filler without any actual meaning. 
-    今日は、なんか忙しいみたいよ。(なんか is just a filler word and can be left out)
-    "I guess he’s like busy today."
-- 「やがる」 is a verb suffix used to indicate hatred or contempt for the person doing the action. Strong language is not used in normal, everyday conversations. You simply attach it to the masu-stem of the verb. After that, 「やがる」 is conjugated just like a regular る-verb. 
-  あんなやつに負けやがって。じゃ、どうすんだよ？
-  "Losing to a guy like that. Well, what are you going to do?"
+  - 「なんか」 also has a function similar to the word “like” in English. By “like”, I’m not talking about the actual word but the kind that has no meaning and some people use just about anywhere in the sentence. Similarly, 「なんか」 can also be used as a filler without any actual meaning. <br>今日は、なんか忙しいみたいよ。(なんか is just a filler word and can be left out)<br>"I guess he’s like busy today."
+- 「やがる」 is a verb suffix used to indicate hatred or contempt for the person doing the action. Strong language is not used in normal, everyday conversations. You simply attach it to the masu-stem of the verb. After that, 「やがる」 is conjugated just like a regular る-verb. <br>あんなやつに負けやがって。じゃ、どうすんだよ？<br>"Losing to a guy like that. Well, what are you going to do?"
   - Stems maybe from 嫌がる (iyagaru, to dislike) ?
 
 
