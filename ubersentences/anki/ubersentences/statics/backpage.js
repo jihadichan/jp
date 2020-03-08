@@ -671,6 +671,7 @@ function renderGrammarLookup() {
         "<div><a target='_blank' id='github-search'></a></div>" +
         "<div><a target='_blank' id='stackexchange-search'></a></div>" +
         "<div><a target='_blank' id='google-search'></a></div>" +
+        "<div><a target='_blank' id='tatobea-search'></a></div>" +
         "</div>";
 
     $('#modal').html(form);
@@ -682,6 +683,7 @@ function updateGrammarSearchLinks() {
     updateSingleGrammarLink('github-search', "https://jihadichan.github.io/?q=" + searchTerm.trim());
     updateSingleGrammarLink('stackexchange-search', "https://japanese.stackexchange.com/search?q=" + searchTerm.trim());
     updateSingleGrammarLink('google-search', "https://www.google.com/search?q=grammar+" + searchTerm.trim());
+    updateSingleGrammarLink('tatobea-search', "https://tatoeba.org/eng/sentences/search?query=%22"+searchTerm.trim()+"%22&from=jpn&to=eng");
 }
 
 function updateSingleGrammarLink(cssId, url) {
