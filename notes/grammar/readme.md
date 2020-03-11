@@ -145,19 +145,19 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 
 ## Verbs
 
-**Syllable transformation**
+**Rote learn this shit:**
 
-| Base | i    | a    | e    | o    |
-| ---- | ---- | ---- | ---- | ---- |
-| u    | i    | wa   | e    | o    |
-| tsu  | chi  | ta   | te   | to   |
-| ru   | ri   | ra   | re   | ro   |
-| ku   | ki   | ka   | ke   | ko   |
-| gu   | gi   | ga   | ge   | go   |
-| nu   | ni   | na   | ne   | no   |
-| bu   | bi   | ba   | be   | bo   |
-| mu   | mi   | ma   | me   | mo   |
-| su   | shi  | sa   | se   | so   |
+| Transformation | Form                                    |
+| -------------- | --------------------------------------- |
+| a + ない       | Negative form (not)                     |
+| a + れる       | Passive form                            |
+| a + せる       | Causative form                          |
+| e + る         | Potential form (can / can't if negated) |
+| e + ば         | Conditional form (if / when)            |
+| e              | Imperative form (command)               |
+| i + ます       | Polite form                             |
+| o + う         | Volitional form (let's, would like to)  |
+| base + な      | Prohibitive form                        |
 
 
 
