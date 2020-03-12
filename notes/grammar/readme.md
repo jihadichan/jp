@@ -80,6 +80,7 @@ Source: https://www.tanoshiijapanese.com/dictionary/conjugation_details.cfm?entr
 | Past                | なかった | なくなかった |
 | Negative te-form 1* | なくて   |              |
 | Negative te-form 2* | ないで   |              |
+|Conditional|なければ||
 
 Source: https://jisho.org/search/%E3%81%AA%E3%81%84 -> Show Inflections
 
@@ -287,8 +288,8 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 | ～あげく（挙句）                                             | - 「あげく」 is a grammar used to describe a result, usually negative, that came about after a great deal of effort. Because this grammar is used to describe a result from an action already completed, it is used with the past tense of the verb. 「あげく」 is essentially treated the same as any noun. In other words, you would need the 「の」 particle to modify another noun.<br>- Attach 「あげく」 to the verb or noun that created the end result （「の」 particle is required for nouns）<br>けんか → けんかのあげく<br>考えた → 考えたあげく |
 | の Adjectives                                                | - The term no-adjective refers to Japanese adjectives created by adding the no の particle after a noun. Generally speaking, "noun-no-noun" uses the first noun to describe the second noun somehow.<br>Densetsu no Yamada Tae (densetsu = legend)<br>The Legendary Yamada Tae.<br>- The particle の makes a modifier of a noun. The exact relationship between the modifier and the modified noun can be almost anything; Daijisen lists fourteen relationships such as ownership, belonging, location of existence, location of action, time, and so on, and one of them is “attribute and condition.” |
 | まだ...ない                                                  | - used to express "not ... yet"                              |
-|                                                              |                                                              |
-|                                                              |                                                              |
+| 得る                                                         | - As auxiliary verb that expresses possibility.<br>- Equivalent: Can; possible; -able<br>- This verb is very curious in that 「得」 can either be read as 「う」 or 「え」 but if conjugated, it must always be read as 「え」. You may wonder how often one talks about the ability to exist. In practice, this word is primarily used to describe whether a situation or event （こと） can occur. |
+| こと                                                         | A nominaliser used to indicate the speaker’s relative lack of empathy with the content of the sentence he is nominalising. |
 |                                                              |                                                              |
 |                                                              |                                                              |
 |                                                              |                                                              |
@@ -398,7 +399,7 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 | Japanese                                                     | Explanation                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Must NOT do<br>〜てはだめ<br>〜てはいけない<br>〜てはならない | - Expresses things that must NOT be done<br>- いけない and ならない conjugate like i-adjectives but are not actual adjectives.<br>- Base for いけない is いける (行ける)<br>- Base for ならない is なる (成る)<br>ここに入ってはいけません。<br>"You must not enter here." |
-| Must be done                                                 | - Negative te-form + 「は」 (wa) particle + だめ／いけない／ならない<br>宿題をしなくてはいけなかった<br>Had to do homework.<br>- Negative verb stem + 「と」 conditional + だめ／いけない／ならない<br>宿題をしないといけない<br>Have to do homework.<br>- Negative verb stem + 「ば」 conditional + だめ／いけない／ならない<br>宿題を*しなければ*だめだった。<br>Had to do homework. |
+| Must be done                                                 | - Negative te-form + 「は」 (wa) particle + だめ／いけない／ならない<br>宿題をしなくてはいけなかった<br>Had to do homework.<br>- Negative form + 「と」 conditional + だめ／いけない／ならない<br>宿題をしないといけない<br>Have to do homework.<br>- Negative verb stem + 「ければ」 conditional + だめ／いけない／ならない. なければ is the conditional of ない.<br>宿題を*しなければ*だめだった。<br>Had to do homework. |
 | Must be done simplified                                      | - Simply replace 「なくて」 with 「なくちゃ」<br>勉強しなくちゃ。<br>Gotta study.<br>- Simply replace 「なければ」 with 「なきゃ」<br>ご飯を食べなきゃ。<br>Gotta eat.<br>- The 「と」 conditional is also used by itself to imply 「だめ／いけない／ならない」.<br>学校に行かないと。<br>Gotta go to school. |
 
 
@@ -410,7 +411,7 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 | // todo  | we learned how to treat a relative clause like an adjective to directly modify a noun. が stuff and shit. https://github.com/jihadichan/jp/blob/master/ubersentences/grammarguide/items/170.md |
 |adjective to modify a noun|If there are "qualifiers" before the subject, then it's a relative sentence. e.g. <br>学生だった人は... - Person who was a student...|
 | direct&nbsp;quote          |- Directly quoting something that was said<br>- と added to the end of the quote.<br>アリスが、「寒い」と言った。<br>Alice said, “Cold”.|
-|interpreted&nbsp;quote|- Quote along the lines of what someone actually said. It’s not a word-for-word quote. Works the same way as a direct way.<br>- Besides the standard “he said”, “she said”, we can perform the action, “to think” or “to hear” to produce phrases, e.g. “I think [clause]” or “I heard [clause]”<br>今、どこに行こうかと考えている。<br>Now, I’m considering where to set out to go.<br>- If the quoted relative clause is a state-of-being for a noun or na-adjective, you have to explicitly include the declarative 「だ」 to show this.<br>彼は高校生だと聞いたけど、信じられない。<br>I heard that he is a high school student but I can’t believe it.|
+|interpreted / indirect quote|- Indirect quotes are like konjunktiv. Die Textpassage, die du sinngemäß zitierst, schreibst du in der indirekten Rede, also im Konjunktiv.<br>- Quote along the lines of what someone actually said. It’s not a word-for-word quote. Works the same way as a direct way.<br>- Besides the standard “he said”, “she said”, we can perform the action, “to think” or “to hear” to produce phrases, e.g. “I think [clause]” or “I heard [clause]”<br>今、どこに行こうかと考えている。<br>Now, I’m considering where to set out to go.<br>- If the quoted relative clause is a state-of-being for a noun or na-adjective, you have to explicitly include the declarative 「だ」 to show this.<br>彼は高校生だと聞いたけど、信じられない。<br>I heard that he is a high school student but I can’t believe it.|
 |casual quote|- Use って instead of と and drop the rest of the sentence<br>もうお金がないって。<br>I already told you I have no money.<br>-って can also be used to talk about practically anything. Most of the time it is used in place of the は particle to simply bring up a topic.|
 
 
@@ -422,9 +423,14 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 | Define with<br>と言う                                        | - When you want to say how something is referred to<br>これは、なんという魚ですか。<br>What is this fish referred to as?<br>私はアリスといいます。<br>I am called Alice. (lit: As for me, you say Alice.) |
 | Describe&nbsp;with<br>と言う                                 | - When a relative clause is encapsulated with 「と」, you must have a verb to go along with it and 「いう」 is simply being used as a generic verb to enable us to talk about any relative clause. This allows us to describe and explain just about anything.<br>リブートというのは、パソコンを再起動するということです。<br>Reboot means to restart your computer. |
 | こう言う<br>そう言う<br>ああ言う<br>どう言う                 | - こういう - this way<br>- そういう - that way<br>- ああいう - that way (far away in an abstract sense)<br>- どういう - what way<br>あんたは、いつもこういう時に来るんだから、困るんだよ。<br>It’s because you always come at times like these that I’m troubled. |
-| というか                                                     | - This construction is used when you want to rephrase or redefine something such as the following dialogue.<br>う～ん、彼女というか、友達というか、なんというか・・・<br>Um, you might say girlfriend, or friend, or something… |
+| というか                                                     | - This construction is used when you want to rephrase or redefine something such as the following dialogue.<br>う～ん、彼女というか、友達というか、なんというか・・・<br>Um, you might say girlfriend, or friend, or something…<br>- というか can also be written as ということ, and probably というの |
 | ということ                                                   | - Rather than using 「か」 to rephrase a conclusion, we can also simply use 「こと」 to sum up something without rephrasing anything.<br>ということは、みきちゃんは、今彼氏がいないということ？<br>Does that mean Miki-chan doesn’t have a boyfriend now? |
-|って・て|- って is very often used in causal slang in place of と, because it allows us to leave out the rest of the sentence and assume context.<br>来年留学するというのは、智子のこと？<br>The studying abroad next year thing, is that Tomoko?<br>来年留学するって智子のこと？<br>The studying abroad next year thing, is that Tomoko?<br>- In some cases, the small つ is left out and just て is used instead of って.<br>ていうか、もう帰らないとだめですけど。<br>Rather than that, I have to go home already.|
+|だって|「だって」is also another phrase that leaves out just about everything. By 
+convention, it is used to express disagreement or dissatisfaction 
+usually to whine, complain, or to make an excuse but you can’t tell what
+it means just from looking at it. It is an abbreviation of something 
+along the lines of 「とはいっても」 meaning, “even if that was the case”.|
+|Shortened forms|- って is very often used in causal slang in place of と, because it allows us to leave out the rest of the sentence and assume context.<br>来年留学するというのは、智子のこと？<br>The studying abroad next year thing, is that Tomoko?<br>来年留学するって智子のこと？<br>The studying abroad next year thing, is that Tomoko?<br>- In some cases, the small つ is left out and just て is used instead of って.<br>ていうか、もう帰らないとだめですけど。<br>Rather than that, I have to go home already.|
 |ゆう (also 言う)|- In conversations, it is quite normal to say 「ゆう」 instead of 「いう」.<br>そうゆうことじゃないって！<br>I said it’s not like that (lit: it’s not that type of thing)!|
 
 
