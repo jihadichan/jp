@@ -148,17 +148,18 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 
 **Rote learn this shit:**
 
-| Transformation | Form                                    |
-| -------------- | --------------------------------------- |
-| a + ない       | Negative form (not)                     |
-| a + れる       | Passive form                            |
-| a + せる       | Causative form                          |
-| e + る         | Potential form (can / can't if negated) |
-| e + ば         | Conditional form (if / when)            |
-| e              | Imperative form (command)               |
-| i + ます       | Polite form                             |
-| o + う         | Volitional form (let's, would like to)  |
-| base + な      | Prohibitive form                        |
+| Form                                    | Regulars |iる / eる|する|来る|
+| --------------------------------------- | -------------- | --- | --- | --- |
+| Negative form<br>(not)                 | a + ない       |〜ない|しない|こない|
+| Passive form<br>Object becomes subject | a + れる       |〜られる|される|こられる|
+| Causative form<br>(let / make someone do sth) | a + せる       |〜させる|させる|こさせる|
+| Potential form<br>(can / can't if negated) | e + る         |〜られる|できる|こられる|
+| Conditional form<br/>(if / when)       | e + ば         |〜れば|すれば|くれば|
+| Imperative form<br/>(command)          | e             |〜ろ|しろ|こい|
+| Polite form                             | i + ます       |〜ます|します|きます|
+| Volitional form<br/>(let's, would like to) | o + う         |〜よう|しよう|こよう|
+| Prohibitive form<br/>(don't do)        | base + な      |base + na|するな|くるな|
+|〜て form<br>connects to the following word|う・つ・る &rarr; って<br>く・ぐ&rarr; て・で<br>ぬ・ぶ・む&rarr; んで<br>す&rarr; して|て|して|きて|
 
 
 
@@ -411,14 +412,14 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 | // todo  | we learned how to treat a relative clause like an adjective to directly modify a noun. が stuff and shit. https://github.com/jihadichan/jp/blob/master/ubersentences/grammarguide/items/170.md |
 |adjective to modify a noun|If there are "qualifiers" before the subject, then it's a relative sentence. e.g. <br>学生だった人は... - Person who was a student...|
 | direct&nbsp;quote          |- Directly quoting something that was said<br>- と added to the end of the quote.<br>アリスが、「寒い」と言った。<br>Alice said, “Cold”.|
-|interpreted / indirect quote|- Indirect quotes are like konjunktiv. Die Textpassage, die du sinngemäß zitierst, schreibst du in der indirekten Rede, also im Konjunktiv.<br>- Quote along the lines of what someone actually said. It’s not a word-for-word quote. Works the same way as a direct way.<br>- Besides the standard “he said”, “she said”, we can perform the action, “to think” or “to hear” to produce phrases, e.g. “I think [clause]” or “I heard [clause]”<br>今、どこに行こうかと考えている。<br>Now, I’m considering where to set out to go.<br>- If the quoted relative clause is a state-of-being for a noun or na-adjective, you have to explicitly include the declarative 「だ」 to show this.<br>彼は高校生だと聞いたけど、信じられない。<br>I heard that he is a high school student but I can’t believe it.|
+|interpreted / indirect quote|- Quote along the lines of what someone actually said. It’s not a word-for-word quote. Works the same way as a direct way. <br>- Besides the standard “he said”, “she said”, we can perform the action, “to think” or “to hear” to produce phrases, e.g. “I think [clause]” or “I heard [clause]”<br>今、どこに行こうかと考えている。<br>Now, I’m considering where to set out to go.<br>- If the quoted relative clause is a state-of-being for a noun or na-adjective, you have to explicitly include the declarative 「だ」 to show this.<br>彼は高校生だと聞いたけど、信じられない。<br>I heard that he is a high school student but I can’t believe it.|
 |casual quote|- Use って instead of と and drop the rest of the sentence<br>もうお金がないって。<br>I already told you I have no money.<br>-って can also be used to talk about practically anything. Most of the time it is used in place of the は particle to simply bring up a topic.|
 
 
 
 ## Defining and Describing
 
-- :heavy_exclamation_mark::heavy_exclamation_mark::heavy_exclamation_mark: ​All those quote sentences are simply "that" sentences. E.g. "he said that", "that's not what I said". Everything where you put a "that" into.
+- :heavy_exclamation_mark::heavy_exclamation_mark::heavy_exclamation_mark: All those quote sentences are simply "that" sentences. E.g. "he said that", "that's not what I said". Everything where you put a "that" into.
 
 | Japanese | Explanation                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -538,11 +539,19 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 
 ## Causative and Passive Verbs
 
+- English passive: 
+  - Active: I have made a cake. - Passive: A cake has been made.
+  - The noun or noun phrase that would be the object of a corresponding active sentence appears as the subject of a sentence or clause in the passive voice.
+  - We only use the passive when we are interested in the object or when we do not know who caused the action.
+- English causative:
+  - A Causative Form is used to show that someone assigns something to someone else.
+  - The causative form (see verbs conjugation) can mean either making or letting  someone do something, i.e. “make someone do” and “let someone do”.
+
 | Japanese                        | Explanation                                                  |
 | ------------------------------- | ------------------------------------------------------------ |
 | Causative&nbsp;Verbs            | - The causative form (see verbs conjugation) can mean either making or letting  someone do something, i.e. “make someone do” and “let someone do”. The result is then conjugated like an -eる verb.<br>- When the causative form is used with 「あげる」 and 「くれる」, it almost always means to “let someone do”.<br>先生が質問をたくさん聞かせてくれた。<br>Teacher let (someone) ask lots of questions.<br>その部長は、よく長時間働かせる。<br/>That manager often makes (people) work long hours. |
 | Shortened Causative Form        | - Instead of せる the ending becomes す, e.g. 行かせる -> 行かす<br>- If the causative form has a さ stem (e.g. iる & eる verbs), then it becomes さす, e.g. 食べさせる -> 食べさす<br>- 「する」 becomes 「さす」<br>- 「くる」 becomes 「こさす」<br>- The further conjugation is then that of す verbs |
-| Passive Form                    | - The passive form 〜られる is used to express that something is done to somebody. Conjugation in that is that of -eる verbs<br>外国人に質問を聞かれたが、答えられなかった。<br>I was asked a question by a foreigner but I couldn’t answer.<br>- Using passive form is another more polite way to express an action<br>どうする？ – What will you do? (lit: How do?)<br/>どうしますか？ – Regular polite.<br/>どうされますか？- Passive polite. |
+| Passive Form                    | - The passive form 〜られる is used to express that something is done to somebody (or something?). Conjugation in that is that of -eる verbs<br>- Passive verbs are verbs that are done to the (passive) subject. Unlike English style of writing which discourages the use of the passive form, passive verbs in Japanese are often used in essays and articles. So it's like konjunktiv in German.<br>外国人に質問を聞かれたが、答えられなかった。<br>I was asked a question by a foreigner but I couldn’t answer.<br>- Using passive form is another more polite way to express an action. In Japanese, a sentence is usually more polite when it is less direct.<br>どうする？ – What will you do? (lit: How do?)<br/>どうしますか？ – Regular polite.<br/>どうされますか？- Passive polite. |
 | Causative-Passive Forms         | - The causative-passive form is simply the combination of causative and passive conjugations to mean that the action of making someone do something was done to that person. This would effectively translate into, “[someone] is made to do [something]”. The important thing to remember is the order of conjugation. The verb is first conjugated to the causative and then passive, never the other way around. E.g. 食べる → 食べさせる → 食べさせられる<br>朝ご飯は食べたくなかったのに、食べさせられた。<br/>Despite not wanting to eat breakfast, I *was made to eat* it. |
 | Shorter Causative-Passive Forms | - Going along with the shorter causative alternative, you can also use the same conjugation for the causative-passive form. The idea is to simply used the shortened causative form instead of using the regular causative conjugation.<br>行く → 行か → 行かす → 行かされる<br>- This form cannot be used in cases where the shorter causative form ends in 「さす」, in other words, you can’t have a 「さされる」 ending. I.e. this is WRONG:<br>食べ*る* → 食べ*さす* → 食べ~~さされる~~ |
 
