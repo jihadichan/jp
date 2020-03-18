@@ -159,7 +159,7 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 | Polite form                             | i + ます       |〜ます|します|きます|
 | Volitional form<br/>(let's, would like to) | o + う         |〜よう|しよう|こよう|
 | Prohibitive form<br/>(don't do)        | base + な      |base + na|するな|くるな|
-|〜て form<br>connects to the following word|う・つ・る &rarr; って<br>く・ぐ&rarr; て・で<br>ぬ・ぶ・む&rarr; んで<br>す&rarr; して|て|して|きて|
+|〜て form<br>connects to the following word|う、つ、る &rarr; って<br>く、ぐ&rarr; て、で<br>ぬ、ぶ、む&rarr; んで<br>す&rarr; して|て|して|きて|
 
 
 
