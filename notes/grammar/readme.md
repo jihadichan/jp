@@ -219,7 +219,7 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 | -------- | ------------------------------------------------------------ |
 |で|- Marks a place, area, or length of time inside which something occurs.<br>- Marks a method, tool or circumstance under which something happens.<br>- Marks a material or substance; composition.<br>- See also "connecting sentences"|
 |でも|- Conjunction, equal to "but", "however"<br>- After question word (誰, 何, どこ, etc) it turns them into "unspecific qualifiers", like "any". E.g. 誰でも (anybody), 何でも (anything), いつでも (anytime)|
-| は       | - Topic particle (identifies what it is that you’re talking about)<br>- Contrasts one option or thing against others. (A vs. B, C, D)<br>- Used when elaborating on things already known to the listener. |
+| は       | - Topic particle (identifies what it is that you’re talking about)<br>- Contrasts one option or thing against others. (A vs. B, C, D)<br>- Used when elaborating on things already known to the listener.<br>- って is often used in place of the 「は」 particle to simply bring up a topic. |
 |へ|- Indicates direction or goal (e.g. "to")pronounced え in modern Japanese|
 |か|- Question marker in polite speech, i.e. '?'. Can also occur as *か*よ、like '?!'<br>- Attached to the end of a relative clause makes a mini-question inside a larger sentence. E.g. 昨日何を食べたか忘れた - "Forgot what I ate yesterday"<br>- After question word (誰, 何, どこ, etc) it turns them into "unspecific qualifiers", like "some".  E.g. 誰か (somewhere)、何か (something), どこか (somewhere), etc.|
 |が|- Identifier particle (also called subject particle), identifies the topic<br>- Distinguishes one option or thing from others. (A vs. ???)<br>- Used when adding new things/information to a conversation.<br>- Used when describing specific things with adjectives.<br>- Marks objects of potential-form verbs. (can/able to)<br>- See also "connecting sentences"|
@@ -231,7 +231,8 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 | の | - Possessive particle. Connects nouns: AのB = "A's B" or "B of A". E.g.<br>アメリカの大学  = College of America.<br>- Can replace a noun, e.g. 白いのは... - white thing is... - Equivalent to 物 (こと)<br>- Nominalizer for verbs and adjectives. Like -ING in English. E.g. 勉強するの - studyING<br>- Indicates explanation or need for one (i.e. "Look, here’s the reason"), when used as sentence ending. Also ん, のだ or んだ. And *な*のだ or なんだ needed for differentiation. ジムのだ (It is Jim’s) vs ジムなのだ (It is Jim). The だ can also be conjugated<br>E.g. のじゃない、 んじゃなかった、etc<br>- See also の Adjectives<br>- Short form is often ん |
 |さ|- Basically a very casual form of 「よ」, is similar to the English “like” in that some people throw it in at the end of almost every single phrase.|
 | と | - Marks a person that an action is done with.<br>- Links nouns to create a complete “and” group.<br>- Marks quoted speech or phrasal objects: おもう (to think), かく (to write)<br>- Shows a natural/predictable “if-then” relationship between clauses.<br>- Marks onomatopoeic words. |
-| を | - Marks the grammatical object of a sentence. It follows nouns and noun phrases.<br>- With verbs of motion, shows where the motion occurs.<br>- Partly used for suru-verbs |
+| を | - Marks the grammatical object of a sentence, i.e. direct object marker of an action. It follows nouns and noun phrases.<br>- With verbs of motion, shows where the motion occurs.<br>- Partly used for suru-verbs |
+|わ|- Using「わ」 is just like 「よ」 except it will make you sound almost sickeningly female (putting different dialects aside).|
 | よ | - At sentence end, informing the listener of something new or emphasis. Like "you know". Also as よね |
 
 
@@ -560,8 +561,7 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 ## Honorific and Humble Forms
 
 - The first thing to remember is that the speaker always considers himself/herself to be at the lowest level. So any actions performed by oneself are in humble form while actions performed by anyone else seen from the view of the speaker uses the honorific form.
-
-**// TODO** - see http://www.guidetojapanese.org/learn/grammar/honorific 
+- Mostly you just replace words.
 
 **Honorific and Humble Verbs**
 
@@ -590,6 +590,20 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 |おっしゃる|おっしゃいます|おっしゃいました|おっしゃいません|おっしゃいませんでした|
 |下さる|下さいます|下さいました|下さいません|下さいませんでした|
 |ござる|ございます|ございました|ございません|ございませんでした|
+
+**Honorific conjugations**
+
+| Japanese&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Explanation                                                  |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| お + stem + になる<br>Can be other conjugation stem?         | This kind of makes sense if you think of it as a person becoming the honorific state of a verb. All subsequent conjugations follow the normal rules of conjugating the u-verb 「なる」.<br>先生はお見えになりますか。<br>Have you seen the teacher? |
+| お + stem + です<br/>Can be other conjugation stem?          | - Makes the polite です honorific<br>店内でお召し上がりですか。<br>Will you be dining in? |
+| ください                                                     | - You can also use 「下さい」 with a honorific verb by replacing 「になる」 with 「ください」. This is useful for when you want to ask somebody to do something but still use a honorific verb.<br>少々お待ちください。<br>Please wait a moment. |
+| お + stem + する                                             | - Makes する honorific.<br>先生、お聞きしたいことがありますが。<br>Teacher, there’s something I want to ask you. |
+| 〜ませ<br>Making honorific requests                          | - Makes polite requests honorific<br>- 下さる → 下さいます → 下さいませ<br>- An abbreviated and less formal version of this is to simply remove the 「ます」 after conjugating to the special masu-form<br>下さる → 下さいます → 下さい<br>いらっしゃる → いらっしゃいます → いらっしゃい |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
 
 
 
