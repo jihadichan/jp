@@ -148,7 +148,7 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 
 **Rote learn this shit:**
 
-| Form | Regulars&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |iる&nbsp;/&nbsp;eる&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|する|来る|
+| Form | Regulars&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |iる<br>eる&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|する|来る|
 | --------------------------------------- | -------------- | --- | --- | --- |
 | Negative form<br>(not)                 | a + ない       |〜ない|しない|こない|
 | Passive form<br>Object becomes subject<br>sth is done to sb/sth | a + れる       |〜られる|される|こられる|
