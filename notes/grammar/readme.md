@@ -148,10 +148,10 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 
 **Rote learn this shit:**
 
-| Form                                    | Regulars |iる / eる|する|来る|
+| Form                                    | Regulars&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |iる&nbsp;/&nbsp;eる&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|する|来る|
 | --------------------------------------- | -------------- | --- | --- | --- |
 | Negative form<br>(not)                 | a + ない       |〜ない|しない|こない|
-| Passive form<br>Object becomes subject | a + れる       |〜られる|される|こられる|
+| Passive form<br>Object becomes subject<br>sth is done to sb/sth | a + れる       |〜られる|される|こられる|
 | Causative form<br>(let / make someone do sth) | a + せる       |〜させる|させる|こさせる|
 | Potential form<br>(can / can't if negated) | e + る         |〜られる|できる|こられる|
 | Conditional form<br/>(if / when)       | e + ば         |〜れば|すれば|くれば|
