@@ -148,18 +148,18 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 
 **Rote learn this shit:**
 
-| Form                                    | Regulars&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |iる/eる&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|する|来る|
+| Form | Regulars&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |iる&nbsp;/&nbsp;eる&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|する|来る|
 | --------------------------------------- | -------------- | --- | --- | --- |
 | Negative form<br>(not)                 | a + ない       |〜ない|しない|こない|
 | Passive form<br>Object becomes subject<br>sth is done to sb/sth | a + れる       |〜られる|される|こられる|
-| Causative form<br>(let / make someone do sth) | a + せる       |〜させる|させる|こさせる|
+| Causative form<br>(let / make someone<br>do sth) | a + せる       |〜させる|させる|こさせる|
 | Potential form<br>(can / can't if negated) | e + る         |〜られる|できる|こられる|
 | Conditional form<br/>(if / when)       | e + ば         |〜れば|すれば|くれば|
 | Imperative form<br/>(command)          | e             |〜ろ|しろ|こい|
 | Polite form                             | i + ます       |〜ます|します|きます|
 | Volitional form<br/>(let's, would like to) | o + う         |〜よう|しよう|こよう|
 | Prohibitive form<br/>(don't do)        | base + な      |base + na|するな|くるな|
-|〜て form<br>connects to the following word|う、つ、る &rarr; って<br>く、ぐ&rarr; て、で<br>ぬ、ぶ、む&rarr; んで<br>す&rarr; して|て|して|きて|
+|〜て form<br>connects to the<br>following word|う、つ、る &rarr; って<br>く、ぐ&rarr; て、で<br>ぬ、ぶ、む&rarr; んで<br>す&rarr; して|て|して|きて|
 
 
 
