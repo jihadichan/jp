@@ -7,8 +7,10 @@ body {
 /**********************************************************/
 
 #grammatical_concept_fld {
-    width: 35%;
-    font-size: 1.2em;
+    min-width: 30%;
+    font-size: 1.0em;
+    white-space: nowrap !important;
+    padding-right: 10px;
 }
 
 #grammatical_concept_fld ul {
@@ -22,7 +24,7 @@ body {
 }
 
 #summary_fld {
-    font-size: 0.8em;
+    font-size: 1em;
 }
 
 #summary_fld ul {

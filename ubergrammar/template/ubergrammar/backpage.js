@@ -19,14 +19,12 @@ function renderDefaultView() {
     $('#summary_fld').html(createSummary());
     $('#your_notes_fld').html($('#your_notes').html());
 
-    if($('#formation').html() !== "") {
+    if($('#formation').html() !== "" || sentences.indexOf("<b>No sentences</b>") === -1) {
         renderFormation();
     } else if($('#textnotes').html() !== "") {
         renderDjtTextNotes();
     } else if($('#notes').html() !== "") {
         renderBookPage();
-    } else if(sentences.indexOf("<b>No sentences</b>") === -1) {
-        renderExampleSentences();
     }
 }
 
@@ -103,7 +101,11 @@ function renderGrammaticalConcept() {
 
 function renderFormation() {
     var formation = $('#formation').html();
-    $('#rendered-content').html(formation);
+    var hr = "";
+    if(formation !== "" && sentences.indexOf("<b>No sentences</b>") === -1) {
+        hr = "<hr>";
+    }
+    $('#rendered-content').html(formation + hr + sentences);
 }
 
 function renderBookPage() {
@@ -273,7 +275,7 @@ function renderOptions() {
     renderFormationButton(jQuerySelection);
     renderDjtTextNotesButton(jQuerySelection);
     renderBookPageButton(jQuerySelection);
-    renderExampleSentencesButton(jQuerySelection);
+    // renderExampleSentencesButton(jQuerySelection);
 }
 
 function renderOptionHeading(jQuerySelection, heading) {
@@ -323,15 +325,15 @@ function renderDjtTextNotesButton(jQuerySelection) {
 }
 
 function renderFormationButton(jQuerySelection) {
-    if($('#formation').html() !== "") {
+    if($('#formation').html() !== "" || sentences.indexOf("<b>No sentences</b>") === -1) {
         jQuerySelection.html(jQuerySelection.html() + "<button class='options-button' onclick='renderFormation()'>Formation</button>");
     }
 }
-function renderExampleSentencesButton(jQuerySelection) {
-    if(sentences.indexOf("<b>No sentences</b>") === -1) {
-        jQuerySelection.html(jQuerySelection.html() + "<button class='options-button' onclick='renderExampleSentences()'>Sentences</button>");
-    }
-}
+// function renderExampleSentencesButton(jQuerySelection) {
+//     if(sentences.indexOf("<b>No sentences</b>") === -1) {
+//         jQuerySelection.html(jQuerySelection.html() + "<button class='options-button' onclick='renderExampleSentences()'>Sentences</button>");
+//     }
+// }
 
 function toggleFurigana() {
     $('#sentence rt').toggle();
@@ -613,6 +615,7 @@ function renderGrammarLookup() {
         "<div><a target='_blank' id='stackexchange-search'></a></div>" +
         "<div><a target='_blank' id='google-search'></a></div>" +
         "<div><a target='_blank' id='tatobea-search'></a></div>" +
+        "<div><a target='_blank' id='translate-link'></a></div>" +
         "</div>";
 
     $('#modal').html(form);
@@ -625,6 +628,7 @@ function updateGrammarSearchLinks() {
     updateSingleGrammarLink('stackexchange-search', "https://japanese.stackexchange.com/search?q=" + searchTerm.trim());
     updateSingleGrammarLink('google-search', "https://www.google.com/search?q=grammar+" + searchTerm.trim());
     updateSingleGrammarLink('tatobea-search', "https://tatoeba.org/eng/sentences/search?query=%22"+searchTerm.trim()+"%22&from=jpn&to=eng");
+    updateSingleGrammarLink('translate-link', "https://translate.google.de/#view=home&op=translate&sl=ja&tl=en&text="+searchTerm.trim());
 }
 
 function updateSingleGrammarLink(cssId, url) {
