@@ -1,5 +1,8 @@
+var concept = $('#grammatical_concept');
+var formation = $('#formation');
+
 function renderGrammaticalConcept() {
-    var copy = $('#grammatical_concept').html();
+    var copy = concept.html();
 
     // Clean divs fro Anki desktop
     copy = copy.replace(/<\/?div>/g, "");
@@ -29,7 +32,23 @@ function renderGrammaticalConcept() {
         }
     }
 
-    $('#grammatical_concept_fld').html(html);
+    $('#container').html("<div id=\"grammatical_concept_fld\">"+html+"</div>");
 }
 
-renderGrammaticalConcept();
+function renderFormation() {
+    formation.find("table tr td:nth-child(3)").each(function (index, value) {
+        $(this).html("");
+    });
+    $('#container').html("<div id=\"formation_fld\">"+formation.html()+"</div>");
+}
+
+function renderFrontPage() {
+    if(formation.html().trim() !== "") {
+        renderFormation();
+    } else {
+        renderGrammaticalConcept();
+    }
+}
+
+renderFrontPage();
+

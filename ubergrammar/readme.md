@@ -12,6 +12,7 @@ Sinf	 = sentence informal, e.g. 手紙を書く (object+verb)
 Neg		 = negated NAV
 (*)		 = optional character, e.g. (か) means that it can be left out
 Number+Counter = e.g. 四人, 二台, etc
+end		 = sentence end
 
 Vて		= verb て-form
 Vます	   = verb masu stem
