@@ -12,7 +12,7 @@
 
 
 
-## Code
+## Animelon
 
 ```javascript
 var checkBoxEnglish = document.querySelector('#control-buttons-container > div.pull-right.bottom-right > div:nth-child(3) > div > div > ul > li:nth-child(5) > input');
@@ -36,6 +36,48 @@ document.onkeyup = function(e) {
   if (e.which == 81) {
     checkBoxHirgana.click();
   }
+}
+```
+
+
+
+## Netflix
+
+```javascript
+var english = $('#showHT');
+var hiragana = $('#transliterationsJa');
+var isHiraganaActive = hiragana.val() !== "ORIG";
+var kanji = $('#hideSubs');
+var isKanjiActive = hiragana.val() !== "OFF";
+
+var info = "" +
+    "English (J): " + (english.length === 0 ? "Couldn't find element\n" : "Should work.\n") +
+    "Hiragana (K): " + (hiragana.length === 0 ? "Couldn't find element\n" : "Should work.\n") +
+    "Kanji (L): " + (kanji.length === 0 ? "Couldn't find element\n" : "Should work.\n");
+alert(info);
+
+document.onkeyup = function(e) {
+    if (e.code === "KeyJ") {
+        english.trigger("click"); // Show english
+    }
+    if (e.code === "KeyK") {
+        if(isHiraganaActive) {
+            hiragana.val("ORIG").trigger("change");
+            isHiraganaActive = false;
+        } else {
+            hiragana.val("ORIG+HIRAGANA").trigger("change");
+            isHiraganaActive = true;
+        }
+    }
+    if (e.code === "KeyL") {
+        if(isHiraganaActive) {
+            kanji.val("OFF").trigger("change");
+            isHiraganaActive = false;
+        } else {
+            kanji.val("HB").trigger("change");
+            isHiraganaActive = true;
+        }
+    }
 }
 ```
 
