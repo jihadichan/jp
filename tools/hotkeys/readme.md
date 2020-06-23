@@ -19,11 +19,10 @@ var checkBoxEnglish = document.querySelector('#control-buttons-container > div.p
 var checkBoxJapanese = document.querySelector('#control-buttons-container > div.pull-right.bottom-right > div:nth-child(3) > div > div > ul > li:nth-child(3) > input');
 var checkBoxHirgana = document.querySelector('#control-buttons-container > div.pull-right.bottom-right > div:nth-child(3) > div > div > ul > li:nth-child(1) > input');
 
-
 var english = 'English hotkey (E): ' + (checkBoxEnglish.nextSibling.innerText.toLowerCase().indexOf('english') != -1 ? 'Should work' : 'Couldn\'t find element or adjacent text is not \'english\'.');
 var japanese = 'Japanese hotkey (W): ' + (checkBoxJapanese.nextSibling.innerText.toLowerCase().indexOf('japanese') != -1 ? 'Should work' : 'Couldn\'t find element or adjacent text is not \'japanese\'.');
 var hiragana = 'Hiragana hotkey (Q): ' + (checkBoxHirgana.nextSibling.innerText.toLowerCase().indexOf('hiragana') != -1 ? 'Should work' : 'Couldn\'t find element or adjacent text is not \'hiragana\'.');
-var copyHotKey = 'Copy hotkey (F)';
+var copyHotKey = 'Copy hotkey (R)';
 
 alert('Hotkeys:\n' + english + '\n' + japanese + '\n' + hiragana + '\n' + copyHotKey);
 
@@ -61,11 +60,11 @@ document.onkeyup = function (e) {
     if (e.which == 81) {
         checkBoxHirgana.click();
     }
-    if (e.code === 'KeyF') {
+    if (e.code === 'KeyR') {
         var obj = {
-            japanese: $('.japanese.subtitle').first().text(),
-            hiragana: $('.hiragana.subtitle').first().text(),
-            english: $('.english.subtitle').first().text()
+            japanese: $('.japanese.subtitle').text(),
+            hiragana: $('.hiragana.subtitle').text(),
+            english: $('.english.subtitle').text()
         };
         copyText(JSON.stringify(obj))
     }
