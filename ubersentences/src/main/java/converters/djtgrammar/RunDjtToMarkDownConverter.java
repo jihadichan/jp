@@ -15,6 +15,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 import static converters.djtgrammar.DjtConfig.grammarGuide;
 import static converters.djtgrammar.DjtConfig.pathToShortenedCsvBaseFile;
 
+/** Builds the /grammarguide ? */
 public class RunDjtToMarkDownConverter {
 
     private static final Path itemsFolder = Paths.get("items");

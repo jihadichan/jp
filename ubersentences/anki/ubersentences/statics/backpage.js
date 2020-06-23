@@ -206,17 +206,25 @@ function renderNoteMarkers(jQuerySelection) {
 
 function renderSourceCell() {
     var raw = $('#source').html();
+    var sourceCell = $('#source-cell');
     var source = raw;
-    if (source !== "") {
+    if (sourceCell.html() === "") {
         var regex = /\bhttp.*\b/;
         var match = regex.exec(source);
+        var contentForSourceCell = "";
         while (match != null) {
             source = source.replace(regex, "");
-            raw = raw.replace(regex, "<a target='_blank' href='" + match[0] + "'>" + match[0] + "</a>");
+            if (match[0].indexOf("imgur.com") !== -1) {
+                contentForSourceCell += raw.replace(regex, "<img alt='' src='" + match[0] + "' /><br>");
+            }
+
+            contentForSourceCell += raw.replace(regex, "<a target='_blank' href='" + match[0] + "'>" + match[0] + "</a><br>");
             match = regex.exec(source);
         }
 
-        $('#source-cell').html("<td>" + raw + "</td>");
+        sourceCell.html("<td>" + contentForSourceCell + "</td>");
+    } else {
+        sourceCell.html("");
     }
 }
 
@@ -324,10 +332,10 @@ function renderOptions() {
     renderJishoButton(jQuerySelection);
     renderAnalysisButton(jQuerySelection);
     renderTranslateButton(jQuerySelection);
-    renderSourceButton(jQuerySelection);
     renderVocabButton(jQuerySelection);
     renderGrammarButton(jQuerySelection);
     renderMailToButton(jQuerySelection);
+    renderSourceButton(jQuerySelection);
 }
 
 function renderVocabButton(jQuerySelection) {
@@ -355,8 +363,8 @@ function renderMailToButton(jQuerySelection) {
         var reading = analysisElement.reading ? " - (" + analysisElement.reading + ")" : "";
         sentenceWithReading += "!new [" + word + "]" + reading + "<br>";
     });
-    var source = $('#source').html().replace(/&/g, "%26").replace(/\?/g, "%3F");
-    sentenceWithReading += "<br>" + source;
+    // var source = $('#source').html().replace(/&/g, "%26").replace(/\?/g, "%3F");
+    // sentenceWithReading += "<br>" + source;
     var mailTo = "<a href=\"mailto:?subject=" + $('#sentence-raw').html() + "&body=" + sentenceWithReading + "\">";
     jQuerySelection.html(jQuerySelection.html() + mailTo + "<button class='options-button'>Mail</button></a>");
 }
@@ -683,7 +691,7 @@ function updateGrammarSearchLinks() {
     updateSingleGrammarLink('github-search', "https://jihadichan.github.io/?q=" + searchTerm.trim());
     updateSingleGrammarLink('stackexchange-search', "https://japanese.stackexchange.com/search?q=" + searchTerm.trim());
     updateSingleGrammarLink('google-search', "https://www.google.com/search?q=grammar+" + searchTerm.trim());
-    updateSingleGrammarLink('tatobea-search', "https://tatoeba.org/eng/sentences/search?query=%22"+searchTerm.trim()+"%22&from=jpn&to=eng");
+    updateSingleGrammarLink('tatobea-search', "https://tatoeba.org/eng/sentences/search?query=%22" + searchTerm.trim() + "%22&from=jpn&to=eng");
 }
 
 function updateSingleGrammarLink(cssId, url) {
@@ -708,6 +716,7 @@ renderNotes();
 renderOptions();
 // renderAnalysisTable(); // Done in renderHighlights()
 renderHighlights(); // Renders also sentence
+renderSourceCell();
 addShowSolutionClickEvent();
 addToggleFuriganaClickEvent();
 

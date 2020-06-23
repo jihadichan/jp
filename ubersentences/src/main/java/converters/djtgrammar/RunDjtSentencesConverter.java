@@ -14,6 +14,9 @@ import java.util.Set;
 
 import static converters.djtgrammar.DjtConfig.pathToShortenedCsvBaseFile;
 
+/**
+ * Builds the raw sentences.csv
+ */
 public class RunDjtSentencesConverter {
 
     private static final Set<String> uniqueSentences = new HashSet<>();
@@ -64,7 +67,28 @@ public class RunDjtSentencesConverter {
                 djtGrammarPage.equivalent);
         final String markdownFileName = djtGrammarPage.markdownFileName;
 
-        return japanese + "\t" + english + "\t" + createSourceLink(markdownFileName);
+        return japanese + "\t" + english + "\t" + createSource(djtGrammarPage, markdownFileName);
+    }
+
+    private static String createSource(final DjtGrammarPage djtGrammarPage, final String markdownFileName) {
+        String html = "";
+
+        if (djtGrammarPage.formationHtml != null && !djtGrammarPage.formationHtml.equals("")) {
+            html += djtGrammarPage.formationHtml.replaceAll("\"", "'") + "<br><br>";
+        }
+
+        final StringBuilder sb = new StringBuilder();
+        djtGrammarPage.sentences.forEach(djtSentence -> {
+            sb.append(djtSentence.japanese);
+            sb.append("<br>");
+            sb.append(djtSentence.english);
+            sb.append("<br><br>");
+        });
+
+        html += sb.toString();
+
+        html += "<br><br>" + createSourceLink(markdownFileName);
+        return html;
     }
 
     private static String createSourceLink(final String markdownFileName) {

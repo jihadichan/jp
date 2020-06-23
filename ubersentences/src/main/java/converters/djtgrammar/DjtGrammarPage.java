@@ -40,6 +40,7 @@ public class DjtGrammarPage {
     final Path grammarBookImagePath;
     final String grammarBookHtml;
     final String syntaxHtml;
+    final String formationHtml;
     final String partOfSpeech;
     final String relatedExpression;
     final String antonymExpression;
@@ -55,6 +56,7 @@ public class DjtGrammarPage {
         this.grammarBookImagePath = createImagePath(cells.get(35));
         this.grammarBookHtml = removeEscapedQuotes(getAtIndexOrNull(36, cells));
         this.syntaxHtml = removeEscapedQuotes(getAtIndexOrNull(37, cells));
+        this.formationHtml = removeEscapedQuotes(getAtIndexOrNull(37, cells));
         this.partOfSpeech = getAtIndexOrNull(38, cells);
         final String relExp = getAtIndexOrNull(39, cells);
         this.relatedExpression = relExp != null ? expressionCleaningPattern.matcher(relExp).replaceAll("") : null;
