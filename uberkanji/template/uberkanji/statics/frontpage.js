@@ -5,7 +5,7 @@ try {
     data = {};
     $('#debug').text("JSON parse error. " + e.message);
 }
-var fonts = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15];
+var fonts = [1]; // , 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15];
 var readings = $('#play-sound').text().trim().split(".");
 var sections = [];
 var compoundReading = "";
@@ -584,7 +584,7 @@ function addResetButtonClickEvent() {
 
 addStopWatchClickEvents();
 addShowWords();
-renderFonts(15, 5);
+renderFonts(1, 5);
 printExtractRuby(false);
 toggleFrontPageWordsSection();
 // addStepBack(); crap.

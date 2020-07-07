@@ -5,7 +5,8 @@ try {
     data = {};
     $('#debug').text("JSON parse error. " + e.message);
 }
-var fonts = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15];
+var fonts = [1]; //, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]; // todo if you want more, check HTML in template -> renderFonts(), also check CSS
+var amountOfFontsToShow = 1;
 var readings = $('#play-sound').text().trim().split(".");
 
 // Top
@@ -289,7 +290,7 @@ function renderFonts(amount, breakAfter) {
 }
 
 function renderFontSelection() {
-    var ids = getRandomFontIds(6);
+    var ids = getRandomFontIds(amountOfFontsToShow);
     var kanji = $('#kanji').text();
     var html = '';
     $.each(ids, function (index, value) {

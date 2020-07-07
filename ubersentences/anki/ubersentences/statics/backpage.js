@@ -6,10 +6,12 @@ try {
     $('#debug').text("JSON parse error. " + e.message);
 }
 var highlightToggle = true;
-var CORS_PROXY = "https://cors-anywhere.herokuapp.com/";
+var CORS_PROXY = "https://jp-learner.herokuapp.com/";
 var currentVocabMarkupObj = {};
-var lastCalledUrl = "";
-var lastReceivedResponse = "";
+var lastCalledJishoUrl = "";
+var lastReceivedJishoResponse = "";
+var lastCalledGoogleTranslateUrl = "";
+var lastReceivedGoogleTranslateResponse = "";
 
 /*********************************************************************************/
 // RENDERED SECTION
@@ -336,12 +338,20 @@ function renderOptions() {
     renderGrammarButton(jQuerySelection);
     renderMailToButton(jQuerySelection);
     renderSourceButton(jQuerySelection);
+    renderGoogleTranslateButton(jQuerySelection);
 }
 
 function renderVocabButton(jQuerySelection) {
     jQuerySelection.html(jQuerySelection.html() + "" +
         "<button class='options-button' onclick='renderJishoVocabLookup()'>" +
         "   <a href='#modal' rel='modal:open'>Vocab</a>" +
+        "</button>");
+}
+
+function renderTranslateButton(jQuerySelection) {
+    jQuerySelection.html(jQuerySelection.html() + "" +
+        "<button class='options-button' onclick='renderTranslateLookup()'>" +
+        "   <a href='#modal' rel='modal:open'>Translate</a>" +
         "</button>");
 }
 
@@ -369,9 +379,9 @@ function renderMailToButton(jQuerySelection) {
     jQuerySelection.html(jQuerySelection.html() + mailTo + "<button class='options-button'>Mail</button></a>");
 }
 
-function renderTranslateButton(jQuerySelection) {
+function renderGoogleTranslateButton(jQuerySelection) {
     var href = "https://translate.google.de/#view=home&op=translate&sl=ja&tl=en&text=" + $('#sentence-raw').html();
-    jQuerySelection.html(jQuerySelection.html() + "<a href='" + href + "'><button class='options-button'>Translate</button></a>");
+    jQuerySelection.html(jQuerySelection.html() + "<a href='" + href + "'><button class='options-button'>Goog Trans</button></a>");
 }
 
 function renderJishoButton(jQuerySelection) {
@@ -409,19 +419,19 @@ function replaySentence() {
 // JISHO SCRAPER
 /*********************************************************************************/
 
-function createUrl(word) {
+function createJishoApiUrl(word) {
     return CORS_PROXY + "https://jisho.org/api/v1/search/words?keyword=" + word;
 }
 
 function fetchWordFromJishoApi(word) {
     var modal = $('#modal');
 
-    var url = createUrl(word);
-    if (url === lastCalledUrl) {
-        renderTranslationTable(modal, lastReceivedResponse);
+    var url = createJishoApiUrl(word);
+    if (url === lastCalledJishoUrl) {
+        renderTranslationTable(modal, lastReceivedJishoResponse);
         return;
     }
-    lastCalledUrl = url;
+    lastCalledJishoUrl = url;
 
     jQuery.ajax({
         type: "GET",
@@ -430,9 +440,8 @@ function fetchWordFromJishoApi(word) {
             modal.html("<div class='loading'>Loading</div>");
         },
         success: function (body) {
-            lastReceivedResponse = body;
+            lastReceivedJishoResponse = body;
             renderTranslationTable(modal, body);
-            console.log(body);
         },
         error: function (jqXHR, textStatus, errorThrown) {
             // todo show in modal
@@ -441,23 +450,26 @@ function fetchWordFromJishoApi(word) {
     });
 }
 
+function getMarkupTextAreaHtml() {
+    return "" +
+        "<div class='vocab-output'>" +
+        "   <div id='vocab-preview'></div>" +
+        "   <label><textarea id='vocab-markup'></textarea><button style='float: right' onclick='resetMarkupObj()'>Reset</button></label>" +
+        "</div>"
+}
+
 function renderTranslationTable(modal, body) {
     var data = body.data;
     var html = "";
 
     // OUTPUT
-    html += "" +
-        "<div class='vocab-output'>" +
-        "   <div id='vocab-preview'></div>" +
-        "   <label><textarea id='vocab-markup'></textarea><button style='float: right' onclick='resetMarkupObj()'>Reset</button></label>" +
-        "</div>";
+    html += getMarkupTextAreaHtml();
 
     // WORDS
     html += "<div class='translation-table'><table>";
     $(data).each(function (index, entity) {
 
         var word = extractWord(entity);
-        console.log("extracted", word);
         var rt = word.reading ? "<rt>" + word.reading + "</rt>" : "";
         html += "" +
             "<tr class='translation-row'>" +
@@ -524,7 +536,7 @@ function updateVocabMarkUp() {
 
 function addToVocabMarkupTextarea(entry) {
     entry = JSON.parse(decodeURIComponent(unescape(entry)));
-    console.log("vocab", entry);
+
     // Create new word
     if (!currentVocabMarkupObj[entry.word.writing]) {
         // Main word
@@ -552,7 +564,6 @@ function addToVocabMarkupTextarea(entry) {
             currentVocabMarkupObj[entry.word.writing].senses.push(entry.sense);
         }
     }
-    console.log("currentVocabMarkupObj", currentVocabMarkupObj);
 
     updateVocabMarkUp();
 }
@@ -620,10 +631,8 @@ function createMarkupText() {
 }
 
 function extractWord(entity) {
-    console.log(entity);
     var word = {};
     if (entity.japanese[0].word) {
-        console.log("word: ", entity.japanese[0].word);
         word.writing = entity.japanese[0].word;
     }
     if (entity.japanese[0].reading) {
@@ -644,6 +653,84 @@ function getSelectedText() {
         selectedText = document.selection.createRange().text;
     }
     return selectedText;
+}
+
+function renderTranslateLookup() {
+    var selectedText = getSelectedText();
+    var isFullSentence = false;
+    if (selectedText === "") {
+        selectedText = $('#sentence-raw').html();
+        isFullSentence = true;
+    }
+
+    var form = "" +
+        "<div class=\"search-inputs\">" +
+        "<label>" +
+        "   <span class=\"hint\">Looks up words via Google Translate</span>" +
+        "   <input type=\"text\" id=\"search-field\" placeholder=\" Search...\" value=\"" + selectedText + "\"/>" +
+        "   <input type=\"button\" id='search-button' onclick=\"fetchTranslate(" + isFullSentence + ")\" value=\"Search\">" +
+        "</label>" +
+        "<div id='translate-result'></div>" +
+        "</div>";
+
+    $('#modal').html(form);
+    $('#search-field').keypress(function (e) {
+        if (e.keyCode === 13) {
+            fetchTranslate(isFullSentence);
+        }
+    });
+}
+
+function fetchTranslate(isFullSentence) {
+    var query = $('#search-field').val().trim();
+    if (query !== "") {
+        fetchWordFromGoogleTranslate(query, isFullSentence);
+    }
+}
+
+function createGoogleTranslateUrl(query) {
+    return CORS_PROXY + "https://translate.googleapis.com/translate_a/single?client=gtx&sl=ja&tl=en&hl=en-US&dt=t&dt=bd&dj=1&source=icon&tk=0.0&q=" + encodeURIComponent(query);
+}
+
+function renderGoogleTranslateResult(container, response, isFullSentence) {
+    var orig = "";
+    var trans = "";
+    $(response.sentences).each(function (index, value) {
+        orig += value.orig;
+        trans += value.trans;
+    });
+    if (isFullSentence) {
+        trans = "- GT: " + trans;
+    } else {
+        trans = "- GT: " + orig + " = " + trans;
+    }
+    container.html("<textarea id='translate-textarea'>" + trans + "</textarea>");
+}
+
+function fetchWordFromGoogleTranslate(query, isFullSentence) {
+    var container = $('#translate-result');
+
+    var url = createGoogleTranslateUrl(query);
+    if (url === lastCalledGoogleTranslateUrl) {
+        renderGoogleTranslateResult(container, lastReceivedGoogleTranslateResponse, isFullSentence);
+        return;
+    }
+    lastCalledGoogleTranslateUrl = url;
+
+    jQuery.ajax({
+        type: "GET",
+        url: url,
+        beforeSend: function () {
+            container.html("<div class='loading'>Loading</div>");
+        },
+        success: function (body) {
+            lastReceivedGoogleTranslateResponse = body;
+            renderGoogleTranslateResult(container, body, isFullSentence);
+        },
+        error: function (jqXHR, textStatus, errorThrown) {
+            $('#debug').text("Couldn't fetch response from Jisho API. Probably cross origin proxy failed or API is down.")
+        }
+    });
 }
 
 function renderJishoVocabLookup() {

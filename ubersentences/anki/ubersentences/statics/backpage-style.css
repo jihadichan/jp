@@ -437,6 +437,11 @@ width: 100%;
     min-height: 100px;
 }
 
+#translate-textarea {
+    width: 100%;
+    min-height: 50px;
+}
+
 .info {
     color: #777777;
     font-size: 0.7em;

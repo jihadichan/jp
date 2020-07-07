@@ -3,135 +3,144 @@ body {
     background-color: #fff;
 }
 
+@font-face {
+    font-family: "Helvetica Neue";
+}
+
 .font-1 {
-    font-family: Arial, serif;
+    font-family: "Helvetica Neue", serif;
 }
 
-@font-face {
-    font-family: strokeorder;
-    src: url('../fonts/strokeorder.ttf');
-}
+/* --------------- OLD FONTS --------------- */
+/*.font-1 {*/
+/*    font-family: Arial, serif;*/
+/*}*/
 
-.font-2 {
-    font-family: strokeorder, serif;
-}
+/*@font-face {*/
+/*    font-family: strokeorder;*/
+/*    src: url('../fonts/strokeorder.ttf');*/
+/*}*/
 
-@font-face {
-    font-family: mkpop;
-    src: url('../fonts/mkpop.ttf');
-}
+/*.font-2 {*/
+/*    font-family: strokeorder, serif;*/
+/*}*/
 
-.font-3 {
-    font-family: mkpop, serif;
-}
+/*@font-face {*/
+/*    font-family: mkpop;*/
+/*    src: url('../fonts/mkpop.ttf');*/
+/*}*/
 
-@font-face {
-    font-family: amakara;
-    src: url('../fonts/amakara.ttf');
-}
+/*.font-3 {*/
+/*    font-family: mkpop, serif;*/
+/*}*/
 
-.font-4 {
-    font-family: amakara, serif;
-}
+/*@font-face {*/
+/*    font-family: amakara;*/
+/*    src: url('../fonts/amakara.ttf');*/
+/*}*/
 
-@font-face {
-    font-family: aoya;
-    src: url('../fonts/aoya.ttf');
-}
+/*.font-4 {*/
+/*    font-family: amakara, serif;*/
+/*}*/
 
-.font-5 {
-    font-family: aoya, serif;
-}
+/*@font-face {*/
+/*    font-family: aoya;*/
+/*    src: url('../fonts/aoya.ttf');*/
+/*}*/
 
-@font-face {
-    font-family: chikara;
-    src: url('../fonts/chikara.ttf');
-}
+/*.font-5 {*/
+/*    font-family: aoya, serif;*/
+/*}*/
 
-.font-6 {
-    font-family: chikara, serif;
-}
+/*@font-face {*/
+/*    font-family: chikara;*/
+/*    src: url('../fonts/chikara.ttf');*/
+/*}*/
 
-@font-face {
-    font-family: crayon;
-    src: url('../fonts/crayon.ttf');
-}
+/*.font-6 {*/
+/*    font-family: chikara, serif;*/
+/*}*/
 
-.font-7 {
-    font-family: crayon, serif;
-}
+/*@font-face {*/
+/*    font-family: crayon;*/
+/*    src: url('../fonts/crayon.ttf');*/
+/*}*/
 
-@font-face {
-    font-family: gakuran;
-    src: url('../fonts/gakuran.ttf');
-}
+/*.font-7 {*/
+/*    font-family: crayon, serif;*/
+/*}*/
 
-.font-8 {
-    font-family: gakuran, serif;
-}
+/*@font-face {*/
+/*    font-family: gakuran;*/
+/*    src: url('../fonts/gakuran.ttf');*/
+/*}*/
 
-@font-face {
-    font-family: kochi;
-    src: url('../fonts/kochi.ttf');
-}
+/*.font-8 {*/
+/*    font-family: gakuran, serif;*/
+/*}*/
 
-.font-9 {
-    font-family: kochi, serif;
-}
+/*@font-face {*/
+/*    font-family: kochi;*/
+/*    src: url('../fonts/kochi.ttf');*/
+/*}*/
 
-@font-face {
-    font-family: kouzan;
-    src: url('../fonts/kouzan.ttf');
-}
+/*.font-9 {*/
+/*    font-family: kochi, serif;*/
+/*}*/
 
-.font-10 {
-    font-family: kouzan, serif;
-}
+/*@font-face {*/
+/*    font-family: kouzan;*/
+/*    src: url('../fonts/kouzan.ttf');*/
+/*}*/
 
-@font-face {
-    font-family: mushin;
-    src: url('../fonts/mushin.otf');
-}
+/*.font-10 {*/
+/*    font-family: kouzan, serif;*/
+/*}*/
 
-.font-11 {
-    font-family: mushin, serif;
-}
+/*@font-face {*/
+/*    font-family: mushin;*/
+/*    src: url('../fonts/mushin.otf');*/
+/*}*/
 
-@font-face {
-    font-family: pigmo;
-    src: url('../fonts/pigmo.otf');
-}
+/*.font-11 {*/
+/*    font-family: mushin, serif;*/
+/*}*/
 
-.font-12 {
-    font-family: pigmo, serif;
-}
+/*@font-face {*/
+/*    font-family: pigmo;*/
+/*    src: url('../fonts/pigmo.otf');*/
+/*}*/
 
-@font-face {
-    font-family: uni;
-    src: url('../fonts/uni.ttf');
-}
+/*.font-12 {*/
+/*    font-family: pigmo, serif;*/
+/*}*/
 
-.font-13 {
-    font-family: uni, serif;
-}
+/*@font-face {*/
+/*    font-family: uni;*/
+/*    src: url('../fonts/uni.ttf');*/
+/*}*/
 
-@font-face {
-    font-family: zinhena;
-    src: url('../fonts/zinhena.ttf');
-}
+/*.font-13 {*/
+/*    font-family: uni, serif;*/
+/*}*/
 
-.font-14 {
-    font-family: zinhena, serif;
-}
+/*@font-face {*/
+/*    font-family: zinhena;*/
+/*    src: url('../fonts/zinhena.ttf');*/
+/*}*/
 
-@font-face {
-    font-family: ounen;
-    src: url('../fonts/ounen.otf');
-}
+/*.font-14 {*/
+/*    font-family: zinhena, serif;*/
+/*}*/
 
-.font-15 {
-    font-family: ounen, serif;
-}
+/*@font-face {*/
+/*    font-family: ounen;*/
+/*    src: url('../fonts/ounen.otf');*/
+/*}*/
+
+/*.font-15 {*/
+/*    font-family: ounen, serif;*/
+/*}*/
 
 .layout {
     width: 785px;
@@ -416,7 +425,8 @@ body {
 #words-container {
     position: relative;
     height: 100%;
-    min-height: 650px;
+    min-height: 800px;
+    border-bottom: 1px #ddd solid;
 }
 
 #front-word-area {
@@ -572,6 +582,7 @@ body {
 }
 
 #frontpage-done {
+    margin-bottom: 200px;
     text-align: center;
     font-weight: bold;
     background-color: rgba(255, 215, 0, 0.05);
