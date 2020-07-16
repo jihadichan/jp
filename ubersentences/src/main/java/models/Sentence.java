@@ -24,6 +24,7 @@ public class Sentence {
     // HELPERS
     private static final Pattern quotePattern = Pattern.compile("^\"|\"$");
     private static final Pattern nonWordCharPattern = Pattern.compile("[^\\p{L}]");
+    private static final Pattern focusWords = Pattern.compile("^.*<br/?>");
     private static final Tokenizer kuromoji = new Tokenizer.Builder().build();
 
 
@@ -31,7 +32,7 @@ public class Sentence {
         final List<String> cells = this.toList(line);
 
         // FROM CSV FILE
-        this.sentence = cells.get(0);
+         this.sentence = focusWords.matcher(cells.get(0)).replaceAll(""); // NOTE: All ^.*<br/?> will be deleted.
         this.notes = cells.get(1);
         this.source = cells.size() > 2 ? cells.get(2) : "";
 

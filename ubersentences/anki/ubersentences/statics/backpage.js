@@ -343,23 +343,27 @@ function renderOptions() {
 
 function renderVocabButton(jQuerySelection) {
     jQuerySelection.html(jQuerySelection.html() + "" +
-        "<button class='options-button' onclick='renderJishoVocabLookup()'>" +
-        "   <a href='#modal' rel='modal:open'>Vocab</a>" +
-        "</button>");
+        "<a href='#modal' rel='modal:open'><button class='options-button' onclick='renderJishoVocabLookup()'>" +
+        "Vocab" +
+        "</button></a>");
 }
 
 function renderTranslateButton(jQuerySelection) {
     jQuerySelection.html(jQuerySelection.html() + "" +
+        "<a href='#modal' rel='modal:open'>" +
         "<button class='options-button' onclick='renderTranslateLookup()'>" +
-        "   <a href='#modal' rel='modal:open'>Translate</a>" +
-        "</button>");
+        "Translate" +
+        "</button>" +
+        "</a>");
 }
 
 function renderGrammarButton(jQuerySelection) {
     jQuerySelection.html(jQuerySelection.html() + "" +
+        "<a href='#modal' rel='modal:open'>" +
         "<button class='options-button' onclick='renderGrammarLookup()'>" +
-        "   <a href='#modal' rel='modal:open'>Grammar</a>" +
-        "</button>");
+        "Grammar" +
+        "</button>" +
+        "</a>");
 }
 
 function renderSourceButton(jQuerySelection) {
@@ -659,7 +663,7 @@ function renderTranslateLookup() {
     var selectedText = getSelectedText();
     var isFullSentence = false;
     if (selectedText === "") {
-        selectedText = $('#sentence-raw').html();
+        selectedText = $('#sentence-raw').html().replace(/.*<br\/?>/, "");
         isFullSentence = true;
     }
 

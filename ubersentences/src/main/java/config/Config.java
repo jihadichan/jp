@@ -21,21 +21,37 @@ public class Config {
     public static final Path WAVENET_DATA = DATA_FOLDER.resolve("wavenet.json");
     public static final String FREQ_NF = "freqNF";
     public static final String FREQ_WK = "freqWK";
-    public static String DECK = "";
+    public static String DECK = ""; // todo so somehow the static setting doesn't work anymore. See below. Set DECK where you run from. Via createDeckName()
+                                    //  And this also doesn't work from tests... it worked for months. Suddenly doesn't. Something about the static probably.
 
-    static {
+    public static String createDeckName() {
         final Scanner scanner = new Scanner(System.in);
         out.print("Deck name (must comply with the MP3 folder of your Anki assets): ");
-        DECK = scanner.next();
-        if (!MP3_FOLDER.resolve(DECK).toFile().exists()) {
-            out.println("'" + MP3_FOLDER.resolve(DECK) + "' doesn't exist. Create the folder. Exiting...");
+        final String name = scanner.next();
+        if (!MP3_FOLDER.resolve(name).toFile().exists()) {
+            out.println("'" + MP3_FOLDER.resolve(name) + "' doesn't exist. Create the folder. Exiting...");
             System.exit(0);
         }
-        if (DECK.equals("")) {
+        if (name.equals("")) {
             out.println("Deck name must be set. Exiting...");
             System.exit(0);
         }
+        return name;
     }
+
+//    static { todo this shit doesn't work suddenly???
+//        final Scanner scanner = new Scanner(System.in);
+//        out.print("Deck name (must comply with the MP3 folder of your Anki assets): ");
+//        DECK = scanner.next();
+//        if (!MP3_FOLDER.resolve(DECK).toFile().exists()) {
+//            out.println("'" + MP3_FOLDER.resolve(DECK) + "' doesn't exist. Create the folder. Exiting...");
+//            System.exit(0);
+//        }
+//        if (DECK.equals("")) {
+//            out.println("Deck name must be set. Exiting...");
+//            System.exit(0);
+//        }
+//    }
 
 
 }
