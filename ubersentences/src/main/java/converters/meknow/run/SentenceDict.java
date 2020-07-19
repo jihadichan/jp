@@ -76,7 +76,7 @@ public class SentenceDict {
         }
     }
 
-    private static String createPrefix(final SentenceData sentenceData) {
+    public static String createPrefix(final SentenceData sentenceData) {
         final String prefix = "" + sentenceData.level + "" + sentenceData.step;
         String position = String.valueOf(sentenceData.position);
         switch (position.length()) {

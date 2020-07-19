@@ -1,5 +1,13 @@
 
 
+HOW TO REMOVE TITLES IN MP3 FILES
+----------------------
+
+eyeD3 --remove-all fileName
+Or run for all in folder.
+eyeD3 --remove-all *
+
+
 Goals:
 1. Download all sentences as MP3.
     - File names are sentences themselves.
