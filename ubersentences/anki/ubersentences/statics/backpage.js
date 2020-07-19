@@ -12,6 +12,7 @@ var lastCalledJishoUrl = "";
 var lastReceivedJishoResponse = "";
 var lastCalledGoogleTranslateUrl = "";
 var lastReceivedGoogleTranslateResponse = "";
+var lastTranslateTextAreaValue = "";
 
 /*********************************************************************************/
 // RENDERED SECTION
@@ -661,10 +662,8 @@ function getSelectedText() {
 
 function renderTranslateLookup() {
     var selectedText = getSelectedText();
-    var isFullSentence = false;
     if (selectedText === "") {
         selectedText = $('#sentence-raw').html().replace(/.*<br\/?>/, "");
-        isFullSentence = true;
     }
 
     var form = "" +
@@ -672,21 +671,29 @@ function renderTranslateLookup() {
         "<label>" +
         "   <span class=\"hint\">Looks up words via Google Translate</span>" +
         "   <input type=\"text\" id=\"search-field\" placeholder=\" Search...\" value=\"" + selectedText + "\"/>" +
-        "   <input type=\"button\" id='search-button' onclick=\"fetchTranslate(" + isFullSentence + ")\" value=\"Search\">" +
+        "   <input type=\"button\" id='search-button' onclick=\"fetchTranslate()\" value=\"Add\">" +
+        "   <input type=\"button\" id='search-button' onclick=\"resetTranslateTextArea()\" value=\"Reset\">" +
         "</label>" +
-        "<div id='translate-result'></div>" +
+        "<div id='translate-loading'></div>" +
+        "<textarea style='height: 100px' id='translate-textarea'>" + lastTranslateTextAreaValue + "</textarea>" +
         "</div>";
 
     $('#modal').html(form);
     $('#search-field').keypress(function (e) {
         if (e.keyCode === 13) {
-            fetchTranslate(isFullSentence);
+            fetchTranslate();
         }
     });
 }
 
-function fetchTranslate(isFullSentence) {
+function fetchTranslate() {
     var query = $('#search-field').val().trim();
+    var fullsentence = $('#sentence-raw').html().replace(/.*<br\/?>/, "").trim();
+    var isFullSentence = false;
+    if (query === fullsentence) {
+        isFullSentence = true;
+    }
+
     if (query !== "") {
         fetchWordFromGoogleTranslate(query, isFullSentence);
     }
@@ -696,7 +703,7 @@ function createGoogleTranslateUrl(query) {
     return CORS_PROXY + "https://translate.googleapis.com/translate_a/single?client=gtx&sl=ja&tl=en&hl=en-US&dt=t&dt=bd&dj=1&source=icon&tk=0.0&q=" + encodeURIComponent(query);
 }
 
-function renderGoogleTranslateResult(container, response, isFullSentence) {
+function renderGoogleTranslateResult(response, isFullSentence) {
     var orig = "";
     var trans = "";
     $(response.sentences).each(function (index, value) {
@@ -708,15 +715,22 @@ function renderGoogleTranslateResult(container, response, isFullSentence) {
     } else {
         trans = "- GT: " + orig + " = " + trans;
     }
-    container.html("<textarea id='translate-textarea'>" + trans + "</textarea>");
+    var textArea = $('#translate-textarea');
+    var text = textArea.val() + "\n" + trans;
+    textArea.val(text.trim());
+    lastTranslateTextAreaValue = textArea.val().trim();
+}
+
+function resetTranslateTextArea() {
+    $('#translate-textarea').val("");
+    lastTranslateTextAreaValue = "";
 }
 
 function fetchWordFromGoogleTranslate(query, isFullSentence) {
-    var container = $('#translate-result');
 
     var url = createGoogleTranslateUrl(query);
     if (url === lastCalledGoogleTranslateUrl) {
-        renderGoogleTranslateResult(container, lastReceivedGoogleTranslateResponse, isFullSentence);
+        renderGoogleTranslateResult(lastReceivedGoogleTranslateResponse, isFullSentence);
         return;
     }
     lastCalledGoogleTranslateUrl = url;
@@ -725,11 +739,12 @@ function fetchWordFromGoogleTranslate(query, isFullSentence) {
         type: "GET",
         url: url,
         beforeSend: function () {
-            container.html("<div class='loading'>Loading</div>");
+            $('#translate-loading').html("<div class='loading'>Loading</div>");
         },
         success: function (body) {
             lastReceivedGoogleTranslateResponse = body;
-            renderGoogleTranslateResult(container, body, isFullSentence);
+            $('#translate-loading').html("");
+            renderGoogleTranslateResult(body, isFullSentence);
         },
         error: function (jqXHR, textStatus, errorThrown) {
             $('#debug').text("Couldn't fetch response from Jisho API. Probably cross origin proxy failed or API is down.")

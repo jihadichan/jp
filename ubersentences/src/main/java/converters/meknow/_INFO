@@ -1,0 +1,54 @@
+
+
+Goals:
+1. Download all sentences as MP3.
+    - File names are sentences themselves.
+    - Each level has it own folder.
+    - Sentence number as prefix for filename would be nice. For sorting.
+HOW:
+    - Download all API data responses which they use to build the pages.
+    - Make JS scraper for getting API URLs. Save with IDs for folders.
+    - Then get all via JSoup.
+    - Load JSONs via Java. Make list of objects which contain all data.
+    - Make list with URLs only to download with wget.
+
+2. Replace MP3s in Anki deck.
+    - Export deck and make map with sentence + file name. Check if you have the old one. There are no focus words.
+
+
+
+
+API address: https://iknow.jp/api/v2/goals/566922?
+Public URL : https://iknow.jp/courses/566922
+
+-----------------------------------
+--- OLD
+-----------------------------------
+
+
+So we can download an ordered list of URLs to the MP3 files. We can match the line numbers with the sentence.
+
+Pro-tip: Open all pages of a section at once. And execute the shit concurrently.
+
+1. Click on all play buttons. Try lower delay. Chrome throws if too fast.
+$('div.sentence-audio-container > span').each(function(i, value) {
+    setTimeout(function(){
+       value.click();
+    },500 + ( i * 500 ));
+})
+
+2. Download .har file from network tab.
+
+3. Write script to scrape sentences, with index number for each to match. Save as JSON.
+var result = []
+$('div.sentence-text > p.text > span').each(function(index, elem) {
+	var obj = {
+		index: index,
+		sentence: elem.innerText
+	}
+	result.push(obj);
+})
+console.log(JSON.stringify(result));
+
+4. Write Java program to match sentences and MP3 files, rename to full sentence so it's shown in the MP3 player.
+   - You can technically export the Anki deck and replace the sentences there. Just match the sentence strings.
