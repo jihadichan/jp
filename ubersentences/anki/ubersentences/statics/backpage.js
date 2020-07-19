@@ -716,7 +716,7 @@ function renderGoogleTranslateResult(response, isFullSentence) {
         trans = "- GT: " + orig + " = " + trans;
     }
     var textArea = $('#translate-textarea');
-    var text = textArea.val() + "\n" + trans;
+    var text = textArea.val().trim() + "\n" + trans;
     textArea.val(text.trim());
     lastTranslateTextAreaValue = textArea.val().trim();
 }
