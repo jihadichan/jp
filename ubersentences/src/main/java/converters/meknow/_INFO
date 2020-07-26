@@ -50,11 +50,10 @@ $('div.sentence-audio-container > span').each(function(i, value) {
 3. Write script to scrape sentences, with index number for each to match. Save as JSON.
 var result = []
 $('div.sentence-text > p.text > span').each(function(index, elem) {
-	var obj = {
-		index: index,
-		sentence: elem.innerText
-	}
-	result.push(obj);
+	result.push({
+        index: index,
+        sentence: elem.innerText
+    });
 })
 console.log(JSON.stringify(result));
 
