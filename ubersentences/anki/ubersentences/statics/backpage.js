@@ -459,7 +459,9 @@ function getMarkupTextAreaHtml() {
     return "" +
         "<div class='vocab-output'>" +
         "   <div id='vocab-preview'></div>" +
-        "   <label><textarea id='vocab-markup'></textarea><button style='float: right' onclick='resetMarkupObj()'>Reset</button></label>" +
+        "   <label><textarea id='vocab-markup'></textarea>" +
+        "   <button style='float: left' onclick='resetMarkupObj()'>Reset</button></label>" +
+        "   <button style='float: right;' onclick='copyTextAreaToClipboard(\"#vocab-markup\")'>Copy</button></label>" +
         "</div>"
 }
 
@@ -672,10 +674,11 @@ function renderTranslateLookup() {
         "   <span class=\"hint\">Looks up words via Google Translate</span>" +
         "   <input type=\"text\" id=\"search-field\" placeholder=\" Search...\" value=\"" + selectedText + "\"/>" +
         "   <input type=\"button\" id='search-button' onclick=\"fetchTranslate()\" value=\"Add\">" +
-        "   <input type=\"button\" id='search-button' onclick=\"resetTranslateTextArea()\" value=\"Reset\">" +
+        "   <input type=\"button\" id='search-button' onclick=\"copyTextAreaToClipboard(\'#translate-textarea\')\" value=\"Copy\">" +
         "</label>" +
         "<div id='translate-loading'></div>" +
         "<textarea style='height: 100px' id='translate-textarea'>" + lastTranslateTextAreaValue + "</textarea>" +
+        "<input type=\"button\" style='float: right' onclick=\"resetTranslateTextArea()\" value=\"Reset\">" +
         "</div>";
 
     $('#modal').html(form);
@@ -813,6 +816,14 @@ function searchWord() {
     }
 }
 
+function copyTextAreaToClipboard(id) {
+    var textArea = $(id);
+    var $temp = $("<textarea>");
+    $("body").append($temp);
+    $temp.val(textArea.val()).select();
+    document.execCommand("copy");
+    $temp.remove();
+}
 
 /*********************************************************************************/
 // RUN ON LOAD
