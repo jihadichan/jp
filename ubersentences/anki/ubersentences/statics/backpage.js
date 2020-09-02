@@ -13,6 +13,7 @@ var lastReceivedJishoResponse = "";
 var lastCalledGoogleTranslateUrl = "";
 var lastReceivedGoogleTranslateResponse = "";
 var lastTranslateTextAreaValue = "";
+var nextMarkerEvent;
 
 /*********************************************************************************/
 // RENDERED SECTION
@@ -207,28 +208,45 @@ function renderNoteMarkers(jQuerySelection) {
     jQuerySelection.html(html);
 }
 
+function renderNextMarker() {
+    if (nextMarkerEvent !== undefined) {
+        clearTimeout(nextMarkerEvent);
+    }
+    if($('#sentence-raw').html().split(/<br\/?>/).length === 1) { // only the sentence, so it's a new card
+        return;
+    }
+    var timeout = 5000;
+    nextMarkerEvent = setTimeout(function () {
+        var jQuerySelection = $('#notes');
+        var html = jQuerySelection.html();
+        html += "<div class='timeout'>TIMEOUT (" + timeout / 1000 + "s)</div>"
+        jQuerySelection.html(html);
+    }, timeout);
+}
+
 function renderSourceCell() {
     var raw = $('#source').html();
     var sourceCell = $('#source-cell');
-    var source = raw;
-    if (sourceCell.html() === "") {
-        var regex = /\bhttp.*\b/;
-        var match = regex.exec(source);
-        var contentForSourceCell = "";
-        while (match != null) {
-            source = source.replace(regex, "");
-            if (match[0].indexOf("imgur.com") !== -1) {
-                contentForSourceCell += raw.replace(regex, "<img alt='' src='" + match[0] + "' /><br>");
-            }
-
-            contentForSourceCell += raw.replace(regex, "<a target='_blank' href='" + match[0] + "'>" + match[0] + "</a><br>");
-            match = regex.exec(source);
-        }
-
-        sourceCell.html("<td>" + contentForSourceCell + "</td>");
-    } else {
+    if(raw.length === 0) {
         sourceCell.html("");
+        return;
     }
+    var lines = raw.split(/<br\\?>/);
+    var urlRegex = /\bhttp.*\b/;
+    var result = "";
+    for (var i = 0; i < lines.length; i++) {
+        var line = lines[i];
+        var match = urlRegex.exec(line);
+        if((match != null)) {
+            if (match[0].indexOf("imgur.com") !== -1) {
+                line = line.replace(urlRegex, "<img alt='' src='" + match[0] + "' />");
+            } else {
+                line = line.replace(urlRegex, "<a target='_blank' href='" + match[0] + "'>" + match[0] + "</a>");
+            }
+        }
+        result += line+"<br>";
+    }
+    sourceCell.html("<td>" + result + "</td>")
 }
 
 function renderSentence(shouldHighlight) {
@@ -836,4 +854,4 @@ renderHighlights(); // Renders also sentence
 renderSourceCell();
 addShowSolutionClickEvent();
 addToggleFuriganaClickEvent();
-
+renderNextMarker();

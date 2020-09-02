@@ -810,7 +810,7 @@ createMostCommonReadingsTable();
 createScoredReadingsTable();
 renderFontSelection();
 renderButtonTexts();
-renderWordTable('wordExamples');
+renderMetaData(); // SLOW: renderWordTable('wordExamples');
 highlightUnclassifiedReadings();
 addHighlightsToMnemonicField();
 appendSearchOnClickToRubyElements();
