@@ -14,7 +14,7 @@ public class CreateImmersion {
 
         SentenceDict.map.values().stream()
                 .forEach(sentenceData -> {
-//                    System.out.println(sentenceData.fileNamePrefix + "-" + sentenceData.japanese);
+//                  System.out.println(sentenceData.fileNamePrefix + "-" + sentenceData.japanese);
                     final Path file = MEKNOW_STEPS_FOLDER.resolve(String.valueOf(sentenceData.level)).resolve(sentenceData.fileName);
                     final String sentence = sentenceData.japanese.replaceAll("(<b>|</b>)", "");
                     final Path target = MEKNOW_IMMERSION_FOLDER.resolve(sentenceData.fileNamePrefix + "-" + sentence + ".mp3");
