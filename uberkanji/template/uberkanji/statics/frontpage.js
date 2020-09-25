@@ -1,12 +1,16 @@
 var data;
 try {
-    data = JSON.parse($('#data').html());
+    data = JSON.parse(decodeURIComponent($('#data').html().replace(/\+/g, ' ')));
 } catch (e) {
     data = {};
     $('#debug').text("JSON parse error. " + e.message);
 }
+var mnemonicField = $('#mnemonic');
+var playSoundField = $('#play-sound');
+var confusionQuestion = $('#confusion-question');
+var kanjiField = $('#kanji');
 var fonts = [1]; // , 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15];
-var readings = $('#play-sound').text().trim().split(".");
+var readings = playSoundField.text().trim().split(".");
 var sections = [];
 var compoundReading = "";
 var countFnKJ = 0;
@@ -24,6 +28,8 @@ var lapsStore = [];
 var lapNr = 0;
 var currentRtId = 1000;
 var lastRtId = 999;
+var confusions = extractConfusions();
+
 
 function debug(stage) {
     console.log(stage + " DEBUG", {
@@ -43,7 +49,7 @@ function nextStep() {
         var html;
         if (currentStep === 0) {
             html = $(renderedSteps[0]);
-            html.find("#compound-reading").text(compoundReading);
+            html.find("#compound-reading").html(createSolution());
             $('#words-toggle').html(html);
             pushToRenderedSteps(html);
             stopwatch.stop();
@@ -51,8 +57,6 @@ function nextStep() {
             return;
         }
         stopwatch.start();
-        console.log("currentStep: " + currentStep);
-        console.log("currentSectionIndex: " + currentSectionIndex);
 
         if (shouldAddChallengesArea) {
             html = "" +
@@ -60,6 +64,7 @@ function nextStep() {
                 "   <div id='frontpage-fnkj'></div>" +
                 "   <div id='frontpage-fnkn'></div>" +
                 "   <div id='frontpage-ofrm'></div>" +
+                "   <div id='frontpage-conf'></div>" +
                 "   <div id='frontpage-done'></div>" +
                 "</div>";
             $('#words-toggle').html(html);
@@ -95,15 +100,77 @@ function nextStep() {
                 updateShouldRefill();
                 checkIfShouldUpdateRenderedSteps();
                 break;
+            case 4:
+                revealLastRtId();
+                currentSectionIndex++;
+                createConfusionStep();
+                break;
             default:
+                showConfusionStepSolution();
                 var wordField = $('#frontpage-done');
                 // wordField.html("<hr><div class='compound-reading-solution'>" + compoundReading + "</div>");
                 stopwatch.stop();
-                wordField.html("<hr><div class='compound-reading-solution'>"+parseFloat(stopwatch.get())+"s</div>");
-                revealLastRtId();
+                wordField.html("<hr><div class='compound-reading-solution'>" + parseFloat(stopwatch.get()) + "s</div>");
                 isFinished = true;
         }
     }
+}
+
+function createSolution() {
+    var solution = "";
+
+    // Concept
+    var concept = $('#concept').html();
+    if (concept === "") {
+        concept = "No concept set";
+    }
+    solution += concept + "<hr>";
+
+    // Compound Reading
+    solution += getMnemonicsSolution();
+    solution += compoundReading;
+
+    return solution;
+}
+
+function getMnemonicsSolution() {
+    var kana = "([\u4E00-\u9FAF\u3040-\u3096\u30A1-\u30FA\uFF66-\uFF9D\u31F0-\u31FF]+\.?)+";
+    var readingHtml = mnemonicField.html();
+    var readingRegex = new RegExp(kana + " - .*?<br\/?>");
+    var readings = readingRegex.exec(readingHtml);
+    if (readings == null) {
+        return "";
+    }
+
+    var html = "<div class='mnemonic-solution'><table>";
+    while (readings != null) {
+        var split = readings[0].split(" - ");
+        html += "<tr>";
+        html += "<td class='nowrap'>" + split[0] + "</td>";
+        html += "<td>" + split[1] + "</td>";
+        html += "</tr>";
+        readingHtml = readingHtml.replace(readingRegex, "");
+        readings = readingRegex.exec(readingHtml);
+    }
+    html += "</table></div><hr>";
+    return html;
+}
+
+function createConfusionStep() {
+    var html = "<div class='challenge'>";
+
+    $(confusions).each(function (index, conf) {
+        html += conf.kanji + "　";
+    });
+    html = html.trim();
+
+    html += "</div>";
+
+    $('#frontpage-conf').html(html);
+}
+
+function showConfusionStepSolution() {
+    $('#frontpage-conf').html(getConfusionHtml())
 }
 
 function addLap() {
@@ -133,7 +200,7 @@ function addLap() {
         color = "red";
     }
 
-    if(lap > 0) {
+    if (lap > 0) {
         lapNr++;
         laps.html(laps.html() + "<div style='color: " + color + "'><span style='color:black'>" + lapNr + ". </span>" + lap.toFixed(1) + "</div>");
     }
@@ -164,8 +231,7 @@ function appendNextWord(cssSelector) {
     var wordField = $(cssSelector);
     var html = currentSectionRubies.shift();
     var split = html.split("(");
-    html = split[0].replace(/<rt>/, "<rt class='"+currentRtId+"' style='display: none'>") + "<div class='"+currentRtId+"' style='font-size:0.8em; margin-top:-2px; display: none'>(" + split.slice(1, split.length).join("(") + "</div>";
-    console.log("appending: "+html);
+    html = split[0].replace(/<rt>/, "<rt class='" + currentRtId + "' style='display: none'>") + "<div class='" + currentRtId + "' style='font-size:0.8em; margin-top:-2px; display: none'>(" + split.slice(1, split.length).join("(") + "</div>";
 
     wordField.html(wordField.html() + "<div class='challenge'>" + html + "</div>");
     revealLastRtId();
@@ -173,7 +239,7 @@ function appendNextWord(cssSelector) {
 
 function revealLastRtId() {
     currentRtId++;
-    $('.'+lastRtId).toggle();
+    $('.' + lastRtId).toggle();
     lastRtId++;
 }
 
@@ -215,6 +281,7 @@ function resetFrontpage() {
     $('#words-container').off();
     $('#stopwatch').off();
     addStopWatchClickEvents();
+    renderConfusions();
 }
 
 function stepBack() {
@@ -271,7 +338,7 @@ function getRandomFontIds(n) {
 }
 
 function renderFonts(amount, breakAfter) {
-    var kanji = $('#kanji').text();
+    var kanji = kanjiField.text();
     var container = '<div class="fonts">';
     var count = 1;
     $.each(getRandomFontIds(amount), function (i, value) {
@@ -285,9 +352,63 @@ function renderFonts(amount, breakAfter) {
     $('#rendered-content').html(container);
 }
 
+function renderConfusions() {
+    var line = "";
+    $(confusions).each(function (index, conf) {
+        line += conf.kanji + " ";
+    });
+    confusionQuestion.html(line);
+    confusionQuestion.click(renderConfusionSolution);
+}
+
+function extractConfusions() {
+    if (mnemonicField.html().indexOf("!conf")) {
+        var mnemonicWithNewlines = mnemonicField.html().replace(/<br\/?>/g, "\n");
+
+        // Extract line
+        var confLineRegex = new RegExp(/!conf.*/);
+        var confLinesMatches = confLineRegex.exec(mnemonicWithNewlines);
+
+        // Extract single items
+        if (confLinesMatches !== null && confLinesMatches.length !== 0) {
+            var confLineClean = confLinesMatches[0].replace(/!conf/, "").trim();
+            var itemRegex = new RegExp(/[\u4E00-\u9FAF\u3040-\u3096\u30A1-\u30FA\uFF66-\uFF9D\u31F0-\u31FF] ?\(.*?\)/);
+            var items = itemRegex.exec(confLineClean);
+
+            var confs = [];
+            while (items != null) {
+                var split = items[0].split(" \(");
+                confs.push({
+                    kanji: split[0],
+                    meaning: "(" + split[1]
+                })
+                confLineClean = confLineClean.replace(itemRegex, "");
+                items = itemRegex.exec(confLineClean);
+            }
+            return confs;
+        }
+    }
+    return [];
+}
+
+function renderConfusionSolution() {
+    if (confusions.length > 0) {
+        confusionQuestion.html(getConfusionHtml());
+    }
+}
+
+function getConfusionHtml() {
+    var confHtml = "<div class='confusion-solution'>";
+    $(confusions).each(function (index, conf) {
+        confHtml += conf.kanji + " " + conf.meaning + "<br>";
+    })
+    confHtml += "</div>";
+    return confHtml;
+}
+
 function printExtractRuby(shouldShuffle) {
     var words = [];
-    $.each($('#mnemonic').find('ruby'), function (index, value) {
+    $.each(mnemonicField.find('ruby'), function (index, value) {
         words.push(value.innerHTML.replace(/<.*>/, "") + "<br>");
     });
     if (shouldShuffle === true) {
@@ -315,9 +436,8 @@ function shuffle(a) {
 
 function addShowWords() {
     // try {
-    var mnemonic = $('#mnemonic');
-    sections = mnemonic.html().split(/---+/);
-    var playSounds = $('#play-sound').text().trim();
+    sections = mnemonicField.html().split(/---+/);
+    var playSounds = playSoundField.text().trim();
     var playSoundReadings = playSounds.split('.');
     var requiredCompoundReadingsCount = playSounds !== "" ? playSoundReadings.length : 0;
     // var existingCompoundReadingsCount = countReadingsFromPlaySoundInSection(playSoundReadings, getReadingsFromSection(sections[1]));
@@ -423,6 +543,7 @@ function getRubyElements(section) {
 function getReadingsFromSection(section) {
     var regex = /\((\W{1,5}),/;
 
+    section = section.replace(/<br\/?>/g, "\n");
     section = cleanFromCommentedOutRubies(section);
 
     var match = regex.exec(section);
@@ -458,6 +579,7 @@ function getReadingsFromPlaySoundInSection(playSoundReadings, sectionReadings) {
             }
         });
     });
+
     return compoundReading;
 }
 
@@ -585,6 +707,7 @@ function addResetButtonClickEvent() {
 addStopWatchClickEvents();
 addShowWords();
 renderFonts(1, 5);
+renderConfusions();
 printExtractRuby(false);
 toggleFrontPageWordsSection();
 // addStepBack(); crap.

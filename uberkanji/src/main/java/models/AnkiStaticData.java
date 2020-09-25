@@ -3,7 +3,9 @@ package models;
 import java.util.List;
 import java.util.Map;
 
-/** JSON for Anki field for data which doesn't need manual manipulation */
+/**
+ * JSON for Anki field for data which doesn't need manual manipulation
+ */
 public class AnkiStaticData {
 
     private final String meanings;
@@ -37,7 +39,7 @@ public class AnkiStaticData {
                           final Map<String, Integer> mostCommonReadings,
                           final Map<String, ReadingScores> scoredReadings,
                           final String compoundReading) {
-        this.searchKey = "ｘ"+kanji;
+        this.searchKey = "ｘ" + kanji;
         this.meanings = meanings;
         this.frequency = frequency;
         this.components = components;
@@ -60,5 +62,9 @@ public class AnkiStaticData {
 
     public String getKunReadings() {
         return this.kunReadings;
+    }
+
+    public String getSearchKey() {
+        return this.searchKey;
     }
 }

@@ -10,11 +10,14 @@ import models.ReadingScores;
 import models.jisho.JishoResult;
 import utils.JpHelpers;
 
+import java.io.UnsupportedEncodingException;
+import java.net.URLDecoder;
+import java.net.URLEncoder;
+import java.nio.charset.StandardCharsets;
 import java.util.*;
 import java.util.concurrent.atomic.AtomicBoolean;
 
 import static java.lang.System.out;
-import static java.lang.System.setOut;
 import static utils.Contract.notEmpty;
 import static utils.Contract.notNull;
 import static utils.CsvHelpers.*;
@@ -71,7 +74,7 @@ public class WordAnalyzer {
                     }
                 }
                 if (!hasReading.get()) {
-                    if(jishoTerm.getWord().contains(String.valueOf(kanjiData.getKanji()))) {
+                    if (jishoTerm.getWord().contains(String.valueOf(kanjiData.getKanji()))) {
                         unknownReadingTerms.add(jishoTerm);
                     } else {
                         otherFormTerms.add(jishoTerm);
@@ -135,11 +138,23 @@ public class WordAnalyzer {
                     String.valueOf(kanjiData.getFrequency()),
                     String.valueOf(kanjiData.getRtkIndex()),
                     this.createTags(compoundReadingsSize),
-                    this.validateJson(gson.toJson(ankiStaticData))
+                    this.createUrlEncodedJson(ankiStaticData)
             });
         });
 
         this.outputCsvWriter.close();
+    }
+
+    private String createUrlEncodedJson(final AnkiStaticData ankiStaticData) {
+        try {
+            final String marker = URLEncoder.encode(ankiStaticData.getSearchKey(), StandardCharsets.UTF_8.toString());
+            String encodedJson = URLEncoder.encode(gson.toJson(ankiStaticData), StandardCharsets.UTF_8.toString());
+            encodedJson = encodedJson.replaceAll(marker, ankiStaticData.getSearchKey());
+            this.validateJson(encodedJson);
+            return encodedJson;
+        } catch (final UnsupportedEncodingException e) {
+            throw new IllegalStateException(e);
+        }
     }
 
     private String createTags(final int compoundReadingsSize) {
@@ -179,7 +194,7 @@ public class WordAnalyzer {
     }
 
     private void addFollowedByScores(final char kanji, final JishoTerm jishoTerm, final ReadingScores readingScores) {
-        if(jishoTerm.getScore() > 0) {
+        if (jishoTerm.getScore() > 0) {
             switch (jishoTerm.getType()) {
                 case "fnKJ":
                     readingScores.incrementFbKJ();
@@ -198,7 +213,7 @@ public class WordAnalyzer {
 
     private String validateJson(final String json) {
         try {
-            gson.fromJson(json, AnkiStaticData.class);
+            gson.fromJson(URLDecoder.decode(json, StandardCharsets.UTF_8.toString()), AnkiStaticData.class);
             return json;
         } catch (final Exception e) {
             throw new IllegalArgumentException("Produced JSON is invalid:\n" + json + "\n");

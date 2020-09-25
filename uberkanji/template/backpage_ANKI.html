@@ -26,10 +26,10 @@
                             <td>Concept</td>
                             <td>{{concept}}</td>
                         </tr>
-                        <tr>
-                            <td>Meanings</td>
-                            <td id="meanings"></td>
-                        </tr>
+                        <!-- <tr>-->
+                        <!--     <td>Meanings</td>-->
+                        <!--     <td id="meanings"></td>-->
+                        <!-- </tr>-->
                         <tr>
                             <td class="manual-edits-key" onclick="toggleFurigana()">
                                 Mnemonic
@@ -65,7 +65,8 @@
                                     <button class="button" id="wordExamples" onclick="renderWordTable('wordExamples')">
                                         Word Examples
                                     </button>
-                                    <button class="button" id="unclassifiedReadings" onclick="renderWordTable('unclassifiedReadings')">
+                                    <button class="button" id="unclassifiedReadings"
+                                            onclick="renderWordTable('unclassifiedReadings')">
                                         Unknown Readings
                                     </button>
                                     <button class="button" id="otherForms" onclick="renderWordTable('otherForms')">Other
@@ -93,9 +94,16 @@
 <script src="uberkanji/statics/jquery.modal.min.js" type="application/javascript"></script>
 <div id="modal" class="modal">
     <table class="modal-table">
-        <tr><td id="modal-result"></td></tr>
-        <tr><td class="td-textarea" style="padding: 1px"><textarea id="word-area" onclick="selectOnClick(this)" onkeyup="updateRuby()"></textarea></td></tr>
-        <tr><td id="modal-meanings"></td></tr>
+        <tr>
+            <td id="modal-result"></td>
+        </tr>
+        <tr>
+            <td class="td-textarea" style="padding: 1px"><textarea id="word-area" onclick="selectOnClick(this)"
+                                                                   onkeyup="updateRuby()"></textarea></td>
+        </tr>
+        <tr>
+            <td id="modal-meanings"></td>
+        </tr>
     </table>
 </div>
 <!-------------------------------------------------->

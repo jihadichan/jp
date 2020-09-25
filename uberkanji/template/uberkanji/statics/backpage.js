@@ -1,6 +1,6 @@
 var data;
 try {
-    data = JSON.parse($('#data').html());
+    data = JSON.parse(decodeURIComponent($('#data').html().replace(/\+/g, ' ')));
 } catch (e) {
     data = {};
     $('#debug').text("JSON parse error. " + e.message);
@@ -8,15 +8,15 @@ try {
 var fonts = [1]; //, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]; // todo if you want more, check HTML in template -> renderFonts(), also check CSS
 var amountOfFontsToShow = 1;
 var readings = $('#play-sound').text().trim().split(".");
-
 // Top
-$('#meanings').text(data.meanings);
+// $('#meanings').text(data.meanings); // no meanings on top, useless
 
 // Metadata
 function renderMetaData() {
     var table = '<div class="metadata-content"><table>';
     table += '<tr><td>RTK Keyword</td><td>' + data.rtkKeyword + '</td></tr>';
     table += '<tr><td>RTK Index</td><td>' + data.rtkIndex + '</td></tr>';
+    table += '<tr><td>Meanings</td><td>' + data.meanings + '</td></tr>';
     table += '<tr><td>Frequency</td><td>' + data.frequency + '</td></tr>';
     table += '<tr><td>Components</td><td>' + data.components + '</td></tr>';
     table += '<tr><td>Strokes</td><td>' + data.strokes + '</td></tr>';

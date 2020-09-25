@@ -894,13 +894,26 @@
             "pseudo",
             "quasi",
             "false",
+            "para-",
             "mock",
-            "sham",
-            "suspected (case)"
+            "sham"
           ],
           "parts_of_speech": [
             "Noun or verb acting prenominally"
           ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "suspected (case, e.g. of disease)"
+          ],
+          "parts_of_speech": [],
           "links": [],
           "tags": [],
           "restrictions": [],
@@ -1586,42 +1599,6 @@
       }
     },
     {
-      "slug": "付加疑問文",
-      "is_common": false,
-      "tags": [],
-      "jlpt": [],
-      "japanese": [
-        {
-          "word": "付加疑問文",
-          "reading": "ふかぎもんぶん"
-        }
-      ],
-      "senses": [
-        {
-          "english_definitions": [
-            "tag-question (e.g. questions like \u0027He is, isn\u0027t he?\u0027)"
-          ],
-          "parts_of_speech": [
-            "Noun"
-          ],
-          "links": [],
-          "tags": [
-            "linguistics terminology"
-          ],
-          "restrictions": [],
-          "see_also": [],
-          "antonyms": [],
-          "source": [],
-          "info": []
-        }
-      ],
-      "attribution": {
-        "jmdict": true,
-        "jmnedict": false,
-        "dbpedia": "false"
-      }
-    },
-    {
       "slug": "疑似恋愛",
       "is_common": false,
       "tags": [],
@@ -1695,6 +1672,46 @@
       }
     },
     {
+      "slug": "偽似症",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "疑似症",
+          "reading": "ぎじしょう"
+        },
+        {
+          "word": "偽似症",
+          "reading": "ぎじしょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "suspected case (disease)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Medicine, etc. term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
       "slug": "疑似命令",
       "is_common": false,
       "tags": [],
@@ -1717,41 +1734,6 @@
           "tags": [
             "Computer terminology"
           ],
-          "restrictions": [],
-          "see_also": [],
-          "antonyms": [],
-          "source": [],
-          "info": []
-        }
-      ],
-      "attribution": {
-        "jmdict": true,
-        "jmnedict": false,
-        "dbpedia": "false"
-      }
-    },
-    {
-      "slug": "疑似体験",
-      "is_common": false,
-      "tags": [],
-      "jlpt": [],
-      "japanese": [
-        {
-          "word": "疑似体験",
-          "reading": "ぎじたいけん"
-        }
-      ],
-      "senses": [
-        {
-          "english_definitions": [
-            "simulated experience",
-            "simulation"
-          ],
-          "parts_of_speech": [
-            "Noun"
-          ],
-          "links": [],
-          "tags": [],
           "restrictions": [],
           "see_also": [],
           "antonyms": [],
@@ -1909,6 +1891,46 @@
       }
     },
     {
+      "slug": "偽似症",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "疑似症",
+          "reading": "ぎじしょう"
+        },
+        {
+          "word": "偽似症",
+          "reading": "ぎじしょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "suspected case (disease)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Medicine, etc. term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
       "slug": "疑似直接目的語",
       "is_common": false,
       "tags": [],
@@ -1945,37 +1967,30 @@
       }
     },
     {
-      "slug": "疑懼",
+      "slug": "豊胸疑惑",
       "is_common": false,
       "tags": [],
       "jlpt": [],
       "japanese": [
         {
-          "word": "疑懼",
-          "reading": "ぎく"
-        },
-        {
-          "word": "疑惧",
-          "reading": "ぎく"
+          "word": "豊胸疑惑",
+          "reading": "ほうきょうぎわく"
         }
       ],
       "senses": [
         {
           "english_definitions": [
-            "apprehension",
-            "uneasiness"
+            "suspicions of having had breast implants"
           ],
           "parts_of_speech": [
-            "Noun",
-            "Suru verb"
+            "Noun"
           ],
           "links": [],
-          "tags": [
-            "Usually written using kana alone",
-            "Archaism"
-          ],
+          "tags": [],
           "restrictions": [],
-          "see_also": [],
+          "see_also": [
+            "豊胸手術"
+          ],
           "antonyms": [],
           "source": [],
           "info": []
@@ -2201,6 +2216,46 @@
       }
     },
     {
+      "slug": "疑り",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "疑り",
+          "reading": "うたぐり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "doubt",
+            "question",
+            "uncertainty",
+            "skepticism",
+            "scepticism",
+            "suspicion",
+            "distrust"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
       "slug": "付加疑問文",
       "is_common": false,
       "tags": [],
@@ -2237,46 +2292,6 @@
       }
     },
     {
-      "slug": "疑り",
-      "is_common": false,
-      "tags": [],
-      "jlpt": [],
-      "japanese": [
-        {
-          "word": "疑り",
-          "reading": "うたぐり"
-        }
-      ],
-      "senses": [
-        {
-          "english_definitions": [
-            "doubt",
-            "question",
-            "uncertainty",
-            "skepticism",
-            "scepticism",
-            "suspicion",
-            "distrust"
-          ],
-          "parts_of_speech": [
-            "Noun"
-          ],
-          "links": [],
-          "tags": [],
-          "restrictions": [],
-          "see_also": [],
-          "antonyms": [],
-          "source": [],
-          "info": []
-        }
-      ],
-      "attribution": {
-        "jmdict": true,
-        "jmnedict": false,
-        "dbpedia": "false"
-      }
-    },
-    {
       "slug": "否定疑問文",
       "is_common": false,
       "tags": [],
@@ -2321,6 +2336,10 @@
       "japanese": [
         {
           "word": "疑り深い",
+          "reading": "うたぐりぶかい"
+        },
+        {
+          "word": "うたぐり深い",
           "reading": "うたぐりぶかい"
         }
       ],
@@ -2423,26 +2442,62 @@
       }
     },
     {
-      "slug": "疑点",
+      "slug": "懐疑派",
       "is_common": false,
       "tags": [],
       "jlpt": [],
       "japanese": [
         {
-          "word": "疑点",
-          "reading": "ぎてん"
+          "word": "懐疑派",
+          "reading": "かいぎは"
         }
       ],
       "senses": [
         {
           "english_definitions": [
-            "doubtful point"
+            "the skeptics (in philosophy) (sceptics)"
           ],
           "parts_of_speech": [
             "Noun"
           ],
           "links": [],
           "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "疑問代名詞",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "疑問代名詞",
+          "reading": "ぎもんだいめいし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "interrogative pronoun"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "linguistics terminology"
+          ],
           "restrictions": [],
           "see_also": [],
           "antonyms": [],
@@ -2483,6 +2538,42 @@
           ],
           "links": [],
           "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "付加疑問文",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "付加疑問文",
+          "reading": "ふかぎもんぶん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "tag-question (e.g. questions like \u0027He is, isn\u0027t he?\u0027)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "linguistics terminology"
+          ],
           "restrictions": [],
           "see_also": [],
           "antonyms": [],
@@ -2541,6 +2632,10 @@
       "japanese": [
         {
           "word": "疑り深い",
+          "reading": "うたぐりぶかい"
+        },
+        {
+          "word": "うたぐり深い",
           "reading": "うたぐりぶかい"
         }
       ],
@@ -2623,6 +2718,74 @@
         {
           "english_definitions": [
             "disputed ballot"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "会計疑惑",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "会計疑惑",
+          "reading": "かいけいぎわく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "accounting scandal"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "強盗容疑者",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "強盗容疑者",
+          "reading": "ごうとうようぎしゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "robbery suspect"
           ],
           "parts_of_speech": [
             "Noun"
@@ -2713,83 +2876,6 @@
       }
     },
     {
-      "slug": "疑懼",
-      "is_common": false,
-      "tags": [],
-      "jlpt": [],
-      "japanese": [
-        {
-          "word": "疑懼",
-          "reading": "ぎく"
-        },
-        {
-          "word": "疑惧",
-          "reading": "ぎく"
-        }
-      ],
-      "senses": [
-        {
-          "english_definitions": [
-            "apprehension",
-            "uneasiness"
-          ],
-          "parts_of_speech": [
-            "Noun",
-            "Suru verb"
-          ],
-          "links": [],
-          "tags": [
-            "Usually written using kana alone",
-            "Archaism"
-          ],
-          "restrictions": [],
-          "see_also": [],
-          "antonyms": [],
-          "source": [],
-          "info": []
-        }
-      ],
-      "attribution": {
-        "jmdict": true,
-        "jmnedict": false,
-        "dbpedia": "false"
-      }
-    },
-    {
-      "slug": "嫌疑者",
-      "is_common": false,
-      "tags": [],
-      "jlpt": [],
-      "japanese": [
-        {
-          "word": "嫌疑者",
-          "reading": "けんぎしゃ"
-        }
-      ],
-      "senses": [
-        {
-          "english_definitions": [
-            "suspect"
-          ],
-          "parts_of_speech": [
-            "Noun"
-          ],
-          "links": [],
-          "tags": [],
-          "restrictions": [],
-          "see_also": [],
-          "antonyms": [],
-          "source": [],
-          "info": []
-        }
-      ],
-      "attribution": {
-        "jmdict": true,
-        "jmnedict": false,
-        "dbpedia": "false"
-      }
-    },
-    {
       "slug": "疑団",
       "is_common": false,
       "tags": [],
@@ -2817,4 +2903,735 @@
           "info": []
         }
       ],
-      "attribut
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "疑字",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "疑字",
+          "reading": "ぎじ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "character of questionable form"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "疑",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "疑",
+          "reading": "ぎ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "doubt",
+            "distrust",
+            "suspicion (of)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "疑いの目",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "疑いの目",
+          "reading": "うたがいのめ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "suspicious glance",
+            "suspicious look",
+            "suspicious expression"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "疑似ＳＲＡＭ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "疑似ＳＲＡＭ",
+          "reading": "ぎじエスラム"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "pseudo static Random Access Memory",
+            "PSRAM"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Computer terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "疑似カラー",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "疑似カラー",
+          "reading": "ぎじカラー"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "pseudo color"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Computer terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "疑心暗鬼を生ず",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "疑心暗鬼を生ず",
+          "reading": "ぎしんあんきをしょうず"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "suspicion begets monsters"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [
+            "Proverb"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "疑似コレラ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "疑似コレラ",
+          "reading": "ぎじコレラ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "para-cholera",
+            "suspected case of cholera"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "疑似コード",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "疑似コード",
+          "reading": "ぎじコード"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "pseudo code"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Computer terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "疑いを抱く",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "疑いを抱く",
+          "reading": "うたがいをいだく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to harbor suspicion",
+            "to harbour suspicion"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with ku ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "疑似マルチタスク",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "疑似マルチタスク",
+          "reading": "ぎじマルチタスク"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "non-preemptive multitasking"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Computer terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "疑いを晴らす",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "疑いを晴らす",
+          "reading": "うたがいをはらす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to dispel doubts"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with su ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "疑似リエントラントプログラム",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "疑似リエントラントプログラム",
+          "reading": "ぎじリエントラントプログラム"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "pseudo reentrant program"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Computer terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "狐疑逡巡",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "狐疑逡巡",
+          "reading": "こぎしゅんじゅん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "being in doubt and unable to decide",
+            "hesitation and indecision"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "目を疑う",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "目を疑う",
+          "reading": "めをうたがう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to doubt one\u0027s own eyes"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with u ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "七度尋ねて人を疑え",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "七度尋ねて人を疑え",
+          "reading": "ななたびたずねてひとをうたがえ"
+        },
+        {
+          "word": "七度尋ねて人を疑え",
+          "reading": "しちどたずねてひとをうたがえ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "search thoroughly for something lost before you suspect someone of stealing it",
+            "be on sure ground before you accuse somebody"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [
+            "Proverb"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "疑問が残る",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "疑問が残る",
+          "reading": "ぎもんがのこる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "for (some) doubtful points to remain"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with ru ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "疑問に思う",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "疑問に思う",
+          "reading": "ぎもんにおもう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to doubt",
+            "to think (something is) doubtful",
+            "to wonder",
+            "to be suspicious"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with u ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "合理的疑いを越えて",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "合理的疑い",
+          "reading": "ごうりてきうたがい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "reasonable doubt"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "疑いが晴れる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "疑いが晴れる",
+          "reading": "うたがいがはれる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to be cleared of a charge"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Ichidan verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "疑弐",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "疑弐",
+          "reading": "ぎじ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "doubt",
+            "distrust",
+            "disobedience"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

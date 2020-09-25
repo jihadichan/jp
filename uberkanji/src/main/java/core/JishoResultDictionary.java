@@ -46,7 +46,9 @@ public class JishoResultDictionary {
                             this.knownJishoResult.put(kanji, jishoResult);
 
                         } catch (final IOException e) {
-                            throw new IllegalStateException("Couldn't read file, got: " + path);
+                            throw new IllegalStateException("Couldn't read file, got: " + path, e);
+                        } catch (Exception e) {
+                            throw new IllegalStateException(e);
                         }
                     });
         } catch (final IOException e) {
