@@ -32,7 +32,7 @@ public class Sentence {
         final List<String> cells = this.toList(line);
 
         // FROM CSV FILE
-         this.sentence = focusWords.matcher(cells.get(0)).replaceAll(""); // NOTE: All ^.*<br/?> will be deleted.
+        this.sentence = focusWords.matcher(cells.get(0)).replaceAll("").trim(); // NOTE: All ^.*<br/?> will be deleted.
         this.notes = cells.get(1);
         this.source = cells.size() > 2 ? cells.get(2) : "";
 

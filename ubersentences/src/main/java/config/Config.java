@@ -14,6 +14,7 @@ public class Config {
     public static final String COLUMN_DELIMITER = "\t";
 
     // INTERNAL
+    public static final Path projectRoot = Paths.get("").toAbsolutePath();
     public static final Path MP3_FOLDER = Paths.get("anki/ubersentences/mp3/");
     public static final Path SENTENCES_FOLDER = Paths.get("sentences/");
     public static final Path DATA_FOLDER = Paths.get("data/");
@@ -21,8 +22,9 @@ public class Config {
     public static final Path WAVENET_DATA = DATA_FOLDER.resolve("wavenet.json");
     public static final String FREQ_NF = "freqNF";
     public static final String FREQ_WK = "freqWK";
-    public static String DECK = ""; // todo so somehow the static setting doesn't work anymore. See below. Set DECK where you run from. Via createDeckName()
-                                    //  And this also doesn't work from tests... it worked for months. Suddenly doesn't. Something about the static probably.
+    public static String DECK = ""; // todo see below
+    // so somehow the static setting doesn't work anymore. See below. Set DECK where you run from. Via createDeckName()
+    // And this also doesn't work from tests... it worked for months. Suddenly doesn't. Something about the static probably.
 
     public static String createDeckName() {
         final Scanner scanner = new Scanner(System.in);

@@ -139,3 +139,7 @@ tr.head {
 .example_en a {
     text-decoration:none;
 }
+
+#container-sentences {
+    margin: 0 auto;
+}

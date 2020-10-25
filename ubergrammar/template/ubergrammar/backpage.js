@@ -109,7 +109,8 @@ function renderFormation() {
 }
 
 function renderBookPage() {
-    var notes = $('#notes').html();
+    var notes = $('#notes').html().replace(/<img src="/, "<img src=\"ubergrammar/img/");
+    console.log(notes)
     $('#rendered-content').html(notes);
 }
 

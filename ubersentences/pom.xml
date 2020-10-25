@@ -102,8 +102,12 @@
             <artifactId>jlayer</artifactId>
             <version>1.0.1-1</version>
         </dependency>
-
-
+        <!-- https://mvnrepository.com/artifact/org.apache.commons/commons-csv -->
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-csv</artifactId>
+            <version>1.8</version>
+        </dependency>
         <dependency>
             <groupId>com.worksap.nlp</groupId>
             <artifactId>sudachi</artifactId>

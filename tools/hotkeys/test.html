@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<div class="some-class">Something something and some more.</div>
+<div class="some-class">asdfsadf sadf awdwsfsdf</div>
+<input type="checkbox" id="box">
+
+<br><br>
+<script src="jquery-3.4.1.min.js" type="application/javascript"></script>
+<script>
+    var elem = document.querySelector('.some-class');
+    console.log(elem.innerText);
+
+    var box = document.querySelector('#box');
+    console.log("isChecked", box.checked)
+</script>
+</body>
+</html>

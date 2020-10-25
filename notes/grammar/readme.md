@@ -367,7 +367,7 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 | 〜で                                   | - Negative te-form, used for negative requests. See 〜ないで.<br>- Can also mean without. |
 | 〜ず                                   | - Same as 〜ないで meaning "without" but more formal.<br>- Exceptional conjugations: する → せず、くる → こず |
 | 〜ん                                   | - Shortened version of "stem + ない"<br>- Exceptional conjugations: する → せん、くる → こん |
-| 〜め                                   | - Shortened version of "stem + ない"<br>- Exceptional conjugations: する → せぬ、 くる → こぬ |
+| 〜ぬ                                   | - Shortened version of "stem + ない"<br>- Exceptional conjugations: する → せぬ、 くる → こぬ |
 
 
 
