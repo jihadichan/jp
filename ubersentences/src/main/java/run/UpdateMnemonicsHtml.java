@@ -20,8 +20,7 @@ public class UpdateMnemonicsHtml {
 
     public static void main(final String[] args) {
         final List<Mnemonic> list = new MnemonicsCsvLoader(exportFiles).getMnemonics();
-        final String html = MnemonicsHtmlCreator.createHtml(list);
-        MnemonicsHtmlCreator.writeFile(html);
+        MnemonicsHtmlCreator.writeFile(list);
     }
 
 }

@@ -70,12 +70,12 @@ public class MnemonicsCsvLoader {
 
     public static class Mnemonic {
 
-        public char kanji;
-        public String mnemonics;
+        public char k; // kanji
+        public String m; // mnemonic
 
-        public Mnemonic(final char kanji, final String mnemonics) {
-            this.kanji = kanji;
-            this.mnemonics = mnemonics;
+        public Mnemonic(final char k, final String m) {
+            this.k = k;
+            this.m = m;
         }
     }
 

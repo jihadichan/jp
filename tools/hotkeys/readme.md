@@ -4,7 +4,7 @@
 
 - Drag the bookmarklet from [this page](https://jihadichan.github.io/bookmarklet.html) into your browser toolbar.
 
-- There are no IDs on the elements. If the script doesn't work then it's most likely due to some HTML changes. Copy the CSS selectors from the dev tools, replace in code, [minify](https://www.minifier.org/) and replace the HERE:
+- There are no IDs on the elements. If the script doesn't work then it's most likely due to some HTML changes. Copy the CSS selectors from the dev tools, replace in code, [minify](https://www.minifier.org/) ([alternative](https://javascript-minifier.com/)) and replace the HERE:
 
   ```javascript
   javascript:(function(){HERE})()
@@ -119,5 +119,43 @@ document.onkeyup = function(e) {
         }
     }
 }
+```
+
+
+
+## Toggle Furigana
+
+Works only with \<rt\> elements. If no \<rt\> available it tries to find tags with class 'furigana' (works on Jisho).
+
+```javascript
+function toggleRtElements() {
+	if(isFuriganaOn) {
+	for(var rt of rts) rt.style.display = 'none';	
+		isFuriganaOn = false;
+	} else {
+		for(var rt of rts) rt.style.display = null;	
+		isFuriganaOn = true;
+	}
+}
+
+document.onkeyup = function (e) {
+    if (e.ctrlKey && e.shiftKey && e.code === 'KeyF') {
+        toggleRtElements();
+    }
+}
+
+if(isFuriganaOn === undefined) {
+	var isFuriganaOn = true;
+}
+
+var rts = document.getElementsByTagName('rt');
+if(rts.length == 0) {
+	console.log('DOCUMENT DOES NOT CONTAIN <RT> ELEMENTS!');
+	rts = document.getElementsByClassName('furigana');
+	if(rts.length == 0) {
+		console.log('DOCUMENT ALSO DOES ELEMENTS WITH class=furigana!');
+	}
+}
+toggleRtElements();
 ```
 
