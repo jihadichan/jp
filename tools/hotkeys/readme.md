@@ -139,7 +139,7 @@ function toggleRtElements() {
 }
 
 document.onkeyup = function (e) {
-    if (e.ctrlKey && e.shiftKey && e.code === 'KeyF') {
+    if (e.ctrlKey && e.code === 'KeyB') {
         toggleRtElements();
     }
 }
