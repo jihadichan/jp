@@ -54,6 +54,14 @@
         document.body.removeChild(textArea);
     }
 
+    function concatSubtitle(cssSelector) {
+        var text = '';
+        $(cssSelector).each(function (index, elem) {
+            text += elem.innerHTML.replace(/\u200C/g, '');
+        });
+        return text.trim();
+    }
+
     document.onkeyup = function (e) {
         if (e.code === 'KeyE') {
             checkBoxEnglish.click();
@@ -69,9 +77,9 @@
         }
         if (e.code === 'KeyA') {
             var obj = {
-                japanese: $('.japanese.subtitle').first().text(),
-                hiragana: $('.hiragana.subtitle').first().text(),
-                english: $('.english.subtitle').first().text(),
+                japanese: concatSubtitle('.japanese.subtitle'),
+                hiragana: concatSubtitle('.hiragana.subtitle'),
+                english: concatSubtitle('.english.subtitle'),
                 source: $(titleSelector).first().text() + ' - ' + $(timestampSelector).first().text()
             };
             copyText(JSON.stringify(obj))

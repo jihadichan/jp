@@ -1,4 +1,5 @@
 var timeoutMarkerEvent;
+var originalSentenceField = "";
 
 function replaySentence() {
     var filePath = "ubersentences/mp3/" + $('#mp3').text();
@@ -37,24 +38,30 @@ function startTimeoutMarker() {
 function renderSentence() {
     var container = document.getElementById("sentence-container");
     var html = container.innerHTML;
+    originalSentenceField = html;
 
     var split = html.split(/<br\s?\/?><br\s?\/?>/);
-    if (html.indexOf("!e") === -1) {
-        // Show sentence
-        html = split[1];
-    } else {
-        // Show focus
-        if(split.length !== 2) {
-            document.getElementById("debug").innerText = "Malformed sentence field. Contains !e but doesn't follow pattern [focus]<br><br>[sentence]";
-        }
+    if (split.length === 2) {
+        // Has <br><br>, so show focus
         html = "<div class='focus'>FOCUS</div>" + split[0];
+    } else if (split.length === 1) {
+        // Has NO <br><br>, so show full sentence
+        html = split[0];
+    } else {
+        document.getElementById("debug").innerText = "Malformed sentence field. Contains <br><br> but doesn't follow pattern [focus]<br><br>[sentence]";
     }
-    container.innerHTML = hideMarker(html);
+
+    container.innerHTML = html;
 }
 
-function hideMarker(text) {
-    return text.replace("!e", "");
+function showOriginalSentenceField() {
+    document.getElementById("sentence-container").innerHTML = originalSentenceField;
 }
 
-// startTimeoutMarker(); todo no time on front page?
+function addClickEvents() {
+    document.getElementById("container").addEventListener("click", showOriginalSentenceField);
+}
+
+startTimeoutMarker();
+addClickEvents();
 renderSentence();
