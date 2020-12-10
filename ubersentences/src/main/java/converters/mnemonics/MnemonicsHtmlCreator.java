@@ -14,7 +14,7 @@ import static config.Config.projectRoot;
 
 public class MnemonicsHtmlCreator {
 
-    private static final Path htmlPath = projectRoot.resolve("grammarguide/jihadichan.github.io/kanji/mnemonics-data.js");
+    private static final Path htmlPath = projectRoot.resolve("grammarguide/jihadichan.github.io/kanji/assets/mnemonics-data.js");
     private static final Gson GSON = new GsonBuilder().create();
 
     public static void writeFile(final List<Mnemonic> list) {

@@ -1,10 +1,13 @@
 package converters.mnemonics;
 
+import com.google.gson.Gson;
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVParser;
 import org.apache.commons.csv.CSVRecord;
 
 import java.io.IOException;
+import java.net.URLDecoder;
+import java.nio.charset.Charset;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.ArrayList;
@@ -12,12 +15,16 @@ import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+import static utils.Utils.kanaToRomaji;
+
 public class MnemonicsCsvLoader {
 
     private static final Pattern kanaPattern = Pattern.compile("([\\u4E00-\\u9FAF\\u3040-\\u3096\\u30A1-\\u30FA\\uFF66-\\uFF9D\\u31F0-\\u31FF]+.?)+ - .*?<br/?>");
     private static final Pattern endingBreak = Pattern.compile("<br/?>$");
     private static final CSVFormat format = CSVFormat.RFC4180.withDelimiter('\t');
+    private static final Pattern brPattern = Pattern.compile("<br.*");
     public final List<Mnemonic> mnemonics;
+    private static final Gson GSON = new Gson();
 
     public MnemonicsCsvLoader(final List<Path> exportFiles) {
         this.mnemonics = load(exportFiles);
@@ -35,9 +42,14 @@ public class MnemonicsCsvLoader {
             for (final CSVRecord record : createReader(path)) {
                 final String kanji = record.get(0);
                 if (kanji.length() > 1) {
-                    throw new IllegalStateException("Kanji is more than 1 char");
+                    throw new IllegalStateException("Kanji is more than 1 char, got: " + record.get(0));
                 }
-                list.add(new Mnemonic(kanji.charAt(0), getMnemonics(record.get(3))));
+                final Mnemonic mnemonic = new Mnemonic();
+                mnemonic.kj = kanji.charAt(0);
+                mnemonic.m = getMnemonics(record.get(3));
+                mnemonic.r = getMainReading(record.get(4));
+                mnemonic.kw = getRtkKeyword(record.get(2), record.get(8));
+                list.add(mnemonic);
             }
         });
 
@@ -68,15 +80,39 @@ public class MnemonicsCsvLoader {
         return endingBreak.matcher(sb.toString()).replaceAll("");
     }
 
+    private static String getMainReading(String cell) {
+        cell = cell.trim();
+        if (cell.isBlank()) {
+            return "";
+        }
+        final String[] parts = cell.split("\\.");
+        return kanaToRomaji(parts[0].trim());
+//        return parts[0].trim();
+    }
+
+    private static String getRtkKeyword(final String concept, final String encodedJson) {
+        if (concept != null && !concept.isBlank()) {
+            return brPattern.matcher(concept.trim()).replaceAll("");
+        }
+        final String json = URLDecoder.decode(encodedJson, Charset.defaultCharset());
+        final KanjiJson kanjiJson = GSON.fromJson(json, KanjiJson.class);
+        if (kanjiJson == null || kanjiJson.rtkKeyword == null) {
+            return "";
+        }
+        return kanjiJson.rtkKeyword.trim();
+    }
+
+    private static class KanjiJson {
+        String rtkKeyword;
+    }
+
     public static class Mnemonic {
 
-        public char k; // kanji
+        public char kj; // kanji
         public String m; // mnemonic
+        public String r; // main reading
+        public String kw; // rtk keyword
 
-        public Mnemonic(final char k, final String m) {
-            this.k = k;
-            this.m = m;
-        }
     }
 
 

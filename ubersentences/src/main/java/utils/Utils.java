@@ -4,6 +4,7 @@ import com.google.common.io.Files;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.mariten.kanatools.KanaConverter;
+import com.moji4j.MojiConverter;
 
 import java.io.File;
 import java.io.IOException;
@@ -22,6 +23,7 @@ public class Utils {
     private static final int HIRA_TO_KATA = KanaConverter.OP_ZEN_HIRA_TO_ZEN_KATA;
     public static final Gson GSON = new GsonBuilder().disableHtmlEscaping().create();
     private static final Set<Subset> japaneseBlocks = new HashSet();
+    private static final MojiConverter mojiConverter = new MojiConverter();
 
     static {
         japaneseBlocks.add(Character.UnicodeBlock.KATAKANA);
@@ -48,6 +50,10 @@ public class Utils {
 
     public static String kataToHira(final String katakana) {
         return KanaConverter.convertKana(katakana, KATA_TO_HIRA);
+    }
+
+    public static String kanaToRomaji(String kana) {
+        return mojiConverter.convertKanaToRomaji(kana);
     }
 
     public static List<String> loadCsvLinesAsList(String pathToFile) {
