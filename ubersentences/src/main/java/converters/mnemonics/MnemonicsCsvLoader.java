@@ -19,12 +19,12 @@ import static utils.Utils.kanaToRomaji;
 
 public class MnemonicsCsvLoader {
 
-    private static final Pattern kanaPattern = Pattern.compile("([\\u4E00-\\u9FAF\\u3040-\\u3096\\u30A1-\\u30FA\\uFF66-\\uFF9D\\u31F0-\\u31FF]+.?)+ - .*?<br/?>");
+    private static final Pattern kanaPattern = Pattern.compile("([\\u4E00-\\u9FAF\\u3040-\\u3096\\u30A1-\\u30FA\\uFF66-\\uFF9D\\u31F0-\\u31FF]+.?)+ [-=] .*?<br/?>");
     private static final Pattern endingBreak = Pattern.compile("<br/?>$");
     private static final CSVFormat format = CSVFormat.RFC4180.withDelimiter('\t');
     private static final Pattern brPattern = Pattern.compile("<br.*");
-    public final List<Mnemonic> mnemonics;
     private static final Gson GSON = new Gson();
+    public final List<Mnemonic> mnemonics;
 
     public MnemonicsCsvLoader(final List<Path> exportFiles) {
         this.mnemonics = load(exportFiles);
@@ -48,7 +48,7 @@ public class MnemonicsCsvLoader {
                 mnemonic.kj = kanji.charAt(0);
                 mnemonic.m = getMnemonics(record.get(3));
                 mnemonic.r = getMainReading(record.get(4));
-                mnemonic.kw = getRtkKeyword(record.get(2), record.get(8));
+                addKeywords(mnemonic, record.get(2), record.get(8));
                 list.add(mnemonic);
             }
         });
@@ -90,16 +90,23 @@ public class MnemonicsCsvLoader {
 //        return parts[0].trim();
     }
 
-    private static String getRtkKeyword(final String concept, final String encodedJson) {
-        if (concept != null && !concept.isBlank()) {
-            return brPattern.matcher(concept.trim()).replaceAll("");
+    private static void addKeywords(final Mnemonic mnemonic, final String concept, final String encodedJson) {
+
+        // Concept
+        if (concept == null || concept.isBlank()) {
+            mnemonic.cp = "";
+        } else {
+            mnemonic.cp = brPattern.matcher(concept.trim()).replaceAll("");
         }
+
+        // RTK keyword
         final String json = URLDecoder.decode(encodedJson, Charset.defaultCharset());
         final KanjiJson kanjiJson = GSON.fromJson(json, KanjiJson.class);
         if (kanjiJson == null || kanjiJson.rtkKeyword == null) {
-            return "";
+            mnemonic.rtk = "";
+        } else {
+            mnemonic.rtk = kanjiJson.rtkKeyword.trim();
         }
-        return kanjiJson.rtkKeyword.trim();
     }
 
     private static class KanjiJson {
@@ -111,7 +118,8 @@ public class MnemonicsCsvLoader {
         public char kj; // kanji
         public String m; // mnemonic
         public String r; // main reading
-        public String kw; // rtk keyword
+        public String rtk; // rtk keyword
+        public String cp; // concept
 
     }
 

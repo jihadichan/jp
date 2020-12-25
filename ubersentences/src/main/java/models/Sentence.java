@@ -13,7 +13,8 @@ import static core.Mp3Dictionary.createMp3FileName;
 public class Sentence {
 
     // FROM CSV FILE
-    private final String sentence;
+    private final String sentenceWithFocusForAnki;
+    private final String sentenceForTts;
     private final String notes;
     private final String source;
 
@@ -32,14 +33,15 @@ public class Sentence {
         final List<String> cells = this.toList(line);
 
         // FROM CSV FILE
-        this.sentence = focusWords.matcher(cells.get(0)).replaceAll("").trim(); // NOTE: All ^.*<br/?> will be deleted.
+        this.sentenceWithFocusForAnki = cells.get(0).trim();
+        this.sentenceForTts = focusWords.matcher(cells.get(0)).replaceAll("").trim(); // NOTE: All ^.*<br/?> will be deleted.
         this.notes = cells.get(1);
         this.source = cells.size() > 2 ? cells.get(2) : "";
 
         // GENERATED FIELDS
-        final Mp3 mp3FileName = Mp3Dictionary.get(this.sentence);
-        this.mp3File = mp3FileName == null ? createMp3FileName(this.sentence) : mp3FileName.getFileName().toString();
-        kuromoji.tokenize(this.sentence)
+        final Mp3 mp3FileName = Mp3Dictionary.get(this.sentenceForTts);
+        this.mp3File = mp3FileName == null ? createMp3FileName(this.sentenceForTts) : mp3FileName.getFileName().toString();
+        kuromoji.tokenize(this.sentenceForTts)
                 .forEach(token -> this.termInfos.add(new TermInfo(token)));
     }
 
@@ -57,8 +59,12 @@ public class Sentence {
     // GETTER & SETTER
     // ------------------------------------------------------------------------------------------ //
 
-    public String getSentence() {
-        return this.sentence;
+    public String getSentenceForTts() {
+        return this.sentenceForTts;
+    }
+
+    public String getSentenceWithFocusForAnki() {
+        return this.sentenceWithFocusForAnki;
     }
 
     public String getNotes() {

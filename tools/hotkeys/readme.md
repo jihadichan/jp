@@ -62,6 +62,10 @@
         return text.trim();
     }
 
+    function removeFirstBrackets(sentence) {
+        return sentence.replace(/（.*?）/, '');
+    }
+
     document.onkeyup = function (e) {
         if (e.code === 'KeyE') {
             checkBoxEnglish.click();
@@ -77,7 +81,7 @@
         }
         if (e.code === 'KeyA') {
             var obj = {
-                japanese: concatSubtitle('.japanese.subtitle'),
+                japanese: removeFirstBrackets(concatSubtitle('.japanese.subtitle')),
                 hiragana: concatSubtitle('.hiragana.subtitle'),
                 english: concatSubtitle('.english.subtitle'),
                 source: $(titleSelector).first().text() + ' - ' + $(timestampSelector).first().text()

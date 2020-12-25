@@ -41,7 +41,7 @@ public class WaveNetApiScraper {
 
     public void create(final Sentence sentence) {
         try (final TextToSpeechClient textToSpeechClient = TextToSpeechClient.create(this.textToSpeechSettings)) {
-            final SynthesisInput input = SynthesisInput.newBuilder().setText(sentence.getSentence()).build();
+            final SynthesisInput input = SynthesisInput.newBuilder().setText(sentence.getSentenceForTts()).build();
             final SynthesizeSpeechResponse response = textToSpeechClient.synthesizeSpeech(input, this.voice, this.audioConfig);
             final ByteString audioContents = response.getAudioContent();
             this.writeToFile(audioContents, sentence.getMp3File());

@@ -46,20 +46,20 @@ public class CsvProcessor {
     private void printWarnings() {
         final AtomicBoolean firstWarning = new AtomicBoolean(true);
         this.sentences.forEach(sentence -> {
-            if (sentence.getSentence().contains(" ")) {
+            if (sentence.getSentenceForTts().contains(" ")) {
                 if (firstWarning.get()) {
                     out.println("-------------------------------");
                     out.println("WARNINGS (can cause errors in TTS and analyzer):");
                     firstWarning.set(false);
                 }
-                out.println("Contains Latin whitespaces (i.e. ' '): " + sentence.getSentence());
+                out.println("Contains Latin whitespaces (i.e. ' '): " + sentence.getSentenceForTts());
             }
         });
     }
 
     private void downloadMissingMp3s() {
         this.missingMp3s.forEach(sentence -> {
-            out.println("Creating: " + sentence.getSentence() + " - (File: " + sentence.getMp3File() + ")");
+            out.println("Creating: " + sentence.getSentenceForTts() + " - (File: " + sentence.getMp3File() + ")");
             this.waveNetApiScraper.create(sentence);
         });
     }
@@ -68,11 +68,11 @@ public class CsvProcessor {
         this.sentences.forEach(sentence -> {
             Objects.requireNonNull(sentence.getMp3File());
 
-            if (Mp3Dictionary.get(sentence.getSentence()) != null) {
+            if (Mp3Dictionary.get(sentence.getSentenceForTts()) != null) {
                 this.knownSentences.incrementAndGet();
             } else {
                 this.missingMp3s.add(sentence);
-                out.println(this.unknownSentences.incrementAndGet() + ". NEW: " + sentence.getSentence());
+                out.println(this.unknownSentences.incrementAndGet() + ". NEW: " + sentence.getSentenceForTts());
             }
         });
         if (this.missingMp3s.isEmpty()) {
@@ -84,7 +84,7 @@ public class CsvProcessor {
         final OutputCsvWriter outputCsvWriter = new OutputCsvWriter();
         this.sentences.forEach(sentence ->
                 outputCsvWriter.append(new String[]{
-                        sentence.getSentence(),
+                        sentence.getSentenceWithFocusForAnki(),
                         sentence.getNotes(),
                         sentence.getSource(),
                         DECK + "/" + sentence.getMp3File(),
