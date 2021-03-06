@@ -38,13 +38,6 @@ public class _UpdateDictForYomichan {
         dictEntry.set(1, ""); // Onyomi reading
         dictEntry.set(2, ""); // Kunyomi reading
         dictEntry.set(4, createGlossaryField(deckEntry, dictEntry)); // Glossary field
-
-        // Delete stats (2nd & 3rd column)
-        final Map<String, String> map = (LinkedTreeMap<String, String>) dictEntry.get(5);
-        map.remove("freq");
-        map.remove("grade");
-        map.remove("jlpt");
-        map.remove("strokes");
     }
 
     private static List<String> createGlossaryField(final KanjiDeckEntry deckEntry, final List<Object> dictEntry) {
@@ -76,7 +69,7 @@ public class _UpdateDictForYomichan {
         // Stats
         list.add("");
         final Map<String, String> map = (LinkedTreeMap<String, String>) dictEntry.get(5);
-        final String freq = map.get("freq");
+        final String freq = map.get("freq")+""; // We need a clone. Because reference becomes null after deletion. new String() shows warning.
         list.add("Freq: " + freq);
 
         // Delimiter
