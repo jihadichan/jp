@@ -27,7 +27,7 @@ public class KanjiData {
         this.validate(line);
 
         this.kanji = line[0].charAt(0);
-        this.id = Integer.valueOf(line[1]);
+        this.id = Integer.parseInt(line[1]);
 
         switch (line.length) {
 
@@ -42,14 +42,14 @@ public class KanjiData {
 
             case KANJI_CSV_COLUMNS_EXPECTED_FULL_LINE:
                 this.meanings = line[2];
-                this.frequency = Integer.valueOf(line[3]);
+                this.frequency = Integer.parseInt(line[3]);
                 if (line[4].length() > 0) this.onReadings.addAll(Arrays.asList(line[4].split("、")));
                 if (line[5].length() > 0) this.kunReadings.addAll(Arrays.asList(line[5].split("、")));
-                this.strokes = Integer.valueOf(line[6]);
+                this.strokes = Integer.parseInt(line[6]);
 
                 this.components = line[7];
                 this.rtkKeyword = line[8];
-                this.rtkIndex = line[9].equals("") ? 9999 : Integer.valueOf(line[9]);
+                this.rtkIndex = line[9].equals("") ? 9999 : Integer.parseInt(line[9]);
 
                 break;
 

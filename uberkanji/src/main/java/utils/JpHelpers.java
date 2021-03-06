@@ -130,6 +130,15 @@ public class JpHelpers {
         return false; // catch all negative
     }
 
+    public static int countChars(final String value) {
+        int count = 0;
+        for (int i = 0; i < value.length(); i++) {
+            System.out.println("Char: '" + value.charAt(i) + "'");
+            count++;
+        }
+        return count;
+    }
+
 
     /**
      * How to load the kanjiDataStatics.csv

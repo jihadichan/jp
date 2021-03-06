@@ -293,7 +293,7 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 | 得る                                                         | - As auxiliary verb that expresses possibility.<br>- Equivalent: Can; possible; -able<br>- This verb is very curious in that 「得」 can either be read as 「う」 or 「え」 but if conjugated, it must always be read as 「え」. You may wonder how often one talks about the ability to exist. In practice, this word is primarily used to describe whether a situation or event （こと） can occur. |
 | こと                                                         | A nominaliser used to indicate the speaker’s relative lack of empathy with the content of the sentence he is nominalising. |
 | なんて<br>なんか                                             | - They are basically "weak" form of は in [this](https://japanese.stackexchange.com/questions/421/usage-of-%e3%81%aa%e3%82%93%e3%81%a6-and-%e3%81%aa%e3%82%93%e3%81%8b-as-emphasis) context. E.g. 愛なんか要らない。(I don't need love!)<br>- Comparable to "like" in English.<br>- なんて is actually a contracted form of 等という (etc.)<br>- なんか, on the other hand, is a contracted form of　何か, meaning "something". I see なんか as more of a filler than なんて, but I do agree that they're often used interchangeably, despite being different words. [[src](https://japanese.stackexchange.com/a/450/36809)] |
-|                                                              |                                                              |
+| 皆さん                                                       | - 同志の皆さん is okay to translate "comrades"<br>- 同志の皆さん may also indicate "like-minded people" |
 |                                                              |                                                              |
 |                                                              |                                                              |
 |                                                              |                                                              |
@@ -383,7 +383,45 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 |であろう|- Used to express likelihood<br>- The answer is to conjugate the verb 「ある」 from the formal state-of-being 「である」 to the volitional to produce 「であろう」. Remember 「でしょう」 can already be used as a polite form, so this form is even a step above that in formality.<br>困難 → 困難であろう<br>する → するであろう|
 |かろう|- Volitional for い endings<br>- We learned in the lesson about formal grammar that 「ではない」 was the negative of 「である」. So how would we say something like 「であろう」 but for the negative? Remove the last 「い」 and attach 「かろう」. You can use it for negatives and i-adjectives just like the 「かった」 past conjugation form.<br>ではない → ではなかろう<br>早い → 早かろう|
 
+### More intentions
 
+- `～たいと思う` means "I think I'd like to...":
+
+  > 本を読みたいと思う "I think I'd like to read a book"
+
+- `～ましょう` means "let's do..." (polite form):
+
+  > 本を読みましょう "Let's read a book"
+
+- `～しようと思う` means "I think I'll...":
+
+  > 本を読もうと思う "I think I'll read a book"
+
+- `～しようとする` means "I'll try to..." as you said:
+
+  > 本を読もうとする "I'll try to read a book"
+
+- `～するところ` means "I'm about to..."/"I'm at the point of..." or "place for (do)ing...":
+
+  > 本を読むところ "I'm about to read a book" or "place for reading books"
+
+- `～つもり` means "I intend to", slightly less formal than `～予定がある` I think and is less likely to be used in business etc:
+
+  > 本を読むつもりだ "I intend to read a book"
+
+- `～する予定がある` "I have plans to" as stated:
+
+  > 本を読む予定がある "I have plans to read a book"
+
+- `～する気がある` "I am of a mind to":
+
+  > 本を読む気がある "I am of a mind to read a book"
+
+- I think `～ことにする` translates differently depending on the context, but that it generally means "(will) go with (do)ing...":
+
+  > 今週こそは本を読むことにする "I will go with reading a book this week"
+
+  
 
 ## Conditionals (if-then)
 
@@ -424,7 +462,7 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 
 - :heavy_exclamation_mark::heavy_exclamation_mark::heavy_exclamation_mark: All those quote sentences are simply "that" sentences. E.g. "he said that", "that's not what I said". Everything where you put a "that" into.
 
-| Japanese | Explanation                                                  |
+| Japanese____ | Explanation                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Define with<br>と言う                                        | - When you want to say how something is referred to<br>これは、なんという魚ですか。<br>What is this fish referred to as?<br>私はアリスといいます。<br>I am called Alice. (lit: As for me, you say Alice.) |
 | Describe&nbsp;with<br>と言う                                 | - When a relative clause is encapsulated with 「と」, you must have a verb to go along with it and 「いう」 is simply being used as a generic verb to enable us to talk about any relative clause. This allows us to describe and explain just about anything.<br>リブートというのは、パソコンを再起動するということです。<br>Reboot means to restart your computer. |
@@ -434,7 +472,10 @@ Source: https://www.japaneseprofessor.com/reference/grammar/conjugations-of-the-
 |だって|「だって」is also another phrase that leaves out just about everything. By convention, it is used to express disagreement or dissatisfaction usually to whine, complain, or to make an excuse but you can’t tell what it means just from looking at it. It is an abbreviation of something along the lines of 「とはいっても」 meaning, “even if that was the case”.|
 |Shortened forms|- って is very often used in causal slang in place of と, because it allows us to leave out the rest of the sentence and assume context.<br>来年留学するというのは、智子のこと？<br>The studying abroad next year thing, is that Tomoko?<br>来年留学するって智子のこと？<br>The studying abroad next year thing, is that Tomoko?<br>- In some cases, the small つ is left out and just て is used instead of って.<br>ていうか、もう帰らないとだめですけど。<br>Rather than that, I have to go home already.<br>- と言うのは, と言うことは can be shortened to てことは|
 |ゆう (also 言う)|- In conversations, it is quite normal to say 「ゆう」 instead of 「いう」.<br>そうゆうことじゃないって！<br>I said it’s not like that (lit: it’s not that type of thing)!|
-
+|てな|comes from 「というような」, GT: "Like"|
+|てなわけで|「てなわけで」＝「というようなわけで」（≒「というわけで」）<br>"with that being said" or "for that reason"|
+|||
+|||
 
 
 ## Giving and receiving
