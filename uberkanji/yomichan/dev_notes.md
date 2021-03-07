@@ -22,7 +22,7 @@
 
 - [x] Multiple varibales in one field is possible: `{clipboard-image}<br>{document-title}`
 
-- [ ] BUG: Double sound play in AnkiDroid. How do we render the field? 
+- [x] BUG: Double sound play in AnkiDroid. How do we render the field? 
 
 
 

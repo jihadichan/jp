@@ -17,7 +17,7 @@ public class KanjiDeckEntry {
     private final List<String> mnemonicsList;
     private final String knownReadings;
 
-    private static final Pattern readingPattern = Pattern.compile("([一-龯ぁ-んァ-ン]+) [-|=].*");
+    private static final Pattern readingPattern = Pattern.compile("([一-龯ぁ-んァ-ン.]+) [-|=].*");
     private static final Pattern vocabPattern = Pattern.compile("<ruby>.*(\\(([ぁ-んァ-ン]+),.*\\))");
 
     public KanjiDeckEntry(final String line) {

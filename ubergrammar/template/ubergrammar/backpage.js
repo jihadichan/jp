@@ -1,4 +1,4 @@
-var CORS_PROXY = "https://cors-anywhere.herokuapp.com/";
+var CORS_PROXY = "https://jp-learner.herokuapp.com/";
 var currentVocabMarkupObj = {};
 var lastCalledUrl = "";
 var lastReceivedResponse = "";
