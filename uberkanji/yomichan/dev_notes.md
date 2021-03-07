@@ -2,7 +2,27 @@
 
 
 
+## AnkiConnect
 
+- [x] `{furigana}` - Get the word with as `<ruby>読<rt>よ</rt></ruby>む`
+
+- [x] Put `display:none` on `<rt>` on frontpage
+
+- [x] Sentence on backpage is rendered from JSON. If empty, take `{sentence}` itself.
+
+- [x] What does this do? https://github.com/FooSoft/yomichan-anki
+  First version of Yomichan, not maintained anymore
+
+- [x] You probably can use the tag for the folder in the template. 
+  - `vocab1/` - if tag ends with `/`
+  - `{{Tags}}` - https://www.reddit.com/r/Anki/comments/5xgef9/how_to_show_tags_in_cards_when_studying/
+  - Or just leave in root folder and enjoy auto sync????
+  - You could also have some lookup function. I.e. try out various asset folders automatically and try next if not found. 
+    Maybe combined with tags?
+
+- [x] Multiple varibales in one field is possible: `{clipboard-image}<br>{document-title}`
+
+- [ ] BUG: Double sound play in AnkiDroid. How do we render the field? 
 
 
 

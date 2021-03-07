@@ -16,6 +16,10 @@
     padding: 15px;
 }
 
+.fp-sentence rt {
+    display: none;
+}
+
 .howto-container {
     width: 100%;
 }

@@ -1,6 +1,14 @@
 var data;
+var MODE = "NOT_SET";
+var MODE_UBERSENTENCES = "MODE_UBERSENTENCES"; // Anki Card is compiled with analysis table
+var MODE_YOMICHAN = "MODE_YOMICHAN"; // Card is inserted by Yomichan and there contains no analysis
 try {
     data = JSON.parse(decodeURIComponent($('#data').html()));
+    if (Object.keys(data).length === 0) {
+        MODE = MODE_YOMICHAN;
+    } else {
+        MODE = MODE_UBERSENTENCES;
+    }
 } catch (e) {
     data = {};
     $('#debug').text("JSON parse error. " + e.message);
@@ -212,7 +220,7 @@ function renderNextMarker() {
     if (nextMarkerEvent !== undefined) {
         clearTimeout(nextMarkerEvent);
     }
-    if($('#sentence-raw').html().split(/<br\/?>/).length === 1) { // only the sentence, so it's a new card
+    if ($('#sentence-raw').html().split(/<br\/?>/).length === 1) { // only the sentence, so it's a new card
         return;
     }
     var timeout = 5000;
@@ -227,7 +235,7 @@ function renderNextMarker() {
 function renderSourceCell() {
     var raw = $('#source').html();
     var sourceCell = $('#source-cell');
-    if(raw.length === 0) {
+    if (raw.length === 0) {
         sourceCell.html("");
         return;
     }
@@ -237,27 +245,33 @@ function renderSourceCell() {
     for (var i = 0; i < lines.length; i++) {
         var line = lines[i];
         var match = urlRegex.exec(line);
-        if((match != null)) {
-            if (match[0].indexOf("imgur.com") !== -1) {
-                line = line.replace(urlRegex, "<img alt='' src='" + match[0] + "' />");
-            } else {
-                line = line.replace(urlRegex, "<a target='_blank' href='" + match[0] + "'>" + match[0] + "</a>");
+        if ((match != null)) {
+            if(MODE === MODE_UBERSENTENCES) {
+                if (match[0].indexOf("imgur.com") !== -1) {
+                    line = line.replace(urlRegex, "<img alt='' src='" + match[0] + "' />");
+                } else {
+                    line = line.replace(urlRegex, "<a target='_blank' href='" + match[0] + "'>" + match[0] + "</a>");
+                }
             }
         }
-        result += line+"<br>";
+        result += line + "<br>";
     }
     sourceCell.html("<td>" + result + "</td>")
 }
 
 function renderSentence(shouldHighlight) {
     var sentence = "";
-    $.each(data, function (index, analysisElement) {
-        if (analysisElement.reading) {
-            sentence += wrapWithHighlight(shouldHighlight, analysisElement, "<ruby>" + analysisElement.surface + "<rt>" + analysisElement.reading + "</rt></ruby>");
-        } else {
-            sentence += wrapWithHighlight(shouldHighlight, analysisElement, analysisElement.surface);
-        }
-    });
+    if (MODE === MODE_UBERSENTENCES) {
+        $.each(data, function (index, analysisElement) {
+            if (analysisElement.reading) {
+                sentence += wrapWithHighlight(shouldHighlight, analysisElement, "<ruby>" + analysisElement.surface + "<rt>" + analysisElement.reading + "</rt></ruby>");
+            } else {
+                sentence += wrapWithHighlight(shouldHighlight, analysisElement, analysisElement.surface);
+            }
+        });
+    } else {
+        sentence = $('#sentence-raw').html();
+    }
 
     $('#sentence').html(sentence);
 }

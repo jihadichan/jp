@@ -24,11 +24,4 @@ Popup CSS:
 }
 ```
 
-Popup outer CSS:
-
-```css
-.yomichan-popup {
-  height: 350px !important;
-}
-```
-
+Set PopUp size in section "Popup Position & Size"
