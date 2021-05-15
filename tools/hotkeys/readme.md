@@ -101,6 +101,14 @@ document.onkeyup = function (e) {
 };
 ```
 
+Minified
+
+```
+javascript:(function(){var checkBoxEnglish=document.querySelector("#control-buttons-container > div.pull-right.bottom-right > div:nth-child(3) > div > div > ul > li:nth-child(5) > input"),checkBoxJapanese=document.querySelector("#control-buttons-container > div.pull-right.bottom-right > div:nth-child(3) > div > div > ul > li:nth-child(3) > input"),checkBoxHirgana=document.querySelector("#control-buttons-container > div.pull-right.bottom-right > div:nth-child(3) > div > div > ul > li:nth-child(1) > input"),backward=document.querySelector("#control-buttons-container > div.pull-center.bottom-center > button:nth-child(4)"),forward=document.querySelector("#control-buttons-container > div.pull-center.bottom-center > button:nth-child(5)"),titleSelector="#video-page > div:nth-child(2) > div.col-md-8.col-sm-6 > div.video-description.row > div:nth-child(1) > div.col-sm-8 > h3",timestampSelector="#videoPlayerCurrentTimeValue",playerSelector="#video-player-container",english="English hotkey (E): "+(-1!==checkBoxEnglish.nextSibling.innerText.toLowerCase().indexOf("english")?"Should work":"Couldn't find element or adjacent text is not 'english'."),japanese="Japanese hotkey (W): "+(-1!==checkBoxJapanese.nextSibling.innerText.toLowerCase().indexOf("japanese")?"Should work":"Couldn't find element or adjacent text is not 'japanese'."),hiragana="Hiragana hotkey (Q): "+(-1!==checkBoxHirgana.nextSibling.innerText.toLowerCase().indexOf("hiragana")?"Should work":"Couldn't find element or adjacent text is not 'hiragana'."),copyHotKey="Copy hotkey (C)",focusPlayer="Focus player (F)",forwardInfo="Forward (D)",backwardInfo="Backward (A)";function copyText(e){var t=document.createElement("textarea");t.value=e,t.style.top="0",t.style.left="0",t.style.position="fixed",document.body.appendChild(t),t.focus(),t.select();try{var o=document.execCommand("copy")?"successful":"unsuccessful";console.log("Copying text command was "+o)}catch(e){console.error("Oops, unable to copy",e)}document.body.removeChild(t)}function concatSubtitle(e){var t="";return $(e).each(function(e,o){t+=o.innerHTML.replace(/\u200C/g,"")}),t.trim()}function removeFirstBrackets(e){return e.replace(/（.*?）/,"")}alert("Hotkeys:\n"+english+"\n"+japanese+"\n"+hiragana+"\n"+copyHotKey+"\n"+focusPlayer+"\n"+forwardInfo+"\n"+backwardInfo),document.onkeyup=function(e){if("KeyE"===e.code&&checkBoxEnglish.click(),"KeyW"===e.code&&checkBoxJapanese.click(),"KeyQ"===e.code&&checkBoxHirgana.click(),"KeyF"===e.code&&$(playerSelector).first().focus(),"KeyD"===e.code&&forward.click(),"KeyA"===e.code&&backward.click(),"KeyC"===e.code){var t={japanese:removeFirstBrackets(concatSubtitle(".japanese.subtitle")),hiragana:concatSubtitle(".hiragana.subtitle"),english:concatSubtitle(".english.subtitle"),source:$(titleSelector).first().text()+" - "+$(timestampSelector).first().text()};copyText(JSON.stringify(t))}};})()
+```
+
+
+
 
 
 ## Netflix
