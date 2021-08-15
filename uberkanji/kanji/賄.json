@@ -1,0 +1,722 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "賄う",
+      "is_common": true,
+      "tags": [
+        "wanikani38"
+      ],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "賄う",
+          "reading": "まかなう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to supply (goods, money, etc.)",
+            "to cover (costs)",
+            "to pay",
+            "to finance",
+            "to maintain (e.g. a family)"
+          ],
+          "parts_of_speech": [
+            "Godan verb with u ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to give board",
+            "to provide meals"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "賄賂",
+      "is_common": true,
+      "tags": [
+        "wanikani38"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賄賂",
+          "reading": "わいろ"
+        },
+        {
+          "reading": "ワイロ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "bribe",
+            "sweetener",
+            "douceur"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Bribery"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Bribery” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Bribery?oldid\u003d495507584"
+            },
+            {
+              "text": "Read “賄賂” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/賄賂?oldid\u003d42627487"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Bribery"
+      }
+    },
+    {
+      "slug": "収賄",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "収賄",
+          "reading": "しゅうわい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "accepting bribes",
+            "corruption",
+            "graft"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "贈賄",
+      "is_common": true,
+      "tags": [
+        "wanikani40"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "贈賄",
+          "reading": "ぞうわい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "bribery",
+            "graft"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "贈収賄",
+      "is_common": false,
+      "tags": [
+        "wanikani38"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "贈収賄",
+          "reading": "ぞうしゅうわい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "bribery",
+            "corruption"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "賄い付き",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賄い付き",
+          "reading": "まかないつき"
+        },
+        {
+          "word": "まかない付き",
+          "reading": "まかないつき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "with meals",
+            "meals inclusive"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "賄い",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賄い",
+          "reading": "まかない"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "boarding",
+            "board",
+            "meals",
+            "catering",
+            "cook"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "賄う まかなう"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "贈賄罪",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "贈賄罪",
+          "reading": "ぞうわいざい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "crime of bribery"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "斡旋収賄",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "斡旋収賄",
+          "reading": "あっせんしゅうわい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "influence peddling"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "賄い婦",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賄い婦",
+          "reading": "まかないふ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "female cook"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "賄い料理",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賄い料理",
+          "reading": "まかないりょうり"
+        },
+        {
+          "word": "まかない料理",
+          "reading": "まかないりょうり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "meals prepared for employees (e.g. of a restaurant)",
+            "staff meals"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "賂",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賂",
+          "reading": "まいない"
+        },
+        {
+          "word": "賄",
+          "reading": "まいない"
+        },
+        {
+          "word": "賂い",
+          "reading": "まいない"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "bribe"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "賄い方",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賄い方",
+          "reading": "まかないかた"
+        },
+        {
+          "word": "賄方",
+          "reading": "まかないかた"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "kitchen manager",
+            "chef",
+            "cook"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "収賄罪",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "収賄罪",
+          "reading": "しゅうわいざい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(the crime of) bribery"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "三食賄い付き",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "三食賄い付き",
+          "reading": "さんしょくまかないつき"
+        },
+        {
+          "word": "三食まかない付き",
+          "reading": "さんしょくまかないつき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "with three meals served"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "収賄事件",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "収賄事件",
+          "reading": "しゅうわいじけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "bribery case",
+            "bribery scandal",
+            "graft case"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "受託収賄罪",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "受託収賄罪",
+          "reading": "じゅたくしゅうわいざい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(the crime of) bribery"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "需要を賄う",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "需要を賄う",
+          "reading": "じゅようをまかなう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to meet the demand"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with u ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

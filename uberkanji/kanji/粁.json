@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "粁",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "粁",
+          "reading": "キロメートル"
+        },
+        {
+          "word": "粁",
+          "reading": "キロメイトル"
+        },
+        {
+          "word": "キロ米",
+          "reading": "キロメートル"
+        },
+        {
+          "word": "キロ米",
+          "reading": "キロメイトル"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "kilometer",
+            "kilometre"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [
+            {
+              "language": "French",
+              "word": "“kilomètre”"
+            }
+          ],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

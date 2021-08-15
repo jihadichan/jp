@@ -1,0 +1,3357 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "憲法",
+      "is_common": true,
+      "tags": [
+        "wanikani28"
+      ],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "憲法",
+          "reading": "けんぽう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "constitution"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Constitution"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Constitution” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Constitution?oldid\u003d495221115"
+            },
+            {
+              "text": "Read “憲法” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/憲法?oldid\u003d42445520"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Constitution"
+      }
+    },
+    {
+      "slug": "憲章",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "憲章",
+          "reading": "けんしょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "charter"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "憲政",
+      "is_common": true,
+      "tags": [
+        "wanikani28"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "憲政",
+          "reading": "けんせい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "constitutional government"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "日本国憲法",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "日本国憲法",
+          "reading": "にほんこくけんぽう"
+        },
+        {
+          "word": "日本國憲法",
+          "reading": "にほんこくけんぽう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "constitution of Japan",
+            "Japanese constitution"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Constitution of Japan"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Constitution of Japan” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Constitution_of_Japan?oldid\u003d492280583"
+            },
+            {
+              "text": "Read “日本国憲法” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/日本国憲法?oldid\u003d42506091"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Constitution_of_Japan"
+      }
+    },
+    {
+      "slug": "国連憲章",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "国連憲章",
+          "reading": "こくれんけんしょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "UN Charter",
+            "Charter of the United Nations"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Abbreviation"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "国際連合憲章 こくさいれんごうけんしょう"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "憲法違反",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "憲法違反",
+          "reading": "けんぽういはん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "unconstitutionality"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "合憲",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "合憲",
+          "reading": "ごうけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "constitutionality"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Constitutionality"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Constitutionality” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Constitutionality?oldid\u003d485460188"
+            },
+            {
+              "text": "Read “合憲” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/合憲?oldid\u003d39109977"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Constitutionality"
+      }
+    },
+    {
+      "slug": "憲法裁判所",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "憲法裁判所",
+          "reading": "けんぽうさいばんしょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "constitutional court"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Constitutional court"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Constitutional court” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Constitutional_court?oldid\u003d482010510"
+            },
+            {
+              "text": "Read “憲法裁判所” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/憲法裁判所?oldid\u003d41570412"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Constitutional_court"
+      }
+    },
+    {
+      "slug": "憲兵",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "憲兵",
+          "reading": "けんぺい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "military police"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Military police"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Military police” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Military_police?oldid\u003d495139334"
+            },
+            {
+              "text": "Read “憲兵” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/憲兵?oldid\u003d41029264"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Military_police"
+      }
+    },
+    {
+      "slug": "改憲",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "改憲",
+          "reading": "かいけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "constitutional change",
+            "revising the constitution"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "違憲",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "違憲",
+          "reading": "いけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "unconstitutionality"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "護憲",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "護憲",
+          "reading": "ごけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "protecting the constitution"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "立憲",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "立憲",
+          "reading": "りっけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "constitutionalism"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "官憲",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "官憲",
+          "reading": "かんけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "officials",
+            "authorities"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "欧州憲法",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "欧州憲法",
+          "reading": "おうしゅうけんぽう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "European Constitution"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Treaty establishing a Constitution for Europe"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Treaty establishing a Constitution for Europe” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Treaty_establishing_a_Constitution_for_Europe?oldid\u003d494367906"
+            },
+            {
+              "text": "Read “欧州憲法” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/欧州憲法?oldid\u003d42675120"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Treaty_establishing_a_Constitution_for_Europe"
+      }
+    },
+    {
+      "slug": "立憲民政党",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "立憲民政党",
+          "reading": "りっけんみんせいとう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Constitutional Democratic Party (1927-1940)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "民政党"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Rikken Minseitō"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Rikken Minseitō” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Rikken_Minseitō?oldid\u003d491744857"
+            },
+            {
+              "text": "Read “立憲民政党” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/立憲民政党?oldid\u003d42739095"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Rikken_Minseitō"
+      }
+    },
+    {
+      "slug": "十七条憲法",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "十七条憲法",
+          "reading": "じゅうしちじょうけんぽう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "The Seventeen-Article Constitution"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Seventeen-article constitution"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Seventeen-article constitution” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Seventeen-article_constitution?oldid\u003d480431811"
+            },
+            {
+              "text": "Read “十七条憲法” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/十七条憲法?oldid\u003d42365950"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Seventeen-article_constitution"
+      }
+    },
+    {
+      "slug": "立憲君主政",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "立憲君主政",
+          "reading": "りっけんくんしゅせい"
+        },
+        {
+          "word": "立憲君主制",
+          "reading": "りっけんくんしゅせい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "constitutional monarchy",
+            "limited monarchy"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Constitutional monarchy"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Constitutional monarchy” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Constitutional_monarchy?oldid\u003d493176020"
+            },
+            {
+              "text": "Read “立憲君主制” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/立憲君主制?oldid\u003d42579445"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Constitutional_monarchy"
+      }
+    },
+    {
+      "slug": "立憲改進党",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "立憲改進党",
+          "reading": "りっけんかいしんとう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Constitutional Reform Party (1882-1896)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "改進党"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Rikken Kaishintō"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Rikken Kaishintō” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Rikken_Kaishintō?oldid\u003d480290057"
+            },
+            {
+              "text": "Read “立憲改進党” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/立憲改進党?oldid\u003d38194854"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Rikken_Kaishintō"
+      }
+    },
+    {
+      "slug": "大日本帝国憲法",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "大日本帝国憲法",
+          "reading": "だいにっぽんていこくけんぽう"
+        },
+        {
+          "word": "大日本帝國憲法",
+          "reading": "だいにっぽんていこくけんぽう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Meiji Constitution (Constitution of the Empire of Japan)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Meiji Constitution"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Meiji Constitution” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Meiji_Constitution?oldid\u003d489965585"
+            },
+            {
+              "text": "Read “大日本帝国憲法” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/大日本帝国憲法?oldid\u003d42605264"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Meiji_Constitution"
+      }
+    },
+    {
+      "slug": "憲法記念日",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "憲法記念日",
+          "reading": "けんぽうきねんび"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Constitution Memorial Day (national holiday; May 3)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Constitution Memorial Day"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Constitution Memorial Day” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Constitution_Memorial_Day?oldid\u003d493775367"
+            },
+            {
+              "text": "Read “憲法記念日” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/憲法記念日?oldid\u003d42330681"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Constitution_Memorial_Day"
+      }
+    },
+    {
+      "slug": "立憲帝政党",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "立憲帝政党",
+          "reading": "りっけんていせいとう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Constitutional Imperial Rule Party (1882-1883)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Rikken Teiseitō"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Rikken Teiseitō” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Rikken_Teiseitō?oldid\u003d490868163"
+            },
+            {
+              "text": "Read “立憲帝政党” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/立憲帝政党?oldid\u003d42646921"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Rikken_Teiseitō"
+      }
+    },
+    {
+      "slug": "立憲改進党",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "立憲改進党",
+          "reading": "りっけんかいしんとう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Constitutional Reform Party (1882-1896)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "改進党"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Rikken Kaishintō"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Rikken Kaishintō” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Rikken_Kaishintō?oldid\u003d480290057"
+            },
+            {
+              "text": "Read “立憲改進党” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/立憲改進党?oldid\u003d38194854"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Rikken_Kaishintō"
+      }
+    },
+    {
+      "slug": "憲法改正",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "憲法改正",
+          "reading": "けんぽうかいせい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "constitutional reform",
+            "constitutional amendment"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Constitutional amendment"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Constitutional amendment” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Constitutional_amendment?oldid\u003d495548814"
+            },
+            {
+              "text": "Read “憲法改正” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/憲法改正?oldid\u003d41383465"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Constitutional_amendment"
+      }
+    },
+    {
+      "slug": "不文憲法",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "不文憲法",
+          "reading": "ふぶんけんぽう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "uncodified constitution",
+            "unwritten constitution"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "成文憲法"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Uncodified constitution"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Uncodified constitution” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Uncodified_constitution?oldid\u003d494748584"
+            },
+            {
+              "text": "Read “不文憲法” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/不文憲法?oldid\u003d41383444"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Uncodified_constitution"
+      }
+    },
+    {
+      "slug": "立憲主義",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "立憲主義",
+          "reading": "りっけんしゅぎ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "constitutionalism"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Constitutionalism"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Constitutionalism” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Constitutionalism?oldid\u003d493317394"
+            },
+            {
+              "text": "Read “立憲主義” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/立憲主義?oldid\u003d37727576"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Constitutionalism"
+      }
+    },
+    {
+      "slug": "立憲民政党",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "立憲民政党",
+          "reading": "りっけんみんせいとう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Constitutional Democratic Party (1927-1940)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "民政党"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Rikken Minseitō"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Rikken Minseitō” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Rikken_Minseitō?oldid\u003d491744857"
+            },
+            {
+              "text": "Read “立憲民政党” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/立憲民政党?oldid\u003d42739095"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Rikken_Minseitō"
+      }
+    },
+    {
+      "slug": "新憲法",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "新憲法",
+          "reading": "しんけんぽう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "new constitution (in force from 1944)",
+            "postwar constitution"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "大日本帝国憲法",
+            "日本国憲法"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "民定憲法",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "民定憲法",
+          "reading": "みんていけんぽう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "democratic constitution"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "欽定憲法"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "憲兵隊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "憲兵隊",
+          "reading": "けんぺいたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "regiment of military policemen"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "欽定憲法",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "欽定憲法",
+          "reading": "きんていけんぽう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "constitution granted by the Emperor"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "民定憲法"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "立憲君主",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "立憲君主",
+          "reading": "りっけんくんしゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "constitutional monarch"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "平和主義憲法",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "平和主義憲法",
+          "reading": "へいわしゅぎけんぽう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "pacifist constitution"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "明治憲法",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "明治憲法",
+          "reading": "めいじけんぽう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Meiji Constitution (Constitution of the Empire of Japan)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "大日本帝国憲法"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "軍官憲",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "軍官憲",
+          "reading": "ぐんかんけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "military authorities"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "制憲",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "制憲",
+          "reading": "せいけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "establishment of a constitution"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "立憲君主政体",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "立憲君主政体",
+          "reading": "りっけんくんしゅせいたい"
+        },
+        {
+          "word": "立憲君主制体",
+          "reading": "りっけんくんしゅせいたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "constitutional monarchy"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "帝国憲法",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帝国憲法",
+          "reading": "ていこくけんぽう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Meiji Constitution (Constitution of the Empire of Japan)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Abbreviation"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "大日本帝国憲法"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "立憲君主国",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "立憲君主国",
+          "reading": "りっけんくんしゅこく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "constitutional monarchy"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "旧憲法",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旧憲法",
+          "reading": "きゅうけんぽう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Meiji Constitution (Constitution of the Empire of Japan)",
+            "Former Japanese Constitution"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Abbreviation"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "大日本帝国憲法"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "立憲君主国",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "立憲君主国",
+          "reading": "りっけんくんしゅこく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "constitutional monarchy"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "平和憲法",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "平和憲法",
+          "reading": "へいわけんぽう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "pacifist constitution (often applied to the Japanese constitution)",
+            "constitution which outlaws use of arms"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "日本国憲法"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "国憲",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "国憲",
+          "reading": "こっけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "national constitution"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "硬性憲法",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "硬性憲法",
+          "reading": "こうせいけんぽう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rigid constitution"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Law, etc. term"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "軟性憲法"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "軟性憲法",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "軟性憲法",
+          "reading": "なんせいけんぽう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "flexible constitution"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Law, etc. term"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "硬性憲法"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "１９８２年憲法",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "１９８２年憲法",
+          "reading": "せんきゅうひゃくはちじゅうにねんけんぽう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Constitution Act, 1982 (part of the Canadian Constitution)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "家憲",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "家憲",
+          "reading": "かけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "family constitution"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "協定憲法",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "協定憲法",
+          "reading": "きょうていけんぽう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "agreed constitution (e.g. French Constitution of 1830)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "合憲性",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "合憲性",
+          "reading": "ごうけんせい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "constitutionality"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "協約憲法",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "協約憲法",
+          "reading": "きょうやくけんぽう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "agreed constitution (e.g. French Constitution of 1830)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "協定憲法"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "違憲性",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "違憲性",
+          "reading": "いけんせい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "unconstitutionality"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "成文憲法",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "成文憲法",
+          "reading": "せいぶんけんぽう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "codified constitution",
+            "written constitution"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "不文憲法"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "解釈改憲",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "解釈改憲",
+          "reading": "かいしゃくかいけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "effecting de facto constitutional changes through creative interpretation of the existing constitution",
+            "reinterpretation of the constitution"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "憲法上",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "憲法上",
+          "reading": "けんぽうじょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "constitutional"
+          ],
+          "parts_of_speech": [
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "憲法上の権利",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "憲法上の権利",
+          "reading": "けんぽうじょうのけんり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "constitutional right",
+            "constitutional rights"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "立憲政治",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "立憲政治",
+          "reading": "りっけんせいじ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "constitutional government"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "憲法十七条",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "憲法十七条",
+          "reading": "けんぽうじゅうしちじょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Seventeen-Article Constitution (of Asuka-period Japan)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "憲法学",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "憲法学",
+          "reading": "けんぽうがく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(study of) constitutional law"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "憲法学者",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "憲法学者",
+          "reading": "けんぽうがくしゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "constitutional scholar (lawyer)",
+            "expert in constitutional law"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私擬憲法案",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私擬憲法案",
+          "reading": "しぎけんぽうあん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "private constitutional drafts prepared before the adoption of the Meiji Constitution in 1889"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "憲兵隊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "憲兵隊",
+          "reading": "けんぺいたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "regiment of military policemen"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "合憲的",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "合憲的",
+          "reading": "ごうけんてき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "constitutional"
+          ],
+          "parts_of_speech": [
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "憲法学",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "憲法学",
+          "reading": "けんぽうがく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(study of) constitutional law"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "憲法学者",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "憲法学者",
+          "reading": "けんぽうがくしゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "constitutional scholar (lawyer)",
+            "expert in constitutional law"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私擬憲法案",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私擬憲法案",
+          "reading": "しぎけんぽうあん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "private constitutional drafts prepared before the adoption of the Meiji Constitution in 1889"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "１８６７年憲法法",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "１８６７年憲法法",
+          "reading": "せんはっぴゃくろくじゅうしちねんけんぽうほう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Constitution Act 1867 (which established Canada)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "立憲君主政体",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "立憲君主政体",
+          "reading": "りっけんくんしゅせいたい"
+        },
+        {
+          "word": "立憲君主制体",
+          "reading": "りっけんくんしゅせいたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "constitutional monarchy"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "憲法規範",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "憲法規範",
+          "reading": "けんぽうきはん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "constitutional norm"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "規範"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "国憲法",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "国憲法",
+          "reading": "こっけんぽう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "national constitution"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "憲法解釈",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "憲法解釈",
+          "reading": "けんぽうかいしゃく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "constitutional interpretation"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "オリンピック憲章",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "オリンピック憲章",
+          "reading": "オリンピックけんしょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Olympic Charter"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Olympic Charter"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Olympic Charter” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Olympic_Charter?oldid\u003d494744206"
+            },
+            {
+              "text": "Read “オリンピック憲章” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/オリンピック憲章?oldid\u003d39380155"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Olympic_Charter"
+      }
+    },
+    {
+      "slug": "ウェストミンスター憲章",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ウェストミンスター憲章",
+          "reading": "ウェストミンスターけんしょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Statute of Westminster (1931)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Statute of Westminster 1931"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Statute of Westminster 1931” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Statute_of_Westminster_1931?oldid\u003d495527863"
+            },
+            {
+              "text": "Read “ウェストミンスター憲章” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/ウェストミンスター憲章?oldid\u003d42741961"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Statute_of_Westminster_1931"
+      }
+    },
+    {
+      "slug": "オスマン帝国憲法",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "オスマン帝国憲法",
+          "reading": "オスマンていこくけんぽう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Ottoman constitution of 1876"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Ottoman constitution of 1876"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Ottoman constitution of 1876” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Ottoman_constitution_of_1876?oldid\u003d490187271"
+            },
+            {
+              "text": "Read “オスマン帝国憲法” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/オスマン帝国憲法?oldid\u003d41387288"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Ottoman_constitution_of_1876"
+      }
+    },
+    {
+      "slug": "立憲民主党",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "立憲民主党",
+          "reading": "りっけんみんしゅとう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Constitutional Democratic Party of Japan (formed in 2017)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Constitutional Democratic Party (Russia, 1905-1917)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Constitutional Democratic Party"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Constitutional Democratic Party” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Constitutional_Democratic_Party?oldid\u003d494644332"
+            },
+            {
+              "text": "Read “立憲民主党” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/立憲民主党?oldid\u003d40576444"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Constitutional_Democratic_Party"
+      }
+    },
+    {
+      "slug": "ユネスコ憲章",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ユネスコ憲章",
+          "reading": "ユネスコけんしょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "UNESCO charter"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "カナダ人権憲章",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "カナダ人権憲章",
+          "reading": "カナダじんけんけんしょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Canadian Charter of Rights and Freedoms"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "権利と自由のカナダ憲章",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "権利と自由のカナダ憲章",
+          "reading": "けんりとじゆうのカナダけんしょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Canadian Charter of Rights and Freedoms"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "ワイマール憲法",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ワイマール憲法",
+          "reading": "ワイマールけんぽう"
+        },
+        {
+          "word": "ヴァイマル憲法",
+          "reading": "ヴァイマルけんぽう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Weimar Constitution (Germany, 1919-1945)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "加憲",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "加憲",
+          "reading": "かけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "adding to the Constitution (e.g. an article)"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "ボタン",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "reading": "ボタン"
+        },
+        {
+          "word": "釦",
+          "reading": "ぼたん"
+        },
+        {
+          "word": "鈕",
+          "reading": "ぼたん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "button"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [
+            {
+              "language": "Portuguese",
+              "word": "“botão”"
+            }
+          ],
+          "info": [
+            "kanji is only used for push-buttons"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "押しボタン",
+      "is_common": false,
+      "tags": [
+        "wanikani32"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "押しボタン",
+          "reading": "おしボタン"
+        },
+        {
+          "word": "押ボタン",
+          "reading": "おしボタン"
+        },
+        {
+          "word": "押し釦",
+          "reading": "おしぼたん"
+        },
+        {
+          "word": "押釦",
+          "reading": "おしぼたん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "push button",
+            "push-button"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Push-button"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Push-button” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Push-button?oldid\u003d484420582"
+            },
+            {
+              "text": "Read “押しボタン” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/押しボタン?oldid\u003d40808593"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Push-button"
+      }
+    },
+    {
+      "slug": "包み釦",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "包み釦",
+          "reading": "つつみぼたん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "covered button"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "金ボタン",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "金ボタン",
+          "reading": "きんボタン"
+        },
+        {
+          "word": "金釦",
+          "reading": "きんボタン"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "brass button",
+            "golden button"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "boy\u0027s school uniform"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Colloquialism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "male student"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Colloquialism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

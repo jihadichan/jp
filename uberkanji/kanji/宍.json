@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "肉",
+      "is_common": true,
+      "tags": [
+        "wanikani5"
+      ],
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "肉",
+          "reading": "にく"
+        },
+        {
+          "word": "肉",
+          "reading": "しし"
+        },
+        {
+          "word": "宍",
+          "reading": "しし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "flesh"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "meat"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "the physical body (as opposed to the spirit)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "にく"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "thickness"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "にく"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "ink pad"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "にく"
+          ],
+          "see_also": [
+            "印肉"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Flesh"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Flesh” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Flesh?oldid\u003d474924183"
+            },
+            {
+              "text": "Read “肉” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/肉?oldid\u003d42466138"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Flesh"
+      }
+    },
+    {
+      "slug": "膂宍",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "膂宍",
+          "reading": "そしし"
+        },
+        {
+          "word": "膂宍",
+          "reading": "そじし"
+        },
+        {
+          "word": "背宍",
+          "reading": "そしし"
+        },
+        {
+          "word": "背宍",
+          "reading": "そじし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "meat, flesh, or muscles along the spine"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

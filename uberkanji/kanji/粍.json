@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "粍",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "reading": "ミリメートル"
+        },
+        {
+          "reading": "ミリメーター"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "millimeter",
+            "millimetre"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [
+            {
+              "language": "French",
+              "word": "“millimètre”"
+            }
+          ],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Millimetre"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Millimetre” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Millimetre?oldid\u003d493032457"
+            },
+            {
+              "text": "Read “ミリメートル” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/ミリメートル?oldid\u003d42531945"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Millimetre"
+      }
+    }
+  ]
+}

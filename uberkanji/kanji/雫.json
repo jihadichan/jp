@@ -1,0 +1,161 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "滴",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "滴",
+          "reading": "しずく"
+        },
+        {
+          "word": "雫",
+          "reading": "しずく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "drop (e.g. of water)",
+            "drip"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Drop (liquid)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Drop (liquid)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Drop_(liquid)?oldid\u003d493768648"
+            },
+            {
+              "text": "Read “滴” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/滴?oldid\u003d42126512"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Drop_(liquid)"
+      }
+    },
+    {
+      "slug": "一滴",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "一滴",
+          "reading": "いってき"
+        },
+        {
+          "word": "一滴",
+          "reading": "ひとしずく"
+        },
+        {
+          "word": "一雫",
+          "reading": "ひとしずく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "drop (of fluid)"
+          ],
+          "parts_of_speech": [
+            "Adverbial noun",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "花の雫",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "花のしずく",
+          "reading": "はなのしずく"
+        },
+        {
+          "word": "花の雫",
+          "reading": "はなのしずく"
+        },
+        {
+          "word": "華の雫",
+          "reading": "はなのしずく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dew that trickles down from a flower"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Poetical term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

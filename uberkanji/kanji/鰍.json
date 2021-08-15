@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "鰍",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鰍",
+          "reading": "かじか"
+        },
+        {
+          "word": "杜父魚",
+          "reading": "かじか"
+        },
+        {
+          "word": "杜父魚",
+          "reading": "とふぎょ"
+        },
+        {
+          "reading": "カジカ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sculpin (any fish of family Cottidae, incl. the bullheads and the miller\u0027s-thumb)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Japanese fluvial sculpin (Cottus pollux)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "鰍-1",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鰍",
+          "reading": "いなだ"
+        },
+        {
+          "reading": "イナダ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "young Japanese amberjack (Seriola quinqueradiata)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone",
+            "Kantou dialect"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "鰤"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

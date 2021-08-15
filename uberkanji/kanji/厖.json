@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "膨大",
+      "is_common": true,
+      "tags": [
+        "wanikani52"
+      ],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "膨大",
+          "reading": "ぼうだい"
+        },
+        {
+          "word": "厖大",
+          "reading": "ぼうだい"
+        },
+        {
+          "word": "尨大",
+          "reading": "ぼうだい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "huge",
+            "vast",
+            "enormous",
+            "colossal",
+            "extensive",
+            "large"
+          ],
+          "parts_of_speech": [
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "swelling",
+            "expansion"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "膨大"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

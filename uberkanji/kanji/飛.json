@@ -1,0 +1,5239 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "飛行機",
+      "is_common": true,
+      "tags": [
+        "wanikani20"
+      ],
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "飛行機",
+          "reading": "ひこうき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "aeroplane",
+            "airplane",
+            "aircraft"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Fixed-wing aircraft"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Fixed-wing aircraft” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Fixed-wing_aircraft?oldid\u003d494974341"
+            },
+            {
+              "text": "Read “飛行機” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/飛行機?oldid\u003d42628998"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Fixed-wing_aircraft"
+      }
+    },
+    {
+      "slug": "飛行場",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "飛行場",
+          "reading": "ひこうじょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "airfield",
+            "airport"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Hikoujou"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Aerodrome"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Aerodrome” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Aerodrome?oldid\u003d495505358"
+            },
+            {
+              "text": "Read “飛行場” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/飛行場?oldid\u003d42755137"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "http://dbpedia.org/resource/Aerodrome"
+      }
+    },
+    {
+      "slug": "飛ぶ",
+      "is_common": true,
+      "tags": [
+        "wanikani20",
+        "wanikani37"
+      ],
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "飛ぶ",
+          "reading": "とぶ"
+        },
+        {
+          "word": "跳ぶ",
+          "reading": "とぶ"
+        },
+        {
+          "word": "翔ぶ",
+          "reading": "とぶ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to fly",
+            "to soar"
+          ],
+          "parts_of_speech": [
+            "Godan verb with bu ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "esp. 飛ぶ"
+          ]
+        },
+        {
+          "english_definitions": [
+            "to jump",
+            "to leap",
+            "to spring",
+            "to bound",
+            "to hop"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "esp. 跳ぶ"
+          ]
+        },
+        {
+          "english_definitions": [
+            "to vanish",
+            "to disappear",
+            "to be consumed in a flash"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飛び出す",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "飛び出す",
+          "reading": "とびだす"
+        },
+        {
+          "word": "飛びだす",
+          "reading": "とびだす"
+        },
+        {
+          "word": "飛出す",
+          "reading": "とびだす"
+        },
+        {
+          "word": "跳び出す",
+          "reading": "とびだす"
+        },
+        {
+          "word": "跳びだす",
+          "reading": "とびだす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to jump out",
+            "to rush out",
+            "to fly out"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to appear (suddenly)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to protrude",
+            "to project"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to butt in"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飛行",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "飛行",
+          "reading": "ひこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "aviation",
+            "flight",
+            "flying"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to fly",
+            "to take a flight"
+          ],
+          "parts_of_speech": [
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飛ばす",
+      "is_common": true,
+      "tags": [
+        "wanikani22"
+      ],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "飛ばす",
+          "reading": "とばす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to let fly",
+            "to make fly",
+            "to send flying",
+            "to blow off (e.g. in the wind)",
+            "to launch",
+            "to fire",
+            "to hurl",
+            "to shoot"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to skip over",
+            "to leave out",
+            "to omit",
+            "to drop (e.g. a stitch)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to run fast",
+            "to drive fast",
+            "to gallop"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to spray",
+            "to splash",
+            "to spatter"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to say without reservation",
+            "to call out (e.g. a jeer)",
+            "to rattle of (e.g. a joke)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to spread (e.g. a rumour)",
+            "to circulate",
+            "to send out (a message)",
+            "to issue (e.g. an appeal)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to transfer (to a less important post)",
+            "to send away (e.g. to a provincial branch)",
+            "to demote"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to dispatch quickly (e.g. a reporter)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to get rid of",
+            "to burn off (alcohol)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to attack (e.g. with a leg manoeuvre)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to do vigorously",
+            "to do roughly",
+            "to do energetically"
+          ],
+          "parts_of_speech": [
+            "Auxiliary verb",
+            "Godan verb with su ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "とんでも無い",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "とんでも無い",
+          "reading": "とんでもない"
+        },
+        {
+          "word": "飛んでもない",
+          "reading": "とんでもない"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "unthinkable",
+            "unexpected",
+            "outrageous",
+            "offensive",
+            "terrible"
+          ],
+          "parts_of_speech": [
+            "I-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "absolutely not!",
+            "not at all!",
+            "far from it!",
+            "impossible!",
+            "preposterous!",
+            "what a thing to say!",
+            "no way!",
+            "bullshit"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [
+            "Colloquialism",
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "don\u0027t mention it",
+            "you\u0027re welcome"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飛び込む",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "飛び込む",
+          "reading": "とびこむ"
+        },
+        {
+          "word": "飛びこむ",
+          "reading": "とびこむ"
+        },
+        {
+          "word": "飛込む",
+          "reading": "とびこむ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to jump in",
+            "to leap in",
+            "to plunge into",
+            "to dive"
+          ],
+          "parts_of_speech": [
+            "Godan verb with mu ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to burst in",
+            "to barge in"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "宇宙飛行士",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "宇宙飛行士",
+          "reading": "うちゅうひこうし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "astronaut"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Astronaut"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Astronaut” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Astronaut?oldid\u003d494302879"
+            },
+            {
+              "text": "Read “宇宙飛行士” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/宇宙飛行士?oldid\u003d41994580"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Astronaut"
+      }
+    },
+    {
+      "slug": "飛行船",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛行船",
+          "reading": "ひこうせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "airship",
+            "blimp"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Airship"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Airship” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Airship?oldid\u003d495216722"
+            },
+            {
+              "text": "Read “飛行船” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/飛行船?oldid\u003d41598203"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Airship"
+      }
+    },
+    {
+      "slug": "縄跳び",
+      "is_common": false,
+      "tags": [
+        "wanikani39"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縄跳び",
+          "reading": "なわとび"
+        },
+        {
+          "word": "縄飛び",
+          "reading": "なわとび"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "skipping rope",
+            "jump rope"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "skipping",
+            "rope-jumping"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Skipping rope"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Skipping rope” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Skipping_rope?oldid\u003d494833997"
+            },
+            {
+              "text": "Read “縄跳び” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/縄跳び?oldid\u003d42588709"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Skipping_rope"
+      }
+    },
+    {
+      "slug": "飛行艇",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛行艇",
+          "reading": "ひこうてい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "flying boat"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Flying boat"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Flying boat” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Flying_boat?oldid\u003d493617081"
+            },
+            {
+              "text": "Read “飛行艇” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/飛行艇?oldid\u003d42533889"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Flying_boat"
+      }
+    },
+    {
+      "slug": "蹴飛ばす",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "蹴飛ばす",
+          "reading": "けとばす"
+        },
+        {
+          "word": "蹴とばす",
+          "reading": "けとばす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to kick away",
+            "to kick off",
+            "to kick hard"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to refuse curtly",
+            "to reject outright"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飛躍",
+      "is_common": true,
+      "tags": [
+        "wanikani39"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛躍",
+          "reading": "ひやく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "leaping",
+            "activity"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "leapfrog (over a problem)",
+            "making a leap (e.g. in logic)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "making great strides",
+            "making rapid progress"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "emerging"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "becoming active",
+            "playing an active part"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飛球",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛球",
+          "reading": "ひきゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "fly (ball)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飛び交う",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛び交う",
+          "reading": "とびかう"
+        },
+        {
+          "word": "飛びかう",
+          "reading": "とびかう"
+        },
+        {
+          "word": "とび交う",
+          "reading": "とびかう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to fly about",
+            "to flutter about",
+            "to flit about",
+            "to fly past each other"
+          ],
+          "parts_of_speech": [
+            "Godan verb with u ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飛び下りる",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛び下りる",
+          "reading": "とびおりる"
+        },
+        {
+          "word": "飛び降りる",
+          "reading": "とびおりる"
+        },
+        {
+          "word": "跳び降りる",
+          "reading": "とびおりる"
+        },
+        {
+          "word": "飛降りる",
+          "reading": "とびおりる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to jump down",
+            "to jump off",
+            "to jump from",
+            "to jump out of"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飛び切り",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛び切り",
+          "reading": "とびきり"
+        },
+        {
+          "word": "飛切り",
+          "reading": "とびきり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "best",
+            "extra-fine",
+            "superfine",
+            "unequalled"
+          ],
+          "parts_of_speech": [
+            "No-adjective",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "exceptionally",
+            "extraordinarily",
+            "by far"
+          ],
+          "parts_of_speech": [
+            "Adverbial noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "jumping and slashing (e.g. at an enemy)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "orig. meaning"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飛び越える",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛び越える",
+          "reading": "とびこえる"
+        },
+        {
+          "word": "跳び越える",
+          "reading": "とびこえる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to jump over",
+            "to clear",
+            "to walk over (someone)"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "吹き飛ばす",
+      "is_common": false,
+      "tags": [
+        "wanikani42"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "吹き飛ばす",
+          "reading": "ふきとばす"
+        },
+        {
+          "word": "吹飛ばす",
+          "reading": "ふきとばす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to blow away",
+            "to blow off",
+            "to blow up"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to dispel",
+            "to drive away"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to talk big"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飛び抜ける",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛び抜ける",
+          "reading": "とびぬける"
+        },
+        {
+          "word": "飛びぬける",
+          "reading": "とびぬける"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to be preeminent",
+            "to be outstanding"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飛び乗る",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛び乗る",
+          "reading": "とびのる"
+        },
+        {
+          "word": "跳び乗る",
+          "reading": "とびのる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to jump upon (a moving object)"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飛び立つ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛び立つ",
+          "reading": "とびたつ"
+        },
+        {
+          "word": "飛びたつ",
+          "reading": "とびたつ"
+        },
+        {
+          "word": "飛立つ",
+          "reading": "とびたつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to jump up",
+            "to start up",
+            "to leap to one\u0027s feet",
+            "to fly away",
+            "to take off"
+          ],
+          "parts_of_speech": [
+            "Godan verb with tsu ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飛び回る",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛び回る",
+          "reading": "とびまわる"
+        },
+        {
+          "word": "飛びまわる",
+          "reading": "とびまわる"
+        },
+        {
+          "word": "跳び回る",
+          "reading": "とびまわる"
+        },
+        {
+          "word": "跳びまわる",
+          "reading": "とびまわる"
+        },
+        {
+          "word": "飛回る",
+          "reading": "とびまわる"
+        },
+        {
+          "word": "跳回る",
+          "reading": "とびまわる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to fly about",
+            "to skip about",
+            "to bustle about"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飛び起きる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛び起きる",
+          "reading": "とびおきる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to jump up to one\u0027s feet"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飛び越す",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛び越す",
+          "reading": "とびこす"
+        },
+        {
+          "word": "跳び越す",
+          "reading": "とびこす"
+        },
+        {
+          "word": "飛越す",
+          "reading": "とびこす"
+        },
+        {
+          "word": "跳越す",
+          "reading": "とびこす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to leap over"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "吹き飛ぶ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "吹き飛ぶ",
+          "reading": "ふきとぶ"
+        },
+        {
+          "word": "吹飛ぶ",
+          "reading": "ふきとぶ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to be blown off",
+            "to blow off",
+            "to blow away"
+          ],
+          "parts_of_speech": [
+            "Godan verb with bu ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to vanish",
+            "to disappear"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飛散",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛散",
+          "reading": "ひさん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "scattering (e.g. dust in the wind, enemies before an assault)",
+            "dispersal",
+            "flying off (in all directions)",
+            "flying apart"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "高飛車",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "高飛車",
+          "reading": "たかびしゃ"
+        },
+        {
+          "word": "高びしゃ",
+          "reading": "たかびしゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "high-handed",
+            "domineering",
+            "on one\u0027s high horse"
+          ],
+          "parts_of_speech": [
+            "Na-adjective",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "低空飛行",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "低空飛行",
+          "reading": "ていくうひこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "low-altitude flying"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "吹っ飛ぶ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "吹っ飛ぶ",
+          "reading": "ふっとぶ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to blow off",
+            "to be blown off"
+          ],
+          "parts_of_speech": [
+            "Godan verb with bu ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "空飛ぶ円盤",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "空飛ぶ円盤",
+          "reading": "そらとぶえんばん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "flying saucer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Flying saucer"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Flying saucer” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Flying_saucer?oldid\u003d491424058"
+            },
+            {
+              "text": "Read “空飛ぶ円盤” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/空飛ぶ円盤?oldid\u003d40500962"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Flying_saucer"
+      }
+    },
+    {
+      "slug": "宇宙飛行",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "宇宙飛行",
+          "reading": "うちゅうひこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "space flight"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Spaceflight"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Spaceflight” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Spaceflight?oldid\u003d492533207"
+            },
+            {
+              "text": "Read “宇宙飛行” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/宇宙飛行?oldid\u003d42503311"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Spaceflight"
+      }
+    },
+    {
+      "slug": "紙飛行機",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紙飛行機",
+          "reading": "かみひこうき"
+        },
+        {
+          "word": "紙ひこうき",
+          "reading": "かみひこうき"
+        },
+        {
+          "word": "紙ヒコーキ",
+          "reading": "かみヒコーキ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "paper airplane (aeroplane)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Paper plane"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Paper plane” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Paper_plane?oldid\u003d494789834"
+            },
+            {
+              "text": "Read “紙飛行機” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/紙飛行機?oldid\u003d41901123"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Paper_plane"
+      }
+    },
+    {
+      "slug": "未確認飛行物体",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "未確認飛行物体",
+          "reading": "みかくにんひこうぶったい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "unidentified flying object",
+            "UFO"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Unidentified flying object"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Unidentified flying object” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Unidentified_flying_object?oldid\u003d492327736"
+            },
+            {
+              "text": "Read “未確認飛行物体” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/未確認飛行物体?oldid\u003d42432179"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Unidentified_flying_object"
+      }
+    },
+    {
+      "slug": "飛び付く",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛び付く",
+          "reading": "とびつく"
+        },
+        {
+          "word": "飛びつく",
+          "reading": "とびつく"
+        },
+        {
+          "word": "跳び付く",
+          "reading": "とびつく"
+        },
+        {
+          "word": "跳びつく",
+          "reading": "とびつく"
+        },
+        {
+          "word": "飛付く",
+          "reading": "とびつく"
+        },
+        {
+          "word": "跳付く",
+          "reading": "とびつく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to jump at",
+            "to be attracted by"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ku ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "模型飛行機",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "模型飛行機",
+          "reading": "もけいひこうき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "model plane"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飛び掛かる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛び掛かる",
+          "reading": "とびかかる"
+        },
+        {
+          "word": "飛びかかる",
+          "reading": "とびかかる"
+        },
+        {
+          "word": "跳び掛かる",
+          "reading": "とびかかる"
+        },
+        {
+          "word": "跳びかかる",
+          "reading": "とびかかる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to spring at",
+            "to leap upon",
+            "to swoop down on",
+            "to throw oneself upon (e.g. an enemy)"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "笑い飛ばす",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "笑い飛ばす",
+          "reading": "わらいとばす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to laugh away",
+            "to laugh off"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飛行時間",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛行時間",
+          "reading": "ひこうじかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "flight time",
+            "number of flight hours"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "消し飛ぶ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "消し飛ぶ",
+          "reading": "けしとぶ"
+        },
+        {
+          "word": "消しとぶ",
+          "reading": "けしとぶ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to scatter away",
+            "to vanish"
+          ],
+          "parts_of_speech": [
+            "Godan verb with bu ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飛び退く",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛び退く",
+          "reading": "とびのく"
+        },
+        {
+          "word": "飛びのく",
+          "reading": "とびのく"
+        },
+        {
+          "word": "跳び退く",
+          "reading": "とびのく"
+        },
+        {
+          "word": "跳びのく",
+          "reading": "とびのく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to jump (out of the way)",
+            "to jump back",
+            "to jump aside"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ku ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "水しぶき",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "水しぶき",
+          "reading": "みずしぶき"
+        },
+        {
+          "word": "水飛沫",
+          "reading": "みずしぶき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "splash (of water)",
+            "spray"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飛距離",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛距離",
+          "reading": "ひきょり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "distance (e.g. jump, flight of arrow, carry of golf ball, etc.)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飛躍的",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛躍的",
+          "reading": "ひやくてき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rapidly"
+          ],
+          "parts_of_speech": [
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飛び込み台",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛び込み台",
+          "reading": "とびこみだい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "diving board"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "水平飛行",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "水平飛行",
+          "reading": "すいへいひこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "level flight"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "突飛",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "突飛",
+          "reading": "とっぴ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "erratic",
+            "offbeat",
+            "wild",
+            "extraordinary"
+          ],
+          "parts_of_speech": [
+            "Na-adjective",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "ぶっ飛ばす",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ぶっ飛ばす",
+          "reading": "ぶっとばす"
+        },
+        {
+          "word": "打っ飛ばす",
+          "reading": "ぶっとばす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to knock (someone) to their feet",
+            "to knock down"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to send flying",
+            "to strike",
+            "to fling",
+            "to fire"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to drive away (one\u0027s sorrows, worries, etc.)",
+            "to dispel"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to drive at terrific speed",
+            "to barrel along"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飛び石",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛び石",
+          "reading": "とびいし"
+        },
+        {
+          "word": "飛石",
+          "reading": "とびいし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "stepping stones"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "stone skipping",
+            "ducks and drakes"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Obscure term"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "水切り"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "単独飛行",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "単独飛行",
+          "reading": "たんどくひこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "solo flight"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "かっ飛ばす",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "かっ飛ばす",
+          "reading": "かっとばす"
+        },
+        {
+          "word": "戛飛ばす",
+          "reading": "かっとばす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to knock out (e.g. homer)",
+            "to slam",
+            "to send flying (e.g. a ball)",
+            "to wallop (someone)"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "幅跳び",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "幅跳び",
+          "reading": "はばとび"
+        },
+        {
+          "word": "幅とび",
+          "reading": "はばとび"
+        },
+        {
+          "word": "幅飛び",
+          "reading": "はばとび"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "long jump",
+            "broad jump"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "高飛び",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "高飛び",
+          "reading": "たかとび"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "flight",
+            "escape",
+            "running away",
+            "fleeing"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "flying high"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飛び跳ねる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛び跳ねる",
+          "reading": "とびはねる"
+        },
+        {
+          "word": "跳びはねる",
+          "reading": "とびはねる"
+        },
+        {
+          "word": "飛びはねる",
+          "reading": "とびはねる"
+        },
+        {
+          "word": "跳び跳ねる",
+          "reading": "とびはねる"
+        },
+        {
+          "word": "飛跳ねる",
+          "reading": "とびはねる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to jump up and down",
+            "to hop"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "流言飛語",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "流言飛語",
+          "reading": "りゅうげんひご"
+        },
+        {
+          "word": "流言蜚語",
+          "reading": "りゅうげんひご"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "false rumour (rumor)",
+            "groundless rumour",
+            "canard"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飛散防止",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛散防止",
+          "reading": "ひさんぼうし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "antiscattering",
+            "shatter-resistant",
+            "shatterproof"
+          ],
+          "parts_of_speech": [
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飛び地",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛び地",
+          "reading": "とびち"
+        },
+        {
+          "word": "飛地",
+          "reading": "とびち"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "detached territory",
+            "enclave",
+            "exclave"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "scattered landholdings"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Enclave and exclave"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Enclave and exclave” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Enclave_and_exclave?oldid\u003d495019300"
+            },
+            {
+              "text": "Read “飛地” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/飛地?oldid\u003d42680751"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Enclave_and_exclave"
+      }
+    },
+    {
+      "slug": "跳び上がる",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "跳び上がる",
+          "reading": "とびあがる"
+        },
+        {
+          "word": "飛び上がる",
+          "reading": "とびあがる"
+        },
+        {
+          "word": "跳上がる",
+          "reading": "とびあがる"
+        },
+        {
+          "word": "飛上がる",
+          "reading": "とびあがる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to spring",
+            "to jump up",
+            "to fly up",
+            "to skip"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飛び去る",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛び去る",
+          "reading": "とびさる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to fly away",
+            "to flee away",
+            "to scatter"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飛び下り",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛び下り",
+          "reading": "とびおり"
+        },
+        {
+          "word": "飛び降り",
+          "reading": "とびおり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "jumping off"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Jumper (suicide)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Jumper (suicide)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Jumper_(suicide)?oldid\u003d494562003"
+            },
+            {
+              "text": "Read “飛び降り” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/飛び降り?oldid\u003d42001031"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Jumper_(suicide)"
+      }
+    },
+    {
+      "slug": "飛翔",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛翔",
+          "reading": "ひしょう"
+        },
+        {
+          "word": "飛しょう",
+          "reading": "ひしょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "flight",
+            "flying",
+            "soaring"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Flight"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Flight” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Flight?oldid\u003d493281334"
+            },
+            {
+              "text": "Read “飛翔” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/飛翔?oldid\u003d42457641"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Flight"
+      }
+    },
+    {
+      "slug": "飛び出し",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛び出し",
+          "reading": "とびだし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "something that leaps or thrusts out"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飛車",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛車",
+          "reading": "ひしゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rook",
+            "hisha"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Shogi term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飛行士",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛行士",
+          "reading": "ひこうし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "pilot"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飛び込み",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛び込み",
+          "reading": "とびこみ"
+        },
+        {
+          "word": "飛込み",
+          "reading": "とびこみ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "jump",
+            "plunge",
+            "dive"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "appearing without an appointment",
+            "bursting in",
+            "arriving unannounced",
+            "cropping up suddenly"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飛び火",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛び火",
+          "reading": "とびひ"
+        },
+        {
+          "word": "飛火",
+          "reading": "とびひ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "leaping flames",
+            "flying sparks"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "spread of fire (due to leaping flames)"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "repercussions in unanticipated areas",
+            "spilling over",
+            "effects of an incident spreading to those seemingly uninvolved"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "impetigo contagiosa"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Colloquialism",
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "膿痂疹",
+            "膿疱疹"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "犠飛",
+      "is_common": true,
+      "tags": [
+        "wanikani42"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "犠飛",
+          "reading": "ぎひ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sacrifice fly"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Baseball term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飛ばし",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛ばし",
+          "reading": "とばし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "selling or divesting in unwanted stocks",
+            "hiding bad loans"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "礫",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "礫",
+          "reading": "つぶて"
+        },
+        {
+          "word": "飛礫",
+          "reading": "つぶて"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "stone (used for throwing)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Tsubute"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "中飛",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "中飛",
+          "reading": "ちゅうひ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "center fly",
+            "centre fly"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "高飛び込み",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "高飛び込み",
+          "reading": "たかとびこみ"
+        },
+        {
+          "word": "高飛びこみ",
+          "reading": "たかとびこみ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "high dive",
+            "high diving"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飛来",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛来",
+          "reading": "ひらい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "coming flying in (migratory birds, airborne sand, pollen, etc.)"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "coming by airplane"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飛び入り",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛び入り",
+          "reading": "とびいり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "open to all",
+            "taking part on the spur of the moment"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飛脚",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛脚",
+          "reading": "ひきゃく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "express messenger",
+            "postman",
+            "mailman",
+            "courier"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飛沫",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛沫",
+          "reading": "しぶき"
+        },
+        {
+          "word": "繁吹き",
+          "reading": "しぶき"
+        },
+        {
+          "word": "繁吹",
+          "reading": "しぶき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "splash",
+            "spray"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "飛沫 ひまつ"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飛び出る",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛び出る",
+          "reading": "とびでる"
+        },
+        {
+          "word": "とび出る",
+          "reading": "とびでる"
+        },
+        {
+          "word": "跳び出る",
+          "reading": "とびでる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to project",
+            "to protrude",
+            "to pop out (e.g. eyes)"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to jump out",
+            "to rush out"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飛",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛",
+          "reading": "ひ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rook"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Shogi term",
+            "Abbreviation"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "飛車"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飛び散る",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛び散る",
+          "reading": "とびちる"
+        },
+        {
+          "word": "飛散る",
+          "reading": "とびちる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to fly around",
+            "to scatter"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "突き飛ばす",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "突き飛ばす",
+          "reading": "つきとばす"
+        },
+        {
+          "word": "突きとばす",
+          "reading": "つきとばす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to thrust away",
+            "to send flying"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飛び散る",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛び散る",
+          "reading": "とびちる"
+        },
+        {
+          "word": "飛散る",
+          "reading": "とびちる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to fly around",
+            "to scatter"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "一飛",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "一飛",
+          "reading": "いちひ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "first fly"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "乱れ飛ぶ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "乱れ飛ぶ",
+          "reading": "みだれとぶ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to fly wildly about"
+          ],
+          "parts_of_speech": [
+            "Godan verb with bu ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飛ぶように売れる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛ぶように売れる",
+          "reading": "とぶようにうれる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to sell like hot cakes",
+            "to fly off the shelves"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Ichidan verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "清水の舞台から飛び降りる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "清水の舞台から飛び降りる",
+          "reading": "きよみずのぶたいからとびおりる"
+        },
+        {
+          "word": "清水の舞台から飛び下りる",
+          "reading": "きよみずのぶたいからとびおりる"
+        },
+        {
+          "word": "清水の舞台から飛びおりる",
+          "reading": "きよみずのぶたいからとびおりる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to make a leap into the dark",
+            "to take the plunge",
+            "to jump in at the deep end",
+            "to jump off the stage of the Kiyomizu temple"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Ichidan verb"
+          ],
+          "links": [],
+          "tags": [
+            "Idiomatic expression"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "目が飛び出る",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "目が飛び出る",
+          "reading": "めがとびでる"
+        },
+        {
+          "word": "目がとびでる",
+          "reading": "めがとびでる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to be eye-popping",
+            "to be staggering",
+            "to be amazing"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Ichidan verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飛ぶ鳥を落とす勢い",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛ぶ鳥を落とす勢い",
+          "reading": "とぶとりをおとすいきおい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "great vigor",
+            "tremendous energy",
+            "forceful enough to knock down birds in flight"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [
+            "Idiomatic expression"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "目の玉が飛び出る",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "目の玉が飛び出る",
+          "reading": "めのたまがとびでる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "eye-popping",
+            "staggering"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Noun or verb acting prenominally"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飛ぶ鳥も落とす勢い",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛ぶ鳥も落とす勢い",
+          "reading": "とぶとりもおとすいきおい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "great vigor",
+            "tremendous energy",
+            "forceful enough to knock down birds in flight"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [
+            "Idiomatic expression"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "飛ぶ鳥を落とす勢い"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "撥ね飛ばす",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "撥ね飛ばす",
+          "reading": "はねとばす"
+        },
+        {
+          "word": "跳ね飛ばす",
+          "reading": "はねとばす"
+        },
+        {
+          "word": "はね飛ばす",
+          "reading": "はねとばす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to send (something) flying",
+            "to splatter"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to drive (something) off"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飛行機雲",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛行機雲",
+          "reading": "ひこうきぐも"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "vapor trail (vapour)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Contrail"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Contrail” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Contrail?oldid\u003d494182497"
+            },
+            {
+              "text": "Read “飛行機雲” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/飛行機雲?oldid\u003d42766113"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Contrail"
+      }
+    },
+    {
+      "slug": "飛行甲板",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛行甲板",
+          "reading": "ひこうかんぱん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "flight deck"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Flight deck"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Flight deck” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Flight_deck?oldid\u003d490011216"
+            },
+            {
+              "text": "Read “飛行甲板” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/飛行甲板?oldid\u003d41865692"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Flight_deck"
+      }
+    },
+    {
+      "slug": "飛行服",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛行服",
+          "reading": "ひこうふく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "flight uniform"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Flight suit"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Flight suit” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Flight_suit?oldid\u003d488397923"
+            },
+            {
+              "text": "Read “飛行服” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/飛行服?oldid\u003d40195703"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Flight_suit"
+      }
+    },
+    {
+      "slug": "飛行禁止空域",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛行禁止空域",
+          "reading": "ひこうきんしくういき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "no-fly zone"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "No-fly zone"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “No-fly zone” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/No-fly_zone?oldid\u003d492868825"
+            },
+            {
+              "text": "Read “飛行禁止空域” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/飛行禁止空域?oldid\u003d42159172"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/No-fly_zone"
+      }
+    },
+    {
+      "slug": "飛び級",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛び級",
+          "reading": "とびきゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "skipping a grade"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Grade skipping"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Grade skipping” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Grade_skipping?oldid\u003d494120620"
+            },
+            {
+              "text": "Read “飛び級” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/飛び級?oldid\u003d41869321"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Grade_skipping"
+      }
+    },
+    {
+      "slug": "曲技飛行",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "曲技飛行",
+          "reading": "きょくぎひこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "acrobatic flying",
+            "aerobatics"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Aerobatic maneuver"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Aerobatic maneuver” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Aerobatic_maneuver?oldid\u003d488640776"
+            },
+            {
+              "text": "Read “曲技飛行” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/曲技飛行?oldid\u003d38513490"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Aerobatic_maneuver"
+      }
+    },
+    {
+      "slug": "飛び込み競技",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛び込み競技",
+          "reading": "とびこみきょうぎ"
+        },
+        {
+          "word": "飛込み競技",
+          "reading": "とびこみきょうぎ"
+        },
+        {
+          "word": "飛込競技",
+          "reading": "とびこみきょうぎ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "diving competition"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Diving"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Diving” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Diving?oldid\u003d494119025"
+            },
+            {
+              "text": "Read “飛込競技” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/飛込競技?oldid\u003d42323949"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Diving"
+      }
+    },
+    {
+      "slug": "飛び出す絵本",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛び出す絵本",
+          "reading": "とびだすえほん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "pop-up book"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Pop-up book"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Pop-up book” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Pop-up_book?oldid\u003d491131032"
+            },
+            {
+              "text": "Read “飛び出す絵本” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/飛び出す絵本?oldid\u003d41638681"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Pop-up_book"
+      }
+    },
+    {
+      "slug": "飛螻蛄",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛螻蛄",
+          "reading": "とびけら"
+        },
+        {
+          "word": "石蚕",
+          "reading": "とびけら"
+        },
+        {
+          "reading": "トビケラ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "caddisfly",
+            "caddis fly (any moth-like insect of the order Trichoptera)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Caddisfly"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Caddisfly” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Caddisfly?oldid\u003d493852724"
+            },
+            {
+              "text": "Read “トビケラ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/トビケラ?oldid\u003d41313586"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Caddisfly"
+      }
+    },
+    {
+      "slug": "飛蚊症",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛蚊症",
+          "reading": "ひぶんしょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "myodesopsia",
+            "seeing floaters in one\u0027s eye"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Medicine, etc. term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Floater"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Floater” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Floater?oldid\u003d495131372"
+            },
+            {
+              "text": "Read “飛蚊症” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/飛蚊症?oldid\u003d42338526"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Floater"
+      }
+    }
+  ]
+}

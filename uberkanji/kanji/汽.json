@@ -1,0 +1,745 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "蒸気",
+      "is_common": true,
+      "tags": [
+        "wanikani33"
+      ],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "蒸気",
+          "reading": "じょうき"
+        },
+        {
+          "word": "蒸汽",
+          "reading": "じょうき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "steam",
+            "vapour",
+            "vapor"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "steamboat",
+            "steam locomotive"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Abbreviation"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "蒸気船",
+            "蒸気機関車"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Vapor"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Vapor” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Vapor?oldid\u003d493493088"
+            },
+            {
+              "text": "Read “蒸気” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/蒸気?oldid\u003d42605222"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Vapor"
+      }
+    },
+    {
+      "slug": "汽車",
+      "is_common": true,
+      "tags": [
+        "wanikani18"
+      ],
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "汽車",
+          "reading": "きしゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "train (esp. long distance train)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "steam train"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "orig. meaning"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "汽船",
+      "is_common": true,
+      "tags": [
+        "wanikani18"
+      ],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "汽船",
+          "reading": "きせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "steamship",
+            "steamboat",
+            "steamer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "汽笛",
+      "is_common": true,
+      "tags": [
+        "wanikani19"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "汽笛",
+          "reading": "きてき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "steam whistle"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "蒸気船",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蒸気船",
+          "reading": "じょうきせん"
+        },
+        {
+          "word": "蒸汽船",
+          "reading": "じょうきせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "steamship",
+            "steamboat",
+            "steamer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "汽船"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Steamboat"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Steamboat” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Steamboat?oldid\u003d495187799"
+            },
+            {
+              "text": "Read “蒸気船” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/蒸気船?oldid\u003d42327426"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Steamboat"
+      }
+    },
+    {
+      "slug": "汽水域",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "汽水域",
+          "reading": "きすいいき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "brackish waters (of an estuary)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Brackish water"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Brackish water” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Brackish_water?oldid\u003d494880099"
+            },
+            {
+              "text": "Read “汽水域” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/汽水域?oldid\u003d41286530"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Brackish_water"
+      }
+    },
+    {
+      "slug": "汽缶室",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "汽缶室",
+          "reading": "きかんしつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "boiler room"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "汽車馬陸",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "汽車馬陸",
+          "reading": "きしゃやすで"
+        },
+        {
+          "reading": "キシャヤスデ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Parafontaria laminata (species of millipede)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "汽圧",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "汽圧",
+          "reading": "きあつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "steam pressure"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "汽水湖",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "汽水湖",
+          "reading": "きすいこ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "brackish lake"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "汽船積み",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "汽船積み",
+          "reading": "きせんずみ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "shipment by steamer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "汽車賃",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "汽車賃",
+          "reading": "きしゃちん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "train fare"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "汽艇",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "汽艇",
+          "reading": "きてい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(steam) launch"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "夜汽車",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "夜汽車",
+          "reading": "よぎしゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "night train"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "汽水",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "汽水",
+          "reading": "きすい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "brackish water"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "汽缶",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "汽缶",
+          "reading": "きかん"
+        },
+        {
+          "word": "汽罐",
+          "reading": "きかん"
+        },
+        {
+          "word": "汽鑵",
+          "reading": "きかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "boiler"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "ボイラー"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "汽車ポッポ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "汽車ポッポ",
+          "reading": "きしゃポッポ"
+        },
+        {
+          "word": "汽車ぽっぽ",
+          "reading": "きしゃぽっぽ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "choo-choo train"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Colloquialism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

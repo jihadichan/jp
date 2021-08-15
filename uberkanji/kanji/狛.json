@@ -1,0 +1,235 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "高麗",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "高麗",
+          "reading": "こうらい"
+        },
+        {
+          "word": "高麗",
+          "reading": "こま"
+        },
+        {
+          "word": "狛",
+          "reading": "こま"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Goryeo (dynasty of Korea; 918-1392 CE)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Abbreviation"
+          ],
+          "restrictions": [
+            "こうらい"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Korea (esp. the Goguryeo kingdom or the Goryeo dynasty)"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Noun - used as a prefix"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "(stone) guardian lion-dogs at Shinto shrine"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "狛"
+          ],
+          "see_also": [
+            "狛犬"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Goryeo"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Goryeo” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Goryeo?oldid\u003d493550877"
+            },
+            {
+              "text": "Read “高麗” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/高麗?oldid\u003d42577964"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Goryeo"
+      }
+    },
+    {
+      "slug": "狛犬",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "狛犬",
+          "reading": "こまいぬ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(stone) guardian lion-dogs at Shinto shrine"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Komainu"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Komainu” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Komainu?oldid\u003d465820938"
+            },
+            {
+              "text": "Read “狛犬” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/狛犬?oldid\u003d41354680"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Komainu"
+      }
+    },
+    {
+      "slug": "高麗笛",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "高麗笛",
+          "reading": "こまぶえ"
+        },
+        {
+          "word": "狛笛",
+          "reading": "こまぶえ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Korean flute (horizontal bamboo flute with six holes; highest-pitched flute used in gagaku)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Komabue"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Komabue” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Komabue?oldid\u003d491943631"
+            },
+            {
+              "text": "Read “高麗笛” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/高麗笛?oldid\u003d35529267"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Komabue"
+      }
+    }
+  ]
+}

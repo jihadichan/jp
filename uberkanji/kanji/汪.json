@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "汪々",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "汪々",
+          "reading": "おうおう"
+        },
+        {
+          "word": "汪汪",
+          "reading": "おうおう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "wide and deep (of a body of water)",
+            "voluminous"
+          ],
+          "parts_of_speech": [
+            "Taru-adjective",
+            "Adverb taking the \u0027to\u0027 particle"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "汪然",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "汪然",
+          "reading": "おうぜん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "vigorously flowing (e.g. tears)"
+          ],
+          "parts_of_speech": [
+            "Adverb taking the \u0027to\u0027 particle",
+            "Taru-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

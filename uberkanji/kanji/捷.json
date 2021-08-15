@@ -1,0 +1,834 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "早い",
+      "is_common": true,
+      "tags": [
+        "wanikani4",
+        "wanikani10"
+      ],
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "早い",
+          "reading": "はやい"
+        },
+        {
+          "word": "速い",
+          "reading": "はやい"
+        },
+        {
+          "word": "疾い",
+          "reading": "はやい"
+        },
+        {
+          "word": "捷い",
+          "reading": "はやい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "fast",
+            "quick",
+            "hasty",
+            "brisk"
+          ],
+          "parts_of_speech": [
+            "I-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "esp. 速い, 疾い, 捷い"
+          ]
+        },
+        {
+          "english_definitions": [
+            "early (in the day, etc.)",
+            "premature"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "esp. 早い"
+          ]
+        },
+        {
+          "english_definitions": [
+            "(too) soon",
+            "not yet",
+            "(too) early"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "esp. 早い"
+          ]
+        },
+        {
+          "english_definitions": [
+            "easy",
+            "simple",
+            "quick"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "手っ取り早い"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "esp. 早い"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "勝利",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "勝利",
+          "reading": "しょうり"
+        },
+        {
+          "word": "捷利",
+          "reading": "しょうり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "victory",
+            "triumph",
+            "conquest",
+            "success",
+            "win"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Victory"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Victory” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Victory?oldid\u003d486421587"
+            },
+            {
+              "text": "Read “勝利” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/勝利?oldid\u003d42586181"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Victory"
+      }
+    },
+    {
+      "slug": "敏捷",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "敏捷",
+          "reading": "びんしょう"
+        },
+        {
+          "word": "敏しょう",
+          "reading": "びんしょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "nimble",
+            "agile",
+            "quick"
+          ],
+          "parts_of_speech": [
+            "Na-adjective",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "quick (thinking)",
+            "smart",
+            "alert",
+            "prompt"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "必勝",
+      "is_common": true,
+      "tags": [
+        "wanikani9"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "必勝",
+          "reading": "ひっしょう"
+        },
+        {
+          "word": "必捷",
+          "reading": "ひっしょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "certain victory"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "軽捷",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "軽捷",
+          "reading": "けいしょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "nimble"
+          ],
+          "parts_of_speech": [
+            "Na-adjective",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "簡捷",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "簡捷",
+          "reading": "かんしょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "fast and easy"
+          ],
+          "parts_of_speech": [
+            "Na-adjective",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "奇勝",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "奇勝",
+          "reading": "きしょう"
+        },
+        {
+          "word": "奇捷",
+          "reading": "きしょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "beauty spot",
+            "place with beautiful scenery"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "奇勝"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "unexpected victory",
+            "victory by uncommon stratagem"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "捷径",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "捷径",
+          "reading": "しょうけい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "shortcut",
+            "expedient"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "捷報",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "捷報",
+          "reading": "しょうほう"
+        },
+        {
+          "word": "勝報",
+          "reading": "しょうほう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "news of a victory"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "勁捷",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勁捷",
+          "reading": "けいしょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "strong and nimble"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "敏捷性",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "敏捷性",
+          "reading": "びんしょうせい"
+        },
+        {
+          "word": "敏しょう性",
+          "reading": "びんしょうせい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "agility",
+            "nimbleness"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Agility"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Agility” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Agility?oldid\u003d495354783"
+            },
+            {
+              "text": "Read “敏捷性” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/敏捷性?oldid\u003d39089873"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Agility"
+      }
+    },
+    {
+      "slug": "捷い",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "捷い",
+          "reading": "はしっこい"
+        },
+        {
+          "word": "捷い",
+          "reading": "はしこい"
+        },
+        {
+          "word": "敏捷い",
+          "reading": "はしっこい"
+        },
+        {
+          "word": "敏捷い",
+          "reading": "はしこい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "smart",
+            "clever"
+          ],
+          "parts_of_speech": [
+            "I-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "agile",
+            "nimble",
+            "quick"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "手ばしこい",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "手ばしこい",
+          "reading": "てばしこい"
+        },
+        {
+          "word": "手捷い",
+          "reading": "てばしこい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "nimble",
+            "agile",
+            "quick",
+            "smart"
+          ],
+          "parts_of_speech": [
+            "I-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "すばしこい"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "利し",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "利し",
+          "reading": "とし"
+        },
+        {
+          "word": "鋭し",
+          "reading": "とし"
+        },
+        {
+          "word": "疾し",
+          "reading": "とし"
+        },
+        {
+          "word": "敏し",
+          "reading": "とし"
+        },
+        {
+          "word": "捷し",
+          "reading": "とし"
+        },
+        {
+          "word": "聆し",
+          "reading": "とし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sharp"
+          ],
+          "parts_of_speech": [
+            "Ku-adjective (archaic)"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "esp. 利し, 鋭し"
+          ]
+        },
+        {
+          "english_definitions": [
+            "intense",
+            "strong",
+            "powerful"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "esp. 疾し, 鋭し"
+          ]
+        },
+        {
+          "english_definitions": [
+            "quick",
+            "rapid",
+            "fast"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "esp. 疾し, 捷し"
+          ]
+        },
+        {
+          "english_definitions": [
+            "keen",
+            "sharp",
+            "clever"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "esp. 敏し, 聆し"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "捷運",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "捷運",
+          "reading": "しょううん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rapid transit (in Taiwan)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

@@ -1,0 +1,4633 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "新聞",
+      "is_common": true,
+      "tags": [
+        "wanikani10"
+      ],
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "新聞",
+          "reading": "しんぶん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "newspaper"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Newspaper"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Newspaper” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Newspaper?oldid\u003d495554613"
+            },
+            {
+              "text": "Read “新聞” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/新聞?oldid\u003d42420586"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Newspaper"
+      }
+    },
+    {
+      "slug": "聞く",
+      "is_common": true,
+      "tags": [
+        "wanikani10",
+        "wanikani37"
+      ],
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "聞く",
+          "reading": "きく"
+        },
+        {
+          "word": "聴く",
+          "reading": "きく"
+        },
+        {
+          "word": "訊く",
+          "reading": "きく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to hear"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ku ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to listen (e.g. to music)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "usu. 聴く"
+          ]
+        },
+        {
+          "english_definitions": [
+            "to ask",
+            "to enquire",
+            "to query"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "聴く is more formal"
+          ]
+        },
+        {
+          "english_definitions": [
+            "to learn of",
+            "to hear about"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to follow (advice)",
+            "to comply with"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to smell (esp. incense)",
+            "to sample fragrance"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "聞く",
+            "聴く"
+          ],
+          "see_also": [
+            "香を聞く"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "新聞社",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "新聞社",
+          "reading": "しんぶんしゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "newspaper company"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "聞こえる",
+      "is_common": true,
+      "tags": [
+        "wanikani12"
+      ],
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "聞こえる",
+          "reading": "きこえる"
+        },
+        {
+          "word": "聞える",
+          "reading": "きこえる"
+        },
+        {
+          "word": "聴こえる",
+          "reading": "きこえる"
+        },
+        {
+          "word": "聴える",
+          "reading": "きこえる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to be heard",
+            "to be audible"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to be said to be",
+            "to be reputed"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "新聞紙",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "新聞紙",
+          "reading": "しんぶんし"
+        },
+        {
+          "word": "新聞紙",
+          "reading": "しんぶんがみ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "newsprint",
+            "newspaper used for wrapping, packing, etc."
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "newspaper"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "しんぶんし"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Newsprint"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Newsprint” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Newsprint?oldid\u003d494581118"
+            },
+            {
+              "text": "Read “新聞紙” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/新聞紙?oldid\u003d42087340"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Newsprint"
+      }
+    },
+    {
+      "slug": "聴聞",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聴聞",
+          "reading": "ちょうもん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "listening",
+            "hearing"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Hearing (law)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Hearing (law)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Hearing_(law)?oldid\u003d492135527"
+            },
+            {
+              "text": "Read “聴聞” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/聴聞?oldid\u003d41760964"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Hearing_(law)"
+      }
+    },
+    {
+      "slug": "醜聞",
+      "is_common": false,
+      "tags": [
+        "wanikani60"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "醜聞",
+          "reading": "しゅうぶん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "scandal"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Scandal (1950 film)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Scandal (1950 film)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Scandal_(1950_film)?oldid\u003d493623239"
+            },
+            {
+              "text": "Read “醜聞” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/醜聞?oldid\u003d42737156"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Scandal_(1950_film)"
+      }
+    },
+    {
+      "slug": "聞かす",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聞かす",
+          "reading": "きかす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to let (someone) hear",
+            "to tell (e.g. a story)",
+            "to inform (of)"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "聞かせる"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to make (someone) listen",
+            "to make (someone) understand",
+            "to drum into (someone)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "聞かせる"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to grip (someone) with skilful singing, storytelling, etc.",
+            "to hold (someone) enchanted by"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "聞かせる"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "新聞記事",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "新聞記事",
+          "reading": "しんぶんきじ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "newspaper story (article, account)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "前代未聞",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "前代未聞",
+          "reading": "ぜんだいみもん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "unheard-of",
+            "unprecedented",
+            "unparalleled in history (unparallelled)",
+            "record-breaking"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見聞",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "見聞",
+          "reading": "けんぶん"
+        },
+        {
+          "word": "見聞",
+          "reading": "けんもん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "information",
+            "experience",
+            "knowledge",
+            "observation"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "聞き取る",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聞き取る",
+          "reading": "ききとる"
+        },
+        {
+          "word": "聞取る",
+          "reading": "ききとる"
+        },
+        {
+          "word": "聞きとる",
+          "reading": "ききとる"
+        },
+        {
+          "word": "聴き取る",
+          "reading": "ききとる"
+        },
+        {
+          "word": "聴取る",
+          "reading": "ききとる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to catch (a person\u0027s words)",
+            "to make out",
+            "to follow",
+            "to understand"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to find out by asking"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "聞き入る",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聞き入る",
+          "reading": "ききいる"
+        },
+        {
+          "word": "聴き入る",
+          "reading": "ききいる"
+        },
+        {
+          "word": "聞きいる",
+          "reading": "ききいる"
+        },
+        {
+          "word": "聴きいる",
+          "reading": "ききいる"
+        },
+        {
+          "word": "聞入る",
+          "reading": "ききいる"
+        },
+        {
+          "word": "聴入る",
+          "reading": "ききいる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to listen attentively to",
+            "to be lost in"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "聞き出す",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聞き出す",
+          "reading": "ききだす"
+        },
+        {
+          "word": "聞きだす",
+          "reading": "ききだす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to get information out of a person"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to begin listening"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "聞き上手",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聞き上手",
+          "reading": "ききじょうず"
+        },
+        {
+          "word": "聞上手",
+          "reading": "ききじょうず"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "being a good listener",
+            "good listener"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "言い聞かせる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "言い聞かせる",
+          "reading": "いいきかせる"
+        },
+        {
+          "word": "言いきかせる",
+          "reading": "いいきかせる"
+        },
+        {
+          "word": "言聞かせる",
+          "reading": "いいきかせる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to tell someone to do something",
+            "to warn",
+            "to persuade",
+            "to instruct"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "百聞",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "百聞",
+          "reading": "ひゃくぶん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "hearing a hundred times"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "聴聞会",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聴聞会",
+          "reading": "ちょうもんかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "hearing (by a government agency)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "見聞き",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "見聞き",
+          "reading": "みきき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "information",
+            "experience",
+            "observation",
+            "seeing and hearing"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "朝日新聞",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "朝日新聞",
+          "reading": "あさひしんぶん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Asahi Shimbun (newspaper)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Asahi Shimbun (Japanese newspaper)"
+          ],
+          "parts_of_speech": [
+            "Company"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Asahi Shimbun"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Asahi Shimbun” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Asahi_Shimbun?oldid\u003d495555426"
+            },
+            {
+              "text": "Read “朝日新聞” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/朝日新聞?oldid\u003d42777334"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "http://dbpedia.org/resource/Asahi_Shimbun"
+      }
+    },
+    {
+      "slug": "新聞配達",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "新聞配達",
+          "reading": "しんぶんはいたつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(newspaper) carrier",
+            "newspaper (delivery) boy (girl)",
+            "new"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Newspaper delivery"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Newspaper delivery” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Newspaper_delivery?oldid\u003d495178381"
+            },
+            {
+              "text": "Read “新聞配達” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/新聞配達?oldid\u003d41682229"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Newspaper_delivery"
+      }
+    },
+    {
+      "slug": "産経新聞",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "産経新聞",
+          "reading": "さんけいしんぶん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Sankei newspaper"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Sankei Shimbun"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Sankei Shimbun” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Sankei_Shimbun?oldid\u003d492163190"
+            },
+            {
+              "text": "Read “産経新聞” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/産経新聞?oldid\u003d42780663"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Sankei_Shimbun"
+      }
+    },
+    {
+      "slug": "聞き取り",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "聞き取り",
+          "reading": "ききとり"
+        },
+        {
+          "word": "聴き取り",
+          "reading": "ききとり"
+        },
+        {
+          "word": "聞取り",
+          "reading": "ききとり"
+        },
+        {
+          "word": "聴取り",
+          "reading": "ききとり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "listening comprehension",
+            "aural comprehension"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "hearing what others say",
+            "gathering information, opinions, etc.",
+            "public hearing"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "と言って聞かない",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "と言って聞かない",
+          "reading": "といってきかない"
+        },
+        {
+          "word": "と言ってきかない",
+          "reading": "といってきかない"
+        },
+        {
+          "word": "といって聞かない",
+          "reading": "といってきかない"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "insisting"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "I-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "新聞記者",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "新聞記者",
+          "reading": "しんぶんきしゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "newspaper reporter"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "聞き入れる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聞き入れる",
+          "reading": "ききいれる"
+        },
+        {
+          "word": "聞入れる",
+          "reading": "ききいれる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to grant (a wish)",
+            "to accede",
+            "to comply with",
+            "to heed"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "聞き飽きる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聞き飽きる",
+          "reading": "ききあきる"
+        },
+        {
+          "word": "聞きあきる",
+          "reading": "ききあきる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to be tired of hearing"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "聞き漏らす",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聞き漏らす",
+          "reading": "ききもらす"
+        },
+        {
+          "word": "聞きもらす",
+          "reading": "ききもらす"
+        },
+        {
+          "word": "聞き洩らす",
+          "reading": "ききもらす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to fail to hear",
+            "to miss"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "古新聞",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "古新聞",
+          "reading": "ふるしんぶん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "old newspapers"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "また聞き",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "また聞き",
+          "reading": "またぎき"
+        },
+        {
+          "word": "又聞き",
+          "reading": "またぎき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "hearsay",
+            "learning by hearsay"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "立ち聞き",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "立ち聞き",
+          "reading": "たちぎき"
+        },
+        {
+          "word": "立聞き",
+          "reading": "たちぎき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "eavesdropping"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "聞きたがる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聞きたがる",
+          "reading": "ききたがる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to be curious",
+            "to be inquisitive",
+            "to want to hear"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "聞く耳を持たない",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聞く耳を持たない",
+          "reading": "きくみみをもたない"
+        },
+        {
+          "word": "聞く耳をもたない",
+          "reading": "きくみみをもたない"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to turn a deaf ear to",
+            "to not listen to",
+            "to not get the message"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "I-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "聞かせる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聞かせる",
+          "reading": "きかせる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to let (someone) hear",
+            "to tell (e.g. a story)",
+            "to inform (of)"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to make (someone) listen",
+            "to make (someone) understand",
+            "to drum into (someone)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to grip (someone) with skilful singing, storytelling, etc.",
+            "to hold (someone) enchanted by"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "英字新聞",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "英字新聞",
+          "reading": "えいじしんぶん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "English-language newspaper"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "新聞広告",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "新聞広告",
+          "reading": "しんぶんこうこく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "newspaper advertisement"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "聞き覚え",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聞き覚え",
+          "reading": "ききおぼえ"
+        },
+        {
+          "word": "聞きおぼえ",
+          "reading": "ききおぼえ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "learning by ear"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "memory of having heard something before"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "聞き覚えがある"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "聞きつける",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聞きつける",
+          "reading": "ききつける"
+        },
+        {
+          "word": "聞き付ける",
+          "reading": "ききつける"
+        },
+        {
+          "word": "聞付ける",
+          "reading": "ききつける"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to hear",
+            "to catch (the sound of something)"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to hear about (rumour, etc.)",
+            "to overhear",
+            "to learn of (something)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to get used to hearing"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "聞き耳",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聞き耳",
+          "reading": "ききみみ"
+        },
+        {
+          "word": "聞耳",
+          "reading": "ききみみ"
+        },
+        {
+          "word": "聴き耳",
+          "reading": "ききみみ"
+        },
+        {
+          "word": "聴耳",
+          "reading": "ききみみ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "straining one\u0027s ears"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "聞き分ける",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聞き分ける",
+          "reading": "ききわける"
+        },
+        {
+          "word": "聞分ける",
+          "reading": "ききわける"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to recognize by sound (recognise)",
+            "to identify by sound"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to understand",
+            "to be reasonable"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "聞きつける",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聞きつける",
+          "reading": "ききつける"
+        },
+        {
+          "word": "聞き付ける",
+          "reading": "ききつける"
+        },
+        {
+          "word": "聞付ける",
+          "reading": "ききつける"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to hear",
+            "to catch (the sound of something)"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to hear about (rumour, etc.)",
+            "to overhear",
+            "to learn of (something)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to get used to hearing"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "聞き覚え",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聞き覚え",
+          "reading": "ききおぼえ"
+        },
+        {
+          "word": "聞きおぼえ",
+          "reading": "ききおぼえ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "learning by ear"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "memory of having heard something before"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "聞き覚えがある"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "聞こえ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聞こえ",
+          "reading": "きこえ"
+        },
+        {
+          "word": "聞え",
+          "reading": "きこえ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "being able to hear something (clearly)",
+            "clearness of a sound",
+            "reception (e.g. of a radio station)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "reputation",
+            "renown",
+            "fame",
+            "hearsay"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "impression (that something gives off)",
+            "respectability"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "sonority"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "linguistics terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Sonority hierarchy"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Sonority hierarchy” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Sonority_hierarchy?oldid\u003d493583466"
+            },
+            {
+              "text": "Read “聞こえ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/聞こえ?oldid\u003d32467277"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Sonority_hierarchy"
+      }
+    },
+    {
+      "slug": "聞き書き",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聞き書き",
+          "reading": "ききがき"
+        },
+        {
+          "word": "聞書き",
+          "reading": "ききがき"
+        },
+        {
+          "word": "聞き書",
+          "reading": "ききがき"
+        },
+        {
+          "word": "聞書",
+          "reading": "ききがき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "writing down what one hears",
+            "account of what one hears"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "聞き手",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聞き手",
+          "reading": "ききて"
+        },
+        {
+          "word": "聞手",
+          "reading": "ききて"
+        },
+        {
+          "word": "聴き手",
+          "reading": "ききて"
+        },
+        {
+          "word": "聴手",
+          "reading": "ききて"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "hearer",
+            "listener",
+            "audience"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "話し手"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "interviewer",
+            "questioner"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "利き酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "利き酒",
+          "reading": "ききざけ"
+        },
+        {
+          "word": "きき酒",
+          "reading": "ききざけ"
+        },
+        {
+          "word": "利酒",
+          "reading": "ききざけ"
+        },
+        {
+          "word": "聞き酒",
+          "reading": "ききざけ"
+        },
+        {
+          "word": "聞酒",
+          "reading": "ききざけ"
+        },
+        {
+          "word": "唎き酒",
+          "reading": "ききざけ"
+        },
+        {
+          "word": "唎酒",
+          "reading": "ききざけ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sake tasting",
+            "wine tasting"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "聞き返す",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聞き返す",
+          "reading": "ききかえす"
+        },
+        {
+          "word": "訊き返す",
+          "reading": "ききかえす"
+        },
+        {
+          "word": "きき返す",
+          "reading": "ききかえす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to listen repeatedly",
+            "to listen again"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to ask a question in return"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to ask again",
+            "to ask for a repeated explanation"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "聞き込み",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聞き込み",
+          "reading": "ききこみ"
+        },
+        {
+          "word": "聞込み",
+          "reading": "ききこみ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "getting information (esp. by interviewing witnesses, etc. in a police investigation)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "聞き込み捜査",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聞き込み捜査",
+          "reading": "ききこみそうさ"
+        },
+        {
+          "word": "聞込み捜査",
+          "reading": "ききこみそうさ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(police) legwork",
+            "house-to-house inquiry",
+            "canvassing",
+            "investigation carried out by questioning neighbours, bystanders, etc."
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "聞き流す",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聞き流す",
+          "reading": "ききながす"
+        },
+        {
+          "word": "聞流す",
+          "reading": "ききながす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to ignore"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "聞き役",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聞き役",
+          "reading": "ききやく"
+        },
+        {
+          "word": "聞役",
+          "reading": "ききやく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "listener\u0027s role"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "壁新聞",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "壁新聞",
+          "reading": "かべしんぶん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "wall newspaper",
+            "wall poster"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "伝聞",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "伝聞",
+          "reading": "でんぶん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "hearsay",
+            "rumor",
+            "rumour",
+            "report"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "噂を聞く",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "噂を聞く",
+          "reading": "うわさをきく"
+        },
+        {
+          "word": "うわさを聞く",
+          "reading": "うわさをきく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to hear a rumor",
+            "to get wind of"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with ku ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "聞いてあきれる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聞いてあきれる",
+          "reading": "きいてあきれる"
+        },
+        {
+          "word": "聞いて呆れる",
+          "reading": "きいてあきれる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to be astonished to hear",
+            "to be incredulous about",
+            "to express disbelief"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Ichidan verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "who do you think you\u0027re kidding by saying (that)",
+            "what a laugh!"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "as 〜が聞いてあきれる, used to indicate incredulous dismissal of some claim"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "お願いを聞く",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "お願いを聞く",
+          "reading": "おねがいをきく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to grant someone\u0027s request"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with ku ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "道を訊く",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "道を訊く",
+          "reading": "みちをきく"
+        },
+        {
+          "word": "道を聞く",
+          "reading": "みちをきく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to ask the way"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with ku ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "聞き耳を立てる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聞き耳を立てる",
+          "reading": "ききみみをたてる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to prick up one\u0027s ears and listen",
+            "to listen attentively"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Ichidan verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "聞き惚れる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聞き惚れる",
+          "reading": "ききほれる"
+        },
+        {
+          "word": "聞きほれる",
+          "reading": "ききほれる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to listen to in an ecstasy"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "聞きもしないで",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聞きもしないで",
+          "reading": "ききもしないで"
+        },
+        {
+          "word": "聴きもしないで",
+          "reading": "ききもしないで"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "without even asking",
+            "without even listening",
+            "without careful inquiry (enquiry)"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "聞き知る",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聞き知る",
+          "reading": "ききしる"
+        },
+        {
+          "word": "聞知る",
+          "reading": "ききしる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to learn something through hearing"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "聞きもしないで",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聞きもしないで",
+          "reading": "ききもしないで"
+        },
+        {
+          "word": "聴きもしないで",
+          "reading": "ききもしないで"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "without even asking",
+            "without even listening",
+            "without careful inquiry (enquiry)"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "聞き覚えがある",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聞き覚えがある",
+          "reading": "ききおぼえがある"
+        },
+        {
+          "word": "聞きおぼえがある",
+          "reading": "ききおぼえがある"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to have heard somewhere",
+            "to sound familiar"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with ru ending (irregular verb)"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "競馬新聞",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "競馬新聞",
+          "reading": "けいばしんぶん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "racing form",
+            "racing (news)paper"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Form (horse racing)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Form (horse racing)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Form_(horse_racing)?oldid\u003d427553315"
+            },
+            {
+              "text": "Read “競馬新聞” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/競馬新聞?oldid\u003d41384013"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Form_(horse_racing)"
+      }
+    },
+    {
+      "slug": "言うことを聞く",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "言うことを聞く",
+          "reading": "いうことをきく"
+        },
+        {
+          "word": "言う事を聞く",
+          "reading": "いうことをきく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to do what one is told to",
+            "to take someone\u0027s advice",
+            "to listen to what someone says"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with ku ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "言うことを聞かない"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "声聞",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "声聞",
+          "reading": "しょうもん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sravaka (disciple of Buddha)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "adherent of Hinayana Buddhism"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Śrāvaka"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Śrāvaka” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Śrāvaka?oldid\u003d493337130"
+            },
+            {
+              "text": "Read “声聞” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/声聞?oldid\u003d42505418"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Śrāvaka"
+      }
+    },
+    {
+      "slug": "きかん坊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "きかん坊",
+          "reading": "きかんぼう"
+        },
+        {
+          "word": "聞かん坊",
+          "reading": "きかんぼう"
+        },
+        {
+          "word": "利かん坊",
+          "reading": "きかんぼう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "naughty child",
+            "unruly child"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "奇聞",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "奇聞",
+          "reading": "きぶん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "strange news"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "聞か猿",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聞か猿",
+          "reading": "きかざる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "hear-not monkey (one of the three wise monkeys)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "三猿"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "内聞",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "内聞",
+          "reading": "ないぶん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "secret",
+            "private (information)"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "博聞",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "博聞",
+          "reading": "はくぶん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "well-informed",
+            "erudite"
+          ],
+          "parts_of_speech": [
+            "Na-adjective",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "下聞き",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "下聞き",
+          "reading": "したぎき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "enquiring beforehand",
+            "inquiring beforehand"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "誤聞",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誤聞",
+          "reading": "ごぶん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "misunderstanding",
+            "misinformation"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "確聞",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "確聞",
+          "reading": "かくぶん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "learn from reliable sources"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "聞こえよがし",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聞こえよがし",
+          "reading": "きこえよがし"
+        },
+        {
+          "word": "聞えよがし",
+          "reading": "きこえよがし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "bad-mouthing someone so as to be deliberately overheard",
+            "intentionally letting someone hear insults or sarcasm regarding them"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "赤新聞",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "赤新聞",
+          "reading": "あかしんぶん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "scandal sheet",
+            "gutter press"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "言い聞かす",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "言い聞かす",
+          "reading": "いいきかす"
+        },
+        {
+          "word": "言聞かす",
+          "reading": "いいきかす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to tell someone to do something",
+            "to warn",
+            "to persuade",
+            "to instruct"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "如是我聞",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "如是我聞",
+          "reading": "にょぜがもん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "thus I hear (quote from the sutras)",
+            "these ears have heard"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "学校新聞",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "学校新聞",
+          "reading": "がっこうしんぶん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "school paper"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "聞かせどころ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聞かせどころ",
+          "reading": "きかせどころ"
+        },
+        {
+          "word": "聞かせ所",
+          "reading": "きかせどころ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "most moving part",
+            "compelling part (of story)",
+            "climax"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "怪聞",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "怪聞",
+          "reading": "かいぶん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "strange rumor",
+            "strange rumour",
+            "scandal"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "風聞",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "風聞",
+          "reading": "ふうぶん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rumour",
+            "rumor",
+            "hearsay",
+            "report"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "未聞",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "未聞",
+          "reading": "みもん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "unheard"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "前代未聞"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "著聞",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "著聞",
+          "reading": "ちょぶん"
+        },
+        {
+          "word": "著聞",
+          "reading": "ちょもん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "something well-known throughout the world"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "言うことを聞かない",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "言うことを聞かない",
+          "reading": "いうことをきかない"
+        },
+        {
+          "word": "言う事を聞かない",
+          "reading": "いうことをきかない"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "not doing as one is told",
+            "disobedient",
+            "unruly"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "I-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "言うことを聞く いうことをきく"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "外聞",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "外聞",
+          "reading": "がいぶん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "reputation",
+            "respectability",
+            "honour",
+            "honor"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "逸聞",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "逸聞",
+          "reading": "いつぶん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "something unheard of"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "小型新聞",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "小型新聞",
+          "reading": "こがたしんぶん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "tabloid"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "希代未聞",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "希代未聞",
+          "reading": "きたいみもん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "unheard-of",
+            "unparalleled"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "余聞",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "余聞",
+          "reading": "よぶん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "gossip",
+            "rumor",
+            "rumour"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "きかん坊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "きかん坊",
+          "reading": "きかんぼう"
+        },
+        {
+          "word": "聞かん坊",
+          "reading": "きかんぼう"
+        },
+        {
+          "word": "利かん坊",
+          "reading": "きかんぼう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "naughty child",
+            "unruly child"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "聞か猿",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聞か猿",
+          "reading": "きかざる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "hear-not monkey (one of the three wise monkeys)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "三猿"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "政界余聞",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "政界余聞",
+          "reading": "せいかいよぶん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "tidbits of political gossip"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "下聞き",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "下聞き",
+          "reading": "したぎき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "enquiring beforehand",
+            "inquiring beforehand"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "令聞",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "令聞",
+          "reading": "れいぶん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "good reputation",
+            "fame"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "浅学寡聞",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "浅学寡聞",
+          "reading": "せんがくかぶん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "shallow learning and limited information",
+            "ignorant and badly informed"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "人聞き",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "人聞き",
+          "reading": "ひとぎき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "reputation",
+            "respectability"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "外字新聞",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "外字新聞",
+          "reading": "がいじしんぶん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "foreign-language newspaper"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "余所聞き",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "余所聞き",
+          "reading": "よそぎき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "reputation",
+            "respectability"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "聞き悪い",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聞きにくい",
+          "reading": "ききにくい"
+        },
+        {
+          "word": "聞き難い",
+          "reading": "ききにくい"
+        },
+        {
+          "word": "聞き悪い",
+          "reading": "ききにくい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "difficult to hear",
+            "indistinct"
+          ],
+          "parts_of_speech": [
+            "I-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "hesitating to ask",
+            "awkward to ask"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "unpleasant to hear",
+            "painful to listen to"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

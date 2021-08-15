@@ -1,0 +1,451 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "姉",
+      "is_common": true,
+      "tags": [
+        "wanikani6"
+      ],
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "姉",
+          "reading": "あね"
+        },
+        {
+          "word": "姐",
+          "reading": "あね"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "older sister",
+            "elder sister"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Humble (kenjougo)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Ane"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "お姉さん",
+      "is_common": true,
+      "tags": [
+        "wanikani6"
+      ],
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "お姉さん",
+          "reading": "おねえさん"
+        },
+        {
+          "word": "お姐さん",
+          "reading": "おねえさん"
+        },
+        {
+          "word": "御姉さん",
+          "reading": "おねえさん"
+        },
+        {
+          "word": "御姐さん",
+          "reading": "おねえさん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "elder sister"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Honorific or respectful (sonkeigo)"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "姉さん"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "usu. お姉さん"
+          ]
+        },
+        {
+          "english_definitions": [
+            "young lady"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "姉さん"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "vocative"
+          ]
+        },
+        {
+          "english_definitions": [
+            "miss"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "姉さん"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "referring to a waitress, etc.; usu. お姐さん"
+          ]
+        },
+        {
+          "english_definitions": [
+            "ma\u0027am"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "姉さん"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "used by geisha to refer to their superiors; usu. お姐さん"
+          ]
+        },
+        {
+          "english_definitions": [
+            "older girl"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "姉さん",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "姉さん",
+          "reading": "ねえさん"
+        },
+        {
+          "word": "姉さん",
+          "reading": "あねさん"
+        },
+        {
+          "word": "姐さん",
+          "reading": "ねえさん"
+        },
+        {
+          "word": "姐さん",
+          "reading": "あねさん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "elder sister"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Honorific or respectful (sonkeigo)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "usu. 姉さん"
+          ]
+        },
+        {
+          "english_definitions": [
+            "young lady"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "vocative"
+          ]
+        },
+        {
+          "english_definitions": [
+            "miss"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "referring to a waitress, etc.; usu. 姐さん"
+          ]
+        },
+        {
+          "english_definitions": [
+            "ma\u0027am"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "used by geisha to refer to their superiors; usu. 姐さん"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "姉御",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "姉御",
+          "reading": "あねご"
+        },
+        {
+          "word": "姐御",
+          "reading": "あねご"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "elder sister"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Humble (kenjougo)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "姐御肌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "姐御肌",
+          "reading": "あねごはだ"
+        },
+        {
+          "word": "姉御肌",
+          "reading": "あねごはだ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "a woman\u0027s natural inclination to care for others",
+            "big-sisterly disposition"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "菩薩揚げ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "菩薩揚げ",
+          "reading": "ぼさあげ"
+        },
+        {
+          "word": "媽姐揚げ",
+          "reading": "ぼさあげ"
+        },
+        {
+          "word": "菩薩揚",
+          "reading": "ぼさあげ"
+        },
+        {
+          "word": "媽姐揚",
+          "reading": "ぼさあげ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "ceremony performed by Chinese merchants disembarking in Nagasaki (Edo period)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Obscure term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "姉や",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "姉や",
+          "reading": "ねえや"
+        },
+        {
+          "word": "姐や",
+          "reading": "ねえや"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "young lady (in ref. to a maid, etc.)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone",
+            "Familiar language"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

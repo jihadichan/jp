@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "飛騨山椒魚",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛騨山椒魚",
+          "reading": "ひださんしょううお"
+        },
+        {
+          "reading": "ヒダサンショウウオ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Hida salamander (Hynobius kimurae)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Hida Salamander"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Hida Salamander” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Hida_Salamander?oldid\u003d481941812"
+            },
+            {
+              "text": "Read “ヒダサンショウウオ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/ヒダサンショウウオ?oldid\u003d36821623"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Hida_Salamander"
+      }
+    },
+    {
+      "slug": "飛騨の匠",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛騨の匠",
+          "reading": "ひだのたくみ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "historical system whereby the Hida region provided the central government 10 carpenters per village in place of taxes"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

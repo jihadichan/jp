@@ -1,0 +1,182 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "躾",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "躾",
+          "reading": "しつけ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "discipline",
+            "training",
+            "teaching manners"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "仕付け しつけ"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "不躾",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "不躾",
+          "reading": "ぶしつけ"
+        },
+        {
+          "word": "不仕付け",
+          "reading": "ぶしつけ"
+        },
+        {
+          "word": "無躾",
+          "reading": "ぶしつけ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "ill-bred",
+            "impolite",
+            "rude",
+            "impudent",
+            "insolent",
+            "blunt"
+          ],
+          "parts_of_speech": [
+            "Na-adjective",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "躾ける",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "躾ける",
+          "reading": "しつける"
+        },
+        {
+          "word": "躾る",
+          "reading": "しつける"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to train",
+            "to discipline",
+            "to teach manners"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "仕付ける しつける"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "躾方",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "しつけ方",
+          "reading": "しつけかた"
+        },
+        {
+          "word": "躾方",
+          "reading": "しつけかた"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "way of training",
+            "method of bringing up children"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

@@ -1,0 +1,556 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "注ぐ",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "注ぐ",
+          "reading": "そそぐ"
+        },
+        {
+          "word": "灌ぐ",
+          "reading": "そそぐ"
+        },
+        {
+          "word": "潅ぐ",
+          "reading": "そそぐ"
+        },
+        {
+          "word": "濺ぐ",
+          "reading": "そそぐ"
+        },
+        {
+          "word": "漑ぐ",
+          "reading": "そそぐ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to pour (into)"
+          ],
+          "parts_of_speech": [
+            "Godan verb with gu ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "注ぐ つぐ"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to sprinkle on (from above)",
+            "to water (e.g. plants)",
+            "to pour onto",
+            "to spray"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to shed (tears)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to concentrate one\u0027s energy (strength, attention, etc.) on",
+            "to devote to",
+            "to fix (one\u0027s eyes) on"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to flow into (e.g. of a river)",
+            "to run into",
+            "to drain into"
+          ],
+          "parts_of_speech": [
+            "Godan verb with gu ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to fall (of rain, snow)",
+            "to pour down"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "浣腸",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "浣腸",
+          "reading": "かんちょう"
+        },
+        {
+          "word": "潅腸",
+          "reading": "かんちょう"
+        },
+        {
+          "word": "灌腸",
+          "reading": "かんちょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(giving an) enema"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Enema"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Enema” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Enema?oldid\u003d494969781"
+            },
+            {
+              "text": "Read “浣腸” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/浣腸?oldid\u003d42600216"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Enema"
+      }
+    },
+    {
+      "slug": "灌木",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "灌木",
+          "reading": "かんぼく"
+        },
+        {
+          "word": "潅木",
+          "reading": "かんぼく"
+        },
+        {
+          "word": "かん木",
+          "reading": "かんぼく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "bush",
+            "shrub"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "灌漑",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "灌漑",
+          "reading": "かんがい"
+        },
+        {
+          "word": "潅漑",
+          "reading": "かんがい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "irrigation"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Irrigation"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Irrigation” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Irrigation?oldid\u003d493960352"
+            },
+            {
+              "text": "Read “灌漑” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/灌漑?oldid\u003d42312997"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Irrigation"
+      }
+    },
+    {
+      "slug": "潅水",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "潅水",
+          "reading": "かんすい"
+        },
+        {
+          "word": "かん水",
+          "reading": "かんすい"
+        },
+        {
+          "word": "灌水",
+          "reading": "かんすい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sprinkling (water)",
+            "watering (plants)"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "灌漑用水",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "灌漑用水",
+          "reading": "かんがいようすい"
+        },
+        {
+          "word": "潅漑用水",
+          "reading": "かんがいようすい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "irrigation water"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "灌漑農業",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "灌漑農業",
+          "reading": "かんがいのうぎょう"
+        },
+        {
+          "word": "潅漑農業",
+          "reading": "かんがいのうぎょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "irrigation farming"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "かん流",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "かん流",
+          "reading": "かんりゅう"
+        },
+        {
+          "word": "灌流",
+          "reading": "かんりゅう"
+        },
+        {
+          "word": "潅流",
+          "reading": "かんりゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "perfusion"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "湯灌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "湯灌",
+          "reading": "ゆかん"
+        },
+        {
+          "word": "湯潅",
+          "reading": "ゆかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "washing a corpse for burial"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "灌流圧",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "灌流圧",
+          "reading": "かんりゅうあつ"
+        },
+        {
+          "word": "潅流圧",
+          "reading": "かんりゅうあつ"
+        },
+        {
+          "word": "かん流圧",
+          "reading": "かんりゅうあつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "perfusion pressure"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

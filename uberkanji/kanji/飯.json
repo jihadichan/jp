@@ -1,0 +1,4520 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "飯",
+      "is_common": true,
+      "tags": [
+        "wanikani15"
+      ],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "飯",
+          "reading": "めし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "cooked rice"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "meal",
+            "food"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "one\u0027s livelihood"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Steamed rice"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Steamed rice” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Steamed_rice?oldid\u003d488756314"
+            },
+            {
+              "text": "Read “飯” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/飯?oldid\u003d42361846"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Steamed_rice"
+      }
+    },
+    {
+      "slug": "ご飯",
+      "is_common": true,
+      "tags": [
+        "wanikani15",
+        "wanikani39"
+      ],
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "ご飯",
+          "reading": "ごはん"
+        },
+        {
+          "word": "御飯",
+          "reading": "ごはん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "cooked rice"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "meal"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "夕飯",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "夕飯",
+          "reading": "ゆうはん"
+        },
+        {
+          "word": "夕飯",
+          "reading": "ゆうめし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "evening meal"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "朝ご飯",
+      "is_common": true,
+      "tags": [
+        "wanikani8",
+        "wanikani17"
+      ],
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "朝ご飯",
+          "reading": "あさごはん"
+        },
+        {
+          "word": "朝御飯",
+          "reading": "あさごはん"
+        },
+        {
+          "word": "朝ごはん",
+          "reading": "あさごはん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "breakfast"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "晩御飯",
+      "is_common": true,
+      "tags": [
+        "wanikani17"
+      ],
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "晩御飯",
+          "reading": "ばんごはん"
+        },
+        {
+          "word": "晩ご飯",
+          "reading": "ばんごはん"
+        },
+        {
+          "word": "晩ごはん",
+          "reading": "ばんごはん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dinner",
+            "evening meal"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "昼ご飯",
+      "is_common": false,
+      "tags": [
+        "wanikani17"
+      ],
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "昼ご飯",
+          "reading": "ひるごはん"
+        },
+        {
+          "word": "昼御飯",
+          "reading": "ひるごはん"
+        },
+        {
+          "word": "昼ごはん",
+          "reading": "ひるごはん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "lunch",
+            "midday meal"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "昼飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "昼飯",
+          "reading": "ひるめし"
+        },
+        {
+          "word": "昼めし",
+          "reading": "ひるめし"
+        },
+        {
+          "word": "昼飯",
+          "reading": "ちゅうはん"
+        },
+        {
+          "word": "昼飯",
+          "reading": "ひるはん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "lunch",
+            "midday meal"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "炊飯器",
+      "is_common": true,
+      "tags": [
+        "wanikani47"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "炊飯器",
+          "reading": "すいはんき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rice cooker"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Rice cooker"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Rice cooker” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Rice_cooker?oldid\u003d493401984"
+            },
+            {
+              "text": "Read “炊飯器” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/炊飯器?oldid\u003d42355286"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Rice_cooker"
+      }
+    },
+    {
+      "slug": "残飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "残飯",
+          "reading": "ざんぱん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "leftover food",
+            "leftovers",
+            "food scraps"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Leftovers"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Leftovers” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Leftovers?oldid\u003d487124291"
+            },
+            {
+              "text": "Read “残飯” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/残飯?oldid\u003d42770480"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Leftovers"
+      }
+    },
+    {
+      "slug": "朝飯",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "朝飯",
+          "reading": "あさめし"
+        },
+        {
+          "word": "朝飯",
+          "reading": "あさはん"
+        },
+        {
+          "word": "あさ飯",
+          "reading": "あさめし"
+        },
+        {
+          "word": "あさ飯",
+          "reading": "あさはん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "breakfast"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "朝飯前",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "朝飯前",
+          "reading": "あさめしまえ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "trivial matter",
+            "cinch",
+            "easy as pie",
+            "piece of cake",
+            "child\u0027s play"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "before breakfast"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "orig. meaning"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "夕御飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "夕ご飯",
+          "reading": "ゆうごはん"
+        },
+        {
+          "word": "夕御飯",
+          "reading": "ゆうごはん"
+        },
+        {
+          "word": "夕ごはん",
+          "reading": "ゆうごはん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "evening meal",
+            "dinner",
+            "supper"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "晩飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "晩飯",
+          "reading": "ばんめし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dinner",
+            "evening meal"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "早飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "早飯",
+          "reading": "はやめし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "fast eater"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "early meal"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "日常茶飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "日常茶飯",
+          "reading": "にちじょうさはん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "everyday occurrence"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飯落ち",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飯落ち",
+          "reading": "めしおち"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dropping off-line to eat"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [
+            "Slang"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "茶飯事",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "茶飯事",
+          "reading": "さはんじ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "commonly occurring thing",
+            "commonplace event",
+            "bread and butter item"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "一宿一飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "一宿一飯",
+          "reading": "いっしゅくいっぱん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(being beholden to someone for a favor of) a night\u0027s lodging and a meal"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "赤飯",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "赤飯",
+          "reading": "せきはん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "red rice (beans and mochi) for auspicious occasions"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Sekihan"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Sekihan” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Sekihan?oldid\u003d491511711"
+            },
+            {
+              "text": "Read “赤飯” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/赤飯?oldid\u003d42443940"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Sekihan"
+      }
+    },
+    {
+      "slug": "米飯",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "米飯",
+          "reading": "べいはん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "cooked rice"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飯店",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飯店",
+          "reading": "はんてん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Chinese restaurant"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "中華料理店"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "日常茶飯事",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "日常茶飯事",
+          "reading": "にちじょうさはんじ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "everyday occurrence"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "大盤振る舞い",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "大盤振る舞い",
+          "reading": "おおばんぶるまい"
+        },
+        {
+          "word": "大盤振舞",
+          "reading": "おおばんぶるまい"
+        },
+        {
+          "word": "大盤振舞い",
+          "reading": "おおばんぶるまい"
+        },
+        {
+          "word": "大盤振る舞い",
+          "reading": "おうばんぶるまい"
+        },
+        {
+          "word": "大盤振舞",
+          "reading": "おうばんぶるまい"
+        },
+        {
+          "word": "大盤振舞い",
+          "reading": "おうばんぶるまい"
+        },
+        {
+          "word": "椀飯振る舞い",
+          "reading": "おうばんぶるまい"
+        },
+        {
+          "word": "椀飯振舞",
+          "reading": "おうばんぶるまい"
+        },
+        {
+          "word": "大盤振る舞い",
+          "reading": "おおばんふるまい"
+        },
+        {
+          "word": "大盤振舞い",
+          "reading": "おおばんふるまい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "lavish feast",
+            "splendid banquet"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "corporate largess",
+            "lavish hospitality"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "握り飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "握り飯",
+          "reading": "にぎりめし"
+        },
+        {
+          "word": "握飯",
+          "reading": "にぎりめし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rice ball"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "冷や飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "冷や飯",
+          "reading": "ひやめし"
+        },
+        {
+          "word": "冷飯",
+          "reading": "ひやめし"
+        },
+        {
+          "word": "冷飯",
+          "reading": "れいはん"
+        },
+        {
+          "word": "冷飯",
+          "reading": "ひえめし"
+        },
+        {
+          "word": "冷飯",
+          "reading": "つめためし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "cold rice"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "hanger-on",
+            "dependent"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Abbreviation"
+          ],
+          "restrictions": [
+            "ひやめし"
+          ],
+          "see_also": [
+            "冷や飯食い ひやめしくい"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "disgraced former actor"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "ひやめし"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飯事をする",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飯事をする",
+          "reading": "ままごとをする"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to play house"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Suru verb - irregular"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飯盛女",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飯盛女",
+          "reading": "めしもりおんな"
+        },
+        {
+          "word": "飯盛り女",
+          "reading": "めしもりおんな"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "maid at an inn who served clients and worked as a prostitute (Edo period)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "飯盛り"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Meshimori onna"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Meshimori onna” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Meshimori_onna?oldid\u003d491913986"
+            },
+            {
+              "text": "Read “飯盛女” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/飯盛女?oldid\u003d40522254"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Meshimori_onna"
+      }
+    },
+    {
+      "slug": "炊き込みご飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "炊き込みご飯",
+          "reading": "たきこみごはん"
+        },
+        {
+          "word": "炊き込み御飯",
+          "reading": "たきこみごはん"
+        },
+        {
+          "word": "炊込みご飯",
+          "reading": "たきこみごはん"
+        },
+        {
+          "word": "炊込み御飯",
+          "reading": "たきこみごはん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rice seasoned and cooked with various ingredients"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Takikomi gohan"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Takikomi gohan” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Takikomi_gohan?oldid\u003d481484230"
+            },
+            {
+              "text": "Read “炊き込みご飯” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/炊き込みご飯?oldid\u003d42426424"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Takikomi_gohan"
+      }
+    },
+    {
+      "slug": "飯蛸",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飯蛸",
+          "reading": "いいだこ"
+        },
+        {
+          "reading": "イイダコ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "ocellated octopus (Octopus ocellatus)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Amphioctopus fangsiao"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Amphioctopus fangsiao” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Amphioctopus_fangsiao?oldid\u003d488004008"
+            },
+            {
+              "text": "Read “イイダコ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/イイダコ?oldid\u003d42770834"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Amphioctopus_fangsiao"
+      }
+    },
+    {
+      "slug": "飯島虫喰",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飯島虫喰",
+          "reading": "いいじまむしくい"
+        },
+        {
+          "reading": "イイジマムシクイ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Ijima\u0027s leaf warbler (Phylloscopus ijimae)",
+            "Izu leaf warbler, Ijima\u0027s willow warbler",
+            "Ijima\u0027s warbler"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Ijima\u0027s Leaf Warbler"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Ijima\u0027s Leaf Warbler” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Ijima\u0027s_Leaf_Warbler?oldid\u003d491993689"
+            },
+            {
+              "text": "Read “イイジマムシクイ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/イイジマムシクイ?oldid\u003d42453904"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Ijima\u0027s_Leaf_Warbler"
+      }
+    },
+    {
+      "slug": "姫波布",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "姫波布",
+          "reading": "ひめはぶ"
+        },
+        {
+          "word": "姫飯匙倩",
+          "reading": "ひめはぶ"
+        },
+        {
+          "reading": "ヒメハブ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Okinawa pit viper (Ovophis okinavensis)",
+            "Ryukyu Island pit viper"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Ovophis okinavensis"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Ovophis okinavensis” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Ovophis_okinavensis?oldid\u003d490195048"
+            },
+            {
+              "text": "Read “ヒメハブ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/ヒメハブ?oldid\u003d39267038"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Ovophis_okinavensis"
+      }
+    },
+    {
+      "slug": "波布",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "波布",
+          "reading": "はぶ"
+        },
+        {
+          "word": "飯匙倩",
+          "reading": "はぶ"
+        },
+        {
+          "reading": "ハブ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "habu (Trimeresurus flavoviridis)",
+            "yellow-spotted pit viper"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Hub"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Hub” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Hub?oldid\u003d494148020"
+            },
+            {
+              "text": "Read “ハブ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/ハブ?oldid\u003d40771275"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Hub"
+      }
+    },
+    {
+      "slug": "飯盒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飯盒",
+          "reading": "はんごう"
+        },
+        {
+          "word": "飯ごう",
+          "reading": "はんごう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(soldier\u0027s) cooking utensils",
+            "mess kit"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "outdoor (camping) cooking utensils"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Mess kit"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Mess kit” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Mess_kit?oldid\u003d482006805"
+            },
+            {
+              "text": "Read “飯盒” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/飯盒?oldid\u003d42529919"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Mess_kit"
+      }
+    },
+    {
+      "slug": "鶏飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鶏飯",
+          "reading": "けいはん"
+        },
+        {
+          "reading": "ケーファン"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dish of seasoned chicken with rice, pickles, etc. (from Kagoshima and Okinawa)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Keihan rice"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Keihan rice” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Keihan_rice?oldid\u003d472515832"
+            },
+            {
+              "text": "Read “鶏飯” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/鶏飯?oldid\u003d42578318"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Keihan_rice"
+      }
+    },
+    {
+      "slug": "卵かけご飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "卵かけご飯",
+          "reading": "たまごかけごはん"
+        },
+        {
+          "word": "卵かけ御飯",
+          "reading": "たまごかけごはん"
+        },
+        {
+          "word": "卵掛けご飯",
+          "reading": "たまごかけごはん"
+        },
+        {
+          "word": "卵掛け御飯",
+          "reading": "たまごかけごはん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "tamago kake gohan",
+            "raw egg mixed with white rice, often seasoned with soy sauce"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Tamago kake gohan"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Tamago kake gohan” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Tamago_kake_gohan?oldid\u003d477132230"
+            },
+            {
+              "text": "Read “卵かけご飯” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/卵かけご飯?oldid\u003d42781550"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Tamago_kake_gohan"
+      }
+    },
+    {
+      "slug": "天津飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "天津飯",
+          "reading": "てんしんはん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "crab omelet on rice"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Food term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "named after Tianjin (天津)"
+          ]
+        },
+        {
+          "english_definitions": [
+            "Tenshindon"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Tenshindon” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Tenshindon?oldid\u003d492842076"
+            },
+            {
+              "text": "Read “天津飯” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/天津飯?oldid\u003d42526574"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Tenshindon"
+      }
+    },
+    {
+      "slug": "釜飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "釜飯",
+          "reading": "かまめし"
+        },
+        {
+          "word": "釜めし",
+          "reading": "かまめし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rice, meat and vegetable dish served in a small pot"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Kamameshi"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Kamameshi” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Kamameshi?oldid\u003d474596858"
+            },
+            {
+              "text": "Read “釜飯” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/釜飯?oldid\u003d32833419"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Kamameshi"
+      }
+    },
+    {
+      "slug": "チャーハン",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "炒飯",
+          "reading": "チャーハン"
+        },
+        {
+          "word": "炒飯",
+          "reading": "ちゃあはん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Chinese-style fried rice"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [
+            {
+              "language": "Chinese",
+              "word": "“chao fan”"
+            }
+          ],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Fried rice"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Fried rice” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Fried_rice?oldid\u003d495253051"
+            },
+            {
+              "text": "Read “チャーハン” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/チャーハン?oldid\u003d41245265"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Fried_rice"
+      }
+    },
+    {
+      "slug": "菜飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "菜飯",
+          "reading": "なめし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rice boiled with greens"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Nameshi"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "中飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "中飯",
+          "reading": "ちゅうはん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "the noonday meal"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "焼き飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "焼き飯",
+          "reading": "やきめし"
+        },
+        {
+          "word": "焼飯",
+          "reading": "やきめし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "fried rice"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "桜飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "桜飯",
+          "reading": "さくらめし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rice boiled with soy sauce and sake"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "麦飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "麦飯",
+          "reading": "むぎめし"
+        },
+        {
+          "word": "麦飯",
+          "reading": "ばくはん"
+        },
+        {
+          "word": "麦飯",
+          "reading": "むぎいい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "boiled barley and rice"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "丼飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "丼飯",
+          "reading": "どんぶりめし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "bowl of rice"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "喫飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "喫飯",
+          "reading": "きっぱん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "taking a meal",
+            "eating"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [
+            "Obscure term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "炊飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "炊飯",
+          "reading": "すいはん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rice cooking",
+            "boiling rice"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "家常茶飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "家常茶飯",
+          "reading": "かじょうさはん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "everyday occurrence",
+            "commonplace of life",
+            "nothing out of the ordinary"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "一飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "一飯",
+          "reading": "いっぱん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "bowl of rice",
+            "meal"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "白飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "白飯",
+          "reading": "はくはん"
+        },
+        {
+          "word": "白飯",
+          "reading": "しろめし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "cooked white rice"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "水飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "水飯",
+          "reading": "すいはん"
+        },
+        {
+          "word": "水飯",
+          "reading": "みずめし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rice washed in cold water",
+            "dried rice soaked in water to soften"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "尋常茶飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "尋常茶飯",
+          "reading": "じんじょうさはん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "everyday occurrence",
+            "commonplace of life",
+            "nothing out of the ordinary"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Na-adjective",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "湯取り飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "湯取り飯",
+          "reading": "ゆとりめし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "twice-boiled rice (for sick persons)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "蒸し飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蒸し飯",
+          "reading": "むしめし"
+        },
+        {
+          "word": "蒸飯",
+          "reading": "むしめし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "steamed rice (esp. cold rice reheated by steaming it)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "mochi rice with red beans steamed in a steaming basket",
+            "rice with red beans (eaten on celebratory occasions)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "こわめし"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "寿司飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "寿司飯",
+          "reading": "すしめし"
+        },
+        {
+          "word": "すし飯",
+          "reading": "すしめし"
+        },
+        {
+          "word": "鮨飯",
+          "reading": "すしめし"
+        },
+        {
+          "word": "鮓飯",
+          "reading": "すしめし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rice seasoned with vinegar, sugar and salt, used for preparing sushi",
+            "sushi rice"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Food term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "夜飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "夜飯",
+          "reading": "やはん"
+        },
+        {
+          "word": "夜飯",
+          "reading": "よめし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dinner"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "酢飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "酢飯",
+          "reading": "すめし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "vinegared rice",
+            "rice prepared for sushi"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Food term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "姫飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "姫飯",
+          "reading": "ひめいい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "soft rice (cooked in a pot)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "強飯"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "噴飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "噴飯",
+          "reading": "ふんぱん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "bursting out laughing"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "深川飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "深川飯",
+          "reading": "ふかがわめし"
+        },
+        {
+          "word": "深川めし",
+          "reading": "ふかがわめし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "fukagawa-meshi",
+            "rice cooked with clams"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "干飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "干飯",
+          "reading": "ほしいい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dried boiled rice"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "焼き飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "焼き飯",
+          "reading": "やきめし"
+        },
+        {
+          "word": "焼飯",
+          "reading": "やきめし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "fried rice"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "尋常茶飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "尋常茶飯",
+          "reading": "じんじょうさはん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "everyday occurrence",
+            "commonplace of life",
+            "nothing out of the ordinary"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Na-adjective",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "中飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "中飯",
+          "reading": "ちゅうはん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "the noonday meal"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "蟹飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蟹飯",
+          "reading": "かにめし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "crab meat and rice"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "早御飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "早御飯",
+          "reading": "はやごはん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "eating early",
+            "early meal"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "早飯 はやめし"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "牛飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "牛飯",
+          "reading": "ぎゅうめし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rice covered with beef and vegetables"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "牛丼"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "ゆかりご飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ゆかりご飯",
+          "reading": "ゆかりごはん"
+        },
+        {
+          "word": "紫ご飯",
+          "reading": "ゆかりごはん"
+        },
+        {
+          "word": "紫御飯",
+          "reading": "ゆかりごはん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rice sprinkled with red perilla"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Food term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "混ぜご飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "混ぜご飯",
+          "reading": "まぜごはん"
+        },
+        {
+          "word": "混ぜごはん",
+          "reading": "まぜごはん"
+        },
+        {
+          "word": "混ぜ御飯",
+          "reading": "まぜごはん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "cooked rice with added ingredients (meat, vegetables, etc.)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "寿司飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "寿司飯",
+          "reading": "すしめし"
+        },
+        {
+          "word": "すし飯",
+          "reading": "すしめし"
+        },
+        {
+          "word": "鮨飯",
+          "reading": "すしめし"
+        },
+        {
+          "word": "鮓飯",
+          "reading": "すしめし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rice seasoned with vinegar, sugar and salt, used for preparing sushi",
+            "sushi rice"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Food term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "夜飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "夜飯",
+          "reading": "やはん"
+        },
+        {
+          "word": "夜飯",
+          "reading": "よめし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dinner"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "酢飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "酢飯",
+          "reading": "すめし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "vinegared rice",
+            "rice prepared for sushi"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Food term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "桜飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "桜飯",
+          "reading": "さくらめし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rice boiled with soy sauce and sake"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "炊飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "炊飯",
+          "reading": "すいはん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rice cooking",
+            "boiling rice"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "姫飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "姫飯",
+          "reading": "ひめいい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "soft rice (cooked in a pot)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "強飯"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "噴飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "噴飯",
+          "reading": "ふんぱん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "bursting out laughing"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "深川飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "深川飯",
+          "reading": "ふかがわめし"
+        },
+        {
+          "word": "深川めし",
+          "reading": "ふかがわめし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "fukagawa-meshi",
+            "rice cooked with clams"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "干飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "干飯",
+          "reading": "ほしいい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dried boiled rice"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "豚めし",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "豚めし",
+          "reading": "ぶためし"
+        },
+        {
+          "word": "豚飯",
+          "reading": "ぶためし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "pork with rice"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "糒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "糒",
+          "reading": "ほしい"
+        },
+        {
+          "word": "糒",
+          "reading": "ほしいい"
+        },
+        {
+          "word": "干し飯",
+          "reading": "ほしいい"
+        },
+        {
+          "word": "乾し飯",
+          "reading": "ほしいい"
+        },
+        {
+          "word": "干飯",
+          "reading": "ほしいい"
+        },
+        {
+          "word": "乾飯",
+          "reading": "ほしいい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dried boiled rice used mainly as provisions of samurai troops and travelers (travellers)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "芯のあるご飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "芯のあるご飯",
+          "reading": "しんのあるごはん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "undercooked rice"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "一飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "一飯",
+          "reading": "いっぱん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "bowl of rice",
+            "meal"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "尋常茶飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "尋常茶飯",
+          "reading": "じんじょうさはん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "everyday occurrence",
+            "commonplace of life",
+            "nothing out of the ordinary"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Na-adjective",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "姫飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "姫飯",
+          "reading": "ひめいい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "soft rice (cooked in a pot)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "強飯"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "噴飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "噴飯",
+          "reading": "ふんぱん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "bursting out laughing"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "加薬飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "加薬飯",
+          "reading": "かやくめし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "casserole of rice, fish or meat, and vegetables"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Food term",
+            "Kansai dialect"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "加薬御飯"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "茶飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "茶飯",
+          "reading": "ちゃめし"
+        },
+        {
+          "word": "茶めし",
+          "reading": "ちゃめし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rice boiled in tea flavored with sake and shoyu"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "夜飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "夜飯",
+          "reading": "やはん"
+        },
+        {
+          "word": "夜飯",
+          "reading": "よめし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dinner"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "干飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "干飯",
+          "reading": "ほしいい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dried boiled rice"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "五目飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "五目飯",
+          "reading": "ごもくめし"
+        },
+        {
+          "word": "五目めし",
+          "reading": "ごもくめし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "casserole of rice, fish or meat, and vegetables"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "五目ごはん"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "豚めし",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "豚めし",
+          "reading": "ぶためし"
+        },
+        {
+          "word": "豚飯",
+          "reading": "ぶためし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "pork with rice"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "栗飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "栗飯",
+          "reading": "くりめし"
+        },
+        {
+          "word": "栗めし",
+          "reading": "くりめし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "chestnut rice",
+            "rice boiled with chestnuts"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "深川飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "深川飯",
+          "reading": "ふかがわめし"
+        },
+        {
+          "word": "深川めし",
+          "reading": "ふかがわめし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "fukagawa-meshi",
+            "rice cooked with clams"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "糒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "糒",
+          "reading": "ほしい"
+        },
+        {
+          "word": "糒",
+          "reading": "ほしいい"
+        },
+        {
+          "word": "干し飯",
+          "reading": "ほしいい"
+        },
+        {
+          "word": "乾し飯",
+          "reading": "ほしいい"
+        },
+        {
+          "word": "干飯",
+          "reading": "ほしいい"
+        },
+        {
+          "word": "乾飯",
+          "reading": "ほしいい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dried boiled rice used mainly as provisions of samurai troops and travelers (travellers)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "芯のあるご飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "芯のあるご飯",
+          "reading": "しんのあるごはん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "undercooked rice"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "お飯事",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "お飯事",
+          "reading": "おままごと"
+        },
+        {
+          "word": "御飯事",
+          "reading": "おままごと"
+        },
+        {
+          "word": "おまま事",
+          "reading": "おままごと"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "playing house"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "鯛めし",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鯛めし",
+          "reading": "たいめし"
+        },
+        {
+          "word": "鯛飯",
+          "reading": "たいめし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rice with minced sea bream (tai)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "包装米飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "包装米飯",
+          "reading": "ほうそうべいはん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "cooked rice pack"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "粟飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "粟飯",
+          "reading": "あわめし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "steamed rice with millet",
+            "boiled rice with millet"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "無駄飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "無駄飯",
+          "reading": "むだめし"
+        },
+        {
+          "word": "むだ飯",
+          "reading": "むだめし"
+        },
+        {
+          "word": "徒飯",
+          "reading": "むだめし"
+        },
+        {
+          "word": "ムダ飯",
+          "reading": "ムダめし"
+        },
+        {
+          "reading": "ムダメシ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "living idly"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "夜ご飯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "夜ご飯",
+          "reading": "よるごはん"
+        },
+        {
+          "word": "夜ごはん",
+          "reading": "よるごはん"
+        },
+        {
+          "word": "夜御飯",
+          "reading": "よるごはん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dinner",
+            "evening meal"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Colloquialism"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "晩御飯"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

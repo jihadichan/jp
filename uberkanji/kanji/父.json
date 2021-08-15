@@ -1,0 +1,4284 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "父親",
+      "is_common": true,
+      "tags": [
+        "wanikani12"
+      ],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "父親",
+          "reading": "ちちおや"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "father"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Father"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Father” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Father?oldid\u003d494350590"
+            },
+            {
+              "text": "Read “父親” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/父親?oldid\u003d42218474"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Father"
+      }
+    },
+    {
+      "slug": "お父さん",
+      "is_common": true,
+      "tags": [
+        "wanikani3"
+      ],
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "お父さん",
+          "reading": "おとうさん"
+        },
+        {
+          "word": "お父さん",
+          "reading": "おとっさん"
+        },
+        {
+          "word": "御父さん",
+          "reading": "おとうさん"
+        },
+        {
+          "word": "御父さん",
+          "reading": "おとっさん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "father",
+            "dad",
+            "papa",
+            "pa",
+            "pop",
+            "daddy",
+            "dada"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Honorific or respectful (sonkeigo)"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "父さん"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "husband"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Honorific or respectful (sonkeigo)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "祖父",
+      "is_common": true,
+      "tags": [
+        "wanikani32"
+      ],
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "祖父",
+          "reading": "そふ"
+        },
+        {
+          "word": "祖父",
+          "reading": "じじ"
+        },
+        {
+          "word": "祖父",
+          "reading": "じい"
+        },
+        {
+          "word": "祖父",
+          "reading": "おおじ"
+        },
+        {
+          "word": "祖父",
+          "reading": "おじ"
+        },
+        {
+          "word": "祖父",
+          "reading": "そぶ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "grandfather"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "old man"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "おおじ"
+          ],
+          "see_also": [
+            "爺"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "kyogen mask used for the role of an old man"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "おおじ"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Sofu"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "お祖父さん",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "お祖父さん",
+          "reading": "おじいさん"
+        },
+        {
+          "word": "お爺さん",
+          "reading": "おじいさん"
+        },
+        {
+          "word": "御爺さん",
+          "reading": "おじいさん"
+        },
+        {
+          "word": "御祖父さん",
+          "reading": "おじいさん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "grandfather"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "祖父さん"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "usu. お祖父さん"
+          ]
+        },
+        {
+          "english_definitions": [
+            "male senior-citizen"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "usu. お爺さん"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "父母",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "父母",
+          "reading": "ふぼ"
+        },
+        {
+          "word": "父母",
+          "reading": "ちちはは"
+        },
+        {
+          "word": "父母",
+          "reading": "ててはは"
+        },
+        {
+          "word": "父母",
+          "reading": "かぞいろは"
+        },
+        {
+          "word": "父母",
+          "reading": "ぶも"
+        },
+        {
+          "word": "父母",
+          "reading": "かぞいろ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "father and mother",
+            "parents"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "父",
+      "is_common": true,
+      "tags": [
+        "wanikani3"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "父",
+          "reading": "ちち"
+        },
+        {
+          "word": "父",
+          "reading": "とと"
+        },
+        {
+          "word": "父",
+          "reading": "ちゃん"
+        },
+        {
+          "word": "父",
+          "reading": "てて"
+        },
+        {
+          "word": "父",
+          "reading": "かぞ"
+        },
+        {
+          "word": "父",
+          "reading": "かそ"
+        },
+        {
+          "word": "父",
+          "reading": "しし"
+        },
+        {
+          "word": "父",
+          "reading": "あて"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "father"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Humble (kenjougo)"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "母 はは"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "とと and ちゃん are used by children"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "伯父",
+      "is_common": true,
+      "tags": [
+        "wanikani50",
+        "wanikani59"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "伯父",
+          "reading": "おじ"
+        },
+        {
+          "word": "叔父",
+          "reading": "おじ"
+        },
+        {
+          "word": "伯父",
+          "reading": "はくふ"
+        },
+        {
+          "word": "叔父",
+          "reading": "しゅくふ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "uncle"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "叔母 おば"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "伯父 or 叔父 respectively can mean older or younger than one\u0027s parent"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "祖父母",
+      "is_common": true,
+      "tags": [
+        "wanikani34"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "祖父母",
+          "reading": "そふぼ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "grandparents"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "父さん",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "父さん",
+          "reading": "とうさん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "father",
+            "dad",
+            "papa",
+            "pa",
+            "pop",
+            "daddy",
+            "dada"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "お父さん"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "爺さん",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "爺さん",
+          "reading": "じいさん"
+        },
+        {
+          "word": "祖父さん",
+          "reading": "じいさん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "grandfather (may be used after name as honorific)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "お祖父さん"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "usu. 祖父さん"
+          ]
+        },
+        {
+          "english_definitions": [
+            "male senior-citizen (may be used after name as honorific)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "爺ちゃん"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "usu. 爺さん"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "親父",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "親父",
+          "reading": "おやじ"
+        },
+        {
+          "word": "親爺",
+          "reading": "おやじ"
+        },
+        {
+          "word": "老爺",
+          "reading": "おやじ"
+        },
+        {
+          "word": "親仁",
+          "reading": "おやじ"
+        },
+        {
+          "word": "老爺",
+          "reading": "ろうや"
+        },
+        {
+          "word": "親父",
+          "reading": "しんぷ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "one\u0027s father",
+            "old man",
+            "one\u0027s boss"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "伯父さん",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "伯父さん",
+          "reading": "おじさん"
+        },
+        {
+          "word": "叔父さん",
+          "reading": "おじさん"
+        },
+        {
+          "word": "小父さん",
+          "reading": "おじさん"
+        },
+        {
+          "reading": "オジサン"
+        },
+        {
+          "reading": "オジさん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "uncle"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Honorific or respectful (sonkeigo)",
+            "Familiar language",
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "伯父さん is older than one\u0027s parent and 叔父さん is younger"
+          ]
+        },
+        {
+          "english_definitions": [
+            "old man",
+            "mister"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Familiar language",
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "usu. 小父さん or おじさん; vocative"
+          ]
+        },
+        {
+          "english_definitions": [
+            "manybar goatfish (Parupeneus multifasciatus)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "usu. オジサン"
+          ]
+        },
+        {
+          "english_definitions": [
+            "Parupeneus multifasciatus"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Parupeneus multifasciatus” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Parupeneus_multifasciatus?oldid\u003d473514766"
+            },
+            {
+              "text": "Read “オジサン” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/オジサン?oldid\u003d42246500"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Parupeneus_multifasciatus"
+      }
+    },
+    {
+      "slug": "お祖父ちゃん",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "お祖父ちゃん",
+          "reading": "おじいちゃん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "grandpa",
+            "granddad"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Colloquialism",
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "漁夫",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漁夫",
+          "reading": "ぎょふ"
+        },
+        {
+          "word": "漁父",
+          "reading": "ぎょふ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "fisherman"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Sensitive"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "父上",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "父上",
+          "reading": "ちちうえ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "father (esp. used in samurai families prior to the Meiji period)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Polite (teineigo)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "尊父",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "尊父",
+          "reading": "そんぷ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "your father"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "お父さま",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "お父さま",
+          "reading": "おとうさま"
+        },
+        {
+          "word": "お父様",
+          "reading": "おとうさま"
+        },
+        {
+          "word": "御父様",
+          "reading": "おとうさま"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "father"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Honorific or respectful (sonkeigo)"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "お父さん"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "老父",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "老父",
+          "reading": "ろうふ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "old father"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "曾祖父",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "曾祖父",
+          "reading": "そうそふ"
+        },
+        {
+          "word": "曾祖父",
+          "reading": "ひいじじ"
+        },
+        {
+          "word": "曾祖父",
+          "reading": "ひじじ"
+        },
+        {
+          "word": "曾祖父",
+          "reading": "ひおおじ"
+        },
+        {
+          "word": "曽祖父",
+          "reading": "そうそふ"
+        },
+        {
+          "word": "曽祖父",
+          "reading": "ひいじじ"
+        },
+        {
+          "word": "曽祖父",
+          "reading": "ひじじ"
+        },
+        {
+          "word": "曽祖父",
+          "reading": "ひおおじ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "great-grandfather",
+            "great-granddad",
+            "great-grandad"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "父の日",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "父の日",
+          "reading": "ちちのひ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Father\u0027s Day (3rd Sunday of June)"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Father\u0027s Day"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Father\u0027s Day” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Father\u0027s_Day?oldid\u003d495535760"
+            },
+            {
+              "text": "Read “父の日” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/父の日?oldid\u003d42744774"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Father\u0027s_Day"
+      }
+    },
+    {
+      "slug": "養父母",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "養父母",
+          "reading": "ようふぼ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "adoptive parents"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "父子",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "父子",
+          "reading": "ふし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "father and child",
+            "father and son",
+            "father and daughter"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "義父",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "義父",
+          "reading": "ぎふ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "father-in-law"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "foster father"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "stepfather"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "神父",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "神父",
+          "reading": "しんぷ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Catholic priest",
+            "abbe",
+            "reverend father",
+            "minister",
+            "padre"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "父兄",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "父兄",
+          "reading": "ふけい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "guardians",
+            "parents"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "father and older brother"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "漁夫の利",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漁夫の利",
+          "reading": "ぎょふのり"
+        },
+        {
+          "word": "漁夫の利",
+          "reading": "ぎょほのり"
+        },
+        {
+          "word": "漁父の利",
+          "reading": "ぎょふのり"
+        },
+        {
+          "word": "漁父の利",
+          "reading": "ぎょほのり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "profiting while others fight"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Idiomatic expression"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "鷸蚌の争い"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "父方",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "父方",
+          "reading": "ちちかた"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "father\u0027s side of family"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "母方 ははかた"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "paternal (grandfather, uncle, etc.)"
+          ],
+          "parts_of_speech": [
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "母方 ははかた"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "父祖",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "父祖",
+          "reading": "ふそ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "ancestors"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "亡父",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "亡父",
+          "reading": "ぼうふ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "deceased father",
+            "late father"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "亡母"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "実父",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "実父",
+          "reading": "じっぷ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "one\u0027s real father",
+            "natural father",
+            "biological father"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "実母"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "家父",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "家父",
+          "reading": "かふ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "one\u0027s father"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "家父長制",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "家父長制",
+          "reading": "かふちょうせい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "patriarchy",
+            "system of patriarchy"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Patriarchy"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Patriarchy” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Patriarchy?oldid\u003d494412040"
+            },
+            {
+              "text": "Read “家父長制” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/家父長制?oldid\u003d42621068"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Patriarchy"
+      }
+    },
+    {
+      "slug": "父系制",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "父系制",
+          "reading": "ふけいせい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "patrilineal system",
+            "patriliny"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Patrilineality"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Patrilineality” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Patrilineality?oldid\u003d490005898"
+            },
+            {
+              "text": "Read “父系制” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/父系制?oldid\u003d41719589"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Patrilineality"
+      }
+    },
+    {
+      "slug": "父性",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "父性",
+          "reading": "ふせい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "paternity"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Paternity (law)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Paternity (law)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Paternity_(law)?oldid\u003d469630288"
+            },
+            {
+              "text": "Read “父性” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/父性?oldid\u003d39463016"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Paternity_(law)"
+      }
+    },
+    {
+      "slug": "教父",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "教父",
+          "reading": "きょうふ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "godfather",
+            "sponsor"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "church fathers"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Church Fathers"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Church Fathers” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Church_Fathers?oldid\u003d492266747"
+            },
+            {
+              "text": "Read “教父” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/教父?oldid\u003d42335681"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Church_Fathers"
+      }
+    },
+    {
+      "slug": "阿叔",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "阿叔",
+          "reading": "おとおじ"
+        },
+        {
+          "word": "叔父",
+          "reading": "おとおじ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "uncle (one\u0027s father\u0027s younger brother)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "伯父 えおじ"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "大祖父",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "大祖父",
+          "reading": "おおおおじ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "great-grandfather"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "慈父",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "慈父",
+          "reading": "じふ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "affectionate father",
+            "loving father"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "狸親父",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "狸親父",
+          "reading": "たぬきおやじ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sly (cunning) old man"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "義理の父",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "義理の父",
+          "reading": "ぎりのちち"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "father-in-law",
+            "foster father",
+            "stepfather"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "頑固親父",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頑固親父",
+          "reading": "がんこおやじ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "stubborn (obstinate) father",
+            "pig-headed old man"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "保父",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "保父",
+          "reading": "ほふ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "male carer, esp. in a nursery school"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "乃父",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "乃父",
+          "reading": "だいふ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "father"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "阿父",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "阿父",
+          "reading": "あふ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "father"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Familiar language",
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "阿母"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "慈父",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "慈父",
+          "reading": "じふ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "affectionate father",
+            "loving father"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "師父",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "師父",
+          "reading": "しふ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "fatherly master"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "君父",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "君父",
+          "reading": "くんぷ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "master and father"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "主君",
+            "父"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "亡祖父",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "亡祖父",
+          "reading": "ぼうそふ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "deceased (one\u0027s late) grandfather"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "亜父",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "亜父",
+          "reading": "あふ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "person one respects second only to one\u0027s father"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "母父",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "母父",
+          "reading": "あもしし"
+        },
+        {
+          "word": "母父",
+          "reading": "おもちち"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "mother and father"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "継父",
+      "is_common": false,
+      "tags": [
+        "wanikani36"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "継父",
+          "reading": "けいふ"
+        },
+        {
+          "word": "継父",
+          "reading": "ままちち"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "stepfather"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "実父"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "王父",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "王父",
+          "reading": "おうふ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "deceased grandfather"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Honorific or respectful (sonkeigo)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "お父",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "お父",
+          "reading": "おとう"
+        },
+        {
+          "word": "御父",
+          "reading": "おとう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "daddy",
+            "father",
+            "husband"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Honorific or respectful (sonkeigo)",
+            "Familiar language",
+            "Abbreviation"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "お父さん"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "伯父ちゃん",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "叔父ちゃん",
+          "reading": "おじちゃん"
+        },
+        {
+          "word": "伯父ちゃん",
+          "reading": "おじちゃん"
+        },
+        {
+          "word": "小父ちゃん",
+          "reading": "おじちゃん"
+        },
+        {
+          "word": "小父ちゃん",
+          "reading": "おっちゃん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "middle-aged man",
+            "uncle"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone",
+            "Familiar language"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "外祖父",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "外祖父",
+          "reading": "がいそふ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "maternal grandfather"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "養父",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "養父",
+          "reading": "ようふ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "foster father",
+            "adoptive father"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "実父"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "寮父",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "寮父",
+          "reading": "りょうふ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "housefather",
+            "dorm father",
+            "houseparent"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "同父",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "同父",
+          "reading": "どうふ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "same father"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "異父"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "大叔父",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "大叔父",
+          "reading": "おおおじ"
+        },
+        {
+          "word": "大伯父",
+          "reading": "おおおじ"
+        },
+        {
+          "word": "従祖父",
+          "reading": "おおおじ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "granduncle"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "小父",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "小父",
+          "reading": "おじ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "old man",
+            "mister"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone",
+            "Familiar language"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "vocative; used with suffix さん or 様"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "教父哲学",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "教父哲学",
+          "reading": "きょうふてつがく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "patristic philosophy"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "父なる神さま",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "父なる神さま",
+          "reading": "ちちなるかみさま"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "God the Father"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "弟小父",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "弟小父",
+          "reading": "おとおじ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "parent\u0027s younger brother",
+            "uncle"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "亡祖父",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "亡祖父",
+          "reading": "ぼうそふ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "deceased (one\u0027s late) grandfather"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "寮父",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "寮父",
+          "reading": "りょうふ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "housefather",
+            "dorm father",
+            "houseparent"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "異父姉妹",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "異父姉妹",
+          "reading": "いふしまい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "half-sister (different father)",
+            "half-sisters"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "父子相姦",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "父子相姦",
+          "reading": "ふしそうかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "paternal incest"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "父子相伝",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "父子相伝",
+          "reading": "ふしそうでん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "transmission of the secrets of an art, craft, trade or learning from father to son"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "継父",
+      "is_common": false,
+      "tags": [
+        "wanikani36"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "継父",
+          "reading": "けいふ"
+        },
+        {
+          "word": "継父",
+          "reading": "ままちち"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "stepfather"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "実父"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "同父",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "同父",
+          "reading": "どうふ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "same father"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "異父"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "薮入り",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "薮入り",
+          "reading": "やぶいり"
+        },
+        {
+          "word": "藪入",
+          "reading": "やぶいり"
+        },
+        {
+          "word": "家父入",
+          "reading": "やぶいり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "holiday granted to servants on the 16th of the first and seventh months"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "天父",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "天父",
+          "reading": "てんぷ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Heavenly Father (in Christiantiy)",
+            "God"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "異父兄弟",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "異父兄弟",
+          "reading": "いふきょうだい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "half-sibling (with a different father)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "小父",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "小父",
+          "reading": "おじ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "old man",
+            "mister"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone",
+            "Familiar language"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "vocative; used with suffix さん or 様"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "大叔父",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "大叔父",
+          "reading": "おおおじ"
+        },
+        {
+          "word": "大伯父",
+          "reading": "おおおじ"
+        },
+        {
+          "word": "従祖父",
+          "reading": "おおおじ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "granduncle"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "亡き父",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "亡き父",
+          "reading": "なきちち"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(one\u0027s) late father"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "先父",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "先父",
+          "reading": "せんぷ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "deceased father"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "高祖父",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "高祖父",
+          "reading": "こうそふ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "great-great-grandfather"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "曾お祖父さん",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "曾お祖父さん",
+          "reading": "ひいおじいさん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "great-grandfather"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "雷親父",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "雷親父",
+          "reading": "かみなりおやじ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "snarling old man",
+            "irascible old man"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "父性愛",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "父性愛",
+          "reading": "ふせいあい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "paternal love"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "父権",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "父権",
+          "reading": "ふけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "paternal rights"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "母権"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "father\u0027s right of control as head of the household"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "父子家庭",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "父子家庭",
+          "reading": "ふしかてい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "motherless family"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "お父",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "お父",
+          "reading": "おとう"
+        },
+        {
+          "word": "御父",
+          "reading": "おとう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "daddy",
+            "father",
+            "husband"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Honorific or respectful (sonkeigo)",
+            "Familiar language",
+            "Abbreviation"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "お父さん"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "父子相姦",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "父子相姦",
+          "reading": "ふしそうかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "paternal incest"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "亡祖父",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "亡祖父",
+          "reading": "ぼうそふ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "deceased (one\u0027s late) grandfather"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "教父学",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "教父学",
+          "reading": "きょうふがく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "patristics",
+            "patrology"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "実父確定検査",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "実父確定検査",
+          "reading": "じっぷかくていけんさ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "paternity test"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "父殺し",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "父殺し",
+          "reading": "ちちごろし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "patricide"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "大叔父",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "大叔父",
+          "reading": "おおおじ"
+        },
+        {
+          "word": "大伯父",
+          "reading": "おおおじ"
+        },
+        {
+          "word": "従祖父",
+          "reading": "おおおじ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "granduncle"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "亡き父",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "亡き父",
+          "reading": "なきちち"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(one\u0027s) late father"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "先父",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "先父",
+          "reading": "せんぷ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "deceased father"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "小父",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "小父",
+          "reading": "おじ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "old man",
+            "mister"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone",
+            "Familiar language"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "vocative; used with suffix さん or 様"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "高祖父",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "高祖父",
+          "reading": "こうそふ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "great-great-grandfather"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "曾お祖父さん",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "曾お祖父さん",
+          "reading": "ひいおじいさん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "great-grandfather"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "雷親父",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "雷親父",
+          "reading": "かみなりおやじ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "snarling old man",
+            "irascible old man"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "お父さん子",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "お父さん子",
+          "reading": "おとうさんこ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "daddy\u0027s girl",
+            "daddy\u0027s boy",
+            "child strongly attached to its father"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "父祖伝来",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "父祖伝来",
+          "reading": "ふそでんらい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "hereditary",
+            "patrimonial",
+            "handed down from generation to generation"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "代父",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "代父",
+          "reading": "だいふ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "godfather"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "異父",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "異父",
+          "reading": "いふ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "different father"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "同父",
+            "異父姉妹",
+            "異父兄弟"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

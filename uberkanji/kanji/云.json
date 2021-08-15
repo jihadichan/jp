@@ -1,0 +1,231 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "言う",
+      "is_common": true,
+      "tags": [
+        "wanikani5"
+      ],
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "言う",
+          "reading": "いう"
+        },
+        {
+          "word": "言う",
+          "reading": "ゆう"
+        },
+        {
+          "word": "云う",
+          "reading": "いう"
+        },
+        {
+          "word": "云う",
+          "reading": "ゆう"
+        },
+        {
+          "word": "謂う",
+          "reading": "いう"
+        },
+        {
+          "word": "謂う",
+          "reading": "ゆう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to say",
+            "to utter",
+            "to declare"
+          ],
+          "parts_of_speech": [
+            "Godan verb with u ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to name",
+            "to call"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to go (e.g. \"the alarm went ping\")",
+            "to make a noise"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "言う"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "云々",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "云々",
+          "reading": "うんぬん"
+        },
+        {
+          "word": "云云",
+          "reading": "うんぬん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "and so on",
+            "and so forth",
+            "et cetera",
+            "and such",
+            "and the like"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "comment",
+            "criticism"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "云為",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "云為",
+          "reading": "うんい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sayings and doings",
+            "words and deeds"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "云爾",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "云爾",
+          "reading": "うんじ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "such as"
+          ],
+          "parts_of_speech": [
+            "Conjunction"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

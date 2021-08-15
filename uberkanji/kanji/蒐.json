@@ -1,0 +1,228 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "収集",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "収集",
+          "reading": "しゅうしゅう"
+        },
+        {
+          "word": "蒐集",
+          "reading": "しゅうしゅう"
+        },
+        {
+          "word": "拾集",
+          "reading": "しゅうしゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "collecting",
+            "accumulating",
+            "gathering"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "collection (of art, stamps, insects, etc.)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "garbage collection",
+            "waste collection"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "集荷",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "集荷",
+          "reading": "しゅうか"
+        },
+        {
+          "word": "蒐荷",
+          "reading": "しゅうか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "collection of cargo (esp. produce, etc.)",
+            "cargo booking"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "集貨"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "切手収集",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "切手収集",
+          "reading": "きってしゅうしゅう"
+        },
+        {
+          "word": "切手蒐集",
+          "reading": "きってしゅうしゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "philately",
+            "stamp collecting"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Stamp collecting"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Stamp collecting” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Stamp_collecting?oldid\u003d492466089"
+            },
+            {
+              "text": "Read “切手収集” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/切手収集?oldid\u003d42432909"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Stamp_collecting"
+      }
+    },
+    {
+      "slug": "収集癖",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "収集癖",
+          "reading": "しゅうしゅうへき"
+        },
+        {
+          "word": "蒐集癖",
+          "reading": "しゅうしゅうへき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "collecting mania",
+            "mania for collecting",
+            "collectionism"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

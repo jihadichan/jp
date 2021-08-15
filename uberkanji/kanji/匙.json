@@ -1,0 +1,789 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "匙",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "匙",
+          "reading": "さじ"
+        },
+        {
+          "word": "匙",
+          "reading": "しゃじ"
+        },
+        {
+          "word": "匙",
+          "reading": "かい"
+        },
+        {
+          "word": "匕",
+          "reading": "さじ"
+        },
+        {
+          "word": "匕",
+          "reading": "しゃじ"
+        },
+        {
+          "word": "匕",
+          "reading": "かい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "spoon"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "小さじ",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "小さじ",
+          "reading": "こさじ"
+        },
+        {
+          "word": "小匙",
+          "reading": "こさじ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "teaspoon"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "大さじ",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "大さじ",
+          "reading": "おおさじ"
+        },
+        {
+          "word": "大匙",
+          "reading": "おおさじ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "tablespoon"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "匙を投げる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "さじを投げる",
+          "reading": "さじをなげる"
+        },
+        {
+          "word": "匙を投げる",
+          "reading": "さじをなげる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to give up (something as hopeless)",
+            "to throw in the towel"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Ichidan verb"
+          ],
+          "links": [],
+          "tags": [
+            "Idiomatic expression"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "波布",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "波布",
+          "reading": "はぶ"
+        },
+        {
+          "word": "飯匙倩",
+          "reading": "はぶ"
+        },
+        {
+          "reading": "ハブ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "habu (Trimeresurus flavoviridis)",
+            "yellow-spotted pit viper"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Hub"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Hub” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Hub?oldid\u003d494148020"
+            },
+            {
+              "text": "Read “ハブ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/ハブ?oldid\u003d40771275"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Hub"
+      }
+    },
+    {
+      "slug": "姫波布",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "姫波布",
+          "reading": "ひめはぶ"
+        },
+        {
+          "word": "姫飯匙倩",
+          "reading": "ひめはぶ"
+        },
+        {
+          "reading": "ヒメハブ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Okinawa pit viper (Ovophis okinavensis)",
+            "Ryukyu Island pit viper"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Ovophis okinavensis"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Ovophis okinavensis” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Ovophis_okinavensis?oldid\u003d490195048"
+            },
+            {
+              "text": "Read “ヒメハブ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/ヒメハブ?oldid\u003d39267038"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Ovophis_okinavensis"
+      }
+    },
+    {
+      "slug": "匙加減",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "さじ加減",
+          "reading": "さじかげん"
+        },
+        {
+          "word": "匙加減",
+          "reading": "さじかげん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "measured amount (esp. of medicine)",
+            "dosing",
+            "quantity",
+            "prescription"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "manner of seasoning"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "making adjustments based on experience",
+            "doing something by feel",
+            "skill",
+            "knack"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Idiomatic expression"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "茶さじ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "茶さじ",
+          "reading": "ちゃさじ"
+        },
+        {
+          "word": "茶匙",
+          "reading": "ちゃさじ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "teaspoon"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "香匙",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "香匙",
+          "reading": "こうすくい"
+        },
+        {
+          "word": "香匙",
+          "reading": "きょうじ"
+        },
+        {
+          "word": "香匙",
+          "reading": "こうさじ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "incense scoop"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "石匙",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "石匙",
+          "reading": "いしさじ"
+        },
+        {
+          "word": "石さじ",
+          "reading": "いしさじ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "stone knife (Jomon-period tool, shaped like a rice spoon)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "輪匙",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "輪匙",
+          "reading": "りんひ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "lens loop"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Medicine, etc. term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飯匙",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飯匙",
+          "reading": "いいがい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rice spoon"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "杓文字"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "円匙",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "円匙",
+          "reading": "えんし"
+        },
+        {
+          "word": "円匙",
+          "reading": "えんぴ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "small shovel"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "originally jargon of the Imperial Japanese Army"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "本波布",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "本波布",
+          "reading": "ほんはぶ"
+        },
+        {
+          "word": "本飯匙倩",
+          "reading": "ほんはぶ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Okinawan habu (Trimeresurus flavoviridis)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "波布"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "灰匙",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "灰匙",
+          "reading": "はいさじ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "ash scoop (tea ceremony)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "台湾波布",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "台湾波布",
+          "reading": "たいわんはぶ"
+        },
+        {
+          "word": "台湾飯匙倩",
+          "reading": "たいわんはぶ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Taiwanese habu (Trimeresurus mucrosquamatus)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "波布"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "火箸-1",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "火箸",
+          "reading": "こじ"
+        },
+        {
+          "word": "火匙",
+          "reading": "こじ"
+        },
+        {
+          "word": "火筯",
+          "reading": "こじ"
+        },
+        {
+          "word": "火筋",
+          "reading": "こじ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "tongs (esp. for incense or for use in a Buddhist temple)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

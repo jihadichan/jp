@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "失踪",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "失踪",
+          "reading": "しっそう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "disappearance",
+            "running away",
+            "going missing",
+            "absconding"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "失踪者",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "失踪者",
+          "reading": "しっそうしゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "missing person",
+            "runaway"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Missing person"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Missing person” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Missing_person?oldid\u003d481157322"
+            },
+            {
+              "text": "Read “失踪者” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/失踪者?oldid\u003d42749508"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Missing_person"
+      }
+    },
+    {
+      "slug": "失踪宣告",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "失踪宣告",
+          "reading": "しっそうせんこく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "court decision declaring a missing person legally dead"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Law, etc. term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

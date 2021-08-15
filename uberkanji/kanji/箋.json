@@ -1,0 +1,402 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "便箋",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "便箋",
+          "reading": "びんせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "writing paper",
+            "stationery"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "処方箋",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "処方箋",
+          "reading": "しょほうせん"
+        },
+        {
+          "word": "処方せん",
+          "reading": "しょほうせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "prescription"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Medicine, etc. term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Medical prescription"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Medical prescription” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Medical_prescription?oldid\u003d494695003"
+            },
+            {
+              "text": "Read “処方箋” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/処方箋?oldid\u003d42434277"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Medical_prescription"
+      }
+    },
+    {
+      "slug": "付箋",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "付箋",
+          "reading": "ふせん"
+        },
+        {
+          "word": "附箋",
+          "reading": "ふせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "tag",
+            "slip",
+            "label"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Post-it note"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Post-it note” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Post-it_note?oldid\u003d495179382"
+            },
+            {
+              "text": "Read “付箋” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/付箋?oldid\u003d41560863"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Post-it_note"
+      }
+    },
+    {
+      "slug": "書簡箋",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "書簡箋",
+          "reading": "しょかんせん"
+        },
+        {
+          "word": "書翰箋",
+          "reading": "しょかんせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "letter paper"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "鄭箋",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鄭箋",
+          "reading": "ていせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "commentary on the Book of Odes by Zheng Xuan"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "薬箋",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "薬箋",
+          "reading": "やくせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "prescription"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "用箋",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "用箋",
+          "reading": "ようせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "stationery",
+            "writing pad"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "箋",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "箋",
+          "reading": "せん"
+        },
+        {
+          "word": "籤",
+          "reading": "せん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "slip (of paper)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "tag (usu. bamboo, wood, ivory, etc.)",
+            "label"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "付箋紙",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "付箋紙",
+          "reading": "ふせんし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sticky paper slip",
+            "sticky note"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

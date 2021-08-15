@@ -1,0 +1,422 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "詫びる",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "詫びる",
+          "reading": "わびる"
+        },
+        {
+          "word": "詫る",
+          "reading": "わびる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to apologize",
+            "to apologise"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "詫び",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "詫び",
+          "reading": "わび"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "apology",
+            "excuse"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "お詫び おわび"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "待ちわびる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "待ちわびる",
+          "reading": "まちわびる"
+        },
+        {
+          "word": "待ち侘びる",
+          "reading": "まちわびる"
+        },
+        {
+          "word": "待ち詫びる",
+          "reading": "まちわびる"
+        },
+        {
+          "word": "待ち佗びる",
+          "reading": "まちわびる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to be tired of waiting",
+            "to wait impatiently"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "お詫び",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "お詫び",
+          "reading": "おわび"
+        },
+        {
+          "word": "御詫び",
+          "reading": "おわび"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "apology"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "詫び わび"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "詫びをいれる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詫びをいれる",
+          "reading": "わびをいれる"
+        },
+        {
+          "word": "詫びを入れる",
+          "reading": "わびをいれる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to make an apology"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Ichidan verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "詫状",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詫状",
+          "reading": "わびじょう"
+        },
+        {
+          "word": "詫び状",
+          "reading": "わびじょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "letter of apology"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "詫び言",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詫び言",
+          "reading": "わびごと"
+        },
+        {
+          "word": "詫言",
+          "reading": "わびごと"
+        },
+        {
+          "word": "わび言",
+          "reading": "わびごと"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "apology"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "詫び入る",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詫び入る",
+          "reading": "わびいる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to apologize sincerely",
+            "to apologise sincerely"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "侘び寂び",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "侘び寂び",
+          "reading": "わびさび"
+        },
+        {
+          "word": "侘寂",
+          "reading": "わびさび"
+        },
+        {
+          "word": "詫び寂び",
+          "reading": "わびさび"
+        },
+        {
+          "reading": "ワビサビ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "wabi-sabi",
+            "aesthetic sense in Japanese art centered on the acceptance of transience and imperfection"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "詫ぶ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詫ぶ",
+          "reading": "わぶ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to apologize",
+            "to apologise"
+          ],
+          "parts_of_speech": [
+            "Nidan verb (upper class) with bu ending (archaic)",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "詫びる"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

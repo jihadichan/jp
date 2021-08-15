@@ -1,0 +1,1188 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "坂",
+      "is_common": true,
+      "tags": [
+        "wanikani15"
+      ],
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "坂",
+          "reading": "さか"
+        },
+        {
+          "word": "阪",
+          "reading": "さか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "slope",
+            "hill"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Grade (slope)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Grade (slope)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Grade_(slope)?oldid\u003d489312876"
+            },
+            {
+              "text": "Read “坂” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/坂?oldid\u003d42271076"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Grade_(slope)"
+      }
+    },
+    {
+      "slug": "下り坂",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "下り坂",
+          "reading": "くだりざか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "downhill",
+            "downward slope",
+            "descent"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "上り坂"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "decline",
+            "waning",
+            "ebb",
+            "(going) downhill"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "坂道",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "坂道",
+          "reading": "さかみち"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "hill road"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "大阪",
+      "is_common": true,
+      "tags": [
+        "wanikani16"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "大阪",
+          "reading": "おおさか"
+        },
+        {
+          "word": "大阪",
+          "reading": "おおざか"
+        },
+        {
+          "word": "大坂",
+          "reading": "おおさか"
+        },
+        {
+          "word": "大坂",
+          "reading": "おおざか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Osaka (city)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "おおさか"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "large hill"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "上り坂",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "上り坂",
+          "reading": "のぼりざか"
+        },
+        {
+          "word": "登り坂",
+          "reading": "のぼりざか"
+        },
+        {
+          "word": "のぼり坂",
+          "reading": "のぼりざか"
+        },
+        {
+          "word": "昇り坂",
+          "reading": "のぼりざか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "ascent",
+            "uphill",
+            "upward slope"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "下り坂"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "(gradual) upturn",
+            "increase"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "京阪",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "京阪",
+          "reading": "けいはん"
+        },
+        {
+          "word": "京坂",
+          "reading": "けいはん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Kyoto-Osaka"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Keihan"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "東雲坂田鮫",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "東雲坂田鮫",
+          "reading": "しののめさかたざめ"
+        },
+        {
+          "reading": "シノノメサカタザメ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "bowmouth guitarfish (Rhina ancylostoma)",
+            "mud skate",
+            "shark ray"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Bowmouth guitarfish"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Bowmouth guitarfish” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Bowmouth_guitarfish?oldid\u003d491415026"
+            },
+            {
+              "text": "Read “シノノメサカタザメ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/シノノメサカタザメ?oldid\u003d38211172"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Bowmouth_guitarfish"
+      }
+    },
+    {
+      "slug": "登坂車線",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "登坂車線",
+          "reading": "とはんしゃせん"
+        },
+        {
+          "word": "登坂車線",
+          "reading": "とうはんしゃせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(climbing) lane for slower traffic"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Climbing lane"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Climbing lane” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Climbing_lane?oldid\u003d473239486"
+            },
+            {
+              "text": "Read “登坂車線” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/登坂車線?oldid\u003d40840257"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Climbing_lane"
+      }
+    },
+    {
+      "slug": "大坂夏の陣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "大阪夏の陣",
+          "reading": "おおさかなつのじん"
+        },
+        {
+          "word": "大坂夏の陣",
+          "reading": "おおさかなつのじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "summer campaign of the siege of Osaka (1615 CE)"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "大坂冬の陣"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "坂東",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "坂東",
+          "reading": "ばんどう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Bandō",
+            "former name of the Kantō region"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "関東地方"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "坂東三十三所",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "坂東三十三所",
+          "reading": "ばんどうさんじゅうさんしょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "33 sacred places in the Kanto Region (which was previously known as Bandou)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "三十三所"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "坂田鮫",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "坂田鮫",
+          "reading": "さかたざめ"
+        },
+        {
+          "reading": "サカタザメ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "yellow guitarfish (Rhinobatos schlegelii)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "大坂冬の陣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "大阪冬の陣",
+          "reading": "おおさかふゆのじん"
+        },
+        {
+          "word": "大坂冬の陣",
+          "reading": "おおさかふゆのじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "winter campaign of the siege of Osaka (1614 CE)"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "大坂夏の陣"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "だらだら坂",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "だらだら坂",
+          "reading": "だらだらざか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "gentle slope"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "女坂",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "女坂",
+          "reading": "おんなざか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "the easier of two slopes"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "八尺瓊勾玉",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "八尺瓊勾玉",
+          "reading": "やさかにのまがたま"
+        },
+        {
+          "word": "八坂瓊曲玉",
+          "reading": "やさかにのまがたま"
+        },
+        {
+          "word": "八尺瓊曲玉",
+          "reading": "やさかにのまがたま"
+        },
+        {
+          "word": "八尺瓊の勾玉",
+          "reading": "やさかにのまがたま"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "large jewel",
+            "string of jewels"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Yasakani no Magatama (the grand jewel or string of jewels; one of the three Imperial regalia)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "勾玉",
+            "三種の神器"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "下坂",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "下坂",
+          "reading": "しもさか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "downhill",
+            "decline",
+            "waning"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "男坂",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "男坂",
+          "reading": "おとこざか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "steeper of two hills"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "急坂",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "急坂",
+          "reading": "きゅうはん"
+        },
+        {
+          "word": "急坂",
+          "reading": "きゅうざか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "steep slope",
+            "steep gradient"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "急な坂",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "急な坂",
+          "reading": "きゅうなさか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sudden drop",
+            "precipitous slope"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "登坂",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "登坂",
+          "reading": "とうはん"
+        },
+        {
+          "word": "登坂",
+          "reading": "とはん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "climbing a slope (hill)",
+            "ascending a hill"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "海境",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "海境",
+          "reading": "うなさか"
+        },
+        {
+          "word": "海界",
+          "reading": "うなさか"
+        },
+        {
+          "word": "海坂",
+          "reading": "うなさか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "boundary between the world of men and the world of the sea god"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "サカ豚",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "サカ豚",
+          "reading": "サカぶた"
+        },
+        {
+          "word": "坂豚",
+          "reading": "サカぶた"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "soccer fan"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Derogatory",
+            "Slang"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "焼き豚"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "坂路",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "坂路",
+          "reading": "はんろ"
+        },
+        {
+          "word": "阪路",
+          "reading": "はんろ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "ramp",
+            "slope"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Noun or verb acting prenominally"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "口では大阪の城も建つ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "口では大坂の城も建つ",
+          "reading": "くちではおおさかのしろもたつ"
+        },
+        {
+          "word": "口では大阪の城も建つ",
+          "reading": "くちではおおさかのしろもたつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "talk is cheap",
+            "it\u0027s easier to say than to do",
+            "building Osaka Castle by talking"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [
+            "Proverb"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "坂を下りる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "坂を下りる",
+          "reading": "さかをおりる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to go downhill",
+            "to go down a slope"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Ichidan verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

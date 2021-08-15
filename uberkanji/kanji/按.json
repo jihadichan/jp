@@ -1,0 +1,911 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "案じる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "案じる",
+          "reading": "あんじる"
+        },
+        {
+          "word": "按じる",
+          "reading": "あんじる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to be anxious or concerned about",
+            "to ponder (anxiously)",
+            "to fear"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "案じる"
+          ],
+          "see_also": [
+            "案ずる"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to investigate",
+            "to consider",
+            "to plan"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "案ずる",
+            "一計を案じる"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to pat",
+            "to rub",
+            "to take a sword in one\u0027s hand"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "按じる"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "塩梅-1",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "塩梅",
+          "reading": "あんばい"
+        },
+        {
+          "word": "按排",
+          "reading": "あんばい"
+        },
+        {
+          "word": "按配",
+          "reading": "あんばい"
+        },
+        {
+          "word": "案配",
+          "reading": "あんばい"
+        },
+        {
+          "word": "安排",
+          "reading": "あんばい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "seasoning",
+            "flavour",
+            "flavor",
+            "taste"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "esp. 塩梅"
+          ]
+        },
+        {
+          "english_definitions": [
+            "condition",
+            "state",
+            "situation"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "esp. 塩梅"
+          ]
+        },
+        {
+          "english_definitions": [
+            "(state of) health",
+            "physical condition"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "esp. 塩梅"
+          ]
+        },
+        {
+          "english_definitions": [
+            "arrangement",
+            "assignment",
+            "adjustment",
+            "handling",
+            "dealing with"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "esp. 按排, 按配, 案配, 安排"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "案ずる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "案ずる",
+          "reading": "あんずる"
+        },
+        {
+          "word": "按ずる",
+          "reading": "あんずる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to be anxious or concerned about",
+            "to ponder (anxiously)",
+            "to fear"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb - zuru verb (alternative form of -jiru verbs)",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "案ずる"
+          ],
+          "see_also": [
+            "案じる"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to investigate",
+            "to consider",
+            "to plan"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "案じる"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to pat",
+            "to rub",
+            "to take a sword in one\u0027s hand"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "按ずる"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "あん摩",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "あん摩",
+          "reading": "あんま"
+        },
+        {
+          "word": "按摩",
+          "reading": "あんま"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "massage (esp. anma, a traditional form of Japanese massage)"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "masseur",
+            "masseuse",
+            "massager"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Sensitive"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "blind person"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Archaism",
+            "Colloquialism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "from blind people historically oft. being masseurs"
+          ]
+        },
+        {
+          "english_definitions": [
+            "Anma"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Anma” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Anma?oldid\u003d494780407"
+            },
+            {
+              "text": "Read “按摩” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/按摩?oldid\u003d42115835"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Anma"
+      }
+    },
+    {
+      "slug": "案分",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "案分",
+          "reading": "あんぶん"
+        },
+        {
+          "word": "按分",
+          "reading": "あんぶん"
+        },
+        {
+          "word": "あん分",
+          "reading": "あんぶん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "proportional division",
+            "proportional distribution"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "按手",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "按手",
+          "reading": "あんしゅ"
+        },
+        {
+          "word": "按手",
+          "reading": "あんじゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "ordination",
+            "laying on of hands"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Laying on of hands"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Laying on of hands” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Laying_on_of_hands?oldid\u003d492145266"
+            },
+            {
+              "text": "Read “按手” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/按手?oldid\u003d42319980"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Laying_on_of_hands"
+      }
+    },
+    {
+      "slug": "按針",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "按針",
+          "reading": "あんじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "navigation by magnetic compass"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "pilot"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Anjin (name given to William Adams, English seaman (1564-1620))"
+          ],
+          "parts_of_speech": [
+            "Full name"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "按摩さん",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "按摩さん",
+          "reading": "あんまさん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "masseuse",
+            "masseur"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "按察使",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "按察使",
+          "reading": "あぜち"
+        },
+        {
+          "word": "按察",
+          "reading": "あぜち"
+        },
+        {
+          "word": "按察使",
+          "reading": "あんさつし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "travelling inspector of the provincial governments (Nara- and Heian-period position)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "按摩師",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "按摩師",
+          "reading": "あんまし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "masseuse",
+            "masseur"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "あんま機",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "あんま機",
+          "reading": "あんまき"
+        },
+        {
+          "word": "按摩機",
+          "reading": "あんまき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "massage machine"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "按摩膏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "按摩膏",
+          "reading": "あんまこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "massaging plaster"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "按手礼",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "按手礼",
+          "reading": "あんしゅれい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(Protestant) laying on of hands",
+            "ordination"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "按腹",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "按腹",
+          "reading": "あんぷく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "ventral massage"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "按司",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "按司",
+          "reading": "あじ"
+        },
+        {
+          "word": "按司",
+          "reading": "あんじ"
+        },
+        {
+          "word": "按司",
+          "reading": "あんず"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "chieftain (of the Ryukyu Kingdom)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Aji (Ryūkyū)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Aji (Ryūkyū)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Aji_(Ryūkyū)?oldid\u003d484335586"
+            },
+            {
+              "text": "Read “按司” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/按司?oldid\u003d41311483"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Aji_(Ryūkyū)"
+      }
+    },
+    {
+      "slug": "あん摩マッサージ指圧師",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "あん摩マッサージ指圧師",
+          "reading": "あんまマッサージしあつし"
+        },
+        {
+          "word": "按摩マッサージ指圧師",
+          "reading": "あんまマッサージしあつし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "licensed masseur",
+            "licensed masseuse"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

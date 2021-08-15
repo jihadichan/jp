@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "埠頭",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "埠頭",
+          "reading": "ふとう"
+        },
+        {
+          "word": "ふ頭",
+          "reading": "ふとう"
+        },
+        {
+          "word": "阜頭",
+          "reading": "ふとう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "pier",
+            "wharf",
+            "quay",
+            "dock"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Wharf"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Wharf” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Wharf?oldid\u003d495242990"
+            },
+            {
+              "text": "Read “埠頭” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/埠頭?oldid\u003d42695720"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Wharf"
+      }
+    },
+    {
+      "slug": "コンテナ埠頭",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "コンテナ埠頭",
+          "reading": "コンテナふとう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "container terminal",
+            "container port"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

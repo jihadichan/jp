@@ -1,0 +1,403 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "卑怯",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "卑怯",
+          "reading": "ひきょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "cowardice",
+            "meanness",
+            "unfairness"
+          ],
+          "parts_of_speech": [
+            "Na-adjective",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "怯える",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "怯える",
+          "reading": "おびえる"
+        },
+        {
+          "word": "脅える",
+          "reading": "おびえる"
+        },
+        {
+          "word": "悸える",
+          "reading": "おびえる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to become frightened",
+            "to be frightened (of)",
+            "to be scared (of)"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "怯む",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "怯む",
+          "reading": "ひるむ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to falter",
+            "to flinch (from)",
+            "to recoil (from)",
+            "to quail (at)"
+          ],
+          "parts_of_speech": [
+            "Godan verb with mu ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "卑怯者",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "卑怯者",
+          "reading": "ひきょうもの"
+        },
+        {
+          "word": "ひきょう者",
+          "reading": "ひきょうもの"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "coward",
+            "dastard"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "悪びれる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "悪びれる",
+          "reading": "わるびれる"
+        },
+        {
+          "word": "悪怯れる",
+          "reading": "わるびれる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to be timid",
+            "to be shy"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "怯弱",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "怯弱",
+          "reading": "きょうじゃく"
+        },
+        {
+          "word": "怯弱",
+          "reading": "きょじゃく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "coward"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "怯え",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "怯え",
+          "reading": "おびえ"
+        },
+        {
+          "word": "脅え",
+          "reading": "おびえ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "being startled, surprised or afraid",
+            "panic",
+            "trepidation"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "怯懦",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "怯懦",
+          "reading": "きょうだ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "cowardice"
+          ],
+          "parts_of_speech": [
+            "Na-adjective",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "卑怯千万",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "卑怯千万",
+          "reading": "ひきょうせんばん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "very mean (sneaky)",
+            "extremely unsportsmanlike"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "卑怯な手を使う",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "卑怯な手を使う",
+          "reading": "ひきょうなてをつかう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to play a dirty trick",
+            "to use underhanded methods",
+            "to hit below the belt",
+            "to play foul"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with u ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

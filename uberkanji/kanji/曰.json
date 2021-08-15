@@ -1,0 +1,258 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "曰く",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "曰く",
+          "reading": "いわく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "pretext",
+            "history",
+            "past",
+            "story"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "according to ...",
+            "... says"
+          ],
+          "parts_of_speech": [
+            "Adverbial noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "曰くありげ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "曰くありげ",
+          "reading": "いわくありげ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "meaningful",
+            "suggestive"
+          ],
+          "parts_of_speech": [
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "曰く付き",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "曰く付き",
+          "reading": "いわくつき"
+        },
+        {
+          "word": "いわく付き",
+          "reading": "いわくつき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "with an interesting history (story)",
+            "with a shady history",
+            "with circumstances that are difficult to explain"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "宣わく",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "宣わく",
+          "reading": "のたまわく"
+        },
+        {
+          "word": "曰わく",
+          "reading": "のたまわく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "according to ...",
+            "... says"
+          ],
+          "parts_of_speech": [
+            "Adverbial noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "曰く"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "曰く言い難し",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "曰く言い難し",
+          "reading": "いわくいいがたし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "It is hard to explain",
+            "It is hard to say"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "宣ふ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "宣ふ",
+          "reading": "のたまう"
+        },
+        {
+          "word": "曰ふ",
+          "reading": "のたまう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to say",
+            "to be pleased to say (hint of sarcasm)"
+          ],
+          "parts_of_speech": [
+            "Yodan verb with hu/fu ending (archaic)"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone",
+            "Polite (teineigo)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

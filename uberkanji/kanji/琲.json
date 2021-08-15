@@ -1,0 +1,195 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "コーヒー",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "珈琲",
+          "reading": "コーヒー"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "coffee"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [
+            {
+              "language": "English",
+              "word": "“coffee”"
+            },
+            {
+              "language": "Dutch; Flemish",
+              "word": "“koffie”"
+            }
+          ],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Coffee"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Coffee” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Coffee?oldid\u003d495433084"
+            },
+            {
+              "text": "Read “コーヒー” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/コーヒー?oldid\u003d42745158"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Coffee"
+      }
+    },
+    {
+      "slug": "珈琲粉砕機",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "珈琲粉砕機",
+          "reading": "こーひーふんさいき"
+        },
+        {
+          "word": "コーヒー粉砕機",
+          "reading": "コーヒーふんさいき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "coffee grinder",
+            "coffee mill"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "ウィンナ珈琲",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ウィンナ珈琲",
+          "reading": "ウィンナコーヒー"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Vienna coffee"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "コーヒー店",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "コーヒー店",
+          "reading": "コーヒーてん"
+        },
+        {
+          "word": "珈琲店",
+          "reading": "コーヒーてん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "coffee shop",
+            "coffeehouse",
+            "café"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

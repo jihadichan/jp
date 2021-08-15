@@ -1,0 +1,1093 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "注文",
+      "is_common": true,
+      "tags": [
+        "wanikani11",
+        "wanikani13"
+      ],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "注文",
+          "reading": "ちゅうもん"
+        },
+        {
+          "word": "註文",
+          "reading": "ちゅうもん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "order",
+            "request"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "注",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "注",
+          "reading": "ちゅう"
+        },
+        {
+          "word": "註",
+          "reading": "ちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "annotation",
+            "explanatory note",
+            "comment"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "注釈",
+      "is_common": false,
+      "tags": [
+        "wanikani51"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "注釈",
+          "reading": "ちゅうしゃく"
+        },
+        {
+          "word": "註釈",
+          "reading": "ちゅうしゃく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "notes",
+            "comment",
+            "remark",
+            "annotation"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Annotation"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Annotation” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Annotation?oldid\u003d493244930"
+            },
+            {
+              "text": "Read “注釈” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/注釈?oldid\u003d41941221"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Annotation"
+      }
+    },
+    {
+      "slug": "発注",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "発注",
+          "reading": "はっちゅう"
+        },
+        {
+          "word": "発註",
+          "reading": "はっちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "ordering (materials)",
+            "placing an order",
+            "order"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "受注"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "脚注",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "脚注",
+          "reading": "きゃくちゅう"
+        },
+        {
+          "word": "脚註",
+          "reading": "きゃくちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "footnote"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Note (typography)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Note (typography)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Note_(typography)?oldid\u003d493592298"
+            },
+            {
+              "text": "Read “脚注” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/脚注?oldid\u003d40496141"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Note_(typography)"
+      }
+    },
+    {
+      "slug": "受注",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "受注",
+          "reading": "じゅちゅう"
+        },
+        {
+          "word": "受註",
+          "reading": "じゅちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "accepting an order",
+            "receiving an order",
+            "orders received"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "発注"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "疏注",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "疏注",
+          "reading": "そちゅう"
+        },
+        {
+          "word": "疏註",
+          "reading": "そちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "notes",
+            "comment",
+            "remark",
+            "annotation"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "注釈"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "頭注",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頭注",
+          "reading": "とうちゅう"
+        },
+        {
+          "word": "頭註",
+          "reading": "とうちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "headnote"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "注する",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "注する",
+          "reading": "ちゅうする"
+        },
+        {
+          "word": "註する",
+          "reading": "ちゅうする"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to annotate"
+          ],
+          "parts_of_speech": [
+            "Suru verb - special class",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to write down"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "原注",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "原注",
+          "reading": "げんちゅう"
+        },
+        {
+          "word": "原註",
+          "reading": "げんちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "the original notes"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "校注",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "校注",
+          "reading": "こうちゅう"
+        },
+        {
+          "word": "校註",
+          "reading": "こうちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "collation editing",
+            "proofreading and annotation"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "補注",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "補注",
+          "reading": "ほちゅう"
+        },
+        {
+          "word": "補註",
+          "reading": "ほちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "supplementary note"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "集注",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "集注",
+          "reading": "しゅうちゅう"
+        },
+        {
+          "word": "集註",
+          "reading": "しゅうちゅう"
+        },
+        {
+          "word": "集注",
+          "reading": "しっちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "variorum"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "付注",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "付注",
+          "reading": "ふちゅう"
+        },
+        {
+          "word": "附註",
+          "reading": "ふちゅう"
+        },
+        {
+          "word": "附注",
+          "reading": "ふちゅう"
+        },
+        {
+          "word": "付註",
+          "reading": "ふちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "annotation",
+            "comment"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "自注",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "自注",
+          "reading": "じちゅう"
+        },
+        {
+          "word": "自註",
+          "reading": "じちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "self-annotation of one\u0027s writings"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "古注",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "古注",
+          "reading": "こちゅう"
+        },
+        {
+          "word": "古註",
+          "reading": "こちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "commentaries of the ancients"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "評註",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "評註",
+          "reading": "ひょうちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "annotation",
+            "commentary"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "注疏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "注疏",
+          "reading": "ちゅうそ"
+        },
+        {
+          "word": "註疏",
+          "reading": "ちゅうそ"
+        },
+        {
+          "word": "註疎",
+          "reading": "ちゅうそ"
+        },
+        {
+          "word": "注疎",
+          "reading": "ちゅうそ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(detailed) commentary",
+            "notes",
+            "comments"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "詳注",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詳注",
+          "reading": "しょうちゅう"
+        },
+        {
+          "word": "詳註",
+          "reading": "しょうちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "detailed commentary",
+            "copious notes"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "傍注",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "傍注",
+          "reading": "ぼうちゅう"
+        },
+        {
+          "word": "旁註",
+          "reading": "ぼうちゅう"
+        },
+        {
+          "word": "傍註",
+          "reading": "ぼうちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "marginal notes",
+            "side notes",
+            "gloss"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "自注",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "自注",
+          "reading": "じちゅう"
+        },
+        {
+          "word": "自註",
+          "reading": "じちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "self-annotation of one\u0027s writings"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "詳注",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詳注",
+          "reading": "しょうちゅう"
+        },
+        {
+          "word": "詳註",
+          "reading": "しょうちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "detailed commentary",
+            "copious notes"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "傍注",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "傍注",
+          "reading": "ぼうちゅう"
+        },
+        {
+          "word": "旁註",
+          "reading": "ぼうちゅう"
+        },
+        {
+          "word": "傍註",
+          "reading": "ぼうちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "marginal notes",
+            "side notes",
+            "gloss"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "標註",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "標註",
+          "reading": "ひょうちゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "marginal notations"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "注文-1",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "注文",
+          "reading": "ちゅうぶん"
+        },
+        {
+          "word": "註文",
+          "reading": "ちゅうぶん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "annotation",
+            "explanatory note"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Obscure term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

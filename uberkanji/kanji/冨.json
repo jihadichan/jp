@@ -1,0 +1,133 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "豆腐",
+      "is_common": true,
+      "tags": [
+        "wanikani36"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "豆腐",
+          "reading": "とうふ"
+        },
+        {
+          "word": "豆富",
+          "reading": "とうふ"
+        },
+        {
+          "word": "豆冨",
+          "reading": "とうふ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "tofu",
+            "bean curd",
+            "beancurd"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Toufu"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Tofu"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Tofu” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Tofu?oldid\u003d492959213"
+            },
+            {
+              "text": "Read “豆腐” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/豆腐?oldid\u003d42522812"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "http://dbpedia.org/resource/Tofu"
+      }
+    },
+    {
+      "slug": "富有",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "富有",
+          "reading": "ふゆう"
+        },
+        {
+          "word": "冨有",
+          "reading": "ふゆう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rich",
+            "wealthy"
+          ],
+          "parts_of_speech": [
+            "Na-adjective",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

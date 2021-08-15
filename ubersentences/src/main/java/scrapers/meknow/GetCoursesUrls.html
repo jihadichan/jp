@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+</head>
+<body>
+<script>
+
+    // JQUERY
+    var json = [];
+    $('.details a').each(function (index, value) {
+        if (value.text.indexOf('Master') === -1) {
+            json.push({
+                name: value.text,
+                url: value.href
+            });
+        }
+    });
+    console.log(JSON.stringify(json));
+
+    // ES5
+    var json = [];
+    var elements = document.querySelectorAll(".details a");
+    for (var i = 0; i < elements.length; i++) {
+        if (value.text.indexOf('Master') === -1) {
+            json.push({
+                name: elements[i].text,
+                url: elements[i].href
+            });
+        }
+    }
+    console.log(JSON.stringify(json));
+
+</script>
+</body>
+</html>

@@ -1,0 +1,352 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "知恵",
+      "is_common": true,
+      "tags": [
+        "wanikani37"
+      ],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "知恵",
+          "reading": "ちえ"
+        },
+        {
+          "word": "智恵",
+          "reading": "ちえ"
+        },
+        {
+          "word": "智慧",
+          "reading": "ちえ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "wisdom",
+            "wit",
+            "sagacity",
+            "sense",
+            "intelligence"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "prajna (insight leading to enlightenment)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Buddhist term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "usu. 智慧"
+          ]
+        },
+        {
+          "english_definitions": [
+            "Wisdom"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Wisdom” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Wisdom?oldid\u003d494950593"
+            },
+            {
+              "text": "Read “知恵” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/知恵?oldid\u003d42656776"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Wisdom"
+      }
+    },
+    {
+      "slug": "慧日",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "慧日",
+          "reading": "えにち"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sun of wisdom",
+            "Buddha\u0027s or Bodhisattva\u0027s limitless light of wisdom"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Buddhist term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "慧眼",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "慧眼",
+          "reading": "けいがん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "discerning (quick) eye",
+            "keen insight"
+          ],
+          "parts_of_speech": [
+            "Na-adjective",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "入れ知恵",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "入れ知恵",
+          "reading": "いれぢえ"
+        },
+        {
+          "word": "入れ智慧",
+          "reading": "いれぢえ"
+        },
+        {
+          "word": "入知恵",
+          "reading": "いれぢえ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "putting an idea into someone\u0027s head",
+            "suggestion",
+            "hint"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "usu. with a negative nuance"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "恵",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "恵",
+          "reading": "え"
+        },
+        {
+          "word": "慧",
+          "reading": "え"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "wisdom",
+            "enlightenment"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "prajñā (one of the three divisions of the noble eightfold path)",
+            "wisdom"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Buddhist term"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "三学"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "慧敏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "慧敏",
+          "reading": "けいびん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "clever",
+            "of quick intellect"
+          ],
+          "parts_of_speech": [
+            "Na-adjective",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Obscure term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "慧眼-1",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "慧眼",
+          "reading": "えげん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "the wisdom eye"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Buddhist term"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "五眼"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

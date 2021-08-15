@@ -1,0 +1,2428 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "稲",
+      "is_common": true,
+      "tags": [
+        "wanikani39"
+      ],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "稲",
+          "reading": "いね"
+        },
+        {
+          "word": "稻",
+          "reading": "いね"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rice plant"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "稲作",
+      "is_common": true,
+      "tags": [
+        "wanikani39"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "稲作",
+          "reading": "いなさく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rice cultivation",
+            "rice crop"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "稲穂",
+      "is_common": false,
+      "tags": [
+        "wanikani46"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "稲穂",
+          "reading": "いなほ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "ear (head) of rice"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "稲光",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "稲光",
+          "reading": "いなびかり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(flash of) lightning"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "稲妻",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "稲妻",
+          "reading": "いなずま"
+        },
+        {
+          "word": "稲妻",
+          "reading": "いなづま"
+        },
+        {
+          "word": "電",
+          "reading": "いなずま"
+        },
+        {
+          "word": "電",
+          "reading": "いなづま"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "lightning",
+            "flash of lightning",
+            "lightning bolt"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "稲荷",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "稲荷",
+          "reading": "いなり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Inari (god of harvests, Uka-no-Mitama)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "稲魂"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Inari shrine",
+            "Fushimi Inari shrine (in Kyoto)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "fox (said to be messengers of Inari)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "狐"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "fried tofu (said to be a favourite food of foxes)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "油揚げ"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "inarizushi"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Abbreviation",
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "いなり寿司"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Inari"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Inari” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Inari?oldid\u003d478285650"
+            },
+            {
+              "text": "Read “稲荷” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/稲荷?oldid\u003d40468632"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Inari"
+      }
+    },
+    {
+      "slug": "稲田",
+      "is_common": true,
+      "tags": [
+        "wanikani39"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "稲田",
+          "reading": "いなだ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "paddy field",
+            "rice field"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "水稲",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "水稲",
+          "reading": "すいとう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "wet-land rice"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "稲刈り",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "稲刈り",
+          "reading": "いねかり"
+        },
+        {
+          "word": "稲刈",
+          "reading": "いねかり"
+        },
+        {
+          "word": "稲苅り",
+          "reading": "いねかり"
+        },
+        {
+          "word": "稲苅",
+          "reading": "いねかり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rice reaping",
+            "rice harvesting"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "早稲",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "早稲",
+          "reading": "わせ"
+        },
+        {
+          "word": "早生",
+          "reading": "わせ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "early ripening rice"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "usu. 早稲"
+          ]
+        },
+        {
+          "english_definitions": [
+            "early-ripening fruit (grain, etc.)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "usu. 早生"
+          ]
+        },
+        {
+          "english_definitions": [
+            "person who becomes physically or mentally mature at an early age"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "usu. 早生"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "稲子",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "稲子",
+          "reading": "いなご"
+        },
+        {
+          "word": "蝗",
+          "reading": "いなご"
+        },
+        {
+          "word": "蝗",
+          "reading": "こう"
+        },
+        {
+          "reading": "イナゴ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rice grasshopper (of genus Oxya)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "grasshopper",
+            "locust (of family Catantopidae)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "稲見星",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "稲見星",
+          "reading": "いなみぼし"
+        },
+        {
+          "word": "牛宿",
+          "reading": "いなみぼし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Chinese \"Ox\" constellation (one of the 28 mansions)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Astronomy, etc. term"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "牛"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Ox (Chinese constellation)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Ox (Chinese constellation)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Ox_(Chinese_constellation)?oldid\u003d384943983"
+            },
+            {
+              "text": "Read “牛宿” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/牛宿?oldid\u003d24164852"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Ox_(Chinese_constellation)"
+      }
+    },
+    {
+      "slug": "稲熱病",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "稲熱病",
+          "reading": "いもちびょう"
+        },
+        {
+          "word": "いもち病",
+          "reading": "いもちびょう"
+        },
+        {
+          "word": "稲熱病",
+          "reading": "とうねつびょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rice blight",
+            "rice blast"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Magnaporthe grisea"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Magnaporthe grisea” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Magnaporthe_grisea?oldid\u003d486976444"
+            },
+            {
+              "text": "Read “いもち病” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/いもち病?oldid\u003d42052789"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Magnaporthe_grisea"
+      }
+    },
+    {
+      "slug": "稲水象虫",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "稲水象虫",
+          "reading": "いねみずぞうむし"
+        },
+        {
+          "reading": "イネミズゾウムシ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rice water weevil (Lissorhoptrus oryzophilus)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Lissorhoptrus oryzophilus"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Lissorhoptrus oryzophilus” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Lissorhoptrus_oryzophilus?oldid\u003d479046094"
+            },
+            {
+              "text": "Read “イネミズゾウムシ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/イネミズゾウムシ?oldid\u003d38285323"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Lissorhoptrus_oryzophilus"
+      }
+    },
+    {
+      "slug": "晩稲",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "晩稲",
+          "reading": "ばんとう"
+        },
+        {
+          "word": "晩稲",
+          "reading": "おしね"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "late-growing rice"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Oshine"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "奥手",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "奥手",
+          "reading": "おくて"
+        },
+        {
+          "word": "晩生",
+          "reading": "おくて"
+        },
+        {
+          "word": "晩稲",
+          "reading": "おくて"
+        },
+        {
+          "word": "晩熟",
+          "reading": "おくて"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "late-growing rice"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "esp. 晩稲"
+          ]
+        },
+        {
+          "english_definitions": [
+            "late-ripening crops",
+            "late-blooming flowers"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "esp. 晩生"
+          ]
+        },
+        {
+          "english_definitions": [
+            "late developer (e.g. child who reaches puberty late)",
+            "late bloomer"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "esp. 奥手, 晩熟"
+          ]
+        },
+        {
+          "english_definitions": [
+            "Okute"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "中手",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "中手",
+          "reading": "なかて"
+        },
+        {
+          "word": "中生",
+          "reading": "なかて"
+        },
+        {
+          "word": "中稲",
+          "reading": "なかて"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "mid-season crops",
+            "mid-season rice",
+            "mid-season vegetables"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "metacarpus"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Anatomical term"
+          ],
+          "restrictions": [
+            "中手"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "稲椿象",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "稲椿象",
+          "reading": "いねかめむし"
+        },
+        {
+          "word": "稲亀虫",
+          "reading": "いねかめむし"
+        },
+        {
+          "reading": "イネカメムシ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rice stink-bug (Lagynotomus elongatus)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "束稲-1",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "束稲",
+          "reading": "つかいね"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sheaf of rice",
+            "bundle of rice plants"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "稲束"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "稲妻横這",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "稲妻横這",
+          "reading": "いなずまよこばい"
+        },
+        {
+          "reading": "イナズマヨコバイ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "zig-zag rice leafhopper (Recilia dorsalis)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "稲荷寿司",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "いなり寿司",
+          "reading": "いなりずし"
+        },
+        {
+          "word": "稲荷寿司",
+          "reading": "いなりずし"
+        },
+        {
+          "word": "稲荷ずし",
+          "reading": "いなりずし"
+        },
+        {
+          "word": "稲荷鮨",
+          "reading": "いなりずし"
+        },
+        {
+          "word": "いなり鮨",
+          "reading": "いなりずし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "inarizushi",
+            "sushi wrapped in fried tofu"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Food term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "束稲-1",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "束稲",
+          "reading": "つかいね"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sheaf of rice",
+            "bundle of rice plants"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "稲束"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "お稲荷さん",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "お稲荷さん",
+          "reading": "おいなりさん"
+        },
+        {
+          "word": "御稲荷さん",
+          "reading": "おいなりさん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Inari (god of harvests, wealth, fertility, etc.)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Honorific or respectful (sonkeigo)"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "稲荷"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Inari shrine"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Honorific or respectful (sonkeigo)"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "稲荷"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "inarizushi (sushi wrapped in fried tofu)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Polite (teineigo)"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "稲荷鮨"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "scrotum",
+            "testicle sack"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Jocular, humorous term",
+            "Slang"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "早稲女",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "早稲女",
+          "reading": "わせじょ"
+        },
+        {
+          "word": "ワセ女",
+          "reading": "ワセじょ"
+        },
+        {
+          "reading": "ワセジョ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "female student or graduate of Waseda University"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "woman who allegedly pursues a career at the expense of love, feminine interests, etc."
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Derogatory"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "官稲",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "官稲",
+          "reading": "かんとう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "state-owned rice (ritsuryo system)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "稲妻横這",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "稲妻横這",
+          "reading": "いなずまよこばい"
+        },
+        {
+          "reading": "イナズマヨコバイ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "zig-zag rice leafhopper (Recilia dorsalis)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "稲扱き",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "稲こき",
+          "reading": "いねこき"
+        },
+        {
+          "word": "稲扱き",
+          "reading": "いねこき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rice threshing"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "rice thresher"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "稲掛け",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "稲掛け",
+          "reading": "いねかけ"
+        },
+        {
+          "word": "稲掛",
+          "reading": "いねかけ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "drying rice on a rack",
+            "rack for drying rice"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "稲荷揚げ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "稲荷揚げ",
+          "reading": "いなりあげ"
+        },
+        {
+          "word": "稲荷揚",
+          "reading": "いなりあげ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "fried tofu (aburage) used for inarizushi"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "稲木",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "稲木",
+          "reading": "いなぎ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rice-drying rack"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "陸稲",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "陸稲",
+          "reading": "おかぼ"
+        },
+        {
+          "word": "陸稲",
+          "reading": "りくとう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rice grown on dry land",
+            "dry land rice plant"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "稲の螟虫",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "稲の螟虫",
+          "reading": "いねのずいむし"
+        },
+        {
+          "word": "稲の髄虫",
+          "reading": "いねのずいむし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "striped stem borer larva"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Obscure term"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "二化螟蛾"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "稲束-1",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "稲束",
+          "reading": "いなづか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sheaf of rice",
+            "bundle of rice plants"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "稲架",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "稲架",
+          "reading": "はさ"
+        },
+        {
+          "word": "稲架",
+          "reading": "はざ"
+        },
+        {
+          "word": "稲架",
+          "reading": "はせ"
+        },
+        {
+          "word": "稲架",
+          "reading": "はぜ"
+        },
+        {
+          "word": "稲架",
+          "reading": "とうか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "drying rice on a rack",
+            "rack for drying rice"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "稲掛け"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "稲負鳥",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "稲負鳥",
+          "reading": "いなおおせどり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "migratory bird that arrives in autumn (unknown species; perhaps a wagtail)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "鶺鴒"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "稲象虫",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "稲象虫",
+          "reading": "いねぞうむし"
+        },
+        {
+          "reading": "イネゾウムシ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rice plant weevil (Echinocnemus squameus)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "稲むら",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "稲むら",
+          "reading": "いなむら"
+        },
+        {
+          "word": "稲叢",
+          "reading": "いなむら"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "stack of rice straw",
+            "rick",
+            "cock"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "稲根喰葉虫",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "稲根喰葉虫",
+          "reading": "いねねくいはむし"
+        },
+        {
+          "word": "稲根喰い葉虫",
+          "reading": "いねねくいはむし"
+        },
+        {
+          "reading": "イネネクイハムシ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Donacia provostii (species of leaf beetle)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "稲わら",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "稲わら",
+          "reading": "いねわら"
+        },
+        {
+          "word": "稲わら",
+          "reading": "いなわら"
+        },
+        {
+          "word": "稲藁",
+          "reading": "いねわら"
+        },
+        {
+          "word": "稲藁",
+          "reading": "いなわら"
+        },
+        {
+          "word": "稲ワラ",
+          "reading": "いねワラ"
+        },
+        {
+          "word": "稲ワラ",
+          "reading": "いなワラ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rice straw",
+            "paddy straw"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "稲熱",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "稲熱",
+          "reading": "いもち"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rice blight"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "稲根喰葉虫",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "稲根喰葉虫",
+          "reading": "いねねくいはむし"
+        },
+        {
+          "word": "稲根喰い葉虫",
+          "reading": "いねねくいはむし"
+        },
+        {
+          "reading": "イネネクイハムシ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Donacia provostii (species of leaf beetle)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "稲わら",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "稲わら",
+          "reading": "いねわら"
+        },
+        {
+          "word": "稲わら",
+          "reading": "いなわら"
+        },
+        {
+          "word": "稲藁",
+          "reading": "いねわら"
+        },
+        {
+          "word": "稲藁",
+          "reading": "いなわら"
+        },
+        {
+          "word": "稲ワラ",
+          "reading": "いねワラ"
+        },
+        {
+          "word": "稲ワラ",
+          "reading": "いなワラ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rice straw",
+            "paddy straw"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "稲熱",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "稲熱",
+          "reading": "いもち"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rice blight"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "占城稲",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "占城稲",
+          "reading": "せんじょうとう"
+        },
+        {
+          "word": "占城稲",
+          "reading": "チャンパとう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Champa rice"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Champa rice"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Champa rice” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Champa_rice?oldid\u003d451484152"
+            },
+            {
+              "text": "Read “占城稲” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/占城稲?oldid\u003d42046478"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Champa_rice"
+      }
+    },
+    {
+      "slug": "イネ科",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "イネ科",
+          "reading": "イネか"
+        },
+        {
+          "word": "稲科",
+          "reading": "いねか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Poaceae",
+            "Gramineae",
+            "family comprising the true grasses"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Poaceae"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Poaceae” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Poaceae?oldid\u003d488805029"
+            },
+            {
+              "text": "Read “イネ科” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/イネ科?oldid\u003d42504425"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Poaceae"
+      }
+    },
+    {
+      "slug": "稲ゲノム",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "稲ゲノム",
+          "reading": "いねゲノム"
+        },
+        {
+          "reading": "イネゲノム"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rice genome"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "手稲石",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "手稲石",
+          "reading": "ていねせき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "teineite"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Geology, etc. term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "稲置",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "稲置",
+          "reading": "いなぎ"
+        },
+        {
+          "word": "稲置",
+          "reading": "いなき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "regional official responsible for rice storage (under the Yamato court)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Inagi (lowest of the eight hereditary titles)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "八色の姓"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "アフリカ稲",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "アフリカ稲",
+          "reading": "アフリカいね"
+        },
+        {
+          "reading": "アフリカイネ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "African rice (Oryza glaberrima)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

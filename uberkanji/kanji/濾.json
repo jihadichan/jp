@@ -1,0 +1,987 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "濾す",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "濾す",
+          "reading": "こす"
+        },
+        {
+          "word": "漉す",
+          "reading": "こす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to filter",
+            "to strain"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "濾過",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "濾過",
+          "reading": "ろか"
+        },
+        {
+          "word": "ろ過",
+          "reading": "ろか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "filtration",
+            "filtering",
+            "percolation"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Filtration"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Filtration” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Filtration?oldid\u003d495448144"
+            },
+            {
+              "text": "Read “ろ過” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/ろ過?oldid\u003d42749931"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Filtration"
+      }
+    },
+    {
+      "slug": "無濾過",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "無濾過",
+          "reading": "むろか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "unfiltered (alcohol)"
+          ],
+          "parts_of_speech": [
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "濾し布",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "濾し布",
+          "reading": "こしぬの"
+        },
+        {
+          "word": "こし布",
+          "reading": "こしぬの"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "cloth strainer",
+            "filter cloth"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "圧濾器",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "圧濾器",
+          "reading": "あつろき"
+        },
+        {
+          "word": "圧瀘器",
+          "reading": "あつろき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "filter press"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "傍濾胞細胞",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "傍濾胞細胞",
+          "reading": "ぼうろほうさいぼう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "parafollicular cell"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "ろ波器",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ろ波器",
+          "reading": "ろぱき"
+        },
+        {
+          "word": "濾波器",
+          "reading": "ろぱき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "filter",
+            "wave filter"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "麦汁ろ過",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "麦汁ろ過",
+          "reading": "ばくじゅうろか"
+        },
+        {
+          "word": "麦汁濾過",
+          "reading": "ばくじゅうろか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "wort filtration",
+            "lautering",
+            "sparging"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "濾過性病原体",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "濾過性病原体",
+          "reading": "ろかせいびょうげんたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "virus"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Obscure term"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "ウイルス"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "濾液",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "濾液",
+          "reading": "ろえき"
+        },
+        {
+          "word": "ろ液",
+          "reading": "ろえき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "filtrate"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "限外濾過",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "限外濾過",
+          "reading": "げんがいろか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "ultrafiltration"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Chemistry term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "濾水",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "濾水",
+          "reading": "ろすい"
+        },
+        {
+          "word": "ろ水",
+          "reading": "ろすい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "filtered water"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "drainage"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "濾胞",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "濾胞",
+          "reading": "ろほう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "follicle (esp. an ovarian follicle)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "濾水器",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "濾水器",
+          "reading": "ろすいき"
+        },
+        {
+          "word": "ろ水器",
+          "reading": "ろすいき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "water filter"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "濾取",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "濾取",
+          "reading": "ろしゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "filtrand",
+            "filter residue",
+            "residue"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "緑内障濾過手術",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "緑内障濾過手術",
+          "reading": "りょくないしょうろかしゅじゅつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "glaucoma filtration surgery"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "濾過器",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "濾過器",
+          "reading": "ろかき"
+        },
+        {
+          "word": "ろ過器",
+          "reading": "ろかき"
+        },
+        {
+          "word": "瀘過器",
+          "reading": "ろかき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "strainer",
+            "colander",
+            "filter"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "水漉し",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "水漉し",
+          "reading": "みずこし"
+        },
+        {
+          "word": "水こし",
+          "reading": "みずこし"
+        },
+        {
+          "word": "水濾し",
+          "reading": "みずこし"
+        },
+        {
+          "word": "水濾",
+          "reading": "みずこし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "water filter",
+            "strainer",
+            "colander"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "ろ紙電気泳動",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ろ紙電気泳動",
+          "reading": "ろしでんきえいどう"
+        },
+        {
+          "word": "濾紙電気泳動",
+          "reading": "ろしでんきえいどう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "paper electrophoresis"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "濾紙",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "濾紙",
+          "reading": "ろし"
+        },
+        {
+          "word": "ろ紙",
+          "reading": "ろし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "filter paper"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Filter paper"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Filter paper” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Filter_paper?oldid\u003d486630342"
+            },
+            {
+              "text": "Read “ろ紙” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/ろ紙?oldid\u003d37443532"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Filter_paper"
+      }
+    },
+    {
+      "slug": "ろ紙クロマトグラフィー",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ろ紙クロマトグラフィー",
+          "reading": "ろしクロマトグラフィー"
+        },
+        {
+          "word": "濾紙クロマトグラフィー",
+          "reading": "ろしクロマトグラフィー"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "paper chromatography"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "ろ紙ディスク",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ろ紙ディスク",
+          "reading": "ろしディスク"
+        },
+        {
+          "word": "濾紙ディスク",
+          "reading": "ろしディスク"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "filter paper disk"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "濾水タンク",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "濾水タンク",
+          "reading": "ろすいタンク"
+        },
+        {
+          "word": "ろ水タンク",
+          "reading": "ろすいタンク"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "filter bed"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "グラーフ濾胞",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "グラーフ濾胞",
+          "reading": "グラーフろほう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Graafian follicle"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Obscure term"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "グラーフ卵胞"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

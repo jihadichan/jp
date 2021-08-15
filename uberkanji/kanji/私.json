@@ -1,0 +1,4253 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "私",
+      "is_common": true,
+      "tags": [
+        "wanikani6"
+      ],
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "私",
+          "reading": "わたし"
+        },
+        {
+          "word": "私",
+          "reading": "わたくし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "I",
+            "me"
+          ],
+          "parts_of_speech": [
+            "Pronoun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "private affairs",
+            "personal matter",
+            "secrecy"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "わたくし"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "selfishness"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "わたくし"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私立",
+      "is_common": true,
+      "tags": [
+        "wanikani6"
+      ],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "私立",
+          "reading": "しりつ"
+        },
+        {
+          "word": "私立",
+          "reading": "わたくしりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "private (establishment)"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "市立 しりつ"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "わたくしりつ spoken to avoid confusion with 市立"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "囁く",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "囁く",
+          "reading": "ささやく"
+        },
+        {
+          "word": "私語く",
+          "reading": "ささやく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to whisper",
+            "to murmur"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ku ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to rumor",
+            "to rumour"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "usu. in the passive voice"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "密か",
+      "is_common": true,
+      "tags": [
+        "wanikani32"
+      ],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "密か",
+          "reading": "ひそか"
+        },
+        {
+          "word": "秘か",
+          "reading": "ひそか"
+        },
+        {
+          "word": "窃か",
+          "reading": "ひそか"
+        },
+        {
+          "word": "私か",
+          "reading": "ひそか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "secret",
+            "private",
+            "surreptitious"
+          ],
+          "parts_of_speech": [
+            "Na-adjective",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私用",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "私用",
+          "reading": "しよう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "personal use",
+            "private use"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [
+            "公用"
+          ],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "private business",
+            "personal business"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [
+            "公用"
+          ],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私鉄",
+      "is_common": true,
+      "tags": [
+        "wanikani10"
+      ],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "私鉄",
+          "reading": "してつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "private railway"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Private railway"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Private railway” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Private_railway?oldid\u003d395974967"
+            },
+            {
+              "text": "Read “私鉄” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/私鉄?oldid\u003d42328971"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Private_railway"
+      }
+    },
+    {
+      "slug": "私-1",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "私",
+          "reading": "あたし"
+        },
+        {
+          "word": "私",
+          "reading": "あたくし"
+        },
+        {
+          "word": "私",
+          "reading": "あたい"
+        },
+        {
+          "word": "私",
+          "reading": "あて"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "I",
+            "me"
+          ],
+          "parts_of_speech": [
+            "Pronoun"
+          ],
+          "links": [],
+          "tags": [
+            "Female term or language",
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私たち",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私たち",
+          "reading": "わたしたち"
+        },
+        {
+          "word": "私達",
+          "reading": "わたしたち"
+        },
+        {
+          "word": "わたし達",
+          "reading": "わたしたち"
+        },
+        {
+          "word": "私たち",
+          "reading": "わたくしたち"
+        },
+        {
+          "word": "私達",
+          "reading": "わたくしたち"
+        },
+        {
+          "word": "わたくし達",
+          "reading": "わたくしたち"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "we",
+            "us"
+          ],
+          "parts_of_speech": [
+            "Pronoun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私的",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私的",
+          "reading": "してき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "personal",
+            "private",
+            "proprietary"
+          ],
+          "parts_of_speech": [
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私生活",
+      "is_common": true,
+      "tags": [
+        "wanikani6"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私生活",
+          "reading": "しせいかつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "one\u0027s private life"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "公私",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "公私",
+          "reading": "こうし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "public and private",
+            "official and personal",
+            "government and people"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私見",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私見",
+          "reading": "しけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "personal opinion"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私自身",
+      "is_common": true,
+      "tags": [
+        "wanikani8"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私自身",
+          "reading": "わたしじしん"
+        },
+        {
+          "word": "私自身",
+          "reading": "わたくしじしん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "myself"
+          ],
+          "parts_of_speech": [
+            "Pronoun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私事",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私事",
+          "reading": "しじ"
+        },
+        {
+          "word": "私事",
+          "reading": "わたくしごと"
+        },
+        {
+          "word": "私ごと",
+          "reading": "わたくしごと"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "personal affairs",
+            "matter relating to oneself"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "secret",
+            "privacy"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私立大学",
+      "is_common": false,
+      "tags": [
+        "wanikani8"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私立大学",
+          "reading": "しりつだいがく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "private university"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Private university"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Private university” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Private_university?oldid\u003d495468949"
+            },
+            {
+              "text": "Read “私立大学” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/私立大学?oldid\u003d42596617"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Private_university"
+      }
+    },
+    {
+      "slug": "私有",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "私有",
+          "reading": "しゆう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "private ownership"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私物",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "私物",
+          "reading": "しぶつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "private property",
+            "personal effects"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "儂",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "儂",
+          "reading": "わし"
+        },
+        {
+          "word": "私",
+          "reading": "わし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "I",
+            "me"
+          ],
+          "parts_of_speech": [
+            "Pronoun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone",
+            "Male term or language"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "used by elderly"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私ども",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私ども",
+          "reading": "わたくしども"
+        },
+        {
+          "word": "私ども",
+          "reading": "わたしども"
+        },
+        {
+          "word": "私共",
+          "reading": "わたくしども"
+        },
+        {
+          "word": "私共",
+          "reading": "わたしども"
+        },
+        {
+          "word": "私供",
+          "reading": "わたくしども"
+        },
+        {
+          "word": "私供",
+          "reading": "わたしども"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "we",
+            "us"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Humble (kenjougo)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "I",
+            "me",
+            "my store (business, etc.)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "わたし的",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "わたし的",
+          "reading": "わたしてき"
+        },
+        {
+          "word": "私的",
+          "reading": "わたしてき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "my style",
+            "my way",
+            "my opinion"
+          ],
+          "parts_of_speech": [
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "私的 してき"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "often わたし的には"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私立探偵",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私立探偵",
+          "reading": "しりつたんてい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "private detective"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私服警官",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私服警官",
+          "reading": "しふくけいかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "plainclothes police officer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私有地",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私有地",
+          "reading": "しゆうち"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "demesne",
+            "estate",
+            "private land",
+            "private property"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "囁き",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "囁き",
+          "reading": "ささやき"
+        },
+        {
+          "word": "私語",
+          "reading": "ささやき"
+        },
+        {
+          "word": "囁き",
+          "reading": "つつやき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "whispering",
+            "whisper",
+            "secret talk",
+            "murmur"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "滅私奉公",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "滅私奉公",
+          "reading": "めっしほうこう"
+        },
+        {
+          "word": "滅私奉公",
+          "reading": "めっしぼうこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "selfless devotion"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私書箱",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私書箱",
+          "reading": "ししょばこ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "post office box"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Abbreviation"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "郵便私書箱"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Post-office box"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Post-office box” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Post-office_box?oldid\u003d495396516"
+            },
+            {
+              "text": "Read “私書箱” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/私書箱?oldid\u003d41210441"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Post-office_box"
+      }
+    },
+    {
+      "slug": "私法",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私法",
+          "reading": "しほう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "private law"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Private law"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Private law” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Private_law?oldid\u003d481929035"
+            },
+            {
+              "text": "Read “私法” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/私法?oldid\u003d42753775"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Private_law"
+      }
+    },
+    {
+      "slug": "無私",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "無私",
+          "reading": "むし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "selflessness",
+            "unselfish"
+          ],
+          "parts_of_speech": [
+            "Na-adjective",
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Selflessness"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Selflessness” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Selflessness?oldid\u003d493281211"
+            },
+            {
+              "text": "Read “無私” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/無私?oldid\u003d42563580"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Selflessness"
+      }
+    },
+    {
+      "slug": "私企業",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私企業",
+          "reading": "しきぎょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "private enterprise"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私語",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私語",
+          "reading": "しご"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "whispering",
+            "whisper",
+            "secret talk",
+            "murmur"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私案",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私案",
+          "reading": "しあん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "private plan",
+            "one\u0027s own plan"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私邸",
+      "is_common": true,
+      "tags": [
+        "wanikani51"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私邸",
+          "reading": "してい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "private residence"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "官邸"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私服",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私服",
+          "reading": "しふく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "civilian clothes",
+            "plain clothes",
+            "mufti"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "plainclothes police officer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Abbreviation"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "私服刑事"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私設",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私設",
+          "reading": "しせつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "private"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私大",
+      "is_common": true,
+      "tags": [
+        "wanikani10"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私大",
+          "reading": "しだい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "private university"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Abbreviation"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "私立大学"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私文書",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私文書",
+          "reading": "しぶんしょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "private document"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私学",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私学",
+          "reading": "しがく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "private (non-governmental) school (college, university)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私費",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私費",
+          "reading": "しひ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "private expense"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "滅私",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "滅私",
+          "reading": "めっし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "selflessness",
+            "being unselfish"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私信",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私信",
+          "reading": "ししん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "private message"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私兵",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私兵",
+          "reading": "しへい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "private army"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私財",
+      "is_common": false,
+      "tags": [
+        "wanikani19"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私財",
+          "reading": "しざい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "private funds",
+            "own funds",
+            "private property"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私利",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私利",
+          "reading": "しり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "personal profit",
+            "self interest"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私腹",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私腹",
+          "reading": "しふく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "one\u0027s own profits",
+            "one\u0027s own pockets"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "私腹を肥やす"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私営",
+      "is_common": false,
+      "tags": [
+        "wanikani22"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私営",
+          "reading": "しえい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "privately operated",
+            "private management"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私心",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私心",
+          "reading": "ししん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "selfishness",
+            "selfish motive"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私権",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私権",
+          "reading": "しけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "private right"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私生児",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私生児",
+          "reading": "しせいじ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "illegitimate child",
+            "bastard",
+            "love child"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私塾",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私塾",
+          "reading": "しじゅく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "small private school (esp. for cramming)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "private school (in the Edo period, orig. run by Confucianists)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私欲",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私欲",
+          "reading": "しよく"
+        },
+        {
+          "word": "私慾",
+          "reading": "しよく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "self-interest",
+            "selfish desire"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私情",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私情",
+          "reading": "しじょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "personal feelings",
+            "self-interest"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私人",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私人",
+          "reading": "しじん"
+        },
+        {
+          "word": "私人",
+          "reading": "しにん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "private individual"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私宛",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私宛",
+          "reading": "わたしあて"
+        },
+        {
+          "word": "私宛",
+          "reading": "わたくしあて"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "my address"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私腹を肥やす",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私腹を肥やす",
+          "reading": "しふくをこやす"
+        },
+        {
+          "word": "私腹をこやす",
+          "reading": "しふくをこやす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to fill one\u0027s own pocket by taking advantage of a position"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with su ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私費で",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私費で",
+          "reading": "しひで"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "at one\u0027s own expense"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私刑",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私刑",
+          "reading": "しけい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "punishment without a legal trial",
+            "vigilantism"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Lynching"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Lynching” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Lynching?oldid\u003d493599349"
+            },
+            {
+              "text": "Read “私刑” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/私刑?oldid\u003d42679585"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Lynching"
+      }
+    },
+    {
+      "slug": "私募",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私募",
+          "reading": "しぼ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "private offering (of securities)",
+            "private placement"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Private placement"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Private placement” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Private_placement?oldid\u003d494355622"
+            },
+            {
+              "text": "Read “私募” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/私募?oldid\u003d36639244"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Private_placement"
+      }
+    },
+    {
+      "slug": "私立学校",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私立学校",
+          "reading": "しりつがっこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "private school",
+            "non-government school"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Private school"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Private school” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Private_school?oldid\u003d491867021"
+            },
+            {
+              "text": "Read “私立学校” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/私立学校?oldid\u003d42641879"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Private_school"
+      }
+    },
+    {
+      "slug": "私道",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私道",
+          "reading": "しどう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "private road",
+            "driveway"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Private road"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Private road” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Private_road?oldid\u003d487334750"
+            },
+            {
+              "text": "Read “私道” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/私道?oldid\u003d42184853"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Private_road"
+      }
+    },
+    {
+      "slug": "国際私法",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "国際私法",
+          "reading": "こくさいしほう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "private international law",
+            "conflict of laws"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Conflict of laws"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Conflict of laws” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Conflict_of_laws?oldid\u003d494522150"
+            },
+            {
+              "text": "Read “国際私法” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/国際私法?oldid\u003d41446927"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Conflict_of_laws"
+      }
+    },
+    {
+      "slug": "国際私法",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "国際私法",
+          "reading": "こくさいしほう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "private international law",
+            "conflict of laws"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Conflict of laws"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Conflict of laws” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Conflict_of_laws?oldid\u003d494522150"
+            },
+            {
+              "text": "Read “国際私法” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/国際私法?oldid\u003d41446927"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Conflict_of_laws"
+      }
+    },
+    {
+      "slug": "私掠免許",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私掠免許",
+          "reading": "しりゃくめんきょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "letter of marque"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Letter of marque"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Letter of marque” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Letter_of_marque?oldid\u003d482503132"
+            },
+            {
+              "text": "Read “私掠免許” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/私掠免許?oldid\u003d36430892"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Letter_of_marque"
+      }
+    },
+    {
+      "slug": "私小説",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私小説",
+          "reading": "わたくししょうせつ"
+        },
+        {
+          "word": "私小説",
+          "reading": "ししょうせつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "novel narrated in the first person"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "I Novel"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “I Novel” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/I_Novel?oldid\u003d495325079"
+            },
+            {
+              "text": "Read “私小説” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/私小説?oldid\u003d42740767"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/I_Novel"
+      }
+    },
+    {
+      "slug": "私家",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私家",
+          "reading": "しか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "private house",
+            "one\u0027s own house"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私家版",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私家版",
+          "reading": "しかばん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "privately printed book",
+            "private (press) edition"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私家集",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私家集",
+          "reading": "しかしゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "private or personal collection (of poetry)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私保険",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私保険",
+          "reading": "しほけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "private insurance"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "公保険"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私寺",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私寺",
+          "reading": "しじ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "private temple (Ritsuryo period)",
+            "non-state-sponsored temple"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "官寺"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私年号",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私年号",
+          "reading": "しねんごう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "era name selected by commoners (as opposed to the imperial court)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Obscure term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私擬憲法案",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私擬憲法案",
+          "reading": "しぎけんぽうあん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "private constitutional drafts prepared before the adoption of the Meiji Constitution in 1889"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私儀",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私儀",
+          "reading": "わたくしぎ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "as for me",
+            "I"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "usu. in formal correspondence"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私怨",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私怨",
+          "reading": "しえん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "personal grudge",
+            "personal enmity"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私怨私欲",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私怨私欲",
+          "reading": "しえんしよく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "personal grudges and selfish desires"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私党",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私党",
+          "reading": "しとう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "faction",
+            "band"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私恨",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私恨",
+          "reading": "しこん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "personal grudge"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私意",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私意",
+          "reading": "しい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "personal opinion"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "selfishness"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私感",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私感",
+          "reading": "しかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "personal impression"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私選",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私選",
+          "reading": "しせん"
+        },
+        {
+          "word": "私撰",
+          "reading": "しせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "personal selection (esp. of a defense lawyer)"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "国選"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "esp. 私選"
+          ]
+        },
+        {
+          "english_definitions": [
+            "private selection (e.g. of poetry)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "勅撰"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "esp. 私撰"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私憤",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私憤",
+          "reading": "しふん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "personal grudge"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "則天去私",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "則天去私",
+          "reading": "そくてんきょし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "selfless devotion to justice"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私利私欲",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私利私欲",
+          "reading": "しりしよく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "desire to act only in one\u0027s self-interest",
+            "selfish desires"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私掠免許状",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私掠免許状",
+          "reading": "しりゃくめんきょじょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "letter of marque"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "私掠免許 しりゃくめんきょ"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私選",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私選",
+          "reading": "しせん"
+        },
+        {
+          "word": "私撰",
+          "reading": "しせん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "personal selection (esp. of a defense lawyer)"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "国選"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "esp. 私選"
+          ]
+        },
+        {
+          "english_definitions": [
+            "private selection (e.g. of poetry)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "勅撰"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "esp. 私撰"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私擬憲法案",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私擬憲法案",
+          "reading": "しぎけんぽうあん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "private constitutional drafts prepared before the adoption of the Meiji Constitution in 1889"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私曲",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私曲",
+          "reading": "しきょく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "an act done for one\u0027s own benefit"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私書",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私書",
+          "reading": "ししょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "private document",
+            "personal letter"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私募債",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私募債",
+          "reading": "しぼさい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "private placement bond",
+            "privately-placed bond",
+            "privately-subscribed bonds"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私書函",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私書函",
+          "reading": "ししょかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "post office box"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Obsolete term"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "私書箱"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "公平無私",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "公平無私",
+          "reading": "こうへいむし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "impartiality",
+            "fair play"
+          ],
+          "parts_of_speech": [
+            "Na-adjective",
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私印",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私印",
+          "reading": "しいん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "personal seal"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "郵便私書箱",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "郵便私書箱",
+          "reading": "ゆうびんししょばこ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "post office box"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私書箱番号",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私書箱番号",
+          "reading": "ししょばこばんごう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Post Office box address",
+            "P.O.box address"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Computer terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私版",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私版",
+          "reading": "しはん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "private printing"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "無私無欲",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "無私無欲",
+          "reading": "むしむよく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "selflessness",
+            "unselfishness"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "公正無私",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "公正無私",
+          "reading": "こうせいむし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "fair and impartial",
+            "just and unselfish"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私地",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私地",
+          "reading": "しち"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "private land"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "私有地"
+          ],
+          "antonyms": [
+            "公地"
+          ],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私有物",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私有物",
+          "reading": "しゆうぶつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "private possession"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私有財産",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私有財産",
+          "reading": "しゆうざいさん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "private property"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私地私民",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私地私民",
+          "reading": "しちしみん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "private ownership of land and citizens"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "公地公民"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私有財産制度",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私有財産制度",
+          "reading": "しゆうざいさんせいど"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "private ownership system"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

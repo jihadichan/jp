@@ -1,0 +1,4715 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "酒",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "酒",
+          "reading": "さけ"
+        },
+        {
+          "word": "酒",
+          "reading": "ささ"
+        },
+        {
+          "word": "酒",
+          "reading": "き"
+        },
+        {
+          "word": "酒",
+          "reading": "くし"
+        },
+        {
+          "word": "酒",
+          "reading": "しゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "alcohol",
+            "sake"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "お酒"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Alcoholic beverage"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Alcoholic beverage” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Alcoholic_beverage?oldid\u003d495186079"
+            },
+            {
+              "text": "Read “酒” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/酒?oldid\u003d42538898"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Alcoholic_beverage"
+      }
+    },
+    {
+      "slug": "酒場",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "酒場",
+          "reading": "さかば"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "bar",
+            "pub",
+            "tavern"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "お酒",
+      "is_common": false,
+      "tags": [
+        "wanikani10"
+      ],
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "お酒",
+          "reading": "おさけ"
+        },
+        {
+          "word": "御酒",
+          "reading": "おさけ"
+        },
+        {
+          "word": "御酒",
+          "reading": "ごしゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "alcohol",
+            "sake"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Polite (teineigo)"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "酒"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "三鞭酒",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "reading": "シャンパン"
+        },
+        {
+          "reading": "シャンペン"
+        },
+        {
+          "reading": "シャンパーニュ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Champagne"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [
+            {
+              "language": "French",
+              "word": ""
+            }
+          ],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Champagne (France)"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Champagne"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Champagne” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Champagne?oldid\u003d495136657"
+            },
+            {
+              "text": "Read “シャンパン” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/シャンパン?oldid\u003d42726795"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "http://dbpedia.org/resource/Champagne"
+      }
+    },
+    {
+      "slug": "居酒屋",
+      "is_common": true,
+      "tags": [
+        "wanikani27"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "居酒屋",
+          "reading": "いざかや"
+        },
+        {
+          "word": "居酒や",
+          "reading": "いざかや"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "izakaya",
+            "Japanese bar that also serves various dishes and snacks"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Izakaya"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Izakaya” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Izakaya?oldid\u003d491564111"
+            },
+            {
+              "text": "Read “居酒屋” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/居酒屋?oldid\u003d42171302"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Izakaya"
+      }
+    },
+    {
+      "slug": "飲酒運転",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飲酒運転",
+          "reading": "いんしゅうんてん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "drunken driving",
+            "driving while intoxicated",
+            "drinking and driving"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Driving under the influence"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Driving under the influence” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Driving_under_the_influence?oldid\u003d495034624"
+            },
+            {
+              "text": "Read “飲酒運転” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/飲酒運転?oldid\u003d42562151"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Driving_under_the_influence"
+      }
+    },
+    {
+      "slug": "肴",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "肴",
+          "reading": "さかな"
+        },
+        {
+          "word": "酒菜",
+          "reading": "さかな"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "appetizer or snack served with drinks"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "performance to liven up a bar",
+            "conversation to liven up a party"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "肴"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Sakana"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Sakana” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Sakana?oldid\u003d465503841"
+            },
+            {
+              "text": "Read “肴” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/肴?oldid\u003d40152334"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Sakana"
+      }
+    },
+    {
+      "slug": "飲酒",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飲酒",
+          "reading": "いんしゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "drinking alcohol (sake)"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "酒類",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "酒類",
+          "reading": "しゅるい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "alcoholic drinks",
+            "liquor"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "酒屋",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "酒屋",
+          "reading": "さかや"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "liquor store",
+            "wine shop",
+            "bottle shop"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "sake dealer",
+            "liquor-store owner",
+            "brewer"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "酒造",
+      "is_common": true,
+      "tags": [
+        "wanikani26"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "酒造",
+          "reading": "しゅぞう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sake brewing"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "禁酒",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "禁酒",
+          "reading": "きんしゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "abstinence from alcohol",
+            "temperance"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "prohibition of drinking"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "酒飲み",
+      "is_common": false,
+      "tags": [
+        "wanikani12"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "酒飲み",
+          "reading": "さけのみ"
+        },
+        {
+          "word": "酒呑み",
+          "reading": "さけのみ"
+        },
+        {
+          "word": "酒呑",
+          "reading": "さけのみ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(heavy) drinker",
+            "drunkard",
+            "tippler",
+            "boozer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "酒気",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "酒気",
+          "reading": "しゅき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "liquor smell",
+            "tipsiness"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "酒量",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "酒量",
+          "reading": "しゅりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "amount of drink",
+            "one\u0027s drinking capacity"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "酒豪",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "酒豪",
+          "reading": "しゅごう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "heavy drinker"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "地酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "地酒",
+          "reading": "じざけ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "local sake"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "日本酒",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "日本酒",
+          "reading": "にほんしゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sake",
+            "Japanese rice wine"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Sake"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Sake” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Sake?oldid\u003d495542211"
+            },
+            {
+              "text": "Read “日本酒” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/日本酒?oldid\u003d42129612"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Sake"
+      }
+    },
+    {
+      "slug": "甘酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "甘酒",
+          "reading": "あまざけ"
+        },
+        {
+          "word": "醴",
+          "reading": "あまざけ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sweet half sake",
+            "sweet drink made from fermented rice"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Food term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Amazake"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Amazake” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Amazake?oldid\u003d493060246"
+            },
+            {
+              "text": "Read “甘酒” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/甘酒?oldid\u003d42458950"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Amazake"
+      }
+    },
+    {
+      "slug": "蒸留酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蒸留酒",
+          "reading": "じょうりゅうしゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "distilled liquor",
+            "spirits"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Distilled beverage"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Distilled beverage” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Distilled_beverage?oldid\u003d493927837"
+            },
+            {
+              "text": "Read “蒸留酒” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/蒸留酒?oldid\u003d42269024"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Distilled_beverage"
+      }
+    },
+    {
+      "slug": "発泡酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "発泡酒",
+          "reading": "はっぽうしゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "happōshu",
+            "low-malt beer-like beverage"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "sparkling wine",
+            "sparkling liquor",
+            "sparkling alcohol"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Happoshu"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Happoshu” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Happoshu?oldid\u003d480563036"
+            },
+            {
+              "text": "Read “発泡酒” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/発泡酒?oldid\u003d42598942"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Happoshu"
+      }
+    },
+    {
+      "slug": "はしご酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "はしご酒",
+          "reading": "はしござけ"
+        },
+        {
+          "word": "梯子酒",
+          "reading": "はしござけ"
+        },
+        {
+          "word": "ハシゴ酒",
+          "reading": "ハシゴざけ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "barhopping",
+            "pub crawl"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Pub crawl"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Pub crawl” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Pub_crawl?oldid\u003d493366843"
+            },
+            {
+              "text": "Read “梯子酒” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/梯子酒?oldid\u003d40617351"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Pub_crawl"
+      }
+    },
+    {
+      "slug": "葡萄酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ぶどう酒",
+          "reading": "ぶどうしゅ"
+        },
+        {
+          "word": "葡萄酒",
+          "reading": "ぶどうしゅ"
+        },
+        {
+          "word": "ブドウ酒",
+          "reading": "ブドウしゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(grape) wine"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "大酒飲み",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "大酒飲み",
+          "reading": "おおざけのみ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "heavy drinker"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "深酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "深酒",
+          "reading": "ふかざけ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "heavy drinking"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "大酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "大酒",
+          "reading": "おおざけ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "heavy drinking"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "迎え酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "迎え酒",
+          "reading": "むかえざけ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "hair of the dog",
+            "another drink in the morning"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飲酒癖",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飲酒癖",
+          "reading": "いんしゅへき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "alcoholic addiction"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "禁酒法",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "禁酒法",
+          "reading": "きんしゅほう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Prohibition Law"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "良酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "良酒",
+          "reading": "りょうしゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "good wine",
+            "good drink"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "夜酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "夜酒",
+          "reading": "よざけ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "nightcap",
+            "drink at night"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "赤葡萄酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "赤葡萄酒",
+          "reading": "あかぶどうしゅ"
+        },
+        {
+          "word": "赤ブドウ酒",
+          "reading": "あかブドウしゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "red wine"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "梅酒",
+      "is_common": false,
+      "tags": [
+        "wanikani17"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "梅酒",
+          "reading": "うめしゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "ume liqueur",
+            "Japanese plum brandy",
+            "unripe ume infused in liquor (esp. shochu) with added sugar"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "梅 うめ"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Umeshu"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Umeshu” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Umeshu?oldid\u003d483965029"
+            },
+            {
+              "text": "Read “梅酒” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/梅酒?oldid\u003d42097959"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Umeshu"
+      }
+    },
+    {
+      "slug": "杯",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "杯",
+          "reading": "さかずき"
+        },
+        {
+          "word": "杯",
+          "reading": "さかづき"
+        },
+        {
+          "word": "盃",
+          "reading": "さかずき"
+        },
+        {
+          "word": "盃",
+          "reading": "さかづき"
+        },
+        {
+          "word": "坏",
+          "reading": "さかずき"
+        },
+        {
+          "word": "坏",
+          "reading": "さかづき"
+        },
+        {
+          "word": "巵",
+          "reading": "さかずき"
+        },
+        {
+          "word": "巵",
+          "reading": "さかづき"
+        },
+        {
+          "word": "卮",
+          "reading": "さかずき"
+        },
+        {
+          "word": "卮",
+          "reading": "さかづき"
+        },
+        {
+          "word": "盞",
+          "reading": "さかずき"
+        },
+        {
+          "word": "盞",
+          "reading": "さかづき"
+        },
+        {
+          "word": "觚",
+          "reading": "さかずき"
+        },
+        {
+          "word": "觚",
+          "reading": "さかづき"
+        },
+        {
+          "word": "觴",
+          "reading": "さかずき"
+        },
+        {
+          "word": "觴",
+          "reading": "さかづき"
+        },
+        {
+          "word": "酒盃",
+          "reading": "さかずき"
+        },
+        {
+          "word": "酒盃",
+          "reading": "さかづき"
+        },
+        {
+          "word": "盞",
+          "reading": "うき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sake cup",
+            "cup for alcoholic beverages"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Sakadzuki"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "ラム酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ラム酒",
+          "reading": "ラムしゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rum"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Rum"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Rum” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Rum?oldid\u003d495430455"
+            },
+            {
+              "text": "Read “ラム酒” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/ラム酒?oldid\u003d42373349"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Rum"
+      }
+    },
+    {
+      "slug": "酒税",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "酒税",
+          "reading": "しゅぜい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "liquor tax",
+            "tax on alcohol"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "酒店",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "酒店",
+          "reading": "さかだな"
+        },
+        {
+          "word": "酒店",
+          "reading": "さかみせ"
+        },
+        {
+          "word": "酒店",
+          "reading": "しゅてん"
+        },
+        {
+          "word": "酒店",
+          "reading": "さけてん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "alcohol-selling shop"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "洋酒",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "洋酒",
+          "reading": "ようしゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Western wine and spirits",
+            "Western liquor"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "清酒",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "清酒",
+          "reading": "せいしゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "refined sake"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "濁酒 どぶろく"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "酒蔵",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "酒蔵",
+          "reading": "さかぐら"
+        },
+        {
+          "word": "酒倉",
+          "reading": "さかぐら"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sake brewery"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "wine cellar"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "bar",
+            "bar-room"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Sakagura"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "酒盛り",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "酒盛り",
+          "reading": "さかもり"
+        },
+        {
+          "word": "酒盛",
+          "reading": "さかもり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "drinking bout",
+            "merrymaking"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Sakamori"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "麦酒",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "麦酒",
+          "reading": "ばくしゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "beer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "ビール"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "sometimes read ビール"
+          ]
+        },
+        {
+          "english_definitions": [
+            "Bia (mythology)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Bia (mythology)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Bia_(mythology)?oldid\u003d494827409"
+            },
+            {
+              "text": "Read “ビアー” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/ビアー?oldid\u003d42704502"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Bia_(mythology)"
+      }
+    },
+    {
+      "slug": "利き酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "利き酒",
+          "reading": "ききざけ"
+        },
+        {
+          "word": "きき酒",
+          "reading": "ききざけ"
+        },
+        {
+          "word": "利酒",
+          "reading": "ききざけ"
+        },
+        {
+          "word": "聞き酒",
+          "reading": "ききざけ"
+        },
+        {
+          "word": "聞酒",
+          "reading": "ききざけ"
+        },
+        {
+          "word": "唎き酒",
+          "reading": "ききざけ"
+        },
+        {
+          "word": "唎酒",
+          "reading": "ききざけ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sake tasting",
+            "wine tasting"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "酒席",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "酒席",
+          "reading": "しゅせき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "drinking party"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "酒好き",
+      "is_common": false,
+      "tags": [
+        "wanikani13"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "酒好き",
+          "reading": "さけずき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "drinker"
+          ],
+          "parts_of_speech": [
+            "Na-adjective",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "新酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "新酒",
+          "reading": "しんしゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "new brew of sake"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "造り酒屋",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "造り酒屋",
+          "reading": "つくりざかや"
+        },
+        {
+          "word": "作り酒屋",
+          "reading": "つくりざかや"
+        },
+        {
+          "word": "造酒屋",
+          "reading": "つくりざかや"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sake brewer",
+            "sake brewery"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "美酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "美酒",
+          "reading": "びしゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "high-grade sake"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "酒乱",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "酒乱",
+          "reading": "しゅらん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "drunken frenzy",
+            "drunken violence"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "person who is prone to violence when drunk"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "吟醸酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "吟醸酒",
+          "reading": "ぎんじょうしゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "ginjō sake",
+            "high-quality sake brewed by low temperature fermentation from white rice milled to 60%"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "原酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "原酒",
+          "reading": "げんしゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "refined sake not diluted in water",
+            "undiluted sake",
+            "unblended whisky (whiskey)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "酒造り",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "酒造り",
+          "reading": "さけづくり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sake brewing"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "酒販",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "酒販",
+          "reading": "しゅはん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "liquor trade"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "シェリー酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "シェリー酒",
+          "reading": "シェリーしゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sherry"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "酒楼",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "酒楼",
+          "reading": "しゅろう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "restaurant"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Cantonese restaurant"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Cantonese restaurant” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Cantonese_restaurant?oldid\u003d491796873"
+            },
+            {
+              "text": "Read “酒楼” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/酒楼?oldid\u003d40037218"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Cantonese_restaurant"
+      }
+    },
+    {
+      "slug": "果実酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "果実酒",
+          "reading": "かじつしゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "fruit wine (e.g. cider, wine, plum liquor)",
+            "fruit liqueur"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Fruit wine"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Fruit wine” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Fruit_wine?oldid\u003d493411326"
+            },
+            {
+              "text": "Read “果実酒” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/果実酒?oldid\u003d42577487"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Fruit_wine"
+      }
+    },
+    {
+      "slug": "酒盗",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "酒盗",
+          "reading": "しゅとう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dish of pickled skipjack tuna entrails sometimes mixed with sake, honey, mirin and onions (specialty of Kochi Prefecture)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Shuto"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Shuto” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Shuto?oldid\u003d474596444"
+            },
+            {
+              "text": "Read “酒盗” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/酒盗?oldid\u003d37069924"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Shuto"
+      }
+    },
+    {
+      "slug": "酒器",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "酒器",
+          "reading": "しゅき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "drinking vessel"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Sake set"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Sake set” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Sake_set?oldid\u003d495168402"
+            },
+            {
+              "text": "Read “酒器” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/酒器?oldid\u003d41648390"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Sake_set"
+      }
+    },
+    {
+      "slug": "密造酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "密造酒",
+          "reading": "みつぞうしゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "illicitly brewed liquor",
+            "moonshine"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Moonshine"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Moonshine” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Moonshine?oldid\u003d494317159"
+            },
+            {
+              "text": "Read “密造酒” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/密造酒?oldid\u003d41547630"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Moonshine"
+      }
+    },
+    {
+      "slug": "酒かす",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "酒かす",
+          "reading": "さけかす"
+        },
+        {
+          "word": "酒粕",
+          "reading": "さけかす"
+        },
+        {
+          "word": "酒糟",
+          "reading": "さけかす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sake lees"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Sake kasu"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Sake kasu” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Sake_kasu?oldid\u003d495168953"
+            },
+            {
+              "text": "Read “酒粕” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/酒粕?oldid\u003d42732766"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Sake_kasu"
+      }
+    },
+    {
+      "slug": "酒盗",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "酒盗",
+          "reading": "しゅとう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dish of pickled skipjack tuna entrails sometimes mixed with sake, honey, mirin and onions (specialty of Kochi Prefecture)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Shuto"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Shuto” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Shuto?oldid\u003d474596444"
+            },
+            {
+              "text": "Read “酒盗” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/酒盗?oldid\u003d37069924"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Shuto"
+      }
+    },
+    {
+      "slug": "密造酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "密造酒",
+          "reading": "みつぞうしゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "illicitly brewed liquor",
+            "moonshine"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Moonshine"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Moonshine” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Moonshine?oldid\u003d494317159"
+            },
+            {
+              "text": "Read “密造酒” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/密造酒?oldid\u003d41547630"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Moonshine"
+      }
+    },
+    {
+      "slug": "寝酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "寝酒",
+          "reading": "ねざけ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "nightcap",
+            "a drink before sleeping"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Nightcap (beverage)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Nightcap (beverage)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Nightcap_(beverage)?oldid\u003d493650148"
+            },
+            {
+              "text": "Read “寝酒” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/寝酒?oldid\u003d31229179"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Nightcap_(beverage)"
+      }
+    },
+    {
+      "slug": "酒器",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "酒器",
+          "reading": "しゅき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "drinking vessel"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Sake set"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Sake set” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Sake_set?oldid\u003d495168402"
+            },
+            {
+              "text": "Read “酒器” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/酒器?oldid\u003d41648390"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Sake_set"
+      }
+    },
+    {
+      "slug": "酒呑童子",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "酒呑童子",
+          "reading": "しゅてんどうじ"
+        },
+        {
+          "word": "酒顛童子",
+          "reading": "しゅてんどうじ"
+        },
+        {
+          "word": "酒天童子",
+          "reading": "しゅてんどうじ"
+        },
+        {
+          "word": "朱点童子",
+          "reading": "しゅてんどうじ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Shuten-dōji",
+            "mythical Japanese oni (demon) who lived on Mt. Ōe"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Shuten-dōji"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Shuten-dōji” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Shuten-dōji?oldid\u003d495362520"
+            },
+            {
+              "text": "Read “酒呑童子” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/酒呑童子?oldid\u003d42345076"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Shuten-dōji"
+      }
+    },
+    {
+      "slug": "卵酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "卵酒",
+          "reading": "たまござけ"
+        },
+        {
+          "word": "たまご酒",
+          "reading": "たまござけ"
+        },
+        {
+          "word": "玉子酒",
+          "reading": "たまござけ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "eggnog (made with sake)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Tamagozake"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Tamagozake” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Tamagozake?oldid\u003d490163838"
+            },
+            {
+              "text": "Read “卵酒” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/卵酒?oldid\u003d41180002"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Tamagozake"
+      }
+    },
+    {
+      "slug": "酒楼",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "酒楼",
+          "reading": "しゅろう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "restaurant"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Cantonese restaurant"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Cantonese restaurant” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Cantonese_restaurant?oldid\u003d491796873"
+            },
+            {
+              "text": "Read “酒楼” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/酒楼?oldid\u003d40037218"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Cantonese_restaurant"
+      }
+    },
+    {
+      "slug": "酒さ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "酒さ",
+          "reading": "しゅさ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rosacea"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Rosacea"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Rosacea” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Rosacea?oldid\u003d494782978"
+            },
+            {
+              "text": "Read “酒さ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/酒さ?oldid\u003d42637919"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Rosacea"
+      }
+    },
+    {
+      "slug": "酒かす",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "酒かす",
+          "reading": "さけかす"
+        },
+        {
+          "word": "酒粕",
+          "reading": "さけかす"
+        },
+        {
+          "word": "酒糟",
+          "reading": "さけかす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sake lees"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Sake kasu"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Sake kasu” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Sake_kasu?oldid\u003d495168953"
+            },
+            {
+              "text": "Read “酒粕” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/酒粕?oldid\u003d42732766"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Sake_kasu"
+      }
+    },
+    {
+      "slug": "食前酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "食前酒",
+          "reading": "しょくぜんしゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "aperitif"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Apéritif and digestif"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Apéritif and digestif” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Apéritif_and_digestif?oldid\u003d494146129"
+            },
+            {
+              "text": "Read “食前酒” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/食前酒?oldid\u003d40539269"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Apéritif_and_digestif"
+      }
+    },
+    {
+      "slug": "雪見酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "雪見酒",
+          "reading": "ゆきみざけ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sake drunk while viewing a snowy scene"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "お神酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "お神酒",
+          "reading": "おみき"
+        },
+        {
+          "word": "御神酒",
+          "reading": "おみき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sacred wine or sake",
+            "sake offered to the gods"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "神酒"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "sake"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Jocular, humorous term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "醸造酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "醸造酒",
+          "reading": "じょうぞうしゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "brewage",
+            "liquor"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "辛口の酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "辛口の酒",
+          "reading": "からくちのさけ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dry sake"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "紅灯緑酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紅灯緑酒",
+          "reading": "こうとうりょくしゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(nights of) fun, food, and drink",
+            "bright-light district",
+            "nightlife district"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "佳酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "佳酒",
+          "reading": "かしゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "good wine",
+            "good drink"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "升酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "升酒",
+          "reading": "ますざけ"
+        },
+        {
+          "word": "枡酒",
+          "reading": "ますざけ"
+        },
+        {
+          "word": "桝酒",
+          "reading": "ますざけ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "alcohol (esp. sake) served in a small wooden box",
+            "alcohol (esp. sake) sold in a small wooden box"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "混合酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "混合酒",
+          "reading": "こんごうしゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "cocktail",
+            "mixed drink",
+            "blended liquor"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "花見酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "花見酒",
+          "reading": "はなみざけ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sake drunk while viewing cherry blossoms"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "純米酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "純米酒",
+          "reading": "じゅんまいしゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sake made without added alcohol or sugar"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "純米酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "純米酒",
+          "reading": "じゅんまいしゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sake made without added alcohol or sugar"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "混成酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "混成酒",
+          "reading": "こんせいしゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "alcohol combined with sugar, spices, fruit, etc."
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "びわ酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "びわ酒",
+          "reading": "びわしゅ"
+        },
+        {
+          "word": "枇杷酒",
+          "reading": "びわしゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "loquat wine"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "三鞭酒-1",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "三鞭酒",
+          "reading": "さんべんしゅ"
+        },
+        {
+          "word": "三鞭酒",
+          "reading": "しゃんぱん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Champagne"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Obscure term"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "シャンパン"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "食中酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "食中酒",
+          "reading": "しょくちゅうしゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "alcohol or sake drunk during the meal (as opposed to aperitifs, digestifs, etc.)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "上酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "上酒",
+          "reading": "じょうしゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "high-class sake"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "朝酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "朝酒",
+          "reading": "あさざけ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "a morning drink (of sake)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "高粱酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "高粱酒",
+          "reading": "こうりょうしゅ"
+        },
+        {
+          "word": "コーリャン酒",
+          "reading": "コーリャンしゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "kaoliang (strong distilled Chinese alcohol made from sorghum)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "悪酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "悪酒",
+          "reading": "あくしゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "cheap liquor"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "茶屋酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "茶屋酒",
+          "reading": "ちゃやざけ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "liquor consumed in a teahouse"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "毒酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "毒酒",
+          "reading": "どくしゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "poisoned sake",
+            "poisoned alcohol"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "二級酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "二級酒",
+          "reading": "にきゅうしゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "second-grade alcohol"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "杏酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "杏酒",
+          "reading": "あんずしゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sake made from apricot"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "断酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "断酒",
+          "reading": "だんしゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "abstinence from alcohol"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "禁酒"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "お神酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "お神酒",
+          "reading": "おみき"
+        },
+        {
+          "word": "御神酒",
+          "reading": "おみき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sacred wine or sake",
+            "sake offered to the gods"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "神酒"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "sake"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Jocular, humorous term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "火酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "火酒",
+          "reading": "かしゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "strong drink"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "節酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "節酒",
+          "reading": "せっしゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "temperance",
+            "sobriety",
+            "moderation in drink"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "温め酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "温め酒",
+          "reading": "あたためざけ"
+        },
+        {
+          "word": "暖め酒",
+          "reading": "あたためざけ"
+        },
+        {
+          "word": "温め酒",
+          "reading": "ぬくめざけ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "warm sake (formerly drunk on the 9th day of the 9th month of the lunar calendar to ward off illness)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "猿酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "猿酒",
+          "reading": "さるざけ"
+        },
+        {
+          "word": "猿酒",
+          "reading": "ましらざけ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "monkey booze",
+            "sake-like liquid produced by the fermentation of fruits left by monkeys in tree caches or hollows in rocks"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "ひれ酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ひれ酒",
+          "reading": "ひれざけ"
+        },
+        {
+          "word": "鰭酒",
+          "reading": "ひれざけ"
+        },
+        {
+          "word": "ヒレ酒",
+          "reading": "ヒレざけ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "hot sake with grilled fish fins (esp. fugu or sea bream)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

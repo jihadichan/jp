@@ -1,0 +1,146 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "匁",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "匁",
+          "reading": "もんめ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "monme (unit of weight, 3.75 g)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Mace (unit)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Mace (unit)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Mace_(unit)?oldid\u003d432029079"
+            },
+            {
+              "text": "Read “匁” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/匁?oldid\u003d42198366"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Mace_(unit)"
+      }
+    },
+    {
+      "slug": "百匁",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "百匁",
+          "reading": "ひゃくもんめ"
+        },
+        {
+          "word": "百匁",
+          "reading": "ひゃくめ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "375 grams (100 monme)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "百目"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "花一匁",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "花一匁",
+          "reading": "はないちもんめ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "children\u0027s game in which two groups compete for members by playing janken"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "じゃん拳 じゃんけん"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

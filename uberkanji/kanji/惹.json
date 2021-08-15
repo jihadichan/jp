@@ -1,0 +1,414 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "引き起こす",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "引き起こす",
+          "reading": "ひきおこす"
+        },
+        {
+          "word": "引きおこす",
+          "reading": "ひきおこす"
+        },
+        {
+          "word": "ひき起こす",
+          "reading": "ひきおこす"
+        },
+        {
+          "word": "引き起す",
+          "reading": "ひきおこす"
+        },
+        {
+          "word": "引起す",
+          "reading": "ひきおこす"
+        },
+        {
+          "word": "引起こす",
+          "reading": "ひきおこす"
+        },
+        {
+          "word": "ひき起す",
+          "reading": "ひきおこす"
+        },
+        {
+          "word": "惹き起こす",
+          "reading": "ひきおこす"
+        },
+        {
+          "word": "惹き起す",
+          "reading": "ひきおこす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to cause",
+            "to induce",
+            "to bring about",
+            "to provoke"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to pull upright",
+            "to help up (e.g. a fallen person)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "引き起こす, etc. only"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "引き付ける",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "引き付ける",
+          "reading": "ひきつける"
+        },
+        {
+          "word": "引付ける",
+          "reading": "ひきつける"
+        },
+        {
+          "word": "引きつける",
+          "reading": "ひきつける"
+        },
+        {
+          "word": "引付る",
+          "reading": "ひきつける"
+        },
+        {
+          "word": "惹き付ける",
+          "reading": "ひきつける"
+        },
+        {
+          "word": "惹きつける",
+          "reading": "ひきつける"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to fascinate",
+            "to attract",
+            "to charm"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to have a convulsion"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "引き付ける",
+            "引付ける",
+            "引きつける",
+            "引付る"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "引かれる",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "惹かれる",
+          "reading": "ひかれる"
+        },
+        {
+          "word": "引かれる",
+          "reading": "ひかれる"
+        },
+        {
+          "word": "魅かれる",
+          "reading": "ひかれる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to be charmed by",
+            "to be attracted to",
+            "to be taken with",
+            "to be drawn to"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "惹く",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "惹く",
+          "reading": "ひく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to draw (attention, sympathy, etc.)",
+            "to attract (e.g. interest)"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ku ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "引く"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "注意を引く",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "注意を引く",
+          "reading": "ちゅういをひく"
+        },
+        {
+          "word": "注意をひく",
+          "reading": "ちゅういをひく"
+        },
+        {
+          "word": "注意を惹く",
+          "reading": "ちゅういをひく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to attract attention"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with ku ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "惹起",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "惹起",
+          "reading": "じゃっき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "bringing about",
+            "cause",
+            "provocation"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "惹句",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "惹句",
+          "reading": "じゃっく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "catchphrase (esp. in advertising)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "心惹かれる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "心惹かれる",
+          "reading": "こころひかれる"
+        },
+        {
+          "word": "心引かれる",
+          "reading": "こころひかれる"
+        },
+        {
+          "word": "心魅かれる",
+          "reading": "こころひかれる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to feel attracted by",
+            "to be fascinated by"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

@@ -1,0 +1,971 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "汲み取る",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "汲み取る",
+          "reading": "くみとる"
+        },
+        {
+          "word": "くみ取る",
+          "reading": "くみとる"
+        },
+        {
+          "word": "汲みとる",
+          "reading": "くみとる"
+        },
+        {
+          "word": "酌み取る",
+          "reading": "くみとる"
+        },
+        {
+          "word": "汲取る",
+          "reading": "くみとる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to draw (water)",
+            "to scoop up",
+            "to dip up",
+            "to pump out"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to understand (someone\u0027s feelings, etc.)",
+            "to grasp",
+            "to surmise",
+            "to take into consideration"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "情状酌量",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "情状酌量",
+          "reading": "じょうじょうしゃくりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "taking the extenuating circumstances into consideration"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "斟酌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "斟酌",
+          "reading": "しんしゃく"
+        },
+        {
+          "word": "しん酌",
+          "reading": "しんしゃく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "consideration (for others)",
+            "(making) allowance"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "酌み交わす",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "酌み交わす",
+          "reading": "くみかわす"
+        },
+        {
+          "word": "酌みかわす",
+          "reading": "くみかわす"
+        },
+        {
+          "word": "酌交わす",
+          "reading": "くみかわす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to drink together"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "酌量",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "酌量",
+          "reading": "しゃくりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "taking into consideration",
+            "making allowances"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "酌む",
+      "is_common": false,
+      "tags": [
+        "wanikani58"
+      ],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "酌む",
+          "reading": "くむ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to pour (sake)",
+            "to serve",
+            "to drink together"
+          ],
+          "parts_of_speech": [
+            "Godan verb with mu ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "汲む くむ"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "晩酌",
+      "is_common": false,
+      "tags": [
+        "wanikani58"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "晩酌",
+          "reading": "ばんしゃく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "drink at home with the evening meal",
+            "dinner-time drink"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "媒酌",
+      "is_common": false,
+      "tags": [
+        "wanikani58"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "媒酌",
+          "reading": "ばいしゃく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "matchmaking"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "献酌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "献酌",
+          "reading": "けんしゃく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "offering a drink"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "未練未酌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "未練未酌",
+          "reading": "みれんみしゃく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "regret and sympathy",
+            "having lingering attachment and sympathy toward someone"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "浅酌低唱",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "浅酌低唱",
+          "reading": "せんしゃくていしょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "getting slightly intoxicated and humming a tune"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "酌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "酌",
+          "reading": "しゃく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "pouring alcohol",
+            "person pouring alcohol"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "酌婦",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "酌婦",
+          "reading": "しゃくふ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "barmaid",
+            "waitress"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "相酌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "相酌",
+          "reading": "あいじゃく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "drinking alcohol while pouring it for each other"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "独酌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "独酌",
+          "reading": "どくしゃく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "drinking alone",
+            "solitary drinking"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "媒酌人",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "媒酌人",
+          "reading": "ばいしゃくにん"
+        },
+        {
+          "word": "媒妁人",
+          "reading": "ばいしゃくにん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "matchmaker",
+            "go-between"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "仲人"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "参酌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "参酌",
+          "reading": "さんしゃく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "comparison and choosing the good",
+            "consultation",
+            "referring to"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "手酌酒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "手酌酒",
+          "reading": "てじゃくさけ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "pouring one\u0027s own drinks",
+            "drinking alone"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "手酌"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "手酌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "手酌",
+          "reading": "てじゃく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "helping oneself to a drink",
+            "pouring one\u0027s own drink"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "対酌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "対酌",
+          "reading": "たいしゃく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sitting across from each other and drinking together"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "酌量減軽",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "酌量減軽",
+          "reading": "しゃくりょうげんけい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "reduction of punishment in the light of extenuating circumstances"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Law, etc. term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "御酌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "御酌",
+          "reading": "おしゃく"
+        },
+        {
+          "word": "お酌",
+          "reading": "おしゃく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "pouring alcohol"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "person pouring alcohol for guests or customers (typically a woman)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "(apprentice) geisha",
+            "dancing girl"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "意を酌む",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "意を酌む",
+          "reading": "いをくむ"
+        },
+        {
+          "word": "意をくむ",
+          "reading": "いをくむ"
+        },
+        {
+          "word": "意を汲む",
+          "reading": "いをくむ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to enter into a person\u0027s feelings",
+            "to guess what somebody feels (using one\u0027s intuition)"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with mu ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "未練未酌がない",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "未練未酌がない",
+          "reading": "みれんみしゃくがない"
+        },
+        {
+          "word": "未練未酌が無い",
+          "reading": "みれんみしゃくがない"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "unsympathetic and inconsiderate",
+            "coldhearted"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "I-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

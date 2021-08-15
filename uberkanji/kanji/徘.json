@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "俳徊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "徘徊",
+          "reading": "はいかい"
+        },
+        {
+          "word": "俳徊",
+          "reading": "はいかい"
+        },
+        {
+          "word": "徘回",
+          "reading": "はいかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "loitering",
+            "roaming",
+            "sauntering",
+            "wandering about",
+            "prowling"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "深夜徘徊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "深夜徘徊",
+          "reading": "しんやはいかい"
+        },
+        {
+          "word": "深夜はいかい",
+          "reading": "しんやはいかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "loitering at night (between 11 pm and 4 am)",
+            "late-night prowling"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

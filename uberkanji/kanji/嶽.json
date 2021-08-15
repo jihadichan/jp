@@ -1,0 +1,319 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "山岳",
+      "is_common": true,
+      "tags": [
+        "wanikani43"
+      ],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "山岳",
+          "reading": "さんがく"
+        },
+        {
+          "word": "山嶽",
+          "reading": "さんがく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "mountains"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "岳",
+      "is_common": true,
+      "tags": [
+        "wanikani43"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "岳",
+          "reading": "たけ"
+        },
+        {
+          "word": "岳",
+          "reading": "だけ"
+        },
+        {
+          "word": "嶽",
+          "reading": "たけ"
+        },
+        {
+          "word": "嶽",
+          "reading": "だけ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "peak"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suffix"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "mountain"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "富岳",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "富岳",
+          "reading": "ふがく"
+        },
+        {
+          "word": "富嶽",
+          "reading": "ふがく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Mount Fuji",
+            "Mt. Fuji"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "富士山"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Nakajima G10N"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Nakajima G10N” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Nakajima_G10N?oldid\u003d491546183"
+            },
+            {
+              "text": "Read “富嶽” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/富嶽?oldid\u003d41916225"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Nakajima_G10N"
+      }
+    },
+    {
+      "slug": "御嶽-1",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "御嶽",
+          "reading": "みたけ"
+        },
+        {
+          "word": "御岳",
+          "reading": "みたけ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "large, high mountain"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Obscure term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "御嶽教",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "御嶽教",
+          "reading": "おんたけきょう"
+        },
+        {
+          "word": "御嶽教",
+          "reading": "みたけきょう"
+        },
+        {
+          "word": "御岳教",
+          "reading": "おんたけきょう"
+        },
+        {
+          "word": "御岳教",
+          "reading": "みたけきょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Ontake-kyo (sect of Shinto)",
+            "Mitake-kyo"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "御嶽",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "御嶽",
+          "reading": "うたき"
+        },
+        {
+          "word": "御岳",
+          "reading": "うたき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(Okinawa) sacred site",
+            "sacred grove"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Utaki"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

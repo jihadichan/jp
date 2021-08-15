@@ -1,0 +1,261 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "囁く",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "囁く",
+          "reading": "ささやく"
+        },
+        {
+          "word": "私語く",
+          "reading": "ささやく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to whisper",
+            "to murmur"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ku ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to rumor",
+            "to rumour"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "usu. in the passive voice"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "ささやき声",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ささやき声",
+          "reading": "ささやきごえ"
+        },
+        {
+          "word": "囁き声",
+          "reading": "ささやきごえ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "whisper",
+            "murmur"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Whispering"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Whispering” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Whispering?oldid\u003d486305339"
+            },
+            {
+              "text": "Read “ささやき声” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/ささやき声?oldid\u003d41707887"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Whispering"
+      }
+    },
+    {
+      "slug": "囁き",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "囁き",
+          "reading": "ささやき"
+        },
+        {
+          "word": "私語",
+          "reading": "ささやき"
+        },
+        {
+          "word": "囁き",
+          "reading": "つつやき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "whispering",
+            "whisper",
+            "secret talk",
+            "murmur"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "囁き言",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "囁き言",
+          "reading": "ささやきごと"
+        },
+        {
+          "word": "私語",
+          "reading": "ささやきごと"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "whispering",
+            "whisper",
+            "secret talk",
+            "murmur"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "蚊の囁くような声",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蚊の囁くような声",
+          "reading": "かのささやくようなこえ"
+        },
+        {
+          "word": "蚊のささやくような声",
+          "reading": "かのささやくようなこえ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "faint voice"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

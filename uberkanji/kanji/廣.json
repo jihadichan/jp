@@ -1,0 +1,178 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "広い",
+      "is_common": true,
+      "tags": [
+        "wanikani3"
+      ],
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "広い",
+          "reading": "ひろい"
+        },
+        {
+          "word": "弘い",
+          "reading": "ひろい"
+        },
+        {
+          "word": "廣い",
+          "reading": "ひろい"
+        },
+        {
+          "word": "宏い",
+          "reading": "ひろい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "spacious",
+            "vast",
+            "wide"
+          ],
+          "parts_of_speech": [
+            "I-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "広範",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "広範",
+          "reading": "こうはん"
+        },
+        {
+          "word": "広汎",
+          "reading": "こうはん"
+        },
+        {
+          "word": "廣汎",
+          "reading": "こうはん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "wide",
+            "extensive",
+            "comprehensive",
+            "far-reaching",
+            "widespread"
+          ],
+          "parts_of_speech": [
+            "Na-adjective",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "広報",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "広報",
+          "reading": "こうほう"
+        },
+        {
+          "word": "弘報",
+          "reading": "こうほう"
+        },
+        {
+          "word": "廣報",
+          "reading": "こうほう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "public relations",
+            "PR",
+            "publicity",
+            "information",
+            "publicizing"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Publicity"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Publicity” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Publicity?oldid\u003d493952451"
+            },
+            {
+              "text": "Read “広報” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/広報?oldid\u003d42741536"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Publicity"
+      }
+    }
+  ]
+}

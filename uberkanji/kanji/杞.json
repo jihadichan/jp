@@ -1,0 +1,184 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "杞憂",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "杞憂",
+          "reading": "きゆう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "absurd fear",
+            "needless anxiety"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "枸杞",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "枸杞",
+          "reading": "くこ"
+        },
+        {
+          "reading": "クコ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Chinese matrimony vine (Lycium chinense)",
+            "Chinese wolfberry",
+            "goji"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Wolfberry"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Wolfberry” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Wolfberry?oldid\u003d492721685"
+            },
+            {
+              "text": "Read “クコ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/クコ?oldid\u003d38943888"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Wolfberry"
+      }
+    },
+    {
+      "slug": "枸杞子",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "枸杞子",
+          "reading": "くこし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "extract of Chinese wolfberry fruit"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "枸杞の実"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "クコの実",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "クコの実",
+          "reading": "クコのみ"
+        },
+        {
+          "word": "枸杞の実",
+          "reading": "くこのみ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Chinese wolfberry fruit (Lycium chinense)",
+            "Chinese matrimony vine fruit"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

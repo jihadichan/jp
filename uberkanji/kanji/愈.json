@@ -1,0 +1,173 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "愈々",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "愈",
+          "reading": "いよいよ"
+        },
+        {
+          "word": "愈々",
+          "reading": "いよいよ"
+        },
+        {
+          "word": "弥々",
+          "reading": "いよいよ"
+        },
+        {
+          "word": "愈愈",
+          "reading": "いよいよ"
+        },
+        {
+          "word": "弥弥",
+          "reading": "いよいよ"
+        },
+        {
+          "reading": "イヨイヨ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "more and more",
+            "all the more",
+            "increasingly"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "at last",
+            "finally",
+            "beyond doubt"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "(at the) last moment",
+            "worst possible time"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "弥",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "弥",
+          "reading": "いや"
+        },
+        {
+          "word": "弥",
+          "reading": "いよ"
+        },
+        {
+          "word": "弥",
+          "reading": "よ"
+        },
+        {
+          "word": "弥",
+          "reading": "いよよ"
+        },
+        {
+          "word": "愈",
+          "reading": "いよよ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "more and more",
+            "increasingly"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "愈々 いよいよ"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "extremely",
+            "very"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [
+            "いや"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

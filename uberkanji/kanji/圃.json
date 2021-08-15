@@ -1,0 +1,261 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "田んぼ",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "田んぼ",
+          "reading": "たんぼ"
+        },
+        {
+          "word": "田圃",
+          "reading": "たんぼ"
+        },
+        {
+          "word": "田ぼ",
+          "reading": "たんぼ"
+        },
+        {
+          "word": "田圃",
+          "reading": "でんぽ"
+        },
+        {
+          "word": "田畝",
+          "reading": "でんぽ"
+        },
+        {
+          "word": "田圃",
+          "reading": "でんぼ"
+        },
+        {
+          "word": "田ぼ",
+          "reading": "でんぼ"
+        },
+        {
+          "word": "田畝",
+          "reading": "でんぼ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "paddy field",
+            "farm"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "玄圃梨",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "玄圃梨",
+          "reading": "けんぽなし"
+        },
+        {
+          "reading": "ケンポナシ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Japanese raisin tree (Hovenia dulcis)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Hovenia dulcis"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Hovenia dulcis” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Hovenia_dulcis?oldid\u003d493985590"
+            },
+            {
+              "text": "Read “ケンポナシ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/ケンポナシ?oldid\u003d41712711"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Hovenia_dulcis"
+      }
+    },
+    {
+      "slug": "苗圃",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "苗圃",
+          "reading": "びょうほ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "seedbed",
+            "nursery"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Byouho"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "花圃",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "花圃",
+          "reading": "かほ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "flower garden"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "花畑",
+            "花園"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "圃場",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "圃場",
+          "reading": "ほじょう"
+        },
+        {
+          "word": "ほ場",
+          "reading": "ほじょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "cultivated land (field, garden, orchard, etc.)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

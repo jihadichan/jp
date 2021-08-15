@@ -1,0 +1,1310 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "退屈",
+      "is_common": true,
+      "tags": [
+        "wanikani27"
+      ],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "退屈",
+          "reading": "たいくつ"
+        },
+        {
+          "word": "怠屈",
+          "reading": "たいくつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "tedium",
+            "boredom",
+            "dullness"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to feel bored",
+            "to get bored with",
+            "to get tired of"
+          ],
+          "parts_of_speech": [
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Boredom"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Boredom” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Boredom?oldid\u003d492836057"
+            },
+            {
+              "text": "Read “退屈” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/退屈?oldid\u003d41263655"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Boredom"
+      }
+    },
+    {
+      "slug": "怠ける",
+      "is_common": true,
+      "tags": [
+        "wanikani54"
+      ],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "怠ける",
+          "reading": "なまける"
+        },
+        {
+          "word": "懶ける",
+          "reading": "なまける"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to be idle",
+            "to slacken"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to neglect (e.g. one\u0027s work)"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "怠る"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "怠る",
+      "is_common": true,
+      "tags": [
+        "wanikani52"
+      ],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "怠る",
+          "reading": "おこたる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to be negligent in doing something",
+            "to shirk",
+            "to be off one\u0027s guard"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "怠ける"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "怠慢",
+      "is_common": true,
+      "tags": [
+        "wanikani52"
+      ],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "怠慢",
+          "reading": "たいまん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "negligence",
+            "neglect",
+            "carelessness",
+            "procrastination"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "滞納",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "滞納",
+          "reading": "たいのう"
+        },
+        {
+          "word": "怠納",
+          "reading": "たいのう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "falling behind (with a payment)",
+            "being in arrears",
+            "non-payment",
+            "default",
+            "delinquency"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "怠い",
+      "is_common": true,
+      "tags": [
+        "wanikani56"
+      ],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "怠い",
+          "reading": "だるい"
+        },
+        {
+          "word": "怠い",
+          "reading": "たるい"
+        },
+        {
+          "word": "懈い",
+          "reading": "だるい"
+        },
+        {
+          "word": "懈い",
+          "reading": "たるい"
+        },
+        {
+          "reading": "ダルい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sluggish",
+            "languid",
+            "listless",
+            "heavy (heart, legs, etc.)",
+            "dull"
+          ],
+          "parts_of_speech": [
+            "I-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "bothersome",
+            "tiresome",
+            "pain in the ass"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone",
+            "Slang"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "怠惰",
+      "is_common": true,
+      "tags": [
+        "wanikani52"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "怠惰",
+          "reading": "たいだ"
+        },
+        {
+          "word": "怠情",
+          "reading": "たいだ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "lazy",
+            "idle",
+            "indolent",
+            "slothful"
+          ],
+          "parts_of_speech": [
+            "Na-adjective",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "怠け者",
+      "is_common": false,
+      "tags": [
+        "wanikani56"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "怠け者",
+          "reading": "なまけもの"
+        },
+        {
+          "word": "なまけ者",
+          "reading": "なまけもの"
+        },
+        {
+          "word": "怠けもの",
+          "reading": "なまけもの"
+        },
+        {
+          "word": "懶け者",
+          "reading": "なまけもの"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "lazy person",
+            "lazy fellow",
+            "slothful person"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "樹懶"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "倦怠",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "倦怠",
+          "reading": "けんたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "languor",
+            "fatigue",
+            "weariness",
+            "boredom"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "怠け癖",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "怠け癖",
+          "reading": "なまけぐせ"
+        },
+        {
+          "word": "怠けぐせ",
+          "reading": "なまけぐせ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "habit of idleness (laziness)",
+            "indolence"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "怠り",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "怠り",
+          "reading": "おこたり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "negligence",
+            "carelessness"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "過怠",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "過怠",
+          "reading": "かたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "negligence",
+            "carelessness",
+            "mistake"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "怠り勝ち",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "怠りがち",
+          "reading": "おこたりがち"
+        },
+        {
+          "word": "怠り勝ち",
+          "reading": "おこたりがち"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "neglectfulness"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "間怠い",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "間怠い",
+          "reading": "まだるい"
+        },
+        {
+          "word": "間だるい",
+          "reading": "まだるい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "slow",
+            "tedious",
+            "sluggish",
+            "dull"
+          ],
+          "parts_of_speech": [
+            "I-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "間だるっこしい",
+            "間怠っこい"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "irritating"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "間だるっこしい",
+            "間怠っこい"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "怠りなく",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "怠りなく",
+          "reading": "おこたりなく"
+        },
+        {
+          "word": "怠り無く",
+          "reading": "おこたりなく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "diligently",
+            "faithfully",
+            "without fail",
+            "without blundering"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "倦怠感",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "倦怠感",
+          "reading": "けんたいかん"
+        },
+        {
+          "word": "けん怠感",
+          "reading": "けんたいかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "physical weariness",
+            "sense of fatigue",
+            "washed-out feeling"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "休怠",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "休怠",
+          "reading": "きゅうたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "laziness",
+            "neglect"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "緩怠",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "緩怠",
+          "reading": "かんたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "laxity",
+            "negligence"
+          ],
+          "parts_of_speech": [
+            "Na-adjective",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "間怠っこい",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "間怠っこい",
+          "reading": "まだるっこい"
+        },
+        {
+          "word": "間だるっこい",
+          "reading": "まだるっこい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "slow",
+            "tedious",
+            "sluggish",
+            "dull"
+          ],
+          "parts_of_speech": [
+            "I-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "間だるい",
+            "間だるっこしい"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "irritating"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "間だるい",
+            "間だるっこしい"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "勤怠",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勤怠",
+          "reading": "きんたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "diligence and indolence",
+            "diligence",
+            "attendance",
+            "attendance and absence"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "出欠",
+            "勤惰"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "職務怠慢",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "職務怠慢",
+          "reading": "しょくむたいまん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "neglect (dereliction) of duty",
+            "negligence"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "怠業",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "怠業",
+          "reading": "たいぎょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sabotage",
+            "slow-down tactics"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "緩怠",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "緩怠",
+          "reading": "かんたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "laxity",
+            "negligence"
+          ],
+          "parts_of_speech": [
+            "Na-adjective",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "勤怠",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勤怠",
+          "reading": "きんたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "diligence and indolence",
+            "diligence",
+            "attendance",
+            "attendance and absence"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "出欠",
+            "勤惰"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "気だるい",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "気だるい",
+          "reading": "けだるい"
+        },
+        {
+          "word": "気怠い",
+          "reading": "けだるい"
+        },
+        {
+          "word": "気懈い",
+          "reading": "けだるい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "languid",
+            "listless"
+          ],
+          "parts_of_speech": [
+            "I-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "怠らずに",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "怠らずに",
+          "reading": "おこたらずに"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "carefully"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "怠業戦術",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "怠業戦術",
+          "reading": "たいぎょうせんじゅつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "slowdown strategy",
+            "go-slow tactics (of workers in a labor dispute)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "注意を怠る",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "注意を怠る",
+          "reading": "ちゅういをおこたる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to be off one\u0027s guard"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with ru ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "懈怠",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "懈怠",
+          "reading": "かいたい"
+        },
+        {
+          "word": "懈怠",
+          "reading": "けたい"
+        },
+        {
+          "word": "懈怠",
+          "reading": "げたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "negligence",
+            "laziness"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

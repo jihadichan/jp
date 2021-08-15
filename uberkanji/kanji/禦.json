@@ -1,0 +1,243 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "防ぐ",
+      "is_common": true,
+      "tags": [
+        "wanikani20"
+      ],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "防ぐ",
+          "reading": "ふせぐ"
+        },
+        {
+          "word": "禦ぐ",
+          "reading": "ふせぐ"
+        },
+        {
+          "word": "拒ぐ",
+          "reading": "ふせぐ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to defend against",
+            "to protect against"
+          ],
+          "parts_of_speech": [
+            "Godan verb with gu ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to prevent",
+            "to avert",
+            "to avoid"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "防御",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "防御",
+          "reading": "ぼうぎょ"
+        },
+        {
+          "word": "防禦",
+          "reading": "ぼうぎょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "defense",
+            "defence",
+            "safeguard",
+            "protection"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Defense"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Defense” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Defense?oldid\u003d493026286"
+            },
+            {
+              "text": "Read “防御” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/防御?oldid\u003d42546537"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Defense"
+      }
+    },
+    {
+      "slug": "制御",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "制御",
+          "reading": "せいぎょ"
+        },
+        {
+          "word": "制禦",
+          "reading": "せいぎょ"
+        },
+        {
+          "word": "制馭",
+          "reading": "せいぎょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "control (of a machine, device, etc.)"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "control (over an opponent, one\u0027s emotions, etc.)",
+            "governing",
+            "management",
+            "suppression",
+            "keeping in check"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "防ぎ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "防ぎ",
+          "reading": "ふせぎ"
+        },
+        {
+          "word": "禦ぎ",
+          "reading": "ふせぎ"
+        },
+        {
+          "word": "拒ぎ",
+          "reading": "ふせぎ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "defense",
+            "defence",
+            "protecting",
+            "preventing"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

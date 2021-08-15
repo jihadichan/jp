@@ -1,0 +1,5230 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "体温",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "体温",
+          "reading": "たいおん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "temperature",
+            "body temperature (human, animal)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Human body temperature"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Human body temperature” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Human_body_temperature?oldid\u003d494944847"
+            },
+            {
+              "text": "Read “体温” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/体温?oldid\u003d40997974"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Human_body_temperature"
+      }
+    },
+    {
+      "slug": "体育",
+      "is_common": true,
+      "tags": [
+        "wanikani13"
+      ],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "体育",
+          "reading": "たいいく"
+        },
+        {
+          "word": "体育",
+          "reading": "たいく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "physical education"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Physical education"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Physical education” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Physical_education?oldid\u003d495061133"
+            },
+            {
+              "text": "Read “体育” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/体育?oldid\u003d40287687"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Physical_education"
+      }
+    },
+    {
+      "slug": "体",
+      "is_common": true,
+      "tags": [
+        "wanikani5",
+        "wanikani8"
+      ],
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1",
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "体",
+          "reading": "からだ"
+        },
+        {
+          "word": "身体",
+          "reading": "からだ"
+        },
+        {
+          "word": "躰",
+          "reading": "からだ"
+        },
+        {
+          "word": "躯",
+          "reading": "からだ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "body"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "身体 しんたい"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "からだ is a gikun reading of 身体"
+          ]
+        },
+        {
+          "english_definitions": [
+            "torso",
+            "trunk"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "build",
+            "physique",
+            "constitution"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "health"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "corpse",
+            "dead body"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "液体",
+      "is_common": true,
+      "tags": [
+        "wanikani32"
+      ],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "液体",
+          "reading": "えきたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "liquid"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Liquid"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Liquid” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Liquid?oldid\u003d494470284"
+            },
+            {
+              "text": "Read “液体” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/液体?oldid\u003d42783894"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Liquid"
+      }
+    },
+    {
+      "slug": "死体",
+      "is_common": true,
+      "tags": [
+        "wanikani6"
+      ],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "死体",
+          "reading": "したい"
+        },
+        {
+          "word": "屍体",
+          "reading": "したい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dead body",
+            "corpse",
+            "cadaver",
+            "carcass"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Cadaver"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Cadaver” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Cadaver?oldid\u003d493575410"
+            },
+            {
+              "text": "Read “死体” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/死体?oldid\u003d42068964"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Cadaver"
+      }
+    },
+    {
+      "slug": "文体",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "文体",
+          "reading": "ぶんたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "literary style"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "form of (written) language (e.g. classical, modern)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Style (fiction)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Style (fiction)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Style_(fiction)?oldid\u003d493783989"
+            },
+            {
+              "text": "Read “文体” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/文体?oldid\u003d39197039"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Style_(fiction)"
+      }
+    },
+    {
+      "slug": "体操",
+      "is_common": true,
+      "tags": [
+        "wanikani33"
+      ],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "体操",
+          "reading": "たいそう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "gymnastics",
+            "physical exercises",
+            "calisthenics"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Gymnastics"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Gymnastics” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Gymnastics?oldid\u003d494175827"
+            },
+            {
+              "text": "Read “体操” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/体操?oldid\u003d40592310"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Gymnastics"
+      }
+    },
+    {
+      "slug": "気体",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "気体",
+          "reading": "きたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "gas",
+            "vapour",
+            "vapor",
+            "gaseous body"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Gas"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Gas” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Gas?oldid\u003d495409514"
+            },
+            {
+              "text": "Read “気体” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/気体?oldid\u003d42475950"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Gas"
+      }
+    },
+    {
+      "slug": "体積",
+      "is_common": true,
+      "tags": [
+        "wanikani29"
+      ],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "体積",
+          "reading": "たいせき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "capacity",
+            "volume"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Volume"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Volume” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Volume?oldid\u003d494825064"
+            },
+            {
+              "text": "Read “体積” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/体積?oldid\u003d42545194"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Volume"
+      }
+    },
+    {
+      "slug": "大体",
+      "is_common": true,
+      "tags": [
+        "wanikani5"
+      ],
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "大体",
+          "reading": "だいたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "outline",
+            "main point",
+            "gist"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "general",
+            "substantially",
+            "approximately",
+            "about"
+          ],
+          "parts_of_speech": [
+            "Adverbial noun",
+            "Temporal noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "in the first place",
+            "to begin with",
+            "from the start"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "体力",
+      "is_common": true,
+      "tags": [
+        "wanikani5"
+      ],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "体力",
+          "reading": "たいりょく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "stamina",
+            "endurance",
+            "physical strength",
+            "resilience",
+            "resistance to disease"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "strength of an organization (e.g. profitability, productivity, economic clout, stability, growth potential)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Physical strength"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Physical strength” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Physical_strength?oldid\u003d488383795"
+            },
+            {
+              "text": "Read “体力” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/体力?oldid\u003d40830875"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Physical_strength"
+      }
+    },
+    {
+      "slug": "物体",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "物体",
+          "reading": "ぶったい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "body",
+            "object"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Physical body"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Physical body” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Physical_body?oldid\u003d482613476"
+            },
+            {
+              "text": "Read “物体” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/物体?oldid\u003d40137949"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Physical_body"
+      }
+    },
+    {
+      "slug": "形態",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "形態",
+          "reading": "けいたい"
+        },
+        {
+          "word": "形体",
+          "reading": "けいたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "form",
+            "shape",
+            "figure"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Shape"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Shape” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Shape?oldid\u003d495471407"
+            },
+            {
+              "text": "Read “形態” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/形態?oldid\u003d42753957"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Shape"
+      }
+    },
+    {
+      "slug": "固体",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "固体",
+          "reading": "こたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "solid (body)",
+            "solid matter",
+            "solid-state"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Solid"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Solid” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Solid?oldid\u003d493598226"
+            },
+            {
+              "text": "Read “固体” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/固体?oldid\u003d42475514"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Solid"
+      }
+    },
+    {
+      "slug": "人体",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "人体",
+          "reading": "じんたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "human body"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Human body"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Human body” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Human_body?oldid\u003d494211120"
+            },
+            {
+              "text": "Read “人体” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/人体?oldid\u003d41502451"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Human_body"
+      }
+    },
+    {
+      "slug": "天体",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "天体",
+          "reading": "てんたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "heavenly body",
+            "celestial body",
+            "astronomical object"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Astronomical object"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Astronomical object” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Astronomical_object?oldid\u003d495357499"
+            },
+            {
+              "text": "Read “天体” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/天体?oldid\u003d40738059"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Astronomical_object"
+      }
+    },
+    {
+      "slug": "主体",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "主体",
+          "reading": "しゅたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "main constituent",
+            "core",
+            "nucleus"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "subject (philosophical)",
+            "protagonist"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "客体",
+            "主観"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Subject"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Subject” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Subject?oldid\u003d489820635"
+            },
+            {
+              "text": "Read “主体” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/主体?oldid\u003d41419179"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Subject"
+      }
+    },
+    {
+      "slug": "団体",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "団体",
+          "reading": "だんたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "organization",
+            "organisation",
+            "association"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Dantai"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "一体",
+      "is_common": true,
+      "tags": [
+        "wanikani7"
+      ],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "一体",
+          "reading": "いったい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(what) the heck",
+            "(why) in the world",
+            "(who) on earth"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "before an interrogative, forms an emphatic question"
+          ]
+        },
+        {
+          "english_definitions": [
+            "one object",
+            "one body",
+            "unity"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "one form",
+            "one style"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "one Buddhist image (or carving, etc.)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "generally",
+            "in general"
+          ],
+          "parts_of_speech": [
+            "Adverbial noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "一体に"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "事態",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "事態",
+          "reading": "じたい"
+        },
+        {
+          "word": "事体",
+          "reading": "じたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "situation",
+            "(present) state of affairs",
+            "circumstances"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "often with a negative connotation"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "全体",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "全体",
+          "reading": "ぜんたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "whole",
+            "entirety",
+            "whatever (is the matter)"
+          ],
+          "parts_of_speech": [
+            "Adverbial noun",
+            "Temporal noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "体制",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "体制",
+          "reading": "たいせい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "order",
+            "system",
+            "structure",
+            "set-up",
+            "organization",
+            "organisation"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "重体",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "重体",
+          "reading": "じゅうたい"
+        },
+        {
+          "word": "重態",
+          "reading": "じゅうたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "serious condition",
+            "critical condition"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "体系",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "体系",
+          "reading": "たいけい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "system",
+            "organization",
+            "organisation",
+            "architecture"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Noun - used as a suffix"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "勿体ない",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "勿体ない",
+          "reading": "もったいない"
+        },
+        {
+          "word": "勿体無い",
+          "reading": "もったいない"
+        },
+        {
+          "word": "物体ない",
+          "reading": "もったいない"
+        },
+        {
+          "word": "物体無い",
+          "reading": "もったいない"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "wasteful",
+            "a waste"
+          ],
+          "parts_of_speech": [
+            "I-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "too good",
+            "more than one deserves",
+            "unworthy of"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "impious",
+            "profane",
+            "sacrilegious"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "体験",
+      "is_common": true,
+      "tags": [
+        "wanikani9"
+      ],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "体験",
+          "reading": "たいけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "personal experience",
+            "physical experience",
+            "one\u0027s own experience"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "肉体",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "肉体",
+          "reading": "にくたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "the body",
+            "the flesh"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "体格",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "体格",
+          "reading": "たいかく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "physique",
+            "constitution"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "体裁",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "体裁",
+          "reading": "ていさい"
+        },
+        {
+          "word": "体裁",
+          "reading": "たいさい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(outward) appearance"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "(proper) format (e.g. of an essay)",
+            "form",
+            "style"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "appearances",
+            "decency",
+            "show",
+            "display"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "lip-service",
+            "insincere words",
+            "glib talk"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "本体",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "本体",
+          "reading": "ほんたい"
+        },
+        {
+          "word": "本体",
+          "reading": "ほんだい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "substance",
+            "real form"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "main part",
+            "main unit",
+            "body (of a machine)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "this machine",
+            "this appliance"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "object of worship (at a shrine, temple, etc.)"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "noumenon"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "base price",
+            "pre-tax price"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Abbreviation"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "本体価格 ほんたいかかく"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "体つき",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "体つき",
+          "reading": "からだつき"
+        },
+        {
+          "word": "体付き",
+          "reading": "からだつき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "body build",
+            "figure"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "体育館",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "体育館",
+          "reading": "たいいくかん"
+        },
+        {
+          "word": "体育館",
+          "reading": "たいくかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "gymnasium"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Taiikukan"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Gym"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Gym” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Gym?oldid\u003d493169794"
+            },
+            {
+              "text": "Read “体育館” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/体育館?oldid\u003d42430487"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "http://dbpedia.org/resource/Gym"
+      }
+    },
+    {
+      "slug": "体重",
+      "is_common": true,
+      "tags": [
+        "wanikani9"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "体重",
+          "reading": "たいじゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(body) weight"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Body weight"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Body weight” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Body_weight?oldid\u003d480449667"
+            },
+            {
+              "text": "Read “体重” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/体重?oldid\u003d41758819"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Body_weight"
+      }
+    },
+    {
+      "slug": "共同体",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "共同体",
+          "reading": "きょうどうたい"
+        },
+        {
+          "word": "協同体",
+          "reading": "きょうどうたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "cooperative body",
+            "cooperative system",
+            "collective",
+            "community"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Community"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Community” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Community?oldid\u003d495253565"
+            },
+            {
+              "text": "Read “共同体” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/共同体?oldid\u003d42433226"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Community"
+      }
+    },
+    {
+      "slug": "機体",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "機体",
+          "reading": "きたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "fuselage",
+            "airframe"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Airframe"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Airframe” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Airframe?oldid\u003d493703731"
+            },
+            {
+              "text": "Read “機体” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/機体?oldid\u003d42604709"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Airframe"
+      }
+    },
+    {
+      "slug": "胴体",
+      "is_common": true,
+      "tags": [
+        "wanikani47"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "胴体",
+          "reading": "どうたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "body",
+            "trunk",
+            "torso",
+            "hull (boat)",
+            "fuselage (aircraft)"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Trunk (anatomy)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Trunk (anatomy)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Trunk_(anatomy)?oldid\u003d483403544"
+            },
+            {
+              "text": "Read “胴体” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/胴体?oldid\u003d40515479"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Trunk_(anatomy)"
+      }
+    },
+    {
+      "slug": "反体制",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "反体制",
+          "reading": "はんたいせい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "anti-establishment"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Dissident"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Dissident” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Dissident?oldid\u003d493680927"
+            },
+            {
+              "text": "Read “反体制” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/反体制?oldid\u003d42604809"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Dissident"
+      }
+    },
+    {
+      "slug": "抗体",
+      "is_common": true,
+      "tags": [
+        "wanikani37"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "抗体",
+          "reading": "こうたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "antibody"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Antibody"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Antibody” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Antibody?oldid\u003d494156185"
+            },
+            {
+              "text": "Read “抗体” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/抗体?oldid\u003d42750011"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Antibody"
+      }
+    },
+    {
+      "slug": "実体",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "実体",
+          "reading": "じったい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "substance",
+            "essence",
+            "entity",
+            "subject",
+            "content",
+            "reality",
+            "true form"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Substance theory"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Substance theory” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Substance_theory?oldid\u003d492314388"
+            },
+            {
+              "text": "Read “実体” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/実体?oldid\u003d41618554"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Substance_theory"
+      }
+    },
+    {
+      "slug": "体罰",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "体罰",
+          "reading": "たいばつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "corporal punishment"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Corporal punishment"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Corporal punishment” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Corporal_punishment?oldid\u003d495323861"
+            },
+            {
+              "text": "Read “体罰” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/体罰?oldid\u003d42568079"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Corporal_punishment"
+      }
+    },
+    {
+      "slug": "体温計",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "体温計",
+          "reading": "たいおんけい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "medical thermometer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Medical thermometer"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Medical thermometer” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Medical_thermometer?oldid\u003d495269747"
+            },
+            {
+              "text": "Read “体温計” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/体温計?oldid\u003d40714575"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Medical_thermometer"
+      }
+    },
+    {
+      "slug": "体調",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "体調",
+          "reading": "たいちょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "physical condition",
+            "state of health"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "具体的",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "具体的",
+          "reading": "ぐたいてき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "concrete",
+            "definite",
+            "specific",
+            "material",
+            "substantial"
+          ],
+          "parts_of_speech": [
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "正体",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "正体",
+          "reading": "しょうたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "true character",
+            "true form",
+            "true colors (colours)",
+            "identity",
+            "truth (of a mystery, phenomenon, etc.)",
+            "origin"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "consciousness",
+            "one\u0027s senses"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "肉体的",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "肉体的",
+          "reading": "にくたいてき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "corporeal",
+            "material"
+          ],
+          "parts_of_speech": [
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "体質",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "体質",
+          "reading": "たいしつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "constitution (physical)",
+            "physical make-up",
+            "predisposition (to disease)",
+            "disposition",
+            "tendency"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "character (of a group, organization, etc.)",
+            "innate characteristics",
+            "make-up",
+            "nature",
+            "culture"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "具体化",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "具体化",
+          "reading": "ぐたいか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "embodiment",
+            "materialization",
+            "actualization",
+            "realization",
+            "taking form",
+            "taking shape"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "媒体",
+      "is_common": true,
+      "tags": [
+        "wanikani58"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "媒体",
+          "reading": "ばいたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "medium",
+            "media"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "体内",
+      "is_common": true,
+      "tags": [
+        "wanikani5"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "体内",
+          "reading": "たいない"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "interior of the body"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "地方自治体",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "地方自治体",
+          "reading": "ちほうじちたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "local authority",
+            "local government",
+            "locality",
+            "local self-governing body",
+            "municipality"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "身体障害者",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "身体障害者",
+          "reading": "しんたいしょうがいしゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "disabled person",
+            "physically handicapped person"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "体勢",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "体勢",
+          "reading": "たいせい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "posture",
+            "stance"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "遺体",
+      "is_common": true,
+      "tags": [
+        "wanikani36"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遺体",
+          "reading": "いたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "corpse",
+            "remains"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "失態",
+      "is_common": true,
+      "tags": [
+        "wanikani22"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "失態",
+          "reading": "しったい"
+        },
+        {
+          "word": "失体",
+          "reading": "しったい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "blunder",
+            "fault",
+            "error",
+            "mistake",
+            "failure",
+            "disgrace"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "立体的",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "立体的",
+          "reading": "りったいてき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "three-dimensional"
+          ],
+          "parts_of_speech": [
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "母体",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "母体",
+          "reading": "ぼたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "mother\u0027s body (esp. when pregnant or after giving birth)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "parent body",
+            "parent organization",
+            "base",
+            "basis",
+            "nucleus"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "主体的",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "主体的",
+          "reading": "しゅたいてき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "independent",
+            "responsible",
+            "active",
+            "proactive"
+          ],
+          "parts_of_speech": [
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "subjective"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "主観的"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "立体",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "立体",
+          "reading": "りったい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "solid body",
+            "three-dimensional object"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "multi-storey car park"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Abbreviation"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "立体駐車場"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Solid geometry"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Solid geometry” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Solid_geometry?oldid\u003d488212123"
+            },
+            {
+              "text": "Read “立体” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/立体?oldid\u003d42151260"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Solid_geometry"
+      }
+    },
+    {
+      "slug": "具体",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "具体",
+          "reading": "ぐたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "concrete",
+            "tangible",
+            "material"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "容態",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "容態",
+          "reading": "ようだい"
+        },
+        {
+          "word": "容態",
+          "reading": "ようたい"
+        },
+        {
+          "word": "容体",
+          "reading": "ようだい"
+        },
+        {
+          "word": "容体",
+          "reading": "ようたい"
+        },
+        {
+          "word": "様体",
+          "reading": "ようだい"
+        },
+        {
+          "word": "様体",
+          "reading": "ようたい"
+        },
+        {
+          "word": "容體",
+          "reading": "ようだい"
+        },
+        {
+          "word": "容體",
+          "reading": "ようたい"
+        },
+        {
+          "word": "容躰",
+          "reading": "ようだい"
+        },
+        {
+          "word": "容躰",
+          "reading": "ようたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "condition",
+            "state (of health)",
+            "appearance"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "肉体労働",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "肉体労働",
+          "reading": "にくたいろうどう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "manual or physical labor",
+            "manual or physical labour"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "球体",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "球体",
+          "reading": "きゅうたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sphere",
+            "globe",
+            "orb"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "体面",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "体面",
+          "reading": "たいめん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "honour",
+            "honor",
+            "dignity",
+            "prestige",
+            "reputation",
+            "appearances"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "世間体",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "世間体",
+          "reading": "せけんてい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "appearance (in the eyes of society)",
+            "decency"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "合体",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "合体",
+          "reading": "がったい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "union",
+            "coalescence",
+            "amalgamation",
+            "combination",
+            "alliance",
+            "annexation",
+            "incorporation"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "copulation",
+            "penetration"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "肢体",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "肢体",
+          "reading": "したい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "limbs",
+            "members",
+            "body"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "被写体",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "被写体",
+          "reading": "ひしゃたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(photographic) subject"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "体系的",
+      "is_common": false,
+      "tags": [
+        "wanikani30"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "体系的",
+          "reading": "たいけいてき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "systematic"
+          ],
+          "parts_of_speech": [
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "字体",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "字体",
+          "reading": "じたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "form of a character (e.g. simplified, traditional)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "type",
+            "typeface",
+            "font"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "書体"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Glyph"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Glyph” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Glyph?oldid\u003d491935985"
+            },
+            {
+              "text": "Read “字体” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/字体?oldid\u003d42668889"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Glyph"
+      }
+    },
+    {
+      "slug": "個体",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "個体",
+          "reading": "こたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "individual",
+            "specimen"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "体-2",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "体",
+          "reading": "てい"
+        },
+        {
+          "word": "態",
+          "reading": "てい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "appearance",
+            "air",
+            "condition",
+            "state",
+            "form"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Voice (grammar)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Voice (grammar)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Voice_(grammar)?oldid\u003d495131578"
+            },
+            {
+              "text": "Read “態” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/態?oldid\u003d41856050"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Voice_(grammar)"
+      }
+    },
+    {
+      "slug": "未確認飛行物体",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "未確認飛行物体",
+          "reading": "みかくにんひこうぶったい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "unidentified flying object",
+            "UFO"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Unidentified flying object"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Unidentified flying object” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Unidentified_flying_object?oldid\u003d492327736"
+            },
+            {
+              "text": "Read “未確認飛行物体” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/未確認飛行物体?oldid\u003d42432179"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Unidentified_flying_object"
+      }
+    },
+    {
+      "slug": "基礎体温",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "基礎体温",
+          "reading": "きそたいおん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "basal body temperature"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Basal body temperature"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Basal body temperature” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Basal_body_temperature?oldid\u003d492671704"
+            },
+            {
+              "text": "Read “基礎体温” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/基礎体温?oldid\u003d42513136"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Basal_body_temperature"
+      }
+    },
+    {
+      "slug": "体操競技",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "体操競技",
+          "reading": "たいそうきょうぎ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "gymnastics competition",
+            "artistic gymnastics"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Artistic gymnastics"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Artistic gymnastics” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Artistic_gymnastics?oldid\u003d494168871"
+            },
+            {
+              "text": "Read “体操競技” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/体操競技?oldid\u003d42506309"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Artistic_gymnastics"
+      }
+    },
+    {
+      "slug": "宗教団体",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "宗教団体",
+          "reading": "しゅうきょうだんたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "religious group"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Religious denomination"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Religious denomination” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Religious_denomination?oldid\u003d479135641"
+            },
+            {
+              "text": "Read “宗教団体” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/宗教団体?oldid\u003d40804455"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Religious_denomination"
+      }
+    },
+    {
+      "slug": "国体",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "国体",
+          "reading": "こくたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "national polity"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "国家体制"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "National Athletic Meet"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Abbreviation"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "国民体育大会"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Kokutai"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Kokutai"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Kokutai” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Kokutai?oldid\u003d486867042"
+            },
+            {
+              "text": "Read “国体” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/国体?oldid\u003d42092054"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "http://dbpedia.org/resource/Kokutai"
+      }
+    },
+    {
+      "slug": "一体全体",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "一体全体",
+          "reading": "いったいぜんたい"
+        },
+        {
+          "word": "いったい全体",
+          "reading": "いったいぜんたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "... the heck (e.g. \"what the heck?\")",
+            "... in the world (e.g. \"why in the world?\")",
+            "... on earth (e.g. \"who on earth?\")"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "emph. form of 一体"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "体中",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "体中",
+          "reading": "からだじゅう"
+        },
+        {
+          "word": "体じゅう",
+          "reading": "からだじゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "all over the body",
+            "from head to foot",
+            "all over"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "体育祭",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "体育祭",
+          "reading": "たいいくさい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(school) athletic festival",
+            "sports day",
+            "field day"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "運動会"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "慈善団体",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "慈善団体",
+          "reading": "じぜんだんたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "charitable institution (organization, organisation)",
+            "(organized, organised) charities"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "流動体",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "流動体",
+          "reading": "りゅうどうたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "liquid",
+            "fluid"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "けったくそ悪い",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "けったくそ悪い",
+          "reading": "けったくそわるい"
+        },
+        {
+          "word": "卦体糞悪い",
+          "reading": "けったくそわるい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "extremely vexing"
+          ],
+          "parts_of_speech": [
+            "I-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Vulgar"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "体操服",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "体操服",
+          "reading": "たいそうふく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "gym uniform",
+            "track suit"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "旧体制",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旧体制",
+          "reading": "きゅうたいせい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "old regime"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "複合体",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "複合体",
+          "reading": "ふくごうたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "complex"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Noun - used as a suffix"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "軍産複合体"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "有機体",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "有機体",
+          "reading": "ゆうきたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "organic body",
+            "organism"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "口語体",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "口語体",
+          "reading": "こうごたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "colloquial style",
+            "written style based on spoken language"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "文語体"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "人体模型",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "人体模型",
+          "reading": "じんたいもけい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "anatomical model of the human body"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "初体験",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "初体験",
+          "reading": "はつたいけん"
+        },
+        {
+          "word": "初体験",
+          "reading": "しょたいけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "first experience (of any activity)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "first sexual experience"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "勿体ぶる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勿体ぶる",
+          "reading": "もったいぶる"
+        },
+        {
+          "word": "勿体振る",
+          "reading": "もったいぶる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to put on airs",
+            "to assume importance"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "知的生命体",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "知的生命体",
+          "reading": "ちてきせいめいたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "intelligent life"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "絶体絶命",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絶体絶命",
+          "reading": "ぜったいぜつめい"
+        },
+        {
+          "word": "絶対絶命",
+          "reading": "ぜったいぜつめい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "desperate situation with no escape",
+            "being driven into a corner",
+            "being cornered",
+            "last extremity"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective",
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "体操着",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "体操着",
+          "reading": "たいそうぎ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "gym uniform",
+            "track suit"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "体操服"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "団体競技",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "団体競技",
+          "reading": "だんたいきょうぎ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "team sports"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "欧州共同体",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "欧州共同体",
+          "reading": "おうしゅうきょうどうたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "European Community",
+            "EC"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "消費者団体",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "消費者団体",
+          "reading": "しょうひしゃだんたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "consumer group"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "団体旅行",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "団体旅行",
+          "reading": "だんたいりょこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "group travel"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "一体化",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "一体化",
+          "reading": "いったいか"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "unification",
+            "integration"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "吸収体",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "吸収体",
+          "reading": "きゅうしゅうたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "absorbent"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "運命共同体",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "運命共同体",
+          "reading": "うんめいきょうどうたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(in the) same boat",
+            "(sharing a) common destiny"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

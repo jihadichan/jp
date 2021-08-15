@@ -1,0 +1,826 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "語彙",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "語彙",
+          "reading": "ごい"
+        },
+        {
+          "word": "語い",
+          "reading": "ごい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "vocabulary",
+            "lexicon",
+            "lexis",
+            "terminology"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "linguistics terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Vocabulary"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Vocabulary” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Vocabulary?oldid\u003d494472278"
+            },
+            {
+              "text": "Read “語彙” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/語彙?oldid\u003d38154535"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Vocabulary"
+      }
+    },
+    {
+      "slug": "語彙力",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "語彙力",
+          "reading": "ごいりょく"
+        },
+        {
+          "word": "語い力",
+          "reading": "ごいりょく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(the extent of) one\u0027s vocabulary"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "語彙機能文法",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "語彙機能文法",
+          "reading": "ごいきのうぶんぽう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "lexical-functional grammar",
+            "LFG"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "linguistics terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Lexical functional grammar"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Lexical functional grammar” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Lexical_functional_grammar?oldid\u003d493069786"
+            },
+            {
+              "text": "Read “語彙機能文法” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/語彙機能文法?oldid\u003d41236610"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Lexical_functional_grammar"
+      }
+    },
+    {
+      "slug": "語彙論",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "語彙論",
+          "reading": "ごいろん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "lexicology"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Lexicology"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Lexicology” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Lexicology?oldid\u003d492275510"
+            },
+            {
+              "text": "Read “語彙論” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/語彙論?oldid\u003d41042705"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Lexicology"
+      }
+    },
+    {
+      "slug": "語彙素",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "語彙素",
+          "reading": "ごいそ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "lexeme"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "linguistics terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Lexeme"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Lexeme” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Lexeme?oldid\u003d487690983"
+            },
+            {
+              "text": "Read “語彙素” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/語彙素?oldid\u003d41727854"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Lexeme"
+      }
+    },
+    {
+      "slug": "語彙規則",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "語彙規則",
+          "reading": "ごいきそく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "lexical rule"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "linguistics terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "山彙",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "山彙",
+          "reading": "さんい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "mountain mass",
+            "small mountain range",
+            "group of mountains that are not part of a large mountain range"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Obscure term"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "山塊"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "彙類",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "彙類",
+          "reading": "いるい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "same kind or class",
+            "classification"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "表現語彙",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "表現語彙",
+          "reading": "ひょうげんごい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "active vocabulary"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "linguistics terminology"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "理解語彙"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "彙報",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "彙報",
+          "reading": "いほう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "bulletin",
+            "collection of reports"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "語彙的",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "語彙的",
+          "reading": "ごいてき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "lexical"
+          ],
+          "parts_of_speech": [
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "linguistics terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "語彙表",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "語彙表",
+          "reading": "ごいひょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "vocabulary list"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "語彙制限本",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "語彙制限本",
+          "reading": "ごいせいげんぼん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "graded reader",
+            "limited-vocabulary reader"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "辞彙",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "辞彙",
+          "reading": "じい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dictionary"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "理解語彙",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "理解語彙",
+          "reading": "りかいごい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "passive vocabulary"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "linguistics terminology"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "表現語彙"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "語彙統計学",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "語彙統計学",
+          "reading": "ごいとうけいがく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "lexicostatistics"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "字彙",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "字彙",
+          "reading": "じい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(character) dictionary"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Zihui"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Zihui” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Zihui?oldid\u003d454988678"
+            },
+            {
+              "text": "Read “字彙” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/字彙?oldid\u003d35743540"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Zihui"
+      }
+    },
+    {
+      "slug": "彙",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "彙",
+          "reading": "い"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "kind",
+            "sort",
+            "type"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "語彙的コントロールの原理",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "語彙的コントロールの原理",
+          "reading": "ごいてきコントロールのげんり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "principle of lexical control",
+            "PLC"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "linguistics terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

@@ -1,0 +1,755 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "沸騰",
+      "is_common": true,
+      "tags": [
+        "wanikani53"
+      ],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "沸騰",
+          "reading": "ふっとう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "boiling",
+            "seething"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "becoming heated (e.g. debate)",
+            "excitement",
+            "agitation",
+            "fermentation"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "soaring (prices)",
+            "shooting up"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "急騰",
+      "is_common": true,
+      "tags": [
+        "wanikani53"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "急騰",
+          "reading": "きゅうとう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sudden rise (in price)",
+            "sharp rise",
+            "jump",
+            "surge"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "高騰",
+      "is_common": true,
+      "tags": [
+        "wanikani53"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "高騰",
+          "reading": "こうとう"
+        },
+        {
+          "word": "昂騰",
+          "reading": "こうとう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sudden price jump",
+            "steep price rise"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "暴騰",
+      "is_common": true,
+      "tags": [
+        "wanikani53"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "暴騰",
+          "reading": "ぼうとう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sudden rise",
+            "sharp rise",
+            "boom",
+            "skyrocketing"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "騰貴",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "騰貴",
+          "reading": "とうき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rise (in price or value)",
+            "appreciation",
+            "advance"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "騰勢",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "騰勢",
+          "reading": "とうせい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "upward trend"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "反騰",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "反騰",
+          "reading": "はんとう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "reactionary price rise"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "奔騰",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "奔騰",
+          "reading": "ほんとう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "soar (e.g. in price)",
+            "jump",
+            "boom",
+            "sudden ride"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Besturn"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Besturn” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Besturn?oldid\u003d495109917"
+            },
+            {
+              "text": "Read “奔騰” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/奔騰?oldid\u003d41386139"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Besturn"
+      }
+    },
+    {
+      "slug": "沸騰水型原子炉",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "沸騰水型原子炉",
+          "reading": "ふっとうすいがたげんしろ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "boiling-water reactor",
+            "BWR"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Boiling water reactor"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Boiling water reactor” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Boiling_water_reactor?oldid\u003d495041715"
+            },
+            {
+              "text": "Read “沸騰水型原子炉” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/沸騰水型原子炉?oldid\u003d42590212"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Boiling_water_reactor"
+      }
+    },
+    {
+      "slug": "物価騰貴",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "物価騰貴",
+          "reading": "ぶっかとうき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "price rise"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "体液沸騰",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "体液沸騰",
+          "reading": "たいえきふっとう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "ebullism",
+            "formation of gas bubbles in bodily fluids"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Medicine, etc. term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "騰落",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "騰落",
+          "reading": "とうらく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rise and fall",
+            "fluctuations",
+            "ups and downs"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "上騰",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "上騰",
+          "reading": "じょうとう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "advance",
+            "rise",
+            "jump"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "議論沸騰",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "議論沸騰",
+          "reading": "ぎろんふっとう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "discussion (argument) becoming heated",
+            "debate being in a ferment"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "続騰",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "続騰",
+          "reading": "ぞくとう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "continued advance (in market price)",
+            "continued rise"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "人気沸騰",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "人気沸騰",
+          "reading": "にんきふっとう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(enjoy) tumultuous (tremendous, overwhelming) popularity"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "話題沸騰",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "話題沸騰",
+          "reading": "わだいふっとう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "being much talked about",
+            "creating a stir",
+            "being the talk of town"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "沸騰点",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "沸騰点",
+          "reading": "ふっとうてん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "boiling point"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

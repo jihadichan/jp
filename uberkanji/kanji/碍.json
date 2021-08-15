@@ -1,0 +1,586 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "障害",
+      "is_common": true,
+      "tags": [
+        "wanikani26"
+      ],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "障害",
+          "reading": "しょうがい"
+        },
+        {
+          "word": "障がい",
+          "reading": "しょうがい"
+        },
+        {
+          "word": "障碍",
+          "reading": "しょうがい"
+        },
+        {
+          "word": "障礙",
+          "reading": "しょうがい"
+        },
+        {
+          "word": "障碍",
+          "reading": "しょうげ"
+        },
+        {
+          "word": "障礙",
+          "reading": "しょうげ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "obstacle",
+            "impediment",
+            "hindrance",
+            "difficulty",
+            "barrier"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "handicap",
+            "impairment",
+            "disability",
+            "disorder",
+            "malfunction"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "しょうがい"
+          ],
+          "see_also": [
+            "視力障害"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "妨害",
+      "is_common": true,
+      "tags": [
+        "wanikani20"
+      ],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "妨害",
+          "reading": "ぼうがい"
+        },
+        {
+          "word": "妨碍",
+          "reading": "ぼうがい"
+        },
+        {
+          "word": "妨礙",
+          "reading": "ぼうがい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "disturbance",
+            "obstruction",
+            "hindrance",
+            "jamming",
+            "interference"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "障害者",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "障害者",
+          "reading": "しょうがいしゃ"
+        },
+        {
+          "word": "障がい者",
+          "reading": "しょうがいしゃ"
+        },
+        {
+          "word": "障碍者",
+          "reading": "しょうがいしゃ"
+        },
+        {
+          "word": "障礙者",
+          "reading": "しょうがいしゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(physically) handicapped person",
+            "disabled person"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Disability"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Disability” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Disability?oldid\u003d493962515"
+            },
+            {
+              "text": "Read “障害者” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/障害者?oldid\u003d41421050"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Disability"
+      }
+    },
+    {
+      "slug": "阻害",
+      "is_common": true,
+      "tags": [
+        "wanikani46"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "阻害",
+          "reading": "そがい"
+        },
+        {
+          "word": "阻礙",
+          "reading": "そがい"
+        },
+        {
+          "word": "阻碍",
+          "reading": "そがい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "obstruction",
+            "inhibition"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "障害物",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "障害物",
+          "reading": "しょうがいぶつ"
+        },
+        {
+          "word": "障碍物",
+          "reading": "しょうがいぶつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "obstacle",
+            "hurdle"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "無碍",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "無碍",
+          "reading": "むげ"
+        },
+        {
+          "word": "無礙",
+          "reading": "むげ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "free from obstacles"
+          ],
+          "parts_of_speech": [
+            "Na-adjective",
+            "Archaic/formal form of na-adjective",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "碍子",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "碍子",
+          "reading": "がいし"
+        },
+        {
+          "word": "がい子",
+          "reading": "がいし"
+        },
+        {
+          "word": "礙子",
+          "reading": "がいし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "insulator"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "傘形碍子",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "傘形碍子",
+          "reading": "かさがたがいし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "umbrella insulator"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "融通無碍",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "融通無碍",
+          "reading": "ゆうずうむげ"
+        },
+        {
+          "word": "融通無碍",
+          "reading": "ゆうづうむげ"
+        },
+        {
+          "word": "融通無礙",
+          "reading": "ゆうずうむげ"
+        },
+        {
+          "word": "融通無礙",
+          "reading": "ゆうづうむげ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "free, unfettered and flexible",
+            "versatile",
+            "adaptable"
+          ],
+          "parts_of_speech": [
+            "Na-adjective",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "がいし引き工事",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "がいし引き工事",
+          "reading": "がいしびきこうじ"
+        },
+        {
+          "word": "碍子引き工事",
+          "reading": "がいしびきこうじ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "knob-and-tube wiring",
+            "insulator wiring",
+            "electrical wiring strung on surface-mounted insulators"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "低障碍",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "低障碍",
+          "reading": "ていしょうがい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "low hurdles"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "無下にする",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "無下にする",
+          "reading": "むげにする"
+        },
+        {
+          "word": "無碍にする",
+          "reading": "むげにする"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to not make good use of (e.g. advice)",
+            "to disregard",
+            "to treat as useless",
+            "to treat with disdain"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Suru verb - irregular"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

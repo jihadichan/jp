@@ -1,0 +1,4507 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "攻撃",
+      "is_common": true,
+      "tags": [
+        "wanikani28",
+        "wanikani30"
+      ],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "攻撃",
+          "reading": "こうげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "attack",
+            "assault",
+            "raid",
+            "onslaught",
+            "offensive"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [
+            "守備"
+          ],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "criticism",
+            "censure",
+            "denunciation",
+            "condemnation"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Attack"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Attack” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Attack?oldid\u003d486534244"
+            },
+            {
+              "text": "Read “攻撃” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/攻撃?oldid\u003d37722978"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Attack"
+      }
+    },
+    {
+      "slug": "撃つ",
+      "is_common": true,
+      "tags": [
+        "wanikani28"
+      ],
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "撃つ",
+          "reading": "うつ"
+        },
+        {
+          "word": "討つ",
+          "reading": "うつ"
+        },
+        {
+          "word": "射つ",
+          "reading": "うつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to shoot (at)"
+          ],
+          "parts_of_speech": [
+            "Godan verb with tsu ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "usu. 撃つ"
+          ]
+        },
+        {
+          "english_definitions": [
+            "to attack",
+            "to defeat",
+            "to destroy",
+            "to avenge"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "打撃",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "打撃",
+          "reading": "だげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "blow",
+            "shock",
+            "strike",
+            "damage"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "batting"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Baseball term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "衝撃",
+      "is_common": true,
+      "tags": [
+        "wanikani40"
+      ],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "衝撃",
+          "reading": "しょうげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "shock",
+            "impact",
+            "crash"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "襲撃",
+      "is_common": true,
+      "tags": [
+        "wanikani43",
+        "wanikani45"
+      ],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "襲撃",
+          "reading": "しゅうげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "attack",
+            "charge",
+            "raid"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "反撃",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "反撃",
+          "reading": "はんげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "counterattack",
+            "counteroffensive",
+            "counterblow"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "目撃",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "目撃",
+          "reading": "もくげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "witnessing",
+            "observing",
+            "sighting"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Eyewitness"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Eyewitness” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Eyewitness?oldid\u003d490505771"
+            },
+            {
+              "text": "Read “目撃” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/目撃?oldid\u003d42344202"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Eyewitness"
+      }
+    },
+    {
+      "slug": "砲撃",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "砲撃",
+          "reading": "ほうげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "bombarding",
+            "shelling",
+            "bombardment"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Bombardment"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Bombardment” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Bombardment?oldid\u003d492996796"
+            },
+            {
+              "text": "Read “砲撃” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/砲撃?oldid\u003d42539545"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Bombardment"
+      }
+    },
+    {
+      "slug": "射撃",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "射撃",
+          "reading": "しゃげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "firing",
+            "shooting",
+            "fire",
+            "gunshot",
+            "marksmanship"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Shooting"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Shooting” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Shooting?oldid\u003d494876530"
+            },
+            {
+              "text": "Read “射撃” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/射撃?oldid\u003d42074628"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Shooting"
+      }
+    },
+    {
+      "slug": "打つ-1",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "打つ",
+          "reading": "ぶつ"
+        },
+        {
+          "word": "撃つ",
+          "reading": "ぶつ"
+        },
+        {
+          "word": "撲つ",
+          "reading": "ぶつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to hit (a person)",
+            "to strike",
+            "to beat"
+          ],
+          "parts_of_speech": [
+            "Godan verb with tsu ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to deliver (a speech)",
+            "to give (an address)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "衝撃波",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "衝撃波",
+          "reading": "しょうげきは"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "shock wave"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Shock wave"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Shock wave” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Shock_wave?oldid\u003d495098575"
+            },
+            {
+              "text": "Read “衝撃波” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/衝撃波?oldid\u003d42525848"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Shock_wave"
+      }
+    },
+    {
+      "slug": "爆撃",
+      "is_common": true,
+      "tags": [
+        "wanikani37"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "爆撃",
+          "reading": "ばくげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "bombing (raid)"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "進撃",
+      "is_common": true,
+      "tags": [
+        "wanikani28"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "進撃",
+          "reading": "しんげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "advance",
+            "charge"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "直撃",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "直撃",
+          "reading": "ちょくげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "direct hit"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "出撃",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "出撃",
+          "reading": "しゅつげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sortie",
+            "sally",
+            "attack"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "撃墜",
+      "is_common": true,
+      "tags": [
+        "wanikani47"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "撃墜",
+          "reading": "げきつい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "shooting down (aircraft)"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "迎撃",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "迎撃",
+          "reading": "げいげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "intercept",
+            "interception",
+            "counter-attack"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "一撃",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "一撃",
+          "reading": "いちげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "blow",
+            "hit",
+            "poke"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "撃ち合い",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "撃ち合い",
+          "reading": "うちあい"
+        },
+        {
+          "word": "撃合い",
+          "reading": "うちあい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "gunfight",
+            "exchange of shots",
+            "firefight"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "打ち破る",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "打ち破る",
+          "reading": "うちやぶる"
+        },
+        {
+          "word": "討ち破る",
+          "reading": "うちやぶる"
+        },
+        {
+          "word": "打破る",
+          "reading": "うちやぶる"
+        },
+        {
+          "word": "撃ち破る",
+          "reading": "うちやぶる"
+        },
+        {
+          "word": "うち破る",
+          "reading": "うちやぶる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to break",
+            "to smash",
+            "to defeat",
+            "to destroy",
+            "to eliminate"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "打ち破る",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "打ち破る",
+          "reading": "うちやぶる"
+        },
+        {
+          "word": "討ち破る",
+          "reading": "うちやぶる"
+        },
+        {
+          "word": "打破る",
+          "reading": "うちやぶる"
+        },
+        {
+          "word": "撃ち破る",
+          "reading": "うちやぶる"
+        },
+        {
+          "word": "うち破る",
+          "reading": "うちやぶる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to break",
+            "to smash",
+            "to defeat",
+            "to destroy",
+            "to eliminate"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "撃退",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "撃退",
+          "reading": "げきたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "repulse",
+            "repelling (e.g. the enemy)",
+            "driving back"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "撃破",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "撃破",
+          "reading": "げきは"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "crushing"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "狙撃",
+      "is_common": false,
+      "tags": [
+        "wanikani37"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "狙撃",
+          "reading": "そげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "shooting",
+            "sniping"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "目撃者",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "目撃者",
+          "reading": "もくげきしゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "eye-witness",
+            "witness"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "攻撃的",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "攻撃的",
+          "reading": "こうげきてき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "offensive",
+            "aggressive"
+          ],
+          "parts_of_speech": [
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "撃ち抜く",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "撃ち抜く",
+          "reading": "うちぬく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to shoot out (lights, window, etc.)"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ku ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "挟撃",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "挟撃",
+          "reading": "きょうげき"
+        },
+        {
+          "word": "挾撃",
+          "reading": "きょうげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "pincer movement",
+            "pincer attack"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "要撃",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "要撃",
+          "reading": "ようげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "ambush"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "interception",
+            "counter-attack"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "邀撃"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "電撃的",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "電撃的",
+          "reading": "でんげきてき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sudden",
+            "lightning",
+            "immediate",
+            "shocking"
+          ],
+          "parts_of_speech": [
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "奇襲攻撃",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "奇襲攻撃",
+          "reading": "きしゅうこうげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "surprise attack",
+            "ambush"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "痛撃",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "痛撃",
+          "reading": "つうげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "severe attack",
+            "hard blow"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "迫撃砲",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "迫撃砲",
+          "reading": "はくげきほう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "mortar"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Mortar (weapon)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Mortar (weapon)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Mortar_(weapon)?oldid\u003d494102982"
+            },
+            {
+              "text": "Read “迫撃砲” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/迫撃砲?oldid\u003d42635385"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Mortar_(weapon)"
+      }
+    },
+    {
+      "slug": "遊撃手",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遊撃手",
+          "reading": "ゆうげきしゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "shortstop",
+            "short"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Baseball term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Shortstop"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Shortstop” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Shortstop?oldid\u003d491492016"
+            },
+            {
+              "text": "Read “遊撃手” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/遊撃手?oldid\u003d42771630"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Shortstop"
+      }
+    },
+    {
+      "slug": "突撃",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "突撃",
+          "reading": "とつげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "charge",
+            "rush",
+            "dash",
+            "assault",
+            "attack"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Shock troops"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Shock troops” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Shock_troops?oldid\u003d482553369"
+            },
+            {
+              "text": "Read “突撃” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/突撃?oldid\u003d40596172"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Shock_troops"
+      }
+    },
+    {
+      "slug": "遊撃",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遊撃",
+          "reading": "ゆうげき"
+        },
+        {
+          "word": "游撃",
+          "reading": "ゆうげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "raid",
+            "military attack by a mobile unit",
+            "hit-and-run attack",
+            "search-and-kill mission",
+            "search-and-destroy mission",
+            "military action without a predetermined target",
+            "attacking the enemy or assisting allies as the opportunity arises"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "shortstop",
+            "short"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Baseball term",
+            "Abbreviation"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "遊撃手"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "追い打ち",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "追い打ち",
+          "reading": "おいうち"
+        },
+        {
+          "word": "追い撃ち",
+          "reading": "おいうち"
+        },
+        {
+          "word": "追い討ち",
+          "reading": "おいうち"
+        },
+        {
+          "word": "追打ち",
+          "reading": "おいうち"
+        },
+        {
+          "word": "追撃ち",
+          "reading": "おいうち"
+        },
+        {
+          "word": "追討ち",
+          "reading": "おいうち"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "attacking a fleeing enemy"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "additional attack on a weakened enemy",
+            "additional blow to an already unfortunate situation"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "挟み撃ち",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "挟み撃ち",
+          "reading": "はさみうち"
+        },
+        {
+          "word": "挟み打ち",
+          "reading": "はさみうち"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "pincer attack",
+            "attack on both sides (flanks)"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "迫撃",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "迫撃",
+          "reading": "はくげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "close attack"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "電撃",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "電撃",
+          "reading": "でんげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "electric shock"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "blitz",
+            "lightning attack"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Noun or verb acting prenominally"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "sudden and without warning",
+            "shocking"
+          ],
+          "parts_of_speech": [
+            "Noun or verb acting prenominally"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "挟み撃ち",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "挟み撃ち",
+          "reading": "はさみうち"
+        },
+        {
+          "word": "挟み打ち",
+          "reading": "はさみうち"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "pincer attack",
+            "attack on both sides (flanks)"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "追撃",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "追撃",
+          "reading": "ついげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "pursuit",
+            "chase"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "電撃",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "電撃",
+          "reading": "でんげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "electric shock"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "blitz",
+            "lightning attack"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Noun or verb acting prenominally"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "sudden and without warning",
+            "shocking"
+          ],
+          "parts_of_speech": [
+            "Noun or verb acting prenominally"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "撃沈",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "撃沈",
+          "reading": "げきちん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sending a ship to the bottom",
+            "sinking (a ship)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to sink a ship"
+          ],
+          "parts_of_speech": [
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "狙撃兵",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "狙撃兵",
+          "reading": "そげきへい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sniper",
+            "sharpshooter"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "迎え撃つ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "迎え撃つ",
+          "reading": "むかえうつ"
+        },
+        {
+          "word": "邀え撃つ",
+          "reading": "むかえうつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to meet (the enemy) and attack",
+            "to engage (the approaching enemy)",
+            "to confront",
+            "to intercept"
+          ],
+          "parts_of_speech": [
+            "Godan verb with tsu ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "打ちまくる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "打ちまくる",
+          "reading": "うちまくる"
+        },
+        {
+          "word": "撃ちまくる",
+          "reading": "うちまくる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to pound away",
+            "to hit at random",
+            "to hit ceaselessly"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "狙い撃ち",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "狙い撃ち",
+          "reading": "ねらいうち"
+        },
+        {
+          "word": "狙い打ち",
+          "reading": "ねらいうち"
+        },
+        {
+          "word": "ねらい撃ち",
+          "reading": "ねらいうち"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sharpshooting",
+            "shooting",
+            "sniping"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "setting a goal and carrying it out"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "相打ち",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "相打ち",
+          "reading": "あいうち"
+        },
+        {
+          "word": "相撃ち",
+          "reading": "あいうち"
+        },
+        {
+          "word": "相討ち",
+          "reading": "あいうち"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "simultaneously striking one another (in kendo, etc.)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "draw",
+            "tie"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "総攻撃",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "総攻撃",
+          "reading": "そうこうげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "all-out attack",
+            "general offensive"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "テロ攻撃",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "テロ攻撃",
+          "reading": "テロこうげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "terrorist attack"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "撃ち当てる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "撃ち当てる",
+          "reading": "うちあてる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to hit (e.g. target)"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "打ち損なう",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "打ちそこなう",
+          "reading": "うちそこなう"
+        },
+        {
+          "word": "打ち損なう",
+          "reading": "うちそこなう"
+        },
+        {
+          "word": "撃ち損なう",
+          "reading": "うちそこなう"
+        },
+        {
+          "word": "撃ちそこなう",
+          "reading": "うちそこなう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to fail to hit",
+            "to miss"
+          ],
+          "parts_of_speech": [
+            "Godan verb with u ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "要撃機",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "要撃機",
+          "reading": "ようげきき"
+        },
+        {
+          "word": "邀撃機",
+          "reading": "ようげきき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "interceptor (aircraft)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Interceptor aircraft"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Interceptor aircraft” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Interceptor_aircraft?oldid\u003d488771653"
+            },
+            {
+              "text": "Read “要撃機” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/要撃機?oldid\u003d42054531"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Interceptor_aircraft"
+      }
+    },
+    {
+      "slug": "攻撃機",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "攻撃機",
+          "reading": "こうげきき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "attack aircraft"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Ground-attack aircraft"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Ground-attack aircraft” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Ground-attack_aircraft?oldid\u003d495342966"
+            },
+            {
+              "text": "Read “攻撃機” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/攻撃機?oldid\u003d42304840"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Ground-attack_aircraft"
+      }
+    },
+    {
+      "slug": "絨毯爆撃",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絨毯爆撃",
+          "reading": "じゅうたんばくげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "carpet bombing"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Carpet bombing"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Carpet bombing” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Carpet_bombing?oldid\u003d493439948"
+            },
+            {
+              "text": "Read “絨毯爆撃” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/絨毯爆撃?oldid\u003d42500264"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Carpet_bombing"
+      }
+    },
+    {
+      "slug": "爆撃機",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "爆撃機",
+          "reading": "ばくげきき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "bomber (aircraft)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Bomber"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Bomber” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Bomber?oldid\u003d492197086"
+            },
+            {
+              "text": "Read “爆撃機” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/爆撃機?oldid\u003d42572242"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Bomber"
+      }
+    },
+    {
+      "slug": "戦闘爆撃機",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "戦闘爆撃機",
+          "reading": "せんとうばくげきき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "fighter bomber"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Fighter-bomber"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Fighter-bomber” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Fighter-bomber?oldid\u003d495401132"
+            },
+            {
+              "text": "Read “戦闘爆撃機” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/戦闘爆撃機?oldid\u003d42407410"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Fighter-bomber"
+      }
+    },
+    {
+      "slug": "戦略爆撃",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "戦略爆撃",
+          "reading": "せんりゃくばくげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "strategic bombing"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Strategic bombing"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Strategic bombing” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Strategic_bombing?oldid\u003d495235597"
+            },
+            {
+              "text": "Read “戦略爆撃” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/戦略爆撃?oldid\u003d42731992"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Strategic_bombing"
+      }
+    },
+    {
+      "slug": "突撃砲",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "突撃砲",
+          "reading": "とつげきほう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "assault gun"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Assault gun"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Assault gun” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Assault_gun?oldid\u003d492699108"
+            },
+            {
+              "text": "Read “突撃砲” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/突撃砲?oldid\u003d42516976"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Assault_gun"
+      }
+    },
+    {
+      "slug": "要撃機",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "要撃機",
+          "reading": "ようげきき"
+        },
+        {
+          "word": "邀撃機",
+          "reading": "ようげきき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "interceptor (aircraft)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Interceptor aircraft"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Interceptor aircraft” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Interceptor_aircraft?oldid\u003d488771653"
+            },
+            {
+              "text": "Read “要撃機” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/要撃機?oldid\u003d42054531"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Interceptor_aircraft"
+      }
+    },
+    {
+      "slug": "戦略爆撃",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "戦略爆撃",
+          "reading": "せんりゃくばくげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "strategic bombing"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Strategic bombing"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Strategic bombing” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Strategic_bombing?oldid\u003d495235597"
+            },
+            {
+              "text": "Read “戦略爆撃” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/戦略爆撃?oldid\u003d42731992"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Strategic_bombing"
+      }
+    },
+    {
+      "slug": "戦闘爆撃機",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "戦闘爆撃機",
+          "reading": "せんとうばくげきき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "fighter bomber"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Fighter-bomber"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Fighter-bomber” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Fighter-bomber?oldid\u003d495401132"
+            },
+            {
+              "text": "Read “戦闘爆撃機” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/戦闘爆撃機?oldid\u003d42407410"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Fighter-bomber"
+      }
+    },
+    {
+      "slug": "人身攻撃",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "人身攻撃",
+          "reading": "じんしんこうげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "personal attack",
+            "ad hominem attack"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Ad hominem"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Ad hominem” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Ad_hominem?oldid\u003d495054058"
+            },
+            {
+              "text": "Read “人身攻撃” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/人身攻撃?oldid\u003d42491977"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Ad_hominem"
+      }
+    },
+    {
+      "slug": "艦砲射撃",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "艦砲射撃",
+          "reading": "かんぽうしゃげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "naval bombardment"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Naval gunfire support"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Naval gunfire support” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Naval_gunfire_support?oldid\u003d487205458"
+            },
+            {
+              "text": "Read “艦砲射撃” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/艦砲射撃?oldid\u003d42552364"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Naval_gunfire_support"
+      }
+    },
+    {
+      "slug": "射撃場",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "射撃場",
+          "reading": "しゃげきじょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "shooting range",
+            "firing range"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Shagekijou"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "打たれる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "打たれる",
+          "reading": "うたれる"
+        },
+        {
+          "word": "撃たれる",
+          "reading": "うたれる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to be struck",
+            "to be beaten"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "空中爆撃",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "空中爆撃",
+          "reading": "くうちゅうばくげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "air-raid"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "快進撃",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "快進撃",
+          "reading": "かいしんげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "steady advance",
+            "carrying all before one"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "波状攻撃",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "波状攻撃",
+          "reading": "はじょうこうげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "attacking in waves"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "口撃",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "口撃",
+          "reading": "こうげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "verbal attack"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "攻撃"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "侵撃",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "侵撃",
+          "reading": "しんげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "invading and attacking"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "掩撃",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "掩撃",
+          "reading": "えんげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sneak attack (by a small group)",
+            "surprise attack"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "駁撃",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駁撃",
+          "reading": "ばくげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "attacking (someone\u0027s argument)",
+            "arguing against",
+            "refuting",
+            "taking issue",
+            "contradicting"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "特別攻撃",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "特別攻撃",
+          "reading": "とくべつこうげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "suicide attack",
+            "kamikaze attack"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "特別攻撃隊 とくべつこうげきたい"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "水撃",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "水撃",
+          "reading": "すいげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "water hammer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "雷撃",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "雷撃",
+          "reading": "らいげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "being struck by lightning",
+            "torpedo attack"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "威嚇射撃",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "威嚇射撃",
+          "reading": "いかくしゃげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "warning shot"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "正確爆撃",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "正確爆撃",
+          "reading": "せいかくばくげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "pinpoint bombing"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "斬撃",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "斬撃",
+          "reading": "ざんげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "slash",
+            "slashing attack"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "飽和攻撃",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飽和攻撃",
+          "reading": "ほうわこうげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "saturation attack"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Military"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "実弾射撃",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "実弾射撃",
+          "reading": "じつだんしゃげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "firing practice with live ammunition"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "正面攻撃",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "正面攻撃",
+          "reading": "しょうめんこうげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "frontal attack"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "猛撃",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "猛撃",
+          "reading": "もうげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "furious attack"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "空中爆撃",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "空中爆撃",
+          "reading": "くうちゅうばくげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "air-raid"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "快進撃",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "快進撃",
+          "reading": "かいしんげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "steady advance",
+            "carrying all before one"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "掩撃",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "掩撃",
+          "reading": "えんげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sneak attack (by a small group)",
+            "surprise attack"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "特別攻撃",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "特別攻撃",
+          "reading": "とくべつこうげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "suicide attack",
+            "kamikaze attack"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "特別攻撃隊 とくべつこうげきたい"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "口撃",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "口撃",
+          "reading": "こうげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "verbal attack"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "攻撃"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "羽搏き",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "羽搏き",
+          "reading": "はばたき"
+        },
+        {
+          "word": "羽撃き",
+          "reading": "はばたき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "fluttering or flapping of wings"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "波状攻撃",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "波状攻撃",
+          "reading": "はじょうこうげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "attacking in waves"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "駁撃",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駁撃",
+          "reading": "ばくげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "attacking (someone\u0027s argument)",
+            "arguing against",
+            "refuting",
+            "taking issue",
+            "contradicting"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "乱射乱撃",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "乱射乱撃",
+          "reading": "らんしゃらんげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "random shooting"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "神経衝撃",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "神経衝撃",
+          "reading": "しんけいしょうげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "nerve impulse"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "神経インパルス"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "調整攻撃",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "調整攻撃",
+          "reading": "ちょうせいこうげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "coordinated attack"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "一斉射撃",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "一斉射撃",
+          "reading": "いっせいしゃげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "volley firing",
+            "fusillade",
+            "broadside"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "乱撃",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "乱撃",
+          "reading": "らんげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "random shooting"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "撃ち合う",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "撃ち合う",
+          "reading": "うちあう"
+        },
+        {
+          "word": "討ち合う",
+          "reading": "うちあう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to exchange gunfire",
+            "to exchange shots"
+          ],
+          "parts_of_speech": [
+            "Godan verb with u ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "撃ち出す",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "撃ち出す",
+          "reading": "うちだす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to begin shooting"
+          ],
+          "parts_of_speech": [
+            "Godan verb with su ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to shoot out"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "奮撃",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "奮撃",
+          "reading": "ふんげき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "fierce attack"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

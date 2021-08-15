@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "茗荷",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "茗荷",
+          "reading": "みょうが"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Japanese ginger (Zingiber mioga)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "藪茗荷",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "薮茗荷",
+          "reading": "やぶみょうが"
+        },
+        {
+          "word": "藪茗荷",
+          "reading": "やぶみょうが"
+        },
+        {
+          "reading": "ヤブミョウガ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Pollia japonica (species of spiderwort)",
+            "yabumyoga"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Pollia japonica"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Pollia japonica” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Pollia_japonica?oldid\u003d393766629"
+            },
+            {
+              "text": "Read “ヤブミョウガ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/ヤブミョウガ?oldid\u003d42307145"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Pollia_japonica"
+      }
+    },
+    {
+      "slug": "花茗荷",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "花茗荷",
+          "reading": "はなみょうが"
+        },
+        {
+          "reading": "ハナミョウガ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "peppermint stick (species of perennial evergreen, Alpinia japonica)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

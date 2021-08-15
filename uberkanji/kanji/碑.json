@@ -1,0 +1,757 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "碑",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "碑",
+          "reading": "いしぶみ"
+        },
+        {
+          "word": "石文",
+          "reading": "いしぶみ"
+        },
+        {
+          "word": "碑",
+          "reading": "ひ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "stone monument bearing an inscription (esp. memorial for future generations)",
+            "stele",
+            "stela"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "石碑",
+      "is_common": false,
+      "tags": [
+        "wanikani56"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "石碑",
+          "reading": "せきひ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "stone monument"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Stele"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Stele” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Stele?oldid\u003d492939391"
+            },
+            {
+              "text": "Read “石碑” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/石碑?oldid\u003d42224875"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Stele"
+      }
+    },
+    {
+      "slug": "記念碑",
+      "is_common": true,
+      "tags": [
+        "wanikani56"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "記念碑",
+          "reading": "きねんひ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "commemorative plaque (usu. on a stone)",
+            "stone monument (bearing an inscription)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "墓碑",
+      "is_common": false,
+      "tags": [
+        "wanikani56"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "墓碑",
+          "reading": "ぼひ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "gravestone",
+            "tombstone"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "碑文",
+      "is_common": true,
+      "tags": [
+        "wanikani56"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "碑文",
+          "reading": "ひぶん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "inscription",
+            "epitaph",
+            "epigraph"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "詩碑",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詩碑",
+          "reading": "しひ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "monument (stele, gravestone, etc.) engraved with a poem"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "慰霊碑",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "慰霊碑",
+          "reading": "いれいひ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "cenotaph",
+            "memorial monument"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "慰霊塔"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Cenotaph"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Cenotaph” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Cenotaph?oldid\u003d490555909"
+            },
+            {
+              "text": "Read “慰霊碑” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/慰霊碑?oldid\u003d42085239"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Cenotaph"
+      }
+    },
+    {
+      "slug": "碑石",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "碑石",
+          "reading": "ひせき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "stone monument"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "碑銘",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "碑銘",
+          "reading": "ひめい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "inscription",
+            "epitaph"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "墓碑銘",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "墓碑銘",
+          "reading": "ぼひめい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "epitaph",
+            "inscription on a tombstone"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "句碑",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "句碑",
+          "reading": "くひ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "slab with a haiku cut on it"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "表忠碑",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "表忠碑",
+          "reading": "ひょうちゅうひ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "war-memorial monument"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "断碑",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "断碑",
+          "reading": "だんぴ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "broken stone monument"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "忠魂碑",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "忠魂碑",
+          "reading": "ちゅうこんひ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "monument to the faithful who died in battle"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "建碑",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "建碑",
+          "reading": "けんぴ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "erection of a monument"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "歌碑",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歌碑",
+          "reading": "かひ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "monument (stele, gravestone, etc.) engraved with a waka"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "和歌"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "口碑",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "口碑",
+          "reading": "こうひ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "oral tradition",
+            "legend",
+            "folklore"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "追悼碑",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "追悼碑",
+          "reading": "ついとうひ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "memorial (stone)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "慰霊碑",
+            "追悼塔"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "戦没者慰霊碑",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "戦没者慰霊碑",
+          "reading": "せんぼつしゃいれいひ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "war memorial"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Senbotsushaireihi"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

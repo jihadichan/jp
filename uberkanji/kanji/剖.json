@@ -1,0 +1,577 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "解剖",
+      "is_common": true,
+      "tags": [
+        "wanikani58"
+      ],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "解剖",
+          "reading": "かいぼう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dissection",
+            "autopsy"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "analysis"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "解剖学",
+      "is_common": false,
+      "tags": [
+        "wanikani60"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "解剖学",
+          "reading": "かいぼうがく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "anatomy"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Anatomy"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Anatomy” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Anatomy?oldid\u003d491642304"
+            },
+            {
+              "text": "Read “解剖学” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/解剖学?oldid\u003d42156872"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Anatomy"
+      }
+    },
+    {
+      "slug": "人体解剖学",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "人体解剖学",
+          "reading": "じんたいかいぼうがく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "human anatomy"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Human anatomy"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Human anatomy” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Human_anatomy?oldid\u003d494063715"
+            },
+            {
+              "text": "Read “人体解剖学” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/人体解剖学?oldid\u003d42430520"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Human_anatomy"
+      }
+    },
+    {
+      "slug": "比較解剖学",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "比較解剖学",
+          "reading": "ひかくかいぼうがく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "comparative anatomy"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Comparative anatomy"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Comparative anatomy” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Comparative_anatomy?oldid\u003d491619171"
+            },
+            {
+              "text": "Read “比較解剖学” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/比較解剖学?oldid\u003d42430343"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Comparative_anatomy"
+      }
+    },
+    {
+      "slug": "病理解剖学",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "病理解剖学",
+          "reading": "びょうりかいぼうがく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "morbid anatomy"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "法医解剖",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "法医解剖",
+          "reading": "ほういかいぼう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "medicolegal autopsy",
+            "forensic autopsy"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "生体解剖",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "生体解剖",
+          "reading": "せいたいかいぼう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "vivisection"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "死体解剖",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "死体解剖",
+          "reading": "したいかいぼう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "autopsy",
+            "postmortem",
+            "post-mortem examination",
+            "necropsy"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "司法解剖",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "司法解剖",
+          "reading": "しほうかいぼう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "legally-ordered autopsy"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "解剖学者",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "解剖学者",
+          "reading": "かいぼうがくしゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "anatomist"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "解剖図",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "解剖図",
+          "reading": "かいぼうず"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "anatomical drawing"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "剖検",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "剖検",
+          "reading": "ぼうけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "autopsy",
+            "necropsy"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "神経解剖学",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "神経解剖学",
+          "reading": "しんけいかいぼうがく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "neuroanatomy"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Neuroanatomy"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Neuroanatomy” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Neuroanatomy?oldid\u003d490628601"
+            },
+            {
+              "text": "Read “神経解剖学” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/神経解剖学?oldid\u003d40081139"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Neuroanatomy"
+      }
+    }
+  ]
+}

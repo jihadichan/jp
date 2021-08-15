@@ -1,0 +1,47 @@
+<html>
+<head>
+    <title>AJS</title>
+    <link rel="icon" type="image/png" sizes="16x16" href="fav.png">
+    <style>
+
+    </style>
+    <script src="jquery-3.4.1.min.js"></script>
+    <script src="script.js" type="application/javascript"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<div class="stamper">
+    <table>
+        <tr>
+            <td></td>
+        </tr>
+        <tr>
+            <td>
+                <label>
+                    Sentence (Copied to clipboard on unfocus)
+                    <input id="stamper-input" value="" onchange="createStamp()">
+                </label>
+            </td>
+        </tr>
+        <tr>
+            <td></td>
+        </tr>
+        <tr>
+            <td>
+                <label>
+                    Stamper Output
+                    <input id="stamper-output" value=""/>
+                </label>
+            </td>
+        </tr>
+        <tr>
+            <td>In clipboard: <span id="last-copy"></span></td>
+        </tr>
+    </table>
+</div>
+<div class="editor">
+    <label>Editor<textarea></textarea></label>
+</div>
+</body>
+</html>

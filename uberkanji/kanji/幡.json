@@ -1,0 +1,803 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "旗",
+      "is_common": true,
+      "tags": [
+        "wanikani30"
+      ],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "旗",
+          "reading": "はた"
+        },
+        {
+          "word": "幡",
+          "reading": "はた"
+        },
+        {
+          "word": "旌",
+          "reading": "はた"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "flag"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "pataka (banner)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Buddhist term"
+          ],
+          "restrictions": [
+            "幡"
+          ],
+          "see_also": [
+            "幡 ばん"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "banner (administrative division of Inner Mongolia)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Flag"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Flag” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Flag?oldid\u003d495035663"
+            },
+            {
+              "text": "Read “旗” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/旗?oldid\u003d42032009"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Flag"
+      }
+    },
+    {
+      "slug": "七夕",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "七夕",
+          "reading": "たなばた"
+        },
+        {
+          "word": "棚機",
+          "reading": "たなばた"
+        },
+        {
+          "word": "織女",
+          "reading": "たなばた"
+        },
+        {
+          "word": "棚幡",
+          "reading": "たなばた"
+        },
+        {
+          "word": "七夕",
+          "reading": "しちせき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Star Festival (held in July or August)",
+            "Tanabata",
+            "Festival of the Weaver"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "五節句"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Tanabata"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Tanabata” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Tanabata?oldid\u003d488883388"
+            },
+            {
+              "text": "Read “七夕” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/七夕?oldid\u003d41299354"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Tanabata"
+      }
+    },
+    {
+      "slug": "八幡",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "八幡",
+          "reading": "はちまん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Hachiman (God of War)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Abbreviation"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "八幡神"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Hachiman shrine"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Abbreviation"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "八幡宮"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "certainly"
+          ],
+          "parts_of_speech": [
+            "Adverb"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "八幡宮",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "八幡宮",
+          "reading": "はちまんぐう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Shrine of the God of War"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Hachimanguu"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "因幡の白兎",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "因幡の白兎",
+          "reading": "いなばのしろうさぎ"
+        },
+        {
+          "word": "因幡の素兎",
+          "reading": "いなばのしろうさぎ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Hare of Inaba (Japanese myth)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Hare of Inaba"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Hare of Inaba” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Hare_of_Inaba?oldid\u003d493973096"
+            },
+            {
+              "text": "Read “因幡の白兎” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/因幡の白兎?oldid\u003d42624942"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Hare_of_Inaba"
+      }
+    },
+    {
+      "slug": "八幡神",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "八幡神",
+          "reading": "はちまんじん"
+        },
+        {
+          "word": "八幡神",
+          "reading": "やわたのかみ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Hachiman (god of war)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Hachiman"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Hachiman” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Hachiman?oldid\u003d485166649"
+            },
+            {
+              "text": "Read “八幡神” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/八幡神?oldid\u003d41778179"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Hachiman"
+      }
+    },
+    {
+      "slug": "弓矢八幡",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "弓矢八幡",
+          "reading": "ゆみやはちまん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "god of war"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "八幡の薮知らず",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "八幡の薮知らず",
+          "reading": "やわたのやぶしらず"
+        },
+        {
+          "word": "八幡の不知藪",
+          "reading": "やわたのやぶしらず"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "labyrinth",
+            "maze"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "黄幡",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "黄幡",
+          "reading": "おうばん"
+        },
+        {
+          "word": "黄旛",
+          "reading": "おうばん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Oban",
+            "one of the eight gods of the koyomi"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "八将神"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "仙台七夕まつり",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "仙台七夕まつり",
+          "reading": "せんだいたなばたまつり"
+        },
+        {
+          "word": "仙台棚幡まつり",
+          "reading": "せんだいたなばたまつり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Sendai Tanabata Festival"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "幢幡",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "幢幡",
+          "reading": "どうばん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "hanging-banner used as ornament in Buddhist temples"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "幡",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "幡",
+          "reading": "ばん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "pataka (banner)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Buddhist term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "南無八幡",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "南無八幡",
+          "reading": "なむはちまん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "O Great God of Arms, I beseech your aid against my enemy"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [
+            "Abbreviation"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "南無八幡大菩薩 なむはちまんだいぼさつ"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "南無八幡大菩薩",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "南無八幡大菩薩",
+          "reading": "なむはちまんだいぼさつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "O Great God of Arms, I beseech your aid against my enemy!"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "幢",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "幢",
+          "reading": "はたほこ"
+        },
+        {
+          "word": "幢",
+          "reading": "はたぼこ"
+        },
+        {
+          "word": "幡幢",
+          "reading": "はたほこ"
+        },
+        {
+          "word": "幡幢",
+          "reading": "はたぼこ"
+        },
+        {
+          "word": "幢",
+          "reading": "どう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "long-handled Chinese spear bearing a small flag"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Buddhist term"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "鉾"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "banner",
+            "hanging"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "どう"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

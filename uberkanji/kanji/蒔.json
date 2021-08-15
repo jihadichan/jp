@@ -1,0 +1,937 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "ばら撒く",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "ばら撒く",
+          "reading": "ばらまく"
+        },
+        {
+          "word": "ばら蒔く",
+          "reading": "ばらまく"
+        },
+        {
+          "word": "散蒔く",
+          "reading": "ばらまく"
+        },
+        {
+          "word": "散播く",
+          "reading": "ばらまく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to scatter",
+            "to disseminate (e.g. a rumor)",
+            "to spread (e.g. germs)",
+            "to broadcast"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ku ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to distribute widely (e.g. leaflets)",
+            "to hand out freely",
+            "to spend recklessly"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "蒔く",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "蒔く",
+          "reading": "まく"
+        },
+        {
+          "word": "播く",
+          "reading": "まく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to sow",
+            "to plant",
+            "to seed"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ku ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to sprinkle (gold or silver powder on lacquerware)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "蒔絵"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "種蒔き",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "種蒔き",
+          "reading": "たねまき"
+        },
+        {
+          "word": "種まき",
+          "reading": "たねまき"
+        },
+        {
+          "word": "種蒔",
+          "reading": "たねまき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sowing seeds",
+            "planting seeds",
+            "scattering seeds"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "蒔絵",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蒔絵",
+          "reading": "まきえ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "gold or silver lacquer",
+            "lacquer decoration sprinkled with metal powder"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Maki-e"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Maki-e” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Maki-e?oldid\u003d486918797"
+            },
+            {
+              "text": "Read “蒔絵” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/蒔絵?oldid\u003d42585473"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Maki-e"
+      }
+    },
+    {
+      "slug": "豆まき",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "豆まき",
+          "reading": "まめまき"
+        },
+        {
+          "word": "豆撒き",
+          "reading": "まめまき"
+        },
+        {
+          "word": "豆蒔き",
+          "reading": "まめまき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sowing beans (or pulses, etc.)"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "scattering parched beans (to drive out evil spirits)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "節分"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "種をまく",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "種をまく",
+          "reading": "たねをまく"
+        },
+        {
+          "word": "種を蒔く",
+          "reading": "たねをまく"
+        },
+        {
+          "word": "種を撒く",
+          "reading": "たねをまく"
+        },
+        {
+          "word": "種を播く",
+          "reading": "たねをまく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to sow seeds"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Godan verb with ku ending"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "蒔き付ける",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蒔き付ける",
+          "reading": "まきつける"
+        },
+        {
+          "word": "蒔きつける",
+          "reading": "まきつける"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to sow (seeds)"
+          ],
+          "parts_of_speech": [
+            "Ichidan verb",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "秋まき",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "秋まき",
+          "reading": "あきまき"
+        },
+        {
+          "word": "秋蒔き",
+          "reading": "あきまき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "autumn sowing",
+            "fall sowing"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "麦蒔き",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "麦蒔き",
+          "reading": "むぎまき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sowing wheat or barley"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "金蒔絵",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "金蒔絵",
+          "reading": "きんまきえ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "gold lacquer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "早まき",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "早まき",
+          "reading": "はやまき"
+        },
+        {
+          "word": "早蒔き",
+          "reading": "はやまき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sowing early"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [
+            "遅蒔き おそまき"
+          ],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "高蒔絵",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "高蒔絵",
+          "reading": "たかまきえ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "embossed gilt lacquerwork"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "遅まきながら",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遅まきながら",
+          "reading": "おそまきながら"
+        },
+        {
+          "word": "遅蒔きながら",
+          "reading": "おそまきながら"
+        },
+        {
+          "word": "晩蒔きながら",
+          "reading": "おそまきながら"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "belatedly"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "遅ればせながら"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "麦蒔",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "麦蒔",
+          "reading": "むぎまき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "wheat planting"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "遅まき",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遅まき",
+          "reading": "おそまき"
+        },
+        {
+          "word": "遅蒔き",
+          "reading": "おそまき"
+        },
+        {
+          "word": "晩蒔き",
+          "reading": "おそまき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sowing late"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [
+            "早まき はやまき"
+          ],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "doing late"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "遅まきながら おそまきながら"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "蒔き付け",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蒔き付け",
+          "reading": "まきつけ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sowing (seeds)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "春まき",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "春まき",
+          "reading": "はるまき"
+        },
+        {
+          "word": "春蒔き",
+          "reading": "はるまき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sowing in spring"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "蒔き灰",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蒔き灰",
+          "reading": "まきばい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "ash for spreading (tea ceremony)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "蒔かぬ種は生えぬ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蒔かぬ種は生えぬ",
+          "reading": "まかぬたねははえぬ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "nothing comes of nothing",
+            "don\u0027t expect things to happen on their own"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [
+            "Proverb"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "自分で蒔いた種",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "自分で蒔いた種",
+          "reading": "じぶんでまいたたね"
+        },
+        {
+          "word": "自分でまいた種",
+          "reading": "じぶんでまいたたね"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "situation of one\u0027s own doing"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "権兵衛が種蒔きゃ烏がほじくる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "権兵衛が種蒔きゃ烏がほじくる",
+          "reading": "ごんべえがたねまきゃからすがほじくる"
+        },
+        {
+          "word": "権兵衛が種まきゃ烏がほじくる",
+          "reading": "ごんべえがたねまきゃからすがほじくる"
+        },
+        {
+          "word": "権兵衛が種まきゃカラスがほじくる",
+          "reading": "ごんべえがたねまきゃカラスがほじくる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "spoiling someone\u0027s work",
+            "useless effort",
+            "labouring in vain",
+            "if a peasant sows seeds, the crows will dig them up"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [
+            "Idiomatic expression"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

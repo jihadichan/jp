@@ -1,0 +1,4633 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "警官",
+      "is_common": true,
+      "tags": [
+        "wanikani19"
+      ],
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "警官",
+          "reading": "けいかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "police officer",
+            "policeman",
+            "constable"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "警察官 けいさつかん"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "官庁",
+      "is_common": true,
+      "tags": [
+        "wanikani24"
+      ],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "官庁",
+          "reading": "かんちょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "government office",
+            "government agency",
+            "authorities"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Government Office"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Government Office” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Government_Office?oldid\u003d423704937"
+            },
+            {
+              "text": "Read “官庁” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/官庁?oldid\u003d41039960"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Government_Office"
+      }
+    },
+    {
+      "slug": "官僚",
+      "is_common": true,
+      "tags": [
+        "wanikani29"
+      ],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "官僚",
+          "reading": "かんりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "bureaucrat",
+            "government official",
+            "bureaucracy"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Bureaucrat"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Bureaucrat” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Bureaucrat?oldid\u003d492002349"
+            },
+            {
+              "text": "Read “官僚” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/官僚?oldid\u003d42778608"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Bureaucrat"
+      }
+    },
+    {
+      "slug": "器官",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "器官",
+          "reading": "きかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "organ (of body, plant, etc.)"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Organ (anatomy)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Organ (anatomy)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Organ_(anatomy)?oldid\u003d495348283"
+            },
+            {
+              "text": "Read “器官” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/器官?oldid\u003d42345007"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Organ_(anatomy)"
+      }
+    },
+    {
+      "slug": "長官",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "長官",
+          "reading": "ちょうかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "secretary (government)",
+            "director",
+            "chief"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "裁判官",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "裁判官",
+          "reading": "さいばんかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "judge"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Judge"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Judge” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Judge?oldid\u003d495428404"
+            },
+            {
+              "text": "Read “裁判官” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/裁判官?oldid\u003d42558492"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Judge"
+      }
+    },
+    {
+      "slug": "外交官",
+      "is_common": true,
+      "tags": [
+        "wanikani17"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "外交官",
+          "reading": "がいこうかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "diplomat"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Diplomat"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Diplomat” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Diplomat?oldid\u003d495275710"
+            },
+            {
+              "text": "Read “外交官” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/外交官?oldid\u003d42604743"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Diplomat"
+      }
+    },
+    {
+      "slug": "士官",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "士官",
+          "reading": "しかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "officer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Military"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Officer (armed forces)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Officer (armed forces)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Officer_(armed_forces)?oldid\u003d494927644"
+            },
+            {
+              "text": "Read “士官” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/士官?oldid\u003d42783357"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Officer_(armed_forces)"
+      }
+    },
+    {
+      "slug": "警察官",
+      "is_common": true,
+      "tags": [
+        "wanikani21"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "警察官",
+          "reading": "けいさつかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "policeman",
+            "policewoman",
+            "police officer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Police officer"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Police officer” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Police_officer?oldid\u003d494271859"
+            },
+            {
+              "text": "Read “警察官” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/警察官?oldid\u003d42286639"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Police_officer"
+      }
+    },
+    {
+      "slug": "高官",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "高官",
+          "reading": "こうかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "high official"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "国務長官",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "国務長官",
+          "reading": "こくむちょうかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Secretary of State"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "管制官",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "管制官",
+          "reading": "かんせいかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "controller (usually air-traffic)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "次官",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "次官",
+          "reading": "じかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "vice-minister",
+            "undersecretary"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "係官",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "係官",
+          "reading": "かかりかん"
+        },
+        {
+          "word": "係り官",
+          "reading": "かかりかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "official in charge"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "退官",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "退官",
+          "reading": "たいかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "retirement from office"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "司令官",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "司令官",
+          "reading": "しれいかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "commandant",
+            "commanding officer",
+            "general"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "教官",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "教官",
+          "reading": "きょうかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "teacher",
+            "instructor",
+            "professor"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "上官",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "上官",
+          "reading": "じょうかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "superior officer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Joukan"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "官軍",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "官軍",
+          "reading": "かんぐん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "government forces",
+            "loyalist army"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "将官",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "将官",
+          "reading": "しょうかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "general",
+            "admiral"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "指揮官",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "指揮官",
+          "reading": "しきかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "commander",
+            "commanding officer",
+            "CO"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Commanding officer"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Commanding officer” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Commanding_officer?oldid\u003d487576720"
+            },
+            {
+              "text": "Read “指揮官” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/指揮官?oldid\u003d41559380"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Commanding_officer"
+      }
+    },
+    {
+      "slug": "保安官",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "保安官",
+          "reading": "ほあんかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "peace officer",
+            "sheriff"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Sheriff"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Sheriff” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Sheriff?oldid\u003d494338433"
+            },
+            {
+              "text": "Read “保安官” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/保安官?oldid\u003d42494077"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Sheriff"
+      }
+    },
+    {
+      "slug": "副官",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "副官",
+          "reading": "ふくかん"
+        },
+        {
+          "word": "副官",
+          "reading": "ふっかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "adjutant",
+            "aide",
+            "aide-de-camp"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Adjutant"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Adjutant” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Adjutant?oldid\u003d483419466"
+            },
+            {
+              "text": "Read “副官” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/副官?oldid\u003d41877297"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Adjutant"
+      }
+    },
+    {
+      "slug": "官",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "官",
+          "reading": "かん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "government service",
+            "the bureaucracy"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "調査官",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "調査官",
+          "reading": "ちょうさかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "examiner",
+            "investigator",
+            "inquisitor",
+            "agent"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "政府高官",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "政府高官",
+          "reading": "せいふこうかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "high (government) official"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "試験官",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "試験官",
+          "reading": "しけんかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "examiner"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "警官隊",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "警官隊",
+          "reading": "けいかんたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(squad of) police",
+            "police force"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "広報官",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "広報官",
+          "reading": "こうほうかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "public relations officer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "汚職警官",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "汚職警官",
+          "reading": "おしょくけいかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "corrupt policeman",
+            "dirty cop"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "官能的",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "官能的",
+          "reading": "かんのうてき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sensual",
+            "voluptuous",
+            "sexy",
+            "arousing"
+          ],
+          "parts_of_speech": [
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "入国審査官",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "入国審査官",
+          "reading": "にゅうこくしんさかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "immigration officer",
+            "immigration investigation officials"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "私服警官",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "私服警官",
+          "reading": "しふくけいかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "plainclothes police officer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "婦人警官",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "婦人警官",
+          "reading": "ふじんけいかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "policewoman"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Sensitive"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "仕官",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "仕官",
+          "reading": "しかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "government service",
+            "entering government service"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "(of a ronin) finding a new lord or master to serve"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "浪人"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "環境庁長官",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "環境庁長官",
+          "reading": "かんきょうちょうちょうかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Director General of Environment Agency"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "総司令官",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "総司令官",
+          "reading": "そうしれいかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "commander-in-chief",
+            "supreme commander"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "検察官",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "検察官",
+          "reading": "けんさつかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "public prosecutor"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Prosecutor"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Prosecutor” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Prosecutor?oldid\u003d492158573"
+            },
+            {
+              "text": "Read “検察官” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/検察官?oldid\u003d42173101"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Prosecutor"
+      }
+    },
+    {
+      "slug": "政務次官",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "政務次官",
+          "reading": "せいむじかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "deputy minister",
+            "assistant minister"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Parliamentary Under-Secretary of State"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Parliamentary Under-Secretary of State” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Parliamentary_Under-Secretary_of_State?oldid\u003d474852353"
+            },
+            {
+              "text": "Read “政務次官” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/政務次官?oldid\u003d42323620"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Parliamentary_Under-Secretary_of_State"
+      }
+    },
+    {
+      "slug": "内閣官房長官",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "内閣官房長官",
+          "reading": "ないかくかんぼうちょうかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Chief Cabinet Secretary"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Chief Cabinet Secretary"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Chief Cabinet Secretary” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Chief_Cabinet_Secretary?oldid\u003d471009094"
+            },
+            {
+              "text": "Read “内閣官房長官” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/内閣官房長官?oldid\u003d42496901"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Chief_Cabinet_Secretary"
+      }
+    },
+    {
+      "slug": "下士官",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "下士官",
+          "reading": "かしかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "non-commissioned officer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Non-commissioned officer"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Non-commissioned officer” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Non-commissioned_officer?oldid\u003d493881948"
+            },
+            {
+              "text": "Read “下士官” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/下士官?oldid\u003d42766885"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Non-commissioned_officer"
+      }
+    },
+    {
+      "slug": "内閣官房長官",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "内閣官房長官",
+          "reading": "ないかくかんぼうちょうかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Chief Cabinet Secretary"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Chief Cabinet Secretary"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Chief Cabinet Secretary” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Chief_Cabinet_Secretary?oldid\u003d471009094"
+            },
+            {
+              "text": "Read “内閣官房長官” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/内閣官房長官?oldid\u003d42496901"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Chief_Cabinet_Secretary"
+      }
+    },
+    {
+      "slug": "左官",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "左官",
+          "reading": "さかん"
+        },
+        {
+          "word": "左官",
+          "reading": "しゃかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "plasterer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Plasterwork"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Plasterwork” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Plasterwork?oldid\u003d494944920"
+            },
+            {
+              "text": "Read “左官” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/左官?oldid\u003d42735456"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Plasterwork"
+      }
+    },
+    {
+      "slug": "代官",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "代官",
+          "reading": "だいかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Edo-period prefectural governor (magistrate, bailiff)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Daikan"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "研究官",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "研究官",
+          "reading": "けんきゅうかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "research officer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "内閣官房",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "内閣官房",
+          "reading": "ないかくかんぼう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Cabinet Secretariat"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "事務官",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "事務官",
+          "reading": "じむかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "administrative official",
+            "secretary",
+            "commissioner"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "事務次官",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "事務次官",
+          "reading": "じむじかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "permanent vice-president",
+            "undersecretary",
+            "vice-minister"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "財務官",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "財務官",
+          "reading": "ざいむかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "finance official"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "官房長官",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "官房長官",
+          "reading": "かんぼうちょうかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Chief Cabinet Secretary"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "官民",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "官民",
+          "reading": "かんみん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "government and people",
+            "government and private sector",
+            "public and private sector"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "自衛官",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "自衛官",
+          "reading": "じえいかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Japanese Self-Defense Force official",
+            "Self-Defense Force official"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "書記官",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "書記官",
+          "reading": "しょきかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "secretary"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "沖縄開発庁長官",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "沖縄開発庁長官",
+          "reading": "おきなわかいはつちょうちょうかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Director General of Okinawa Development Agency"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "参事官",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "参事官",
+          "reading": "さんじかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "councillor",
+            "councilor"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "北海道開発庁長官",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "北海道開発庁長官",
+          "reading": "ほっかいどうかいはつちょうちょうかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Director General of Hokkaido Development Agency"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "弁務官",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "弁務官",
+          "reading": "べんむかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "commissioner"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "官界",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "官界",
+          "reading": "かんかい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "bureaucracy"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "官房",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "官房",
+          "reading": "かんぼう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "government secretariat"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "官報",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "官報",
+          "reading": "かんぽう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "official daily gazette",
+            "official telegram"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "官公庁",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "官公庁",
+          "reading": "かんこうちょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "government and municipal offices",
+            "public agencies"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "参事官",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "参事官",
+          "reading": "さんじかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "councillor",
+            "councilor"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "捜査官",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "捜査官",
+          "reading": "そうさかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "police investigator",
+            "investigator"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "官舎",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "官舎",
+          "reading": "かんしゃ"
+        },
+        {
+          "word": "官舍",
+          "reading": "かんしゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "official residence"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Kansha"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "官能",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "官能",
+          "reading": "かんのう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "the senses"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "sensuality",
+            "carnality"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "任官",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "任官",
+          "reading": "にんかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "appointment (to an office)",
+            "investiture",
+            "commission"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "武官",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "武官",
+          "reading": "ぶかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "military or naval officer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "官職",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "官職",
+          "reading": "かんしょく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "government service",
+            "official position",
+            "civil service"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "公職"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "医官",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "医官",
+          "reading": "いかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "medical officer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "官製",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "官製",
+          "reading": "かんせい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "government-manufactured"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "技官",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "技官",
+          "reading": "ぎかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "technical official",
+            "technical officer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "官権",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "官権",
+          "reading": "かんけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "governmental authority"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "官業",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "官業",
+          "reading": "かんぎょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "government-run enterprise"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "官憲",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "官憲",
+          "reading": "かんけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "officials",
+            "authorities"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "行政官",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "行政官",
+          "reading": "ぎょうせいかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "executive officer",
+            "administrative official"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "半官半民",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "半官半民",
+          "reading": "はんかんはんみん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "semi-governmental",
+            "semi-official"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "官吏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "官吏",
+          "reading": "かんり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "government official",
+            "clerk"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "神官",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "神官",
+          "reading": "しんかん"
+        },
+        {
+          "word": "神官",
+          "reading": "かんづかさ"
+        },
+        {
+          "word": "神官",
+          "reading": "かみづかさ"
+        },
+        {
+          "word": "神官",
+          "reading": "かむづかさ"
+        },
+        {
+          "word": "神司",
+          "reading": "かんづかさ"
+        },
+        {
+          "word": "神司",
+          "reading": "かみづかさ"
+        },
+        {
+          "word": "神司",
+          "reading": "かむづかさ"
+        },
+        {
+          "word": "神司",
+          "reading": "しんし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Shinto priest"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "監察官",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "監察官",
+          "reading": "かんさつかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "inspector",
+            "supervisor"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "神祇官",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "神祇官",
+          "reading": "じんぎかん"
+        },
+        {
+          "word": "神祇官",
+          "reading": "かみづかさ"
+        },
+        {
+          "word": "神祇官",
+          "reading": "かんづかさ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Department of Divinities (1868-1871)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Obsolete term"
+          ],
+          "restrictions": [
+            "じんぎかん"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Department of Worship (under the ritsuryo system)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "律令制"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Jingikan"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Jingi-kan"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Jingi-kan” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Jingi-kan?oldid\u003d464527757"
+            },
+            {
+              "text": "Read “神祇官” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/神祇官?oldid\u003d42765636"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "http://dbpedia.org/resource/Jingi-kan"
+      }
+    },
+    {
+      "slug": "大法官",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "大法官",
+          "reading": "だいほうかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Lord Chancellor"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Lord Chancellor"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Lord Chancellor” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Lord_Chancellor?oldid\u003d495130975"
+            },
+            {
+              "text": "Read “大法官” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/大法官?oldid\u003d42663116"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Lord_Chancellor"
+      }
+    },
+    {
+      "slug": "官房学",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "官房学",
+          "reading": "かんぼうがく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "cameralism"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Cameralism"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Cameralism” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Cameralism?oldid\u003d487009121"
+            },
+            {
+              "text": "Read “官房学” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/官房学?oldid\u003d42153931"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Cameralism"
+      }
+    },
+    {
+      "slug": "連合国軍最高司令官総司令部",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "連合国軍最高司令官総司令部",
+          "reading": "れんごうこくぐんさいこうしれいかんそうしれいぶ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "General Headquarters (office of the Supreme Commander of the Allied Powers)",
+            "GHQ"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "ＧＨＱ"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Supreme Commander for the Allied Powers"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Supreme Commander for the Allied Powers” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Supreme_Commander_for_the_Allied_Powers?oldid\u003d491535574"
+            },
+            {
+              "text": "Read “連合国軍最高司令官総司令部” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/連合国軍最高司令官総司令部?oldid\u003d42535622"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Supreme_Commander_for_the_Allied_Powers"
+      }
+    },
+    {
+      "slug": "宦官",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "宦官",
+          "reading": "かんがん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "eunuch"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Eunuch"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Eunuch” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Eunuch?oldid\u003d495404256"
+            },
+            {
+              "text": "Read “宦官” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/宦官?oldid\u003d42376920"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Eunuch"
+      }
+    },
+    {
+      "slug": "官僚制",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "官僚制",
+          "reading": "かんりょうせい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "bureaucracy"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Bureaucracy"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Bureaucracy” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Bureaucracy?oldid\u003d495380734"
+            },
+            {
+              "text": "Read “官僚制” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/官僚制?oldid\u003d41726862"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Bureaucracy"
+      }
+    },
+    {
+      "slug": "細胞小器官",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "細胞小器官",
+          "reading": "さいぼうしょうきかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "organelle"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Organelle"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Organelle” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Organelle?oldid\u003d494915695"
+            },
+            {
+              "text": "Read “細胞小器官” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/細胞小器官?oldid\u003d41967644"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Organelle"
+      }
+    },
+    {
+      "slug": "器官なき身体",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "器官なき身体",
+          "reading": "きかんなきしんたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "body without organs (philosophical concept)",
+            "BwO"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Body without organs"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Body without organs” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Body_without_organs?oldid\u003d491794229"
+            },
+            {
+              "text": "Read “器官なき身体” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/器官なき身体?oldid\u003d27052868"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Body_without_organs"
+      }
+    },
+    {
+      "slug": "刑務官",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "刑務官",
+          "reading": "けいむかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "prison officer",
+            "corrections offer",
+            "penal officer",
+            "prison guard",
+            "jailor",
+            "warder"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Prison officer"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Prison officer” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Prison_officer?oldid\u003d495393010"
+            },
+            {
+              "text": "Read “刑務官” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/刑務官?oldid\u003d41701909"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Prison_officer"
+      }
+    },
+    {
+      "slug": "猟官制",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "猟官制",
+          "reading": "りょうかんせい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "spoils system"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Spoils system"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Spoils system” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Spoils_system?oldid\u003d491188765"
+            },
+            {
+              "text": "Read “猟官制” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/猟官制?oldid\u003d40626656"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Spoils_system"
+      }
+    },
+    {
+      "slug": "党官僚",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "党官僚",
+          "reading": "とうかんりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "apparatchik"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Apparatchik"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Apparatchik” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Apparatchik?oldid\u003d491554754"
+            },
+            {
+              "text": "Read “党官僚” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/党官僚?oldid\u003d37298584"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Apparatchik"
+      }
+    },
+    {
+      "slug": "侍従武官",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "侍従武官",
+          "reading": "じじゅうぶかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "emperor\u0027s aide-de-camp"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Aide-de-camp to the Emperor of Japan"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Aide-de-camp to the Emperor of Japan” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Aide-de-camp_to_the_Emperor_of_Japan?oldid\u003d492544556"
+            },
+            {
+              "text": "Read “侍従武官” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/侍従武官?oldid\u003d42504020"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Aide-de-camp_to_the_Emperor_of_Japan"
+      }
+    },
+    {
+      "slug": "護民官",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "護民官",
+          "reading": "ごみんかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "tribune"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Tribune"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Tribune” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Tribune?oldid\u003d495471677"
+            },
+            {
+              "text": "Read “護民官” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/護民官?oldid\u003d41621249"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Tribune"
+      }
+    },
+    {
+      "slug": "航空管制官",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "航空管制官",
+          "reading": "こうくうかんせいかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "air traffic controller"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Air traffic controller"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Air traffic controller” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Air_traffic_controller?oldid\u003d493828741"
+            },
+            {
+              "text": "Read “航空管制官” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/航空管制官?oldid\u003d40639194"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Air_traffic_controller"
+      }
+    },
+    {
+      "slug": "太政官",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "太政官",
+          "reading": "だじょうかん"
+        },
+        {
+          "word": "太政官",
+          "reading": "だいじょうかん"
+        },
+        {
+          "word": "太政官",
+          "reading": "おおいまつりごとのつかさ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Grand Council of State (1868-1885 CE)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "だじょうかん",
+            "だいじょうかん"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Department of State (under the ritsuryo system)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "律令制"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "usu. だいじょうかん"
+          ]
+        },
+        {
+          "english_definitions": [
+            "Daijō-kan"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Daijō-kan” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Daijō-kan?oldid\u003d492056198"
+            },
+            {
+              "text": "Read “太政官” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/太政官?oldid\u003d42101356"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Daijō-kan"
+      }
+    },
+    {
+      "slug": "星官",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "星官",
+          "reading": "せいかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "constellation (in ancient China; important constellations were then used to divide the ecliptic into 28 \"mansions\")"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Obscure term"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "星宿 せいしゅく"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Chinese constellations"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Chinese constellations” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Chinese_constellations?oldid\u003d495462717"
+            },
+            {
+              "text": "Read “星官” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/星官?oldid\u003d39236093"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Chinese_constellations"
+      }
+    },
+    {
+      "slug": "司法長官",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "司法長官",
+          "reading": "しほうちょうかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "attorney general",
+            "attorney-general"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Attorney general"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Attorney general” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Attorney_general?oldid\u003d495427020"
+            },
+            {
+              "text": "Read “司法長官” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/司法長官?oldid\u003d42755594"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Attorney_general"
+      }
+    },
+    {
+      "slug": "官能検査",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "官能検査",
+          "reading": "かんのうけんさ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sensory evaluation"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Sensory analysis"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Sensory analysis” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Sensory_analysis?oldid\u003d492585497"
+            },
+            {
+              "text": "Read “官能検査” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/官能検査?oldid\u003d38439763"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Sensory_analysis"
+      }
+    },
+    {
+      "slug": "執政官",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "執政官",
+          "reading": "しっせいかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "consul"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Roman consul"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Roman consul” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Roman_consul?oldid\u003d494495441"
+            },
+            {
+              "text": "Read “執政官” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/執政官?oldid\u003d42439352"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Roman_consul"
+      }
+    },
+    {
+      "slug": "高等弁務官",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "高等弁務官",
+          "reading": "こうとうべんむかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "high commissioner"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "High Commissioner"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “High Commissioner” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/High_Commissioner?oldid\u003d481221322"
+            },
+            {
+              "text": "Read “高等弁務官” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/高等弁務官?oldid\u003d37571362"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/High_Commissioner"
+      }
+    },
+    {
+      "slug": "発声器官",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "発声器官",
+          "reading": "はっせいきかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "vocal organs"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Speech organ"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Speech organ” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Speech_organ?oldid\u003d490449522"
+            },
+            {
+              "text": "Read “発声器官” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/発声器官?oldid\u003d42547661"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Speech_organ"
+      }
+    }
+  ]
+}

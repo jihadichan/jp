@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "樒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "樒",
+          "reading": "しきみ"
+        },
+        {
+          "word": "樒",
+          "reading": "しきび"
+        },
+        {
+          "reading": "シキミ"
+        },
+        {
+          "reading": "シキビ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Japanese star anise (Illicium anisatum)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Illicium anisatum"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Illicium anisatum” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Illicium_anisatum?oldid\u003d493621076"
+            },
+            {
+              "text": "Read “シキミ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/シキミ?oldid\u003d42596381"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Illicium_anisatum"
+      }
+    },
+    {
+      "slug": "唐樒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "唐樒",
+          "reading": "とうしきみ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "star anise (Illicium verum)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "大茴香"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "深山樒",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "深山樒",
+          "reading": "みやましきみ"
+        },
+        {
+          "reading": "ミヤマシキミ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Japanese skimmia (Skimmia japonica, esp. S. j. var. japonica)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

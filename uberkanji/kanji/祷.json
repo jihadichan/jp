@@ -1,0 +1,695 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "祈り",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "祈り",
+          "reading": "いのり"
+        },
+        {
+          "word": "祷り",
+          "reading": "いのり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "prayer",
+            "supplication"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Prayer"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Prayer” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Prayer?oldid\u003d495088100"
+            },
+            {
+              "text": "Read “祈り” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/祈り?oldid\u003d42090788"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Prayer"
+      }
+    },
+    {
+      "slug": "祈る",
+      "is_common": true,
+      "tags": [
+        "wanikani18"
+      ],
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "祈る",
+          "reading": "いのる"
+        },
+        {
+          "word": "祷る",
+          "reading": "いのる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to pray",
+            "to wish"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "黙とう",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "黙とう",
+          "reading": "もくとう"
+        },
+        {
+          "word": "黙祷",
+          "reading": "もくとう"
+        },
+        {
+          "word": "黙禱",
+          "reading": "もくとう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "silent prayer"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Moment of silence"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Moment of silence” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Moment_of_silence?oldid\u003d488506561"
+            },
+            {
+              "text": "Read “黙祷” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/黙祷?oldid\u003d42177443"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Moment_of_silence"
+      }
+    },
+    {
+      "slug": "祈祷",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "祈祷",
+          "reading": "きとう"
+        },
+        {
+          "word": "祈とう",
+          "reading": "きとう"
+        },
+        {
+          "word": "祈禱",
+          "reading": "きとう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "prayer",
+            "grace (at meals)"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "exorcism"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Shinto term",
+            "Buddhist term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "祈とう書",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "祈祷書",
+          "reading": "きとうしょ"
+        },
+        {
+          "word": "祈とう書",
+          "reading": "きとうしょ"
+        },
+        {
+          "word": "祈禱書",
+          "reading": "きとうしょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "prayer book"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Prayer book"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Prayer book” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Prayer_book?oldid\u003d487034787"
+            },
+            {
+              "text": "Read “祈祷書” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/祈祷書?oldid\u003d40553147"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Prayer_book"
+      }
+    },
+    {
+      "slug": "時祷書",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "時祷書",
+          "reading": "じとうしょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "book of hours (devotional book popular in the Middle Ages)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Book of hours"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Book of hours” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Book_of_hours?oldid\u003d492117386"
+            },
+            {
+              "text": "Read “時祷書” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/時祷書?oldid\u003d42564393"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Book_of_hours"
+      }
+    },
+    {
+      "slug": "祝祷",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "祝祷",
+          "reading": "しゅくとう"
+        },
+        {
+          "word": "祝とう",
+          "reading": "しゅくとう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "benediction",
+            "blessing"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Benediction"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Benediction” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Benediction?oldid\u003d488405345"
+            },
+            {
+              "text": "Read “祝祷” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/祝祷?oldid\u003d29966223"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Benediction"
+      }
+    },
+    {
+      "slug": "祈祷会",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "祈祷会",
+          "reading": "きとうかい"
+        },
+        {
+          "word": "祈祷会",
+          "reading": "きとうえ"
+        },
+        {
+          "word": "祈禱会",
+          "reading": "きとうかい"
+        },
+        {
+          "word": "祈禱会",
+          "reading": "きとうえ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "prayer meeting"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Prayer meeting"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Prayer meeting” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Prayer_meeting?oldid\u003d383303981"
+            },
+            {
+              "text": "Read “祈祷会” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/祈祷会?oldid\u003d31926631"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Prayer_meeting"
+      }
+    },
+    {
+      "slug": "祈祷師",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "祈祷師",
+          "reading": "きとうし"
+        },
+        {
+          "word": "祈禱師",
+          "reading": "きとうし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "medicine man",
+            "shaman",
+            "faith healer",
+            "witch doctor",
+            "exorcist"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "加持祈祷",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "加持祈祷",
+          "reading": "かじきとう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "incantation and prayer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "主祷文",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "主祷文",
+          "reading": "しゅとうぶん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "The Lord\u0027s Prayer"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "祈祷者",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "祈祷者",
+          "reading": "きとうしゃ"
+        },
+        {
+          "word": "祈とう者",
+          "reading": "きとうしゃ"
+        },
+        {
+          "word": "祈禱者",
+          "reading": "きとうしゃ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "person who prays"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "祈祷課題",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "祈祷課題",
+          "reading": "きとうかだい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "prayer request",
+            "request for prayers"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

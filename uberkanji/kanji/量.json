@@ -1,0 +1,4620 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "量",
+      "is_common": true,
+      "tags": [
+        "wanikani24"
+      ],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "量",
+          "reading": "りょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "quantity",
+            "amount",
+            "volume",
+            "portion (of food)"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Noun - used as a suffix"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Quantity"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Quantity” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Quantity?oldid\u003d493506019"
+            },
+            {
+              "text": "Read “量” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/量?oldid\u003d42578092"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Quantity"
+      }
+    },
+    {
+      "slug": "測量",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "測量",
+          "reading": "そくりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "measurement",
+            "surveying"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Surveying"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Surveying” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Surveying?oldid\u003d491795475"
+            },
+            {
+              "text": "Read “測量” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/測量?oldid\u003d42764180"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Surveying"
+      }
+    },
+    {
+      "slug": "計る",
+      "is_common": true,
+      "tags": [
+        "wanikani24",
+        "wanikani35"
+      ],
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "計る",
+          "reading": "はかる"
+        },
+        {
+          "word": "測る",
+          "reading": "はかる"
+        },
+        {
+          "word": "量る",
+          "reading": "はかる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to measure",
+            "to weigh",
+            "to survey",
+            "to time (sound, gauge, estimate)"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to conjecture",
+            "to infer",
+            "to surmise"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "重量",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "重量",
+          "reading": "じゅうりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "weight"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "heavyweight boxer"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "分量",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "分量",
+          "reading": "ぶんりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "amount",
+            "quantity"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "容量",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "容量",
+          "reading": "ようりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "capacity",
+            "volume"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "capacitance"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Abbreviation"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "電気容量"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Capacity"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Capacity” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Capacity?oldid\u003d492861920"
+            },
+            {
+              "text": "Read “容量” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/容量?oldid\u003d41647336"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Capacity"
+      }
+    },
+    {
+      "slug": "大量",
+      "is_common": true,
+      "tags": [
+        "wanikani24"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "大量",
+          "reading": "たいりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "large quantity",
+            "massive (quantity)",
+            "mass (e.g. mass production, mass transit, mass destruction)"
+          ],
+          "parts_of_speech": [
+            "Na-adjective",
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "多量",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "多量",
+          "reading": "たりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "large quantity",
+            "large amount"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective",
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [
+            "少量"
+          ],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "減量",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "減量",
+          "reading": "げんりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "loss in weight (esp. body weight)",
+            "weight reduction"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "loss in quantity",
+            "reduction of quantity"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "力量",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "力量",
+          "reading": "りきりょう"
+        },
+        {
+          "word": "力倆",
+          "reading": "りきりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "ability",
+            "capacity",
+            "capability",
+            "talent"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "physical strength"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "小量",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "少量",
+          "reading": "しょうりょう"
+        },
+        {
+          "word": "小量",
+          "reading": "しょうりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "small quantity",
+            "small amount"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective",
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [
+            "多量"
+          ],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "narrowmindedness"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "esp. 小量"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "収量",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "収量",
+          "reading": "しゅうりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "yield",
+            "size of harvest"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "量産",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "量産",
+          "reading": "りょうさん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "mass production"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "計量",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "計量",
+          "reading": "けいりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "measuring",
+            "weighing"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "metric",
+            "distance function"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Mathematics"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "降水量",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "降水量",
+          "reading": "こうすいりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "amount of precipitation",
+            "precipitation"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "適量",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "適量",
+          "reading": "てきりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "proper quantity",
+            "suitable amount",
+            "proper dose",
+            "optimal dose"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "推量",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "推量",
+          "reading": "すいりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "guess",
+            "conjecture",
+            "supposition",
+            "inference"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "音量",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "音量",
+          "reading": "おんりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "volume (sound)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "技量",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "技量",
+          "reading": "ぎりょう"
+        },
+        {
+          "word": "技倆",
+          "reading": "ぎりょう"
+        },
+        {
+          "word": "伎倆",
+          "reading": "ぎりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "ability",
+            "competency",
+            "talent",
+            "skill",
+            "capacity"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "器量",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "器量",
+          "reading": "きりょう"
+        },
+        {
+          "word": "縹緻",
+          "reading": "きりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "looks (esp. of a woman)",
+            "features",
+            "facial appearance",
+            "facial beauty"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "ability",
+            "capability",
+            "capacity",
+            "calibre",
+            "caliber",
+            "talent"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "器量"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "(public) estimation (esp. of a man)",
+            "credit",
+            "dignity",
+            "honour"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "器量"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "情状酌量",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "情状酌量",
+          "reading": "じょうじょうしゃくりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "taking the extenuating circumstances into consideration"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "増量",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "増量",
+          "reading": "ぞうりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "increased volume or quantity"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "酒量",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "酒量",
+          "reading": "しゅりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "amount of drink",
+            "one\u0027s drinking capacity"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "交通量",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "交通量",
+          "reading": "こうつうりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "traffic",
+            "traffic volume"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Traffic"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Traffic” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Traffic?oldid\u003d495296834"
+            },
+            {
+              "text": "Read “交通量” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/交通量?oldid\u003d42345924"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Traffic"
+      }
+    },
+    {
+      "slug": "大量生産",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "大量生産",
+          "reading": "たいりょうせいさん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "mass production"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Mass production"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Mass production” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Mass_production?oldid\u003d493845923"
+            },
+            {
+              "text": "Read “大量生産” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/大量生産?oldid\u003d41056942"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Mass_production"
+      }
+    },
+    {
+      "slug": "微量",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "微量",
+          "reading": "びりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "minuscule amount",
+            "extremely small quantity"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Na-adjective",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "熱量",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "熱量",
+          "reading": "ねつりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "quantity of heat",
+            "heat value",
+            "calorific value",
+            "calories"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "仕事量",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "仕事量",
+          "reading": "しごとりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(one\u0027s) workload",
+            "amount of work (to be) done by one"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "消費量",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "消費量",
+          "reading": "しょうひりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "amount of consumption"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "含有量",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "含有量",
+          "reading": "がんゆうりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "content (of a mineral, etc.)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "降雨量",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "降雨量",
+          "reading": "こううりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "amount of rainfall"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "酌量",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "酌量",
+          "reading": "しゃくりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "taking into consideration",
+            "making allowances"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "一定量",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "一定量",
+          "reading": "いっていりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "fixed amount"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "不器量",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "不器量",
+          "reading": "ふきりょう"
+        },
+        {
+          "word": "不器量",
+          "reading": "ぶきりょう"
+        },
+        {
+          "word": "不縹緻",
+          "reading": "ふきりょう"
+        },
+        {
+          "word": "不縹緻",
+          "reading": "ぶきりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "ugliness",
+            "homeliness"
+          ],
+          "parts_of_speech": [
+            "Na-adjective",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "lack of ability",
+            "incompetence"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "情報量が多い",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "情報量が多い",
+          "reading": "じょうほうりょうがおおい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "having high information content",
+            "informative"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "I-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "情報量の多い"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "超軽量",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "超軽量",
+          "reading": "ちょうけいりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "ultralight",
+            "ultralightweight"
+          ],
+          "parts_of_speech": [
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "大容量",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "大容量",
+          "reading": "だいようりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "high capacity"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Computer terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "投薬量",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "投薬量",
+          "reading": "とうやくりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dosage",
+            "dose"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "狭量",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "狭量",
+          "reading": "きょうりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "narrow-minded",
+            "intolerant",
+            "petty"
+          ],
+          "parts_of_speech": [
+            "Na-adjective",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "輸入量",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "輸入量",
+          "reading": "ゆにゅうりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "import volume"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "大容量",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "大容量",
+          "reading": "だいようりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "high capacity"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Computer terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "漁獲量",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漁獲量",
+          "reading": "ぎょかくりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "haul (catch) (of fish)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "測量士",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "測量士",
+          "reading": "そくりょうし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "registered surveyor"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "情報量が多い",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "情報量が多い",
+          "reading": "じょうほうりょうがおおい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "having high information content",
+            "informative"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "I-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "情報量の多い"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "質量",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "質量",
+          "reading": "しつりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "mass"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Physics terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Mass"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Mass” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Mass?oldid\u003d495186061"
+            },
+            {
+              "text": "Read “質量” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/質量?oldid\u003d42770571"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Mass"
+      }
+    },
+    {
+      "slug": "排水量",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "排水量",
+          "reading": "はいすいりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "displacement (e.g. of a ship)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "volume of wastewater"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Displacement (ship)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Displacement (ship)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Displacement_(ship)?oldid\u003d494412781"
+            },
+            {
+              "text": "Read “排水量” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/排水量?oldid\u003d42647534"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Displacement_(ship)"
+      }
+    },
+    {
+      "slug": "致死量",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "致死量",
+          "reading": "ちしりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "lethal dose"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Lethal dose"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Lethal dose” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Lethal_dose?oldid\u003d489753749"
+            },
+            {
+              "text": "Read “致死量” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/致死量?oldid\u003d41419121"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Lethal_dose"
+      }
+    },
+    {
+      "slug": "流量",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "流量",
+          "reading": "りゅうりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "flow rate (esp. water or electricity)",
+            "quantity of flow",
+            "capacity (of output or throughput per unit time)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Discharge (hydrology)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Discharge (hydrology)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Discharge_(hydrology)?oldid\u003d493074862"
+            },
+            {
+              "text": "Read “流量” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/流量?oldid\u003d42648400"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Discharge_(hydrology)"
+      }
+    },
+    {
+      "slug": "量子",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "量子",
+          "reading": "りょうし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "quantum"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Physics terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Quantum"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Quantum” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Quantum?oldid\u003d495131275"
+            },
+            {
+              "text": "Read “量子” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/量子?oldid\u003d42432274"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Quantum"
+      }
+    },
+    {
+      "slug": "水量",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "水量",
+          "reading": "すいりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "quantity or volume of water"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "軽量",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "軽量",
+          "reading": "けいりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "light weight"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "線量",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "線量",
+          "reading": "せんりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dose (of radioactivity)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "全量",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "全量",
+          "reading": "ぜんりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "the whole quantity"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "総量",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "総量",
+          "reading": "そうりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "aggregate amount"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "定量",
+      "is_common": true,
+      "tags": [
+        "wanikani24"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "定量",
+          "reading": "ていりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "fixed quantity"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "無重量",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "無重量",
+          "reading": "むじゅうりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "weightlessness",
+            "zero gravity"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "産量",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "産量",
+          "reading": "さんりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "output"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "無量",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "無量",
+          "reading": "むりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "immeasurable"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "裁量",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "裁量",
+          "reading": "さいりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "admeasure",
+            "discretion"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "量刑",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "量刑",
+          "reading": "りょうけい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "judge\u0027s sentence",
+            "assessment of a case"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "定量",
+      "is_common": true,
+      "tags": [
+        "wanikani24"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "定量",
+          "reading": "ていりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "fixed quantity"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "裁量",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "裁量",
+          "reading": "さいりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "admeasure",
+            "discretion"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "数量",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "数量",
+          "reading": "すうりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "quantity",
+            "volume",
+            "amount"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "水量",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "水量",
+          "reading": "すいりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "quantity or volume of water"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "雨量",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "雨量",
+          "reading": "うりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(amount of) rainfall"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "斤量",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "斤量",
+          "reading": "きんりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "weight"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "大量殺人",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "大量殺人",
+          "reading": "たいりょうさつじん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "mass killing",
+            "mass murder",
+            "bloodbath"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "量感",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "量感",
+          "reading": "りょうかん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "voluminous",
+            "massive",
+            "bulky"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "用量",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "用量",
+          "reading": "ようりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dose"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "度量",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "度量",
+          "reading": "どりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "generosity",
+            "magnanimity",
+            "tolerance"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "length and capacity",
+            "measures"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "推し量る",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "推し量る",
+          "reading": "おしはかる"
+        },
+        {
+          "word": "推し測る",
+          "reading": "おしはかる"
+        },
+        {
+          "word": "推しはかる",
+          "reading": "おしはかる"
+        },
+        {
+          "word": "推し計る",
+          "reading": "おしはかる"
+        },
+        {
+          "word": "推量る",
+          "reading": "おしはかる"
+        },
+        {
+          "word": "推測る",
+          "reading": "おしはかる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to guess",
+            "to conjecture",
+            "to surmise"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending",
+            "Transitive verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "量り",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "量り",
+          "reading": "はかり"
+        },
+        {
+          "word": "計り",
+          "reading": "はかり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "measurements",
+            "weighing"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "感慨無量",
+      "is_common": false,
+      "tags": [
+        "wanikani60"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "感慨無量",
+          "reading": "かんがいむりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "deep emotion",
+            "being filled with emotion"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective",
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "声量",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "声量",
+          "reading": "せいりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(vocal) volume"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "物量",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "物量",
+          "reading": "ぶつりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "amount of material resources"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "絶対量",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絶対量",
+          "reading": "ぜったいりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "absolute amount",
+            "absolute quantity"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "同量",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "同量",
+          "reading": "どうりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "same amount"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "重量トン",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "重量トン",
+          "reading": "じゅうりょうトン"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "deadweight ton",
+            "deadweight tonnage"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "入るを量りて出ずるを為す",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "入るを量りて出ずるを為す",
+          "reading": "いるをはかりていずるをなす"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "consider your income before spending"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [
+            "Proverb"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "光量",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "光量",
+          "reading": "こうりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "amount of light",
+            "quantity of light"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "情報量",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "情報量",
+          "reading": "じょうほうりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "information content",
+            "information volume"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Entropy (information theory)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Entropy (information theory)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Entropy_(information_theory)?oldid\u003d494235613"
+            },
+            {
+              "text": "Read “情報量” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/情報量?oldid\u003d42675722"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Entropy_(information_theory)"
+      }
+    },
+    {
+      "slug": "雲量",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "雲量",
+          "reading": "うんりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "degree of cloudiness",
+            "cloud cover"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Cloud cover"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Cloud cover” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Cloud_cover?oldid\u003d492160466"
+            },
+            {
+              "text": "Read “雲量” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/雲量?oldid\u003d41109467"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Cloud_cover"
+      }
+    },
+    {
+      "slug": "原子量",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "原子量",
+          "reading": "げんしりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "atomic weight"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Atomic mass"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Atomic mass” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Atomic_mass?oldid\u003d494909702"
+            },
+            {
+              "text": "Read “原子量” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/原子量?oldid\u003d40113917"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Atomic_mass"
+      }
+    },
+    {
+      "slug": "静電容量",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "静電容量",
+          "reading": "せいでんようりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "capacitance",
+            "electrostatic capacity"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Capacitance"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Capacitance” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Capacitance?oldid\u003d490641545"
+            },
+            {
+              "text": "Read “静電容量” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/静電容量?oldid\u003d41059223"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Capacitance"
+      }
+    },
+    {
+      "slug": "太陽質量",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "太陽質量",
+          "reading": "たいようしつりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "solar mass"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Astronomy, etc. term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Solar mass"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Solar mass” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Solar_mass?oldid\u003d494074016"
+            },
+            {
+              "text": "Read “太陽質量” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/太陽質量?oldid\u003d42631608"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Solar_mass"
+      }
+    },
+    {
+      "slug": "重量挙げ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "重量挙げ",
+          "reading": "じゅうりょうあげ"
+        },
+        {
+          "word": "重量上げ",
+          "reading": "じゅうりょうあげ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "weight lifting"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Olympic weightlifting"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Olympic weightlifting” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Olympic_weightlifting?oldid\u003d493304629"
+            },
+            {
+              "text": "Read “重量挙げ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/重量挙げ?oldid\u003d42212374"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Olympic_weightlifting"
+      }
+    },
+    {
+      "slug": "日射量",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "日射量",
+          "reading": "にっしゃりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "intensity of solar radiation",
+            "quantity of solar radiation",
+            "flux of insolation"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Insolation"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Insolation” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Insolation?oldid\u003d488690950"
+            },
+            {
+              "text": "Read “日射量” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/日射量?oldid\u003d38089397"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Insolation"
+      }
+    },
+    {
+      "slug": "電力量",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "電力量",
+          "reading": "でんりょくりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "electric energy"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Electric potential energy"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Electric potential energy” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Electric_potential_energy?oldid\u003d490921404"
+            },
+            {
+              "text": "Read “電力量” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/電力量?oldid\u003d39082067"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Electric_potential_energy"
+      }
+    },
+    {
+      "slug": "比量",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "比量",
+          "reading": "ひりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "comparison"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Pramana",
+            "epistemology"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Buddhist term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Pramana"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Pramana” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Pramana?oldid\u003d490094237"
+            },
+            {
+              "text": "Read “比量” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/比量?oldid\u003d42309253"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Pramana"
+      }
+    },
+    {
+      "slug": "角運動量",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "角運動量",
+          "reading": "かくうんどうりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "angular momentum"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Physics terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Angular momentum"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Angular momentum” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Angular_momentum?oldid\u003d492194398"
+            },
+            {
+              "text": "Read “角運動量” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/角運動量?oldid\u003d41326136"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Angular_momentum"
+      }
+    },
+    {
+      "slug": "通信路容量",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "通信路容量",
+          "reading": "つうしんろようりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "channel capacity"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Computer terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Channel capacity"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Channel capacity” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Channel_capacity?oldid\u003d493246511"
+            },
+            {
+              "text": "Read “通信路容量” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/通信路容量?oldid\u003d42561021"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Channel_capacity"
+      }
+    },
+    {
+      "slug": "相互情報量",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "相互情報量",
+          "reading": "そうごじょうほうりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "transinformation (content)",
+            "transferred information",
+            "transmitted information",
+            "mutual information"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Computer terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Mutual information"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Mutual information” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Mutual_information?oldid\u003d493642084"
+            },
+            {
+              "text": "Read “相互情報量” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/相互情報量?oldid\u003d42519129"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Mutual_information"
+      }
+    },
+    {
+      "slug": "統計量",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "統計量",
+          "reading": "とうけいりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "statistic"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Statistic"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Statistic” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Statistic?oldid\u003d495155337"
+            },
+            {
+              "text": "Read “統計量” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/統計量?oldid\u003d26788471"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Statistic"
+      }
+    },
+    {
+      "slug": "生物化学的酸素要求量",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "生物化学的酸素要求量",
+          "reading": "せいぶつかがくてきさんそようきゅうりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "biochemical oxygen demand",
+            "BOD"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Biochemical oxygen demand"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Biochemical oxygen demand” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Biochemical_oxygen_demand?oldid\u003d492140621"
+            },
+            {
+              "text": "Read “生物化学的酸素要求量” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/生物化学的酸素要求量?oldid\u003d41653461"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Biochemical_oxygen_demand"
+      }
+    },
+    {
+      "slug": "活量",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "活量",
+          "reading": "かつりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "activity"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Activity (chemistry)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Activity (chemistry)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Activity_(chemistry)?oldid\u003d492912530"
+            },
+            {
+              "text": "Read “活量” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/活量?oldid\u003d41982148"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Activity_(chemistry)"
+      }
+    },
+    {
+      "slug": "化学当量",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "化学当量",
+          "reading": "かがくとうりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "chemical equivalent"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Equivalent (chemistry)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Equivalent (chemistry)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Equivalent_(chemistry)?oldid\u003d484451289"
+            },
+            {
+              "text": "Read “化学当量” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/化学当量?oldid\u003d38363130"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Equivalent_(chemistry)"
+      }
+    },
+    {
+      "slug": "地球質量",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "地球質量",
+          "reading": "ちきゅうしつりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "earth mass (astronomical unit of mass)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Earth mass"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Earth mass” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Earth_mass?oldid\u003d495457885"
+            },
+            {
+              "text": "Read “地球質量” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/地球質量?oldid\u003d42751208"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Earth_mass"
+      }
+    },
+    {
+      "slug": "物質量",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "物質量",
+          "reading": "ぶっしつりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "amount of substance"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "モル"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Amount of substance"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Amount of substance” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Amount_of_substance?oldid\u003d494748210"
+            },
+            {
+              "text": "Read “物質量” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/物質量?oldid\u003d41278186"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Amount_of_substance"
+      }
+    },
+    {
+      "slug": "運動量",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "運動量",
+          "reading": "うんどうりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "momentum"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Physics terminology"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "amount of exercise"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Momentum"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Momentum” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Momentum?oldid\u003d494266161"
+            },
+            {
+              "text": "Read “運動量” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/運動量?oldid\u003d40901578"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Momentum"
+      }
+    },
+    {
+      "slug": "排気量",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "排気量",
+          "reading": "はいきりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(engine) displacement"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Engine displacement"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Engine displacement” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Engine_displacement?oldid\u003d490304996"
+            },
+            {
+              "text": "Read “排気量” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/排気量?oldid\u003d42594597"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Engine_displacement"
+      }
+    }
+  ]
+}

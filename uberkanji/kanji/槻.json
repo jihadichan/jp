@@ -1,0 +1,158 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "欅",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "欅",
+          "reading": "けやき"
+        },
+        {
+          "word": "槻",
+          "reading": "けやき"
+        },
+        {
+          "word": "槻",
+          "reading": "つき"
+        },
+        {
+          "reading": "ケヤキ"
+        },
+        {
+          "reading": "ツキ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Japanese zelkova (species of elm-like tree, Zelkowa serrata)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Zelkova serrata"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Zelkova serrata” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Zelkova_serrata?oldid\u003d494860330"
+            },
+            {
+              "text": "Read “ケヤキ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/ケヤキ?oldid\u003d42705422"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Zelkova_serrata"
+      }
+    },
+    {
+      "slug": "槻の木",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "槻の木",
+          "reading": "つきのき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Japanese zelkova (species of elm-like tree, Zelkowa serrata)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "欅"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "槻欅",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "槻欅",
+          "reading": "つきげやき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Japanese zelkova (species of elm-like tree, Zelkowa serrata)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Obscure term"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "欅"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

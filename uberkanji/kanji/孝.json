@@ -1,0 +1,967 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "孝行",
+      "is_common": true,
+      "tags": [
+        "wanikani40"
+      ],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "孝行",
+          "reading": "こうこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "filial piety"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "親孝行"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "showing devotion (to someone)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "親孝行",
+      "is_common": true,
+      "tags": [
+        "wanikani42"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "親孝行",
+          "reading": "おやこうこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "filial piety"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb",
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [
+            "親不孝"
+          ],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "不孝",
+      "is_common": true,
+      "tags": [
+        "wanikani40"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "不孝",
+          "reading": "ふこう"
+        },
+        {
+          "word": "不孝",
+          "reading": "ふきょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "undutifulness to one\u0027s parents",
+            "lack of filial piety"
+          ],
+          "parts_of_speech": [
+            "Na-adjective",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "(the crime of) cursing one\u0027s parents"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [
+            "ふきょう"
+          ],
+          "see_also": [
+            "八虐"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "disowning one\u0027s child"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [
+            "ふきょう"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "親不孝",
+      "is_common": true,
+      "tags": [
+        "wanikani42"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "親不孝",
+          "reading": "おやふこう"
+        },
+        {
+          "word": "親不幸",
+          "reading": "おやふこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "lack of filial piety",
+            "disobedience to one\u0027s parents"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb",
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [
+            "親孝行"
+          ],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "忠孝",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "忠孝",
+          "reading": "ちゅうこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "loyalty and filial piety"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "孝",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "孝",
+          "reading": "こう"
+        },
+        {
+          "word": "孝",
+          "reading": "きょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "filial piety"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "孝行"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Filial piety"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Filial piety” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Filial_piety?oldid\u003d492158418"
+            },
+            {
+              "text": "Read “孝” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/孝?oldid\u003d42268642"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Filial_piety"
+      }
+    },
+    {
+      "slug": "孝経",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "孝経",
+          "reading": "こうきょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "the Book of Filial Piety"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Classic of Filial Piety"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Classic of Filial Piety” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Classic_of_Filial_Piety?oldid\u003d468747692"
+            },
+            {
+              "text": "Read “孝経” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/孝経?oldid\u003d42764407"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Classic_of_Filial_Piety"
+      }
+    },
+    {
+      "slug": "女房孝行",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "女房孝行",
+          "reading": "にょうぼうこうこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "being devoted to one\u0027s wife",
+            "uxorious"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "孝女",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "孝女",
+          "reading": "こうじょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "filial daughter"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "奥さん孝行",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "奥さん孝行",
+          "reading": "おくさんこうこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "devotion to one\u0027s wife",
+            "doing things for one\u0027s wife"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "孝行"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "仁義忠孝",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "仁義忠孝",
+          "reading": "じんぎちゅうこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "humanity, justice, loyalty, and filial piety"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "孝子",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "孝子",
+          "reading": "こうし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "filial child"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "孝弟",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "孝弟",
+          "reading": "こうてい"
+        },
+        {
+          "word": "孝悌",
+          "reading": "こうてい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "filial piety",
+            "brotherly love"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "忠孝仁義",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "忠孝仁義",
+          "reading": "ちゅうこうじんぎ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "loyalty, filial piety, humanity, and justice"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "至孝",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "至孝",
+          "reading": "しこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "supreme filial piety"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "孝養",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "孝養",
+          "reading": "こうよう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "filial duties",
+            "devotion to one\u0027s parents"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "孝順",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "孝順",
+          "reading": "こうじゅん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "obedience",
+            "filial piety"
+          ],
+          "parts_of_speech": [
+            "Na-adjective",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "孝心",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "孝心",
+          "reading": "こうしん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "filial devotion"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "孝敬",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "孝敬",
+          "reading": "こうけい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "filial piety"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "不孝者",
+      "is_common": false,
+      "tags": [
+        "wanikani42"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "不孝者",
+          "reading": "ふこうもの"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "unfilial son",
+            "undutiful son",
+            "thankless son",
+            "unfilial daughter",
+            "undutiful daughter",
+            "thankless daughter"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "孝行をしたい時分に親は無し",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "孝行のしたい時分に親はなし",
+          "reading": "こうこうのしたいじぶんにおやはなし"
+        },
+        {
+          "word": "孝行のしたい時分に親は無し",
+          "reading": "こうこうのしたいじぶんにおやはなし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "when you will wish to be filial, your parents will already be gone"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [
+            "Proverb"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "孝道",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "孝道",
+          "reading": "こうどう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "filial piety"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "身体髪膚これを父母に受くあえて毀傷せざるは孝の始めなり",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "身体髪膚これを父母に受くあえて毀傷せざるは孝の始めなり",
+          "reading": "しんたいはっぷこれをふぼにうくあえてきしょうせざるはこうのはじめなり"
+        },
+        {
+          "word": "身体髪膚これを父母に受くあえて毀傷せざるは孝の始なり",
+          "reading": "しんたいはっぷこれをふぼにうくあえてきしょうせざるはこうのはじめなり"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "filial piety begins with not harming one\u0027s own body (as one\u0027s entire body was given by one\u0027s parents)"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [
+            "Proverb"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "from The Classic of Filial Piety"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

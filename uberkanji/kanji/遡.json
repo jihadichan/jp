@@ -1,0 +1,492 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "遡る",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "遡る",
+          "reading": "さかのぼる"
+        },
+        {
+          "word": "溯る",
+          "reading": "さかのぼる"
+        },
+        {
+          "word": "逆上る",
+          "reading": "さかのぼる"
+        },
+        {
+          "word": "泝る",
+          "reading": "さかのぼる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to go upstream"
+          ],
+          "parts_of_speech": [
+            "Godan verb with ru ending",
+            "intransitive verb"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to go back (in time, to origin)",
+            "to date back to",
+            "to trace back to",
+            "to make retroactive"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "遡及書誌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遡及書誌",
+          "reading": "そきゅうしょし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "retrospective bibliography"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "遡河魚",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遡河魚",
+          "reading": "そかぎょ"
+        },
+        {
+          "word": "遡河魚",
+          "reading": "さっかぎょ"
+        },
+        {
+          "word": "溯河魚",
+          "reading": "そかぎょ"
+        },
+        {
+          "word": "溯河魚",
+          "reading": "さっかぎょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "anadromous fish (fish that migrates upstream, e.g. salmon)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "降河魚"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "遡行",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遡行",
+          "reading": "そこう"
+        },
+        {
+          "word": "溯航",
+          "reading": "そこう"
+        },
+        {
+          "word": "遡航",
+          "reading": "そこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "going upstream",
+            "sailing against the current"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "遡求権",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遡求権",
+          "reading": "そきゅうけん"
+        },
+        {
+          "word": "そ求権",
+          "reading": "そきゅうけん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "right of recourse",
+            "right for redemption"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "遡上",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遡上",
+          "reading": "そじょう"
+        },
+        {
+          "word": "溯上",
+          "reading": "そじょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "going upstream",
+            "swimming upstream"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "遡源",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遡源",
+          "reading": "さくげん"
+        },
+        {
+          "word": "遡源",
+          "reading": "そげん"
+        },
+        {
+          "word": "溯源",
+          "reading": "さくげん"
+        },
+        {
+          "word": "溯源",
+          "reading": "そげん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "returning to the origin",
+            "going back to the beginning",
+            "retracing"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "遡及的",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遡及的",
+          "reading": "そきゅうてき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "retroactive"
+          ],
+          "parts_of_speech": [
+            "Na-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "不遡及",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "不遡及",
+          "reading": "ふそきゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "non-retroactivity"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Law, etc. term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "遡求",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遡求",
+          "reading": "そきゅう"
+        },
+        {
+          "word": "そ求",
+          "reading": "そきゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "redemption",
+            "recourse"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "遡及",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遡及",
+          "reading": "そきゅう"
+        },
+        {
+          "word": "そ及",
+          "reading": "そきゅう"
+        },
+        {
+          "word": "溯及",
+          "reading": "そきゅう"
+        },
+        {
+          "word": "遡及",
+          "reading": "さっきゅう"
+        },
+        {
+          "word": "溯及",
+          "reading": "さっきゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "tracing back",
+            "retroactivity"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

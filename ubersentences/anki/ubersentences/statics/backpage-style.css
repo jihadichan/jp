@@ -1,0 +1,632 @@
+body {
+    font-family: 'DejaVu Sans', Arial, Helvetica, sans-serif;
+}
+
+/**********************************************************/
+/* DJT DECK CSS */
+/**********************************************************/
+
+.equiv {
+    margin-left:1em;
+    font-style: italic;
+}
+
+#usage_header, #usage {
+    width:85%;
+    margin:auto;
+    padding:1em;
+    border-left: 4px solid #C8FAF5;
+}
+
+
+#usage_header {
+    background-color: #e6ffff;
+    margin-bottom:0;
+}
+
+#usage {
+    margin-top:0;
+    margin-bottom:1em;
+}
+
+#page {
+    float:right;
+    font-size:65%;
+}
+
+#main_concept {
+    font-weight:bold;
+    font-size:120%;
+}
+
+hr {
+    color:blue;
+}
+
+#notes {
+    margin-top:1em;
+}
+
+img {
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    max-height: none;
+}
+
+table td {
+    padding:8px;
+    font-size:11pt;
+}
+
+table {
+    border-collapse:collapse;
+}
+
+tr.head {
+    border-bottom:1px solid #bbbbbb!important;
+    background-color:#f3f3f3;
+}
+
+.green ,.numbers {
+    color:#263e86!important;
+}
+
+.cloze, .concept {
+    color: #0055FF;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+#cloze_reveal .cloze {
+    font-weight:bold;
+}
+
+#formation_header {
+    padding:7px;
+    margin-left:.2em;
+    border:none!important;
+    font-family:Verdana, sans-serif;
+    font-size:95%;
+    font-weight:bold;
+}
+
+.example_en {
+    margin-left:3em;
+    margin-bottom:7px;
+}
+
+.example_en a {
+    text-decoration:none;
+}
+
+/**********************************************************/
+/* UBERSENTENCES */
+/**********************************************************/
+
+.layout {
+    width: 785px;
+    margin: 0 auto;
+}
+
+.layout table {
+    border: 0;
+}
+
+.wrapper-table {
+    max-width: 750px;
+    width: 750px;
+    margin-top: 30px;
+}
+
+.sentence-table table {
+    max-width: 750px;
+    width: 100%;
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+
+.sentence-table td {
+    border: 1px #ccc solid;
+}
+
+#solution {
+    min-height: 100vh;
+}
+
+#overlay {
+    position: fixed; /* Sit on top of the page content */
+    display: block; /* Hidden by default */
+    width: 100%; /* Full width (cover the whole page) */
+    height: 100%; /* Full height (cover the whole page) */
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #fff; /* Black background with opacity */
+    z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
+    cursor: pointer; /* Add a pointer on hover */
+}
+
+#overlay-text {
+    font-family: Verdana, Arial, sans-serif;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    font-size: 2em;
+    color: #ccc;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+}
+
+
+/************************************************************************************/
+/* SENTENCE */
+/************************************************************************************/
+
+.options-wrapper td {
+    border: 0;
+}
+
+#options {
+    width: 100px;
+    padding: 5px;
+}
+
+.options-button {
+    height: 30px;
+    width: 100%;
+    margin: 4px 0 0 0;
+    background-color: #eee;
+    text-align: center;
+    border: 1px #999 solid;
+}
+
+.options-button a {
+    color: #000;
+    text-decoration: none;
+}
+
+#sentence {
+    font-size: 1.2em;
+    padding: 10px;
+    border: 1px #ccc solid;
+}
+
+#notes {
+    padding: 10px;
+}
+
+#notes ul {
+    margin-bottom: 5px;
+}
+
+#source-cell td {
+    padding: 10px;
+}
+
+/* HIGHLIGHTING */
+
+.hl-blue {
+    color: #3549ff;
+}
+
+.hl-purple {
+    color: #b433ff;
+}
+
+.hl-green {
+    color: #008016;
+}
+
+.hl-green-light {
+    color: #63802b;
+}
+
+.hl-red {
+    color: #ff1c17;
+}
+
+.hl-orange {
+    color: #ff742a;
+}
+
+.hl-grey {
+    color: #404040;
+}
+
+.hl-yellow {
+    color: #ffbe2b;
+}
+
+.detail-highlight {
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
+/* FLAGS */
+
+.informal {
+    margin-top: 20px;
+    color: #73aece;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.anime {
+    margin-top: 20px;
+    color: #ff1c17;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.timeout {
+    margin-top: 20px;
+    color: #ff1c17;
+    font-size: 1.2em;
+    font-weight: bold;
+    float: right;
+}
+
+.formal {
+    margin-top: 20px;
+    color: #e8b900;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+#notes li {
+    padding-bottom: 0;
+}
+
+.vocab {
+    margin-top: 10px;
+    font-size: 0.9em;
+    font-weight: bold;
+    color: #bbb;
+    text-align: right;
+}
+
+.vocab-word {
+    white-space: nowrap !important;
+    font-size: 1.1em;
+    text-align: center;
+}
+
+.vocab-translation {
+    width: 100%;
+}
+
+.vocab-translation ul {
+    margin: 0;
+}
+
+.vocab-translation li {
+    margin-top: 10px;
+}
+
+.vocab-table td {
+    padding: 7px 10px;
+    border: 1px solid #ddd;
+}
+
+#vocab-preview table {
+    border-collapse: collapse;
+    margin-bottom: 10px;
+}
+
+/************************************************************************************/
+/* RENDERED */
+/************************************************************************************/
+
+.analysis-table {
+
+}
+
+.analysis-table table {
+    width: 700px;
+    border-spacing: 0;
+    border-collapse: collapse;
+    margin: 20px auto;
+}
+
+.analysis-table td {
+    border: 1px #ccc solid;
+}
+
+.part-column {
+    min-width: 150px;
+}
+
+.details-column {
+    width: 70%;
+}
+
+.other-column {
+    min-width: 150px;
+}
+
+.add-vocab {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.add-vocab a {
+    text-decoration: none;
+    color: #000;
+}
+
+.analysis-inner-table table {
+    margin: 5px;
+    width: 100%;
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+
+.analysis-inner-table td {
+    border: 0;
+    font-size: 0.8em;
+}
+
+.part-cell {
+    font-size: 1.2em;
+    text-align: center;
+}
+
+.analysis-cell {
+    vertical-align: top;
+}
+
+.detail-cell {
+    width: 100px;
+}
+
+.other-cell {
+    width: 90px;
+}
+
+.jisho {
+    border: 0;
+    width: 100%;
+    min-height: 1200px;
+}
+
+
+/************************/
+/******* JISHO API **********/
+/************************/
+
+
+.loading {
+    text-align: center;
+    font-size: 1.2em;
+}
+
+.translation-table {
+    width: 100%;
+}
+
+.translation-table table {
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+.translation-table td {
+    padding: 10px;
+    border-top: 0;
+}
+
+.translation-writing {
+    text-align: center;
+    font-size: 1.2em;
+    white-space: nowrap;
+
+}
+
+.translation-english {
+width: 100%;
+}
+
+.translation-sense {
+    margin-top: 10px;
+}
+
+.translation-table tr:nth-child(2n) {
+    background-color: #f6f8fa;
+}
+
+.vocab-output {
+    width: 100%;
+}
+
+#vocab-markup {
+    width: 100%;
+    min-height: 100px;
+}
+
+#translate-textarea {
+    width: 100%;
+    min-height: 50px;
+}
+
+.info {
+    color: #777777;
+    font-size: 0.7em;
+    line-height: 100%;
+}
+.np {
+    list-style-type:none;
+}
+
+.ofrms {
+    color: #777777;
+    font-size: 0.9em;
+    text-align: left;
+    margin-top: 5px;
+}
+
+#search-field {
+    width: 400px;
+    height: 30px;
+    border: 1px solid #999;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 1.2em;
+}
+
+.search-inputs {
+    margin: 0 auto;
+    display: inline;
+}
+
+.search-inputs a {
+    color: black;
+}
+.search-inputs div {
+    margin-top: 20px;
+}
+
+#search-button {
+    margin-left: 10px;
+    width: 70px;
+    height: 41px;
+    position: relative;
+    bottom: 2px;
+}
+
+.hint {
+    font-size: 0.8em;
+    color: #999999;
+}
+
+/************************/
+/******* MODAL **********/
+/************************/
+
+.blocker {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    z-index: 1;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: #000;
+    background-color: rgba(0, 0, 0, 0.75);
+    text-align: center
+}
+
+.blocker:before {
+    content: "";
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+    margin-right: -0.05em
+}
+
+.blocker.behind {
+    background-color: transparent
+}
+
+.modal {
+    display: none;
+    vertical-align: middle;
+    position: relative;
+    z-index: 2;
+    max-width: 650px;
+    box-sizing: border-box;
+    width: 90%;
+    background: #fff;
+    padding: 15px 30px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -o-border-radius: 8px;
+    -ms-border-radius: 8px;
+    border-radius: 8px;
+    -webkit-box-shadow: 0 0 10px #000;
+    -moz-box-shadow: 0 0 10px #000;
+    -o-box-shadow: 0 0 10px #000;
+    -ms-box-shadow: 0 0 10px #000;
+    box-shadow: 0 0 10px #000;
+    text-align: left
+}
+
+.modal a.close-modal {
+    position: absolute;
+    top: -12.5px;
+    right: -12.5px;
+    display: block;
+    width: 30px;
+    height: 30px;
+    text-indent: -9999px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.modal-spinner {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translateY(-50%) translateX(-50%);
+    padding: 12px 16px;
+    border-radius: 5px;
+    background-color: #111;
+    height: 20px
+}
+
+.modal-spinner > div {
+    border-radius: 100px;
+    background-color: #fff;
+    height: 20px;
+    width: 2px;
+    margin: 0 1px;
+    display: inline-block;
+    -webkit-animation: sk-stretchdelay 1.2s infinite ease-in-out;
+    animation: sk-stretchdelay 1.2s infinite ease-in-out
+}
+
+.modal-spinner .rect2 {
+    -webkit-animation-delay: -1.1s;
+    animation-delay: -1.1s
+}
+
+.modal-spinner .rect3 {
+    -webkit-animation-delay: -1.0s;
+    animation-delay: -1.0s
+}
+
+.modal-spinner .rect4 {
+    -webkit-animation-delay: -0.9s;
+    animation-delay: -0.9s
+}
+
+@-webkit-keyframes sk-stretchdelay {
+    0%,
+    40%,
+    100% {
+        -webkit-transform: scaleY(0.5)
+    }
+    20% {
+        -webkit-transform: scaleY(1.0)
+    }
+}
+
+@keyframes sk-stretchdelay {
+    0%,
+    40%,
+    100% {
+        transform: scaleY(0.5);
+        -webkit-transform: scaleY(0.5)
+    }
+    20% {
+        transform: scaleY(1.0);
+        -webkit-transform: scaleY(1.0)
+    }
+}

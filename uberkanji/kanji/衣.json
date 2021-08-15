@@ -1,0 +1,4357 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "上着",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "上着",
+          "reading": "うわぎ"
+        },
+        {
+          "word": "上衣",
+          "reading": "うわぎ"
+        },
+        {
+          "word": "表着",
+          "reading": "うわぎ"
+        },
+        {
+          "word": "上衣",
+          "reading": "じょうい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "coat",
+            "tunic",
+            "jacket",
+            "outer garment"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "浴衣",
+      "is_common": true,
+      "tags": [
+        "wanikani43"
+      ],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "浴衣",
+          "reading": "ゆかた"
+        },
+        {
+          "word": "浴衣",
+          "reading": "よくい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "yukata (light cotton kimono worn in the summer or used as a bathrobe)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "湯帷子"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Yukata"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Yukata” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Yukata?oldid\u003d495540241"
+            },
+            {
+              "text": "Read “浴衣” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/浴衣?oldid\u003d42754151"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Yukata"
+      }
+    },
+    {
+      "slug": "肌着",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "肌着",
+          "reading": "はだぎ"
+        },
+        {
+          "word": "膚着",
+          "reading": "はだぎ"
+        },
+        {
+          "word": "肌衣",
+          "reading": "はだぎ"
+        },
+        {
+          "word": "肌衣",
+          "reading": "はだぎぬ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "underwear",
+            "underclothes",
+            "lingerie",
+            "chemise",
+            "singlet"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Undergarment"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Undergarment” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Undergarment?oldid\u003d493742345"
+            },
+            {
+              "text": "Read “肌着” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/肌着?oldid\u003d41962505"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Undergarment"
+      }
+    },
+    {
+      "slug": "衣服",
+      "is_common": true,
+      "tags": [
+        "wanikani41"
+      ],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "衣服",
+          "reading": "いふく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "clothes"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "衣食住",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "衣食住",
+          "reading": "いしょくじゅう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "necessities of life (food, clothing and shelter)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "衣類",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "衣類",
+          "reading": "いるい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "clothes",
+            "clothing",
+            "garments"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "衣装",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "衣装",
+          "reading": "いしょう"
+        },
+        {
+          "word": "衣裳",
+          "reading": "いしょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "clothing",
+            "costume",
+            "outfit",
+            "garment",
+            "dress"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "衣料",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "衣料",
+          "reading": "いりょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "clothing"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "白衣",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "白衣",
+          "reading": "はくい"
+        },
+        {
+          "word": "白衣",
+          "reading": "びゃくい"
+        },
+        {
+          "word": "白衣",
+          "reading": "びゃくえ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "white robe",
+            "(doctor\u0027s) white gown"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "White coat"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “White coat” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/White_coat?oldid\u003d492878776"
+            },
+            {
+              "text": "Read “白衣” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/白衣?oldid\u003d41528209"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/White_coat"
+      }
+    },
+    {
+      "slug": "衣",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "衣",
+          "reading": "ころも"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "clothes",
+            "garment"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "gown",
+            "robe"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "coating (e.g. glaze, batter, icing)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "更衣室",
+      "is_common": true,
+      "tags": [
+        "wanikani41"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "更衣室",
+          "reading": "こういしつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "locker room",
+            "changing room",
+            "dressing room"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "衣料品",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "衣料品",
+          "reading": "いりょうひん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "clothing",
+            "articles of clothing",
+            "apparel"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "衣食",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "衣食",
+          "reading": "いしょく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "food and clothing",
+            "livelihood",
+            "living"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "to feed and clothe"
+          ],
+          "parts_of_speech": [
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "寝巻き",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "寝巻き",
+          "reading": "ねまき"
+        },
+        {
+          "word": "寝巻",
+          "reading": "ねまき"
+        },
+        {
+          "word": "寝間着",
+          "reading": "ねまき"
+        },
+        {
+          "word": "寝衣",
+          "reading": "ねまき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sleep-wear",
+            "nightclothes",
+            "pyjamas",
+            "pajamas",
+            "nightgown",
+            "nightdress"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "寝衣 しんい"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "黒衣",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "黒衣",
+          "reading": "こくい"
+        },
+        {
+          "word": "黒衣",
+          "reading": "こくえ"
+        },
+        {
+          "word": "黒衣",
+          "reading": "くろぎぬ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "black clothes"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "イラン",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "reading": "イラン"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Iran"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "also written as 伊蘭"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "粗衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "粗衣",
+          "reading": "そい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "simple clothes",
+            "humble clothes"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "羽衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "羽衣",
+          "reading": "はごろも"
+        },
+        {
+          "word": "羽衣",
+          "reading": "うい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "angel\u0027s raiment",
+            "robe of feathers"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "wings of birds or insects",
+            "plumage of birds"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "type of bug"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [
+            "はごろも"
+          ],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Hagoromo"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Hagoromo” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Hagoromo?oldid\u003d443928196"
+            },
+            {
+              "text": "Read “羽衣” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/羽衣?oldid\u003d36786697"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Hagoromo"
+      }
+    },
+    {
+      "slug": "着衣",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "着衣",
+          "reading": "ちゃくい"
+        },
+        {
+          "word": "着衣",
+          "reading": "ちゃくえ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "clothes (that one is wearing)",
+            "wearing clothes"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [
+            "脱衣"
+          ],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "衣替え",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "衣替え",
+          "reading": "ころもがえ"
+        },
+        {
+          "word": "更衣",
+          "reading": "ころもがえ"
+        },
+        {
+          "word": "衣更え",
+          "reading": "ころもがえ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "seasonal change of clothing",
+            "changing (one\u0027s) dress for the season"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "更衣 こうい"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "reading is gikun for 更衣"
+          ]
+        },
+        {
+          "english_definitions": [
+            "renovation",
+            "facelift",
+            "changing appearance"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "脱衣所",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "脱衣所",
+          "reading": "だついじょ"
+        },
+        {
+          "word": "脱衣所",
+          "reading": "だついしょ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "dressing room",
+            "bath house"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "脱衣",
+      "is_common": true,
+      "tags": [
+        "wanikani41"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "脱衣",
+          "reading": "だつい"
+        },
+        {
+          "word": "脱衣",
+          "reading": "だつえ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "undressing",
+            "taking off one\u0027s clothes"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [
+            "着衣"
+          ],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "如月",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "如月",
+          "reading": "きさらぎ"
+        },
+        {
+          "word": "衣更着",
+          "reading": "きさらぎ"
+        },
+        {
+          "word": "更衣",
+          "reading": "きさらぎ"
+        },
+        {
+          "word": "如月",
+          "reading": "じょげつ"
+        },
+        {
+          "word": "衣更着",
+          "reading": "きぬさらぎ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "second month of the lunar calendar"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Obsolete term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "幌",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "幌",
+          "reading": "ほろ"
+        },
+        {
+          "word": "母衣",
+          "reading": "ほろ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "canopy (esp. the cloth or canvas used for it)",
+            "awning",
+            "top (of a convertible)",
+            "hood"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "helmet cape",
+            "cloth covering one\u0027s back to protect against arrows during battle"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Horo"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Horo (cloak)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Horo (cloak)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Horo_(cloak)?oldid\u003d476000859"
+            },
+            {
+              "text": "Read “母衣” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/母衣?oldid\u003d42402749"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "http://dbpedia.org/resource/Horo_(cloak)"
+      }
+    },
+    {
+      "slug": "馬子にも衣装",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "馬子にも衣装",
+          "reading": "まごにもいしょう"
+        },
+        {
+          "word": "馬子にも衣裳",
+          "reading": "まごにもいしょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "anybody can look good with the right clothes",
+            "clothes make the man",
+            "fine feathers make fine birds",
+            "clothes on a packhorse driver"
+          ],
+          "parts_of_speech": [
+            "Expression"
+          ],
+          "links": [],
+          "tags": [
+            "Proverb"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "衣-1",
+      "is_common": false,
+      "tags": [
+        "wanikani41"
+      ],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "衣",
+          "reading": "きぬ"
+        },
+        {
+          "word": "衣",
+          "reading": "い"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "clothing",
+            "garment",
+            "dress"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "濡れ衣を着せる",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "濡れ衣を着せる",
+          "reading": "ぬれぎぬをきせる"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to frame",
+            "to falsely accuse of a crime"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Ichidan verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "法衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "法衣",
+          "reading": "ほうい"
+        },
+        {
+          "word": "法衣",
+          "reading": "ほうえ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "vestment",
+            "priest\u0027s robe"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "衣類乾燥機",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "衣類乾燥機",
+          "reading": "いるいかんそうき"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "clothes dryer",
+            "clothes drier"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Clothes dryer"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Clothes dryer” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Clothes_dryer?oldid\u003d495400448"
+            },
+            {
+              "text": "Read “衣類乾燥機” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/衣類乾燥機?oldid\u003d42740581"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Clothes_dryer"
+      }
+    },
+    {
+      "slug": "地衣類",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "地衣類",
+          "reading": "ちいるい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "lichens"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Lichen"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Lichen” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Lichen?oldid\u003d493891986"
+            },
+            {
+              "text": "Read “地衣類” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/地衣類?oldid\u003d42638753"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Lichen"
+      }
+    },
+    {
+      "slug": "浄衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "浄衣",
+          "reading": "じょうえ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "white robe or costume"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Jōe"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Jōe” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Jōe?oldid\u003d478346064"
+            },
+            {
+              "text": "Read “浄衣” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/浄衣?oldid\u003d42260629"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Jōe"
+      }
+    },
+    {
+      "slug": "衣紋掛け",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "衣紋掛け",
+          "reading": "えもんかけ"
+        },
+        {
+          "word": "衣紋掛",
+          "reading": "えもんかけ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "rack or hanger for hanging kimono, coats, etc."
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Clothes hanger"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Clothes hanger” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Clothes_hanger?oldid\u003d494025042"
+            },
+            {
+              "text": "Read “衣紋掛け” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/衣紋掛け?oldid\u003d42510119"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Clothes_hanger"
+      }
+    },
+    {
+      "slug": "羽衣烏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "羽衣烏",
+          "reading": "はごろもがらす"
+        },
+        {
+          "reading": "ハゴロモガラス"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "red-winged blackbird (Agelaius phoeniceus)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Red-winged Blackbird"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Red-winged Blackbird” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Red-winged_Blackbird?oldid\u003d495338591"
+            },
+            {
+              "text": "Read “ハゴロモガラス” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/ハゴロモガラス?oldid\u003d42412616"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Red-winged_Blackbird"
+      }
+    },
+    {
+      "slug": "作務衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "作務衣",
+          "reading": "さむえ"
+        },
+        {
+          "word": "作務衣",
+          "reading": "さむい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "samue",
+            "monk\u0027s working clothes"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Samue"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Samue” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Samue?oldid\u003d493813324"
+            },
+            {
+              "text": "Read “作務衣” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/作務衣?oldid\u003d42550791"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Samue"
+      }
+    },
+    {
+      "slug": "拘束衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "拘束衣",
+          "reading": "こうそくい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "straitjacket"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Straitjacket"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Straitjacket” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Straitjacket?oldid\u003d494785241"
+            },
+            {
+              "text": "Read “拘束衣” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/拘束衣?oldid\u003d42458664"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Straitjacket"
+      }
+    },
+    {
+      "slug": "救命胴衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "救命胴衣",
+          "reading": "きゅうめいどうい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "life-jacket",
+            "life-vest"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "ライフベスト"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Personal flotation device"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Personal flotation device” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Personal_flotation_device?oldid\u003d492406277"
+            },
+            {
+              "text": "Read “救命胴衣” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/救命胴衣?oldid\u003d41112332"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Personal_flotation_device"
+      }
+    },
+    {
+      "slug": "狩衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "狩衣",
+          "reading": "かりぎぬ"
+        },
+        {
+          "word": "狩衣",
+          "reading": "かりごろも"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "kariginu (informal clothes worn by the nobility from the Heian period onwards)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "(during the Edo period) patterned kariginu"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "布衣 ほい"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Kariginu"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "絹蘭",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絹蘭",
+          "reading": "きぬらん"
+        },
+        {
+          "word": "衣蘭",
+          "reading": "きぬらん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "lawn orchid",
+            "soldier\u0027s orchid (Zeuxine strateumatica)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "襲衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "襲衣",
+          "reading": "しゅうい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "wearing one garment over another"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "天衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "天衣",
+          "reading": "てんい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "heavenly garment"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "胴衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "胴衣",
+          "reading": "どうい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "padded, sleeveless undergarment",
+            "vest"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "皮衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "皮衣",
+          "reading": "かわごろも"
+        },
+        {
+          "word": "裘",
+          "reading": "かわごろも"
+        },
+        {
+          "word": "皮衣",
+          "reading": "かわぎぬ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "fur coat"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "薄絹",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "薄絹",
+          "reading": "うすぎぬ"
+        },
+        {
+          "word": "薄帛",
+          "reading": "うすぎぬ"
+        },
+        {
+          "word": "薄衣",
+          "reading": "うすぎぬ"
+        },
+        {
+          "word": "薄衣",
+          "reading": "うすごろも"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "thin or light silk",
+            "sheer silk"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "veil (mystery)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "胴着",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "胴着",
+          "reading": "どうぎ"
+        },
+        {
+          "word": "胴衣",
+          "reading": "どうぎ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(sleeveless) undergarment",
+            "padded undershirt"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "胴衣 どうい"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "弊衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "弊衣",
+          "reading": "へいい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "worn-out clothes",
+            "shabby clothes"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "夏衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "夏衣",
+          "reading": "なつごろも"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "summer clothes"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "手術衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "手術衣",
+          "reading": "しゅじゅつい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "surgical gown"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "征衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "征衣",
+          "reading": "せいい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "traveling clothes",
+            "travelling clothes",
+            "military uniform"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "外衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "外衣",
+          "reading": "がいい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "outer garment"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "獄衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "獄衣",
+          "reading": "ごくい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "prison uniform"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "紙子",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紙子",
+          "reading": "かみこ"
+        },
+        {
+          "word": "紙衣",
+          "reading": "かみこ"
+        },
+        {
+          "word": "紙衣",
+          "reading": "かみぎぬ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "paper garment"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "糖衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "糖衣",
+          "reading": "とうい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sugar coating"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "墨染めの衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "墨染めの衣",
+          "reading": "すみぞめのころも"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "priest\u0027s black robe"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "濡れ衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "濡れ衣",
+          "reading": "ぬれぎぬ"
+        },
+        {
+          "word": "濡衣",
+          "reading": "ぬれぎぬ"
+        },
+        {
+          "word": "濡れぎぬ",
+          "reading": "ぬれぎぬ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "false accusations",
+            "unfounded suspicion",
+            "groundless charge"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "wet clothes"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "original meaning"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "綿衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綿衣",
+          "reading": "わたぎぬ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "garment padded with cotton"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "綿入れ"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "天の羽衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "天の羽衣",
+          "reading": "あまのはごろも"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "angel\u0027s feathered robe"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "作業衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "作業衣",
+          "reading": "さぎょうい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "work clothes"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "墨染め衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "墨染め衣",
+          "reading": "すみぞめごろも"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "priest\u0027s black robe"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "砂糖の衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "砂糖の衣",
+          "reading": "さとうのころも"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "frosting (e.g. on a cake)",
+            "icing"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "囚衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "囚衣",
+          "reading": "しゅうい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "prison uniform"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "紅葉衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紅葉衣",
+          "reading": "もみじごろも"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "comparing autumn leaves to a garment"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "layered garments that mimic the colours of autumn leaves (worn from the 9th to the 11th month of the lunar calendar)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "糖衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "糖衣",
+          "reading": "とうい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sugar coating"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "墨染めの衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "墨染めの衣",
+          "reading": "すみぞめのころも"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "priest\u0027s black robe"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "濡れ衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "濡れ衣",
+          "reading": "ぬれぎぬ"
+        },
+        {
+          "word": "濡衣",
+          "reading": "ぬれぎぬ"
+        },
+        {
+          "word": "濡れぎぬ",
+          "reading": "ぬれぎぬ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "false accusations",
+            "unfounded suspicion",
+            "groundless charge"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "wet clothes"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "original meaning"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "紅葉の衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紅葉の衣",
+          "reading": "もみじのころも"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "comparing beautiful autumn leaves to a garment"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "紅葉衣"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "衣かつぎ",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "衣かつぎ",
+          "reading": "きぬかつぎ"
+        },
+        {
+          "word": "衣被ぎ",
+          "reading": "きぬかつぎ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "skin-on boiled taro corm"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Food term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "天の羽衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "天の羽衣",
+          "reading": "あまのはごろも"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "angel\u0027s feathered robe"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "作業衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "作業衣",
+          "reading": "さぎょうい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "work clothes"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "墨染め衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "墨染め衣",
+          "reading": "すみぞめごろも"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "priest\u0027s black robe"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "砂糖の衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "砂糖の衣",
+          "reading": "さとうのころも"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "frosting (e.g. on a cake)",
+            "icing"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "恋衣-1",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "恋衣",
+          "reading": "こいごろも"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "garb of love",
+            "metaphor for love kept as close to one as clothing"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Poetical term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "肩衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "肩衣",
+          "reading": "かたぎぬ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sleeveless ceremonial robe for samurai (replacing the Muromachi period suou)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "素襖"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "sleeveless robe worn by commoners"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "病衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "病衣",
+          "reading": "びょうい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "hospital gown",
+            "patient gown"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "下衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "下衣",
+          "reading": "したごろも"
+        },
+        {
+          "word": "下衣",
+          "reading": "かい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "undergarment",
+            "underwear"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "下着"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "esp.したごろも"
+          ]
+        },
+        {
+          "english_definitions": [
+            "lower garment (e.g. trousers)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "esp. かい"
+          ]
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "夏衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "夏衣",
+          "reading": "なつごろも"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "summer clothes"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "囚衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "囚衣",
+          "reading": "しゅうい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "prison uniform"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "襯衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "襯衣",
+          "reading": "しんい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "underwear"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "緋の衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "緋の衣",
+          "reading": "ひのころも"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "scarlet robe"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "産着",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "産着",
+          "reading": "うぶぎ"
+        },
+        {
+          "word": "産衣",
+          "reading": "うぶぎ"
+        },
+        {
+          "word": "産衣",
+          "reading": "うぶぎぬ"
+        },
+        {
+          "word": "産衣",
+          "reading": "さんい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "clothes for a newborn baby",
+            "baby clothes"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "複衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "複衣",
+          "reading": "ふくい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "lined garment"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "砂糖の衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "砂糖の衣",
+          "reading": "さとうのころも"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "frosting (e.g. on a cake)",
+            "icing"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "白衣の天使",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "白衣の天使",
+          "reading": "はくいのてんし"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "nurse",
+            "angel in white"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Idiomatic expression"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "紙子",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紙子",
+          "reading": "かみこ"
+        },
+        {
+          "word": "紙衣",
+          "reading": "かみこ"
+        },
+        {
+          "word": "紙衣",
+          "reading": "かみぎぬ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "paper garment"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "紅葉の衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紅葉の衣",
+          "reading": "もみじのころも"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "comparing beautiful autumn leaves to a garment"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "紅葉衣"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "糖衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "糖衣",
+          "reading": "とうい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "sugar coating"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "墨染めの衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "墨染めの衣",
+          "reading": "すみぞめのころも"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "priest\u0027s black robe"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "浴衣掛け",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "浴衣がけ",
+          "reading": "ゆかたがけ"
+        },
+        {
+          "word": "浴衣掛け",
+          "reading": "ゆかたがけ"
+        },
+        {
+          "word": "ゆかた掛け",
+          "reading": "ゆかたがけ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "wearing a yukata",
+            "(in) one\u0027s informal summer kimono"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "天の羽衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "天の羽衣",
+          "reading": "あまのはごろも"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "angel\u0027s feathered robe"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "一衣帯水",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "一衣帯水",
+          "reading": "いちいたいすい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "(being separated only by a) narrow strip of water",
+            "narrow strait (channel, river)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Yojijukugo (four character compound)"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "旧衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旧衣",
+          "reading": "きゅうい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "worn-out clothes"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "黒衣の宰相",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "黒衣の宰相",
+          "reading": "こくいのさいしょう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Buddhist priest who is a government minister"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "囚衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "囚衣",
+          "reading": "しゅうい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "prison uniform"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "緋の衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "緋の衣",
+          "reading": "ひのころも"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "scarlet robe"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "襯衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "襯衣",
+          "reading": "しんい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "underwear"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "歯に衣を着せない",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歯に衣を着せない",
+          "reading": "はにきぬをきせない"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "not mince matters",
+            "not mince one\u0027s words"
+          ],
+          "parts_of_speech": [
+            "Expression",
+            "I-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "歯に衣着せない"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "複衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "複衣",
+          "reading": "ふくい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "lined garment"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "衣偏",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "衣偏",
+          "reading": "ころもへん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "kanji \"clothes\" radical at left"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "産着",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "産着",
+          "reading": "うぶぎ"
+        },
+        {
+          "word": "産衣",
+          "reading": "うぶぎ"
+        },
+        {
+          "word": "産衣",
+          "reading": "うぶぎぬ"
+        },
+        {
+          "word": "産衣",
+          "reading": "さんい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "clothes for a newborn baby",
+            "baby clothes"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "旅衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "旅衣",
+          "reading": "たびごろも"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "travel clothes"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "寛衣",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "寛衣",
+          "reading": "かんい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "loose clothes",
+            "comfortable clothes"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

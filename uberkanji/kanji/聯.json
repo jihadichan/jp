@@ -1,0 +1,775 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "連想",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "連想",
+          "reading": "れんそう"
+        },
+        {
+          "word": "聯想",
+          "reading": "れんそう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "association (of ideas)",
+            "being reminded (of something)",
+            "suggestion"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Association (psychology)"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Association (psychology)” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Association_(psychology)?oldid\u003d493940210"
+            },
+            {
+              "text": "Read “連想” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/連想?oldid\u003d41700431"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Association_(psychology)"
+      }
+    },
+    {
+      "slug": "連絡",
+      "is_common": true,
+      "tags": [
+        "wanikani19"
+      ],
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "連絡",
+          "reading": "れんらく"
+        },
+        {
+          "word": "聯絡",
+          "reading": "れんらく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "to contact",
+            "to get in touch"
+          ],
+          "parts_of_speech": [
+            "Suru verb",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "ご連絡"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "contacting",
+            "getting in touch",
+            "communication",
+            "call",
+            "message"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "ご連絡"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "connection",
+            "coordination",
+            "junction"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "intercalary",
+            "intercalaris",
+            "internuncial"
+          ],
+          "parts_of_speech": [
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "連邦",
+      "is_common": true,
+      "tags": [
+        "wanikani39"
+      ],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "連邦",
+          "reading": "れんぽう"
+        },
+        {
+          "word": "聯邦",
+          "reading": "れんぽう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "commonwealth",
+            "federation of states",
+            "confederation",
+            "union"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Federation"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Federation” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Federation?oldid\u003d494807150"
+            },
+            {
+              "text": "Read “連邦” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/連邦?oldid\u003d42596894"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Federation"
+      }
+    },
+    {
+      "slug": "関連",
+      "is_common": true,
+      "tags": [
+        "wanikani19"
+      ],
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "関連",
+          "reading": "かんれん"
+        },
+        {
+          "word": "関聯",
+          "reading": "かんれん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "relation",
+            "connection",
+            "relevance"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective",
+            "Suru verb",
+            "Suffix"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "連合",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "連合",
+          "reading": "れんごう"
+        },
+        {
+          "word": "聯合",
+          "reading": "れんごう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "union",
+            "alliance",
+            "combination"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "RENGO (Japanese Trade Union Confederation)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [
+            "abbr of 日本労働組合総連合会"
+          ]
+        },
+        {
+          "english_definitions": [
+            "Rengou"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "連盟",
+      "is_common": true,
+      "tags": [
+        "wanikani36"
+      ],
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "連盟",
+          "reading": "れんめい"
+        },
+        {
+          "word": "聯盟",
+          "reading": "れんめい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "league",
+            "federation",
+            "union",
+            "alliance"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "連隊",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "連隊",
+          "reading": "れんたい"
+        },
+        {
+          "word": "聯隊",
+          "reading": "れんたい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "regiment"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "No-adjective"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Regiment"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Regiment” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Regiment?oldid\u003d495487515"
+            },
+            {
+              "text": "Read “連隊” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/連隊?oldid\u003d39847287"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Regiment"
+      }
+    },
+    {
+      "slug": "連立",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "連立",
+          "reading": "れんりつ"
+        },
+        {
+          "word": "聯立",
+          "reading": "れんりつ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "coalition",
+            "alliance",
+            "union"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "standing side-by-side"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "連句",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "連句",
+          "reading": "れんく"
+        },
+        {
+          "word": "聯句",
+          "reading": "れんく"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "linked verse",
+            "couplet"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "連係",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "連係",
+          "reading": "れんけい"
+        },
+        {
+          "word": "連繋",
+          "reading": "れんけい"
+        },
+        {
+          "word": "聯繋",
+          "reading": "れんけい"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "connection",
+            "linking",
+            "linkage",
+            "link"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "連珠",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "連珠",
+          "reading": "れんじゅ"
+        },
+        {
+          "word": "聯珠",
+          "reading": "れんじゅ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "variant of gobang (game)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "五目並べ"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Renju"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Renju” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Renju?oldid\u003d491767208"
+            },
+            {
+              "text": "Read “連珠” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/連珠?oldid\u003d42359563"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Renju"
+      }
+    },
+    {
+      "slug": "対聯",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "対聯",
+          "reading": "ついれん"
+        },
+        {
+          "word": "対聯",
+          "reading": "たいれん"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "couplet (Chinese poetry)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "pair of hanging scrolls"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "連亘",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "連亘",
+          "reading": "れんこう"
+        },
+        {
+          "word": "聯亙",
+          "reading": "れんこう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "extending in a row"
+          ],
+          "parts_of_speech": [
+            "Noun",
+            "Suru verb"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

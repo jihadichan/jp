@@ -1,0 +1,237 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "真菰",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "真菰",
+          "reading": "まこも"
+        },
+        {
+          "word": "真薦",
+          "reading": "まこも"
+        },
+        {
+          "reading": "マコモ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Manchurian wild rice (Zizania latifolia)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Wild rice"
+          ],
+          "parts_of_speech": [
+            "Wikipedia definition"
+          ],
+          "links": [
+            {
+              "text": "Read “Wild rice” on English Wikipedia",
+              "url": "http://en.wikipedia.org/wiki/Wild_rice?oldid\u003d494911167"
+            },
+            {
+              "text": "Read “マコモ” on Japanese Wikipedia",
+              "url": "http://ja.wikipedia.org/wiki/マコモ?oldid\u003d41082295"
+            }
+          ],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": [],
+          "sentences": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "http://dbpedia.org/resource/Wild_rice"
+      }
+    },
+    {
+      "slug": "薦",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "薦",
+          "reading": "こも"
+        },
+        {
+          "word": "菰",
+          "reading": "こも"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "woven straw mat (orig. made of wild rice leaves)"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Abbreviation"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "beggar"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [
+            "薦被り"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Manchurian wild rice (Zizania latifolia)"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "真菰"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "菰蓆",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "菰蓆",
+          "reading": "こもむしろ"
+        },
+        {
+          "word": "薦筵",
+          "reading": "こもむしろ"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "mat of woven wild rice leaves"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Obscure term"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "薦僧",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "薦僧",
+          "reading": "こもそう"
+        },
+        {
+          "word": "薦僧",
+          "reading": "こもぞう"
+        },
+        {
+          "word": "菰僧",
+          "reading": "こもそう"
+        },
+        {
+          "word": "菰僧",
+          "reading": "こもぞう"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "mendicant Zen priest of the Fuke sect"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Archaism"
+          ],
+          "restrictions": [],
+          "see_also": [
+            "虚無僧"
+          ],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}

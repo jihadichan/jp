@@ -1,0 +1,129 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": [
+    {
+      "slug": "西藏",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "西藏",
+          "reading": "せいぞう"
+        },
+        {
+          "word": "西藏",
+          "reading": "チベット"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "Tibet"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [
+            "Usually written using kana alone"
+          ],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "Tibet (China)"
+          ],
+          "parts_of_speech": [
+            "Place"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": true,
+        "dbpedia": "false"
+      }
+    },
+    {
+      "slug": "蔵人",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蔵人",
+          "reading": "くろうど"
+        },
+        {
+          "word": "蔵人",
+          "reading": "くらんど"
+        },
+        {
+          "word": "蔵人",
+          "reading": "くらびと"
+        },
+        {
+          "word": "藏人",
+          "reading": "くろうど"
+        },
+        {
+          "word": "藏人",
+          "reading": "くらんど"
+        },
+        {
+          "word": "藏人",
+          "reading": "くらびと"
+        }
+      ],
+      "senses": [
+        {
+          "english_definitions": [
+            "keeper of imperial archives"
+          ],
+          "parts_of_speech": [
+            "Noun"
+          ],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        },
+        {
+          "english_definitions": [
+            "worker skilled in the brewing of sake or soy sauce"
+          ],
+          "parts_of_speech": [],
+          "links": [],
+          "tags": [],
+          "restrictions": [],
+          "see_also": [],
+          "antonyms": [],
+          "source": [],
+          "info": []
+        }
+      ],
+      "attribution": {
+        "jmdict": true,
+        "jmnedict": false,
+        "dbpedia": "false"
+      }
+    }
+  ]
+}
