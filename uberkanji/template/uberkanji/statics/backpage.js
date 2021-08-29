@@ -1,9 +1,13 @@
 var data;
+var debugField = $('#debug');
+window.onerror = function(message, source, lineno, colno, error) {
+    debugField.append("<br>Message: "+message+" - Source: "+source+" - LineNo: "+lineno+" - ColNo: "+colno+" - Error: "+error);
+};
 try {
     data = JSON.parse(decodeURIComponent($('#data').html().replace(/\+/g, ' ')));
 } catch (e) {
     data = {};
-    $('#debug').text("JSON parse error. " + e.message);
+    debugField.append("JSON parse error. " + e.message);
 }
 var fonts = [1]; //, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]; // todo if you want more, check HTML in template -> renderFonts(), also check CSS
 var amountOfFontsToShow = 1;
@@ -695,7 +699,6 @@ function addConfMarker(html) {
             if (confusions.hasOwnProperty(key)) {
                 var conf = confusions[key];
                 var meaning = conf.cp ? conf.cp : conf.rtk;
-                console.log(conf.cp)
                 meaning = meaning.replace(/<br>.*/, "")
                 html += "<br>" + conf.kj + " (" + conf.r + ", " + meaning + ")";
             }
@@ -707,12 +710,15 @@ function addConfMarker(html) {
 }
 
 function extractConfusions() {
-    var kanji = kanjiField.text().trim();
-    var confGroup = confMap.refs[kanji];
-    if (confGroup) {
-        console.log(confMap.groups[confGroup])
-        delete confMap.groups[confGroup][kanjiField.text()];
-        return confMap.groups[confGroup];
+    try {
+        var kanji = kanjiField.text().trim().codePointAt(0).toString(16); // as unicode
+        var confGroup = confMap.refs[kanji];
+        if (confGroup) {
+            delete confMap.groups[confGroup][kanji];
+            return confMap.groups[confGroup];
+        } 
+    } catch (e) {
+        debugField.append(e);
     }
     return [];
 }
@@ -754,7 +760,7 @@ function playSingleReading(reading) {
     try {
         new Audio(createPathToMp3(reading)).play();
     } catch (err) {
-        $('#debug').text("Couldn't play " + readings[i] + ". Probably file does not exist.");
+        debugField.append("Couldn't play " + readings[i] + ". Probably file does not exist.");
     }
 }
 

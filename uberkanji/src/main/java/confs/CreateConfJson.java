@@ -46,6 +46,12 @@ public class CreateConfJson {
         jsonMap.put("groups", confGroups);
         String jsFile = "var confMap = "+GSON.toJson(jsonMap)+";";
         byte[] jsonAsBytes = jsFile.getBytes(StandardCharsets.UTF_8);
+
+        // Write confs.js
+        Path confJs = confsFolder.resolve("confs.js");
+        if(confJs.toFile().exists()) {
+            confJs.toFile().delete();
+        }
         Files.write(confsFolder.resolve("confs.js"), jsonAsBytes, StandardOpenOption.CREATE);
     }
 
@@ -59,7 +65,7 @@ public class CreateConfJson {
             if (confData == null) {
                 throw new IllegalStateException("Failed to get ConfData for kanji, need key: '" + kanji + "'");
             }
-            confGroup.put(kanji, confData);
+            confGroup.put(asUnicode(kanji.charAt(0)), confData);
         }
     }
 
@@ -89,7 +95,7 @@ public class CreateConfJson {
         }
         id = groupIndex.incrementAndGet();
         for (final String kanji : kanjis) {
-            confGroupRefs.put(kanji, id);
+            confGroupRefs.put(asUnicode(kanji.charAt(0)), id);
         }
         return id;
     }
@@ -101,6 +107,10 @@ public class CreateConfJson {
         } catch (final IOException e) {
             throw new IllegalStateException("Failed to load file at: " + path);
         }
+    }
+
+    private static String asUnicode(char character) {
+        return Integer.toHexString(character);
     }
 
 }

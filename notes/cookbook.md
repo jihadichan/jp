@@ -115,7 +115,8 @@ See `/jp/tools/hotkeys/readme.md`
 
 ### Update confusions
 
-1. Export UberKanji deck to `uberkanji/yomichan/deck/UberKanji.txt`
-2. Run `uberkanji/src/main/java/confs/CreateConfJson.java`
-3. Copy resulting `uberkanji/confs/confs.js` to `uberkanji/statics/` in Anki collection.
+1. Add new confs to `confs/confList`
+2. Export UberKanji deck to `uberkanji/yomichan/deck/UberKanji.txt`
+3. Run `uberkanji/src/main/java/confs/CreateConfJson.java`
+4. Copy resulting `uberkanji/confs/confs.js` to `uberkanji/statics/` in Anki collection.
 
