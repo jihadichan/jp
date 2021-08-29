@@ -16,6 +16,8 @@ import java.util.Map;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+import static confs.CreateConfJson.asUnicode;
+
 public class MnemonicsCsvLoader {
 
     private static final Pattern kanaPattern = Pattern.compile("([\\u4E00-\\u9FAF\\u3040-\\u3096\\u30A1-\\u30FA\\uFF66-\\uFF9D\\u31F0-\\u31FF]+.?)+ [-=] .*?<br/?>");
@@ -48,7 +50,7 @@ public class MnemonicsCsvLoader {
                 mnemonic.m = getConfDataMap(record.get(3));
                 mnemonic.r = getMainReading(record.get(4));
                 addKeywords(mnemonic, record.get(2), record.get(8));
-                map.put(kanji, mnemonic);
+                map.put(asUnicode(kanji.charAt(0)), mnemonic);
             }
         });
 

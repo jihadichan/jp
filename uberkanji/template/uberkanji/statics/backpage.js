@@ -716,7 +716,7 @@ function extractConfusions() {
         if (confGroup) {
             delete confMap.groups[confGroup][kanji];
             return confMap.groups[confGroup];
-        } 
+        }
     } catch (e) {
         debugField.append(e);
     }

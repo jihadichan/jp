@@ -104,6 +104,75 @@ function renderAnalysisTable(shouldHighLight) {
     $('#rendered-content').html(table);
 }
 
+function renderMnemonics() {
+    var sentence = getRawOrDisplayField();
+    var regex = /[\u4e00-\u9faf]|[\u3400-\u4dbf]/;
+    console.log("matching...")
+
+    var match;
+    var mnemonics = []
+    while (match = regex.exec(sentence)) {
+        var mnemonic = mnemonicsMap[match[0].codePointAt(0).toString(16)];
+        if(mnemonic) {
+            mnemonics.push(mnemonic);
+        } else {
+            mnemonics.push({
+                kj: match[0],
+                cp: "unknown",
+                rtk: "unknown",
+                m: "",
+                r: "unknown"
+            });
+        }
+        sentence = sentence.replace(regex, "");
+    }
+    $('#rendered-content').html(getConfusionHtml(mnemonics));
+}
+
+function getRawOrDisplayField() {
+    var display = $('#sentence-display').html();
+    if(display.trim() !== "") {
+        return display;
+    }
+    return $('#sentence-raw').html();
+}
+
+function getConfusionHtml(mnemonics) {
+    var html = "<div class='confusion-solution'>";
+    html += "<table onclick='toggleDisplay()' style='width: 100%'>";
+    for (var key in mnemonics) {
+        if (mnemonics.hasOwnProperty(key)) {
+            var conf = mnemonics[key];
+
+            var meaning = conf.cp ? conf.cp : conf.rtk;
+            html += "" +
+                "<tr>" +
+                "   <td>" +
+                "       <table style='width: 100%'>" +
+                "           <tr>" +
+                "               <td style='font-size:1.3em; width: 15%'>" + conf.kj + "</td>" +
+                "               <td style='width: 60%; text-align: left;'>" + meaning + "</td>" +
+                "               <td style='width: 25%'>" + conf.r + "</td>" +
+                "           </tr>" +
+                "       </table>" +
+                "   </td>" +
+                "</tr>";
+
+            html += "" +
+                "<tr>" +
+                "   <td style='display: none' class='mnemonics'>" + conf.m + "</td>" +
+                "</tr>";
+        }
+    }
+    html += "</table>";
+    html += "</div>";
+    return html;
+}
+
+function toggleDisplay() {
+    $(".mnemonics").toggle()
+}
+
 function renderJishoWithSentence() {
     var sentence = $('#sentence-raw').html();
     $('#rendered-content').html('<iframe class=\"jisho\" src=\"https://jisho.org/search/' + sentence + '\"></iframe>');
@@ -276,14 +345,6 @@ function renderSentence(shouldHighlight) {
     $('#sentence').html(sentence);
 }
 
-function getRawOrDisplayField() {
-    var display = $('#sentence-display').html();
-    if(display.trim() !== "") {
-        return display;
-    }
-    return $('#sentence-raw').html();
-}
-
 function wrapWithHighlight(shouldHighlight, analysisElement, sentencePart) {
     if (!shouldHighlight || !analysisElement.partsOfSpeech || !analysisElement.partsOfSpeech[0]) {
         return sentencePart;
@@ -359,7 +420,8 @@ function wrapWithSpan(sentencePart, cssClass) {
 
 function renderHighlights() {
     renderSentence(highlightToggle);
-    renderAnalysisTable(highlightToggle);
+    // renderAnalysisTable(highlightToggle); use renderMnemonics() as default
+    renderMnemonics();
     highlightToggle = !highlightToggle;
 }
 
@@ -371,15 +433,16 @@ function renderHighlights() {
 function renderOptions() {
     var jQuerySelection = $('#options');
     renderReplayButton(jQuerySelection);
-    renderHighLightButton(jQuerySelection);
+    // renderHighLightButton(jQuerySelection); // never used
     renderJishoButton(jQuerySelection);
-    renderAnalysisButton(jQuerySelection);
     renderTranslateButton(jQuerySelection);
     renderVocabButton(jQuerySelection);
     renderGrammarButton(jQuerySelection);
     renderMailToButton(jQuerySelection);
-    renderSourceButton(jQuerySelection);
+    // renderSourceButton(jQuerySelection); // rendered explicitly at the bottom
     renderGoogleTranslateButton(jQuerySelection);
+    renderAnalysisButton(jQuerySelection);
+    renderMnemonicsButton(jQuerySelection);
 }
 
 function renderVocabButton(jQuerySelection) {
@@ -443,6 +506,10 @@ function toggleFurigana() {
 
 function renderAnalysisButton(jQuerySelection) {
     jQuerySelection.html(jQuerySelection.html() + "<button class='options-button' onclick='renderAnalysisTable()'>Analysis</button>");
+}
+
+function renderMnemonicsButton(jQuerySelection) {
+    jQuerySelection.html(jQuerySelection.html() + "<button class='options-button' onclick='renderMnemonics()'>Mnemonics</button>");
 }
 
 function renderReplayButton(jQuerySelection) {

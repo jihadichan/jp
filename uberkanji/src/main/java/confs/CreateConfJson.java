@@ -13,7 +13,6 @@ import java.nio.file.StandardOpenOption;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import java.util.Objects;
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.regex.Pattern;
 
@@ -36,32 +35,46 @@ public class CreateConfJson {
     public static void main(final String[] args) throws Exception {
         final List<String> confs = loadFileAsList(confsFolder.resolve("confList"));
         confs.forEach(line -> {
-            String[] kanjis = extractKanji(line);
-            Integer groupId = getConfGroupId(kanjis);
+            final String[] kanjis = extractKanji(line);
+            final Integer groupId = getConfGroupId(kanjis);
             putIntoConfGroups(kanjis, groupId);
         });
 
-        Map<String,Object> jsonMap = new HashMap<>();
+        final Map<String, Object> jsonMap = new HashMap<>();
         jsonMap.put("refs", confGroupRefs);
         jsonMap.put("groups", confGroups);
-        String jsFile = "var confMap = "+GSON.toJson(jsonMap)+";";
-        byte[] jsonAsBytes = jsFile.getBytes(StandardCharsets.UTF_8);
+
 
         // Write confs.js
-        Path confJs = confsFolder.resolve("confs.js");
-        if(confJs.toFile().exists()) {
-            confJs.toFile().delete();
+        final String confJsAsString = "var confMap = " + GSON.toJson(jsonMap) + ";";
+        final byte[] confJsAsBytes = confJsAsString.getBytes(StandardCharsets.UTF_8);
+        final Path confJs = confsFolder.resolve("confs.js");
+        if (confJs.toFile().exists()) {
+            if (!confJs.toFile().delete()) {
+                throw new IllegalStateException("Failed to delete conf.js");
+            }
         }
-        Files.write(confsFolder.resolve("confs.js"), jsonAsBytes, StandardOpenOption.CREATE);
+        Files.write(confsFolder.resolve("confs.js"), confJsAsBytes, StandardOpenOption.CREATE);
+
+        // Write mnemonics.js
+        final String mnemonicJsAsString = "var mnemonicsMap = " + GSON.toJson(confDataMap) + ";";
+        final byte[] mnemonicJsAsBytes = mnemonicJsAsString.getBytes(StandardCharsets.UTF_8);
+        final Path mnemonicsJs = confsFolder.resolve("mnemonics.js");
+        if (mnemonicsJs.toFile().exists()) {
+            if (!mnemonicsJs.toFile().delete()) {
+                throw new IllegalStateException("Failed to delete mnemonics.js");
+            }
+        }
+        Files.write(confsFolder.resolve("mnemonics.js"), mnemonicJsAsBytes, StandardOpenOption.CREATE);
     }
 
-    private static void putIntoConfGroups(String[] kanjis, Integer groupId) {
+    private static void putIntoConfGroups(final String[] kanjis, final Integer groupId) {
         // Get confGroup or create an empty one if not exists
-        Map<String, ConfData> confGroup = confGroups.computeIfAbsent(groupId, k -> new HashMap<>());
+        final Map<String, ConfData> confGroup = confGroups.computeIfAbsent(groupId, k -> new HashMap<>());
 
         for (final String kanji : kanjis) {
             // Check if given kanji is actually known in the deck
-            ConfData confData = confDataMap.get(kanji);
+            final ConfData confData = confDataMap.get(asUnicode(kanji.charAt(0)));
             if (confData == null) {
                 throw new IllegalStateException("Failed to get ConfData for kanji, need key: '" + kanji + "'");
             }
@@ -81,16 +94,16 @@ public class CreateConfJson {
     }
 
     // Check if an ID exists for any for the kanji. If so, then it's a known group and every kanji in that line belongs to it.
-    private static Integer getConfGroupId(String[] kanjis) {
+    private static Integer getConfGroupId(final String[] kanjis) {
         Integer id = null;
         for (final String kanji : kanjis) {
-            Integer index = confGroupRefs.get(kanji);
-            if(index != null) {
+            final Integer index = confGroupRefs.get(kanji);
+            if (index != null) {
                 id = index;
                 break;
             }
         }
-        if(id != null) {
+        if (id != null) {
             return id;
         }
         id = groupIndex.incrementAndGet();
@@ -109,7 +122,7 @@ public class CreateConfJson {
         }
     }
 
-    private static String asUnicode(char character) {
+    public static String asUnicode(final char character) {
         return Integer.toHexString(character);
     }
 
