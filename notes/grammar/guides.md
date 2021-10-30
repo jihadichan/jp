@@ -5,6 +5,7 @@
 ## Regular guides
 
 - [Jihadi's Grammar Guide](https://jihadichan.github.io/) (do an empty search, click on the numbers, it's a full book)
+- [Jihadi's Conjugations](https://github.com/jihadichan/jp/tree/master/notes/grammar#verbs) - All other conjugation explanations are shit and wtf is wrong with people not teaching it this way...
 - [Tae Kim's Grammar Guide](http://guidetojapanese.org/learn/)
 - [Absolute basics](https://www.tofugu.com/learn-japanese/)
 - [JLPT Grammar points](https://jlptsensei.com/complete-jlpt-grammar-list/) (N5 is easiest)
@@ -31,5 +32,5 @@
 - [AniMelon](https://animelon.com/) - Bad tech but it's the only site with Japanese + English subtitles as text together 
 - [LanguageReactor](https://www.languagereactor.com/) - Chrome extension for dual language subtitles. Works on YouTube and Netflix. Tried the previous version, was already good. Might be better now. Holy shit. Just tested it. It's really good. It uses auto-translations (which is really bad) but it's still fucking awesome.
 
-
+- [Conjugation practice games](https://steven-kraft.com/projects/japanese/)
 
