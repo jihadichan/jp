@@ -45,7 +45,7 @@ Let's say you want to archive `vocab2`.
 2. Open in Excel
 3. Copy complete column with images (`<img src="yomichan_...`) and replace `yomichan_` with `vocab2/yomichan_`
 4. Same for `[sound:yomichan_` column.
-5. Copy all image & mp3 files from `/.local/share/Anki2/User 1/collection.media`, into new folder `vocab2`
+5. Copy all image & mp3 files from `/.local/share/Anki2/User 1/collection.media`, into new folder `vocab2`. On Windows go to `%APPDATA%\Anki2`
 6. Reimporting, don't forget to set to "update" and allow HTML
 
 Don't forget to set your new deck in the AnkiConnect settings in Yomichan.
@@ -120,4 +120,121 @@ See `/jp/tools/hotkeys/readme.md`
 3. Run `uberkanji/src/main/java/confs/CreateConfJson.java`
 4. Copy resulting `uberkanji/confs/confs.js` to `uberkanji/statics/` in Anki collection.
 5. Copy resulting `uberkanji/confs/mnemonics.js` to `ubersenteces/statics/` in Anki collection.
+
+
+
+
+
+# DeckFarming
+
+- All those sub2srs decks seem to use the same card type
+- Get deck from [here](https://www.mediafire.com/folder/p17g5uk4phb41/User_Uploaded_Anki_Decks)
+- Note that not all have translations
+- Use the template below. Don't try to press them into the UberSentences format. All cool as it is.
+
+## Front page
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+</head>
+<body>
+<!--------------------------------------------------------------------------->
+<!-- COPY FROM HERE -->
+<!--------------------------------------------------------------------------->
+<link rel="stylesheet" type="text/css" href="ubersentences/statics/commons.css">
+<link rel="stylesheet" type="text/css" href="ubersentences/statics/frontpage-style.css">
+<div id="container">
+    <div id="debug"></div>
+    <div class="wrapper">
+        <div class="layout">
+            <div class="fp-sentence" id="sentence-container"></div>
+        </div>
+    </div>
+</div>
+<div id="sentence-raw" class="anki-field">{{FocusVocab}}<br>{{morphHighlight:Expression}}</div>
+<div id="sentence-display" class="anki-field"></div>
+<!--<script src="ubersentences/statics/jquery-3.4.1.min.js" type="application/javascript"></script>-->
+<script src="ubersentences/statics/frontpage.js" type="application/javascript" charset="UTF-8"></script>
+<!--------------------------------------------------------------------------->
+<!-- TO HERE -->
+<!--------------------------------------------------------------------------->
+</body>
+</html>
+```
+
+# Back page
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+</head>
+<body>
+<!--------------------------------------------------------------------------->
+<!-- COPY FROM HERE -->
+<!--------------------------------------------------------------------------->
+<link rel="stylesheet" type="text/css" href="ubersentences/statics/commons.css">
+<link rel="stylesheet" type="text/css" href="ubersentences/statics/backpage-style.css">
+<div id="debug"></div>
+<div id="solution" class="wrapper">
+    <div id="overlay">
+        <div id="overlay-text">
+            1. Listen<br>
+            2. Translate<br>
+            3. Click<br>
+        </div>
+    </div>
+    <div class="layout">
+        <table class="wrapper-table">
+            <!--------------------------------------------------------------------------->
+            <!-- SENTENCE -->
+            <!--------------------------------------------------------------------------->
+            <tr>
+                <td>
+                    <div class="sentence-table">
+                        <table>
+                            <tr class="options-wrapper">
+                                <td id="sentence">{{furigana:Reading}}</td>
+                                <td id="options" rowspan="2"></td>
+                            </tr>
+                            <tr>
+                                <td id="notes">- {{Meaning}}<br>{{Notes}}</td>
+                            </tr>
+                            <tr id="source-cell"></tr>
+                        </table>
+                    </div>
+                </td>
+            </tr>
+
+            <!--------------------------------------------------------------------------->
+            <!-- RENDERED -->
+            <!--------------------------------------------------------------------------->
+            <tr>
+                <td id="rendered-content"></td>
+            </tr>
+        </table>
+    </div>
+</div>
+<div id="data" class="anki-field">{}</div>
+<div id="sentence-raw" class="anki-field">{{morphHighlight:Expression}}</div>
+<div id="sentence-display" class="anki-field">{{furigana:Reading}}</div>
+<!-- When you use a compiled UberSentences deck and not a Yomichan deck,
+then do this to enable audio: https://github.com/jihadichan/jp/blob/master/ubersentences/docs/audio.md -->
+<div class="anki-field">{{Audio}}</div>
+<div id="source" class="anki-field">{{Snapshot}}</div>
+<script src="ubersentences/statics/mnemonics.js" type="application/javascript"></script>
+<script src="ubersentences/statics/jquery-3.4.1.min.js" type="application/javascript"></script>
+<script src="ubersentences/statics/jquery.modal.min.js" type="application/javascript" charset="UTF-8"></script>
+<script src="ubersentences/statics/backpage.js" type="application/javascript" charset="UTF-8"></script>
+<div id="modal" class="modal"></div>
+<!--------------------------------------------------------------------------->
+<!-- TO HERE -->
+<!--------------------------------------------------------------------------->
+</body>
+</html>
+```
 

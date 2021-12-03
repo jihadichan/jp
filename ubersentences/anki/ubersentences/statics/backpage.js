@@ -27,17 +27,6 @@ var nextMarkerEvent;
 // RENDERED SECTION
 /*********************************************************************************/
 
-function removeOverlay() {
-    document.getElementById("overlay").style.display = "none";
-}
-
-function addShowSolutionClickEvent() {
-    removeOverlay(); // todo remove this line if you want to enable the overlay.
-    $('#solution').on("click", function () {
-        removeOverlay();
-    });
-}
-
 function addToggleFuriganaClickEvent() {
     $('#sentence').on("click", function () {
         toggleFurigana();
@@ -941,6 +930,5 @@ renderOptions();
 // renderAnalysisTable(); // Done in renderHighlights()
 renderHighlights(); // Renders also sentence
 renderSourceCell();
-addShowSolutionClickEvent();
 addToggleFuriganaClickEvent();
 renderNextMarker();
