@@ -1,3 +1,7 @@
+{:toc}
+
+
+
 # Cookbook
 
 
@@ -37,7 +41,19 @@ sudo make uninstall
 
 
 
-### How to move vocab deck contents
+### How to filter by intervals?
+
+Add this to the query:
+
+```
+prop:ivl>180
+```
+
+Will show all cards with more than 180 days interval. 
+
+
+
+### How to move vocab deck contents?
 
 Let's say you want to archive `vocab2`.
 
@@ -236,5 +252,35 @@ then do this to enable audio: https://github.com/jihadichan/jp/blob/master/ubers
 <!--------------------------------------------------------------------------->
 </body>
 </html>
+```
+
+
+
+# AniMelon Search
+
+- Scroll till bottom
+- Execute in JS console
+- Replace array in `series.js`
+
+```javascript
+var series = []
+var container = $('#trend > div > div.col-md-8.col-xs-12.right-gallery > div:nth-child(3) > div.row.ng-show-toggle-slidedown.series-content-container')
+container.find('a').each(function( index ) {
+	var tags = []
+	$(this).find('.label').each(function() {
+		tags.push($(this).text().trim())
+	})	
+
+	  var item = {
+	  	name: $(this).find('.anime-name').text().trim(),
+	  	image: $(this).find('.image-fit').attr('src').trim(),
+	  	tags: tags,
+	  	desc: $(this).find("[ng-bind='series.descriptions.en']").text().trim(),
+	  	release: $(this).find('.description-title').first().text().trim(),
+	  	link: $(this).attr('href')
+	  }	
+	  series.push(item)
+});
+console.log(series)
 ```
 
