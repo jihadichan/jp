@@ -8,21 +8,21 @@ import java.util.Map;
  */
 public class AnkiStaticData {
 
-    private final String meanings;
-    private final int frequency;
-    private final String components;
-    private final int strokes;
-    private final String rtkKeyword;
-    private final int rtkIndex;
-    private final String onReadings;
-    private final String kunReadings;
-    private final List<JishoTerm> wordExamples;
-    private final List<JishoTerm> otherForms;
-    private final List<JishoTerm> unclassifiedReadings;
-    private final Map<String, Integer> mostCommonReadings;
-    private final Map<String, ReadingScores> scoredReadings;
-    private final String compoundReading;
-    private final String searchKey;
+    public final String meanings;
+    public final int frequency;
+    public final String components;
+    public final int strokes;
+    public final String rtkKeyword;
+    public final int rtkIndex;
+    public final String onReadings;
+    public final String kunReadings;
+    public final List<JishoTerm> wordExamples;
+    public final List<JishoTerm> otherForms;
+    public final List<JishoTerm> unclassifiedReadings;
+    public final Map<String, Integer> mostCommonReadings;
+    public final Map<String, ReadingScores> scoredReadings;
+    public final String compoundReading;
+    public final String searchKey;
 
     public AnkiStaticData(final char kanji,
                           final String meanings,
