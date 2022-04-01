@@ -71,13 +71,15 @@ if __name__ == '__main__':
                 knownTop3k += 1
 
             if freq <= 5000:
-                results += f"- <a href='https://jisho.org/search/{word}' target='_blank'>{word}</a><br>\n"
+                results += f"- <a href='https://jisho.org/search/{word}%20%23sentences' target='_blank'>{word}</a><br>\n"
                 knownTop5k += 1
         else:
             knownTop10k += 1
 
-    print(f"\ntotal known: {len(knownWords)}")
-    print(f"top10k: {knownTop10k}")
+    print(f"\n"
+          f"total known: {len(knownWords)}")
+    print(f"in top10k  : {knownTop10k}")
+    print("Missing: ")
     print(f"top5k: {knownTop5k}")
     print(f"top3k: {knownTop3k}")
     print(f"top2k: {knownTop2k}")
