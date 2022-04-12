@@ -284,3 +284,23 @@ container.find('a').each(function( index ) {
 console.log(series)
 ```
 
+
+
+# Manga
+
+Best:
+
+- https://rawkuma.com/ (raw manga, but the site is in English)
+- https://sakuramanga.org/ (raw manga, but the site is in English)
+
+Looks like shit, but they have the good stuff
+
+- [https://manga1001.top/?s=%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA](https://manga1001.top/?s=進撃の巨人)
+- https://comick.top/made-in-abyss-060/
+- https://mangapro.top/
+- https://syosetu.top/
+
+Shit tier:
+
+- https://rawdevart.com/ (English, actually good, but the inventory seems to be lacking)
+- https://delivery.senmanga.com/ (pop-ups, lots of them)
