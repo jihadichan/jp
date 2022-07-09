@@ -304,3 +304,10 @@ Shit tier:
 
 - https://rawdevart.com/ (English, actually good, but the inventory seems to be lacking)
 - https://delivery.senmanga.com/ (pop-ups, lots of them)
+
+
+
+# Anime
+
+- [Anime summaries](https://www.youtube.com/watch?v=rJk_mFg4jjQ)
+- [Anime movies](https://9gag.com/gag/a31rvnr)
