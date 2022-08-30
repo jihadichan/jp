@@ -129,7 +129,7 @@ See `/jp/tools/hotkeys/readme.md`
 
 ## UberKanji
 
-### Update confusions
+### Update confusions (kanji + sentences mnemonics)
 
 1. Add new confs to `confs/confList`
 2. Export UberKanji deck to `uberkanji/yomichan/deck/UberKanji.txt`
@@ -286,7 +286,11 @@ console.log(series)
 
 
 
-# Manga
+# Content
+
+
+
+## Manga
 
 Best:
 
@@ -307,7 +311,16 @@ Shit tier:
 
 
 
-# Anime
+## Anime
 
 - [Anime summaries](https://www.youtube.com/watch?v=rJk_mFg4jjQ)
-- [Anime movies](https://9gag.com/gag/a31rvnr)
+- [Some anime movies to watch](https://9gag.com/gag/a31rvnr)
+- [AniMixPlay](https://animixplay.to/?p=movie)
+- [KissAnime](https://www1.kissanime.ru.com/kissanime/)
+- [AnimeDao](https://animedao.to/)
+
+
+
+# Grammar
+
+https://upload.wikimedia.org/wikipedia/commons/6/68/AMB_Japanese_Verbs.pdf
