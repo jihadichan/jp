@@ -1,0 +1,95 @@
+WITH NEW DECK (fnKJ, fnKN):
+
+Compound Reading Sizes:
+1 - 1644
+2 - 641
+3 - 166
+4 - 37
+5 - 11
+6 - 2
+Total lines: 3102
+Kanji with readings: 2501
+Kanji without readings: 601
+
+Top 750:
+Compound Reading Sizes:
+1 - 352
+2 - 257
+3 - 102
+4 - 28
+5 - 10
+6 - 1
+Total lines: 750
+Kanji with readings: 750
+Kanji without readings: 0
+
+Top 1500:
+Compound Reading Sizes:
+1 - 823
+2 - 463
+3 - 149
+4 - 35
+5 - 11
+6 - 1
+Total lines: 1500
+Kanji with readings: 1482
+Kanji without readings: 18
+
+Top 2500:
+Compound Reading Sizes:
+1 - 1391
+2 - 615
+3 - 164
+4 - 37
+5 - 11
+6 - 1
+Total lines: 2500
+Kanji with readings: 2219
+Kanji without readings: 281
+
+
+
+
+
+--- Counts for size of ScoredReadings tables.
+Size  0:  699 - egrep "scoredReadings.*?\{\}"
+Size  1: 1161 - egrep "scoredReadings.*?\{([^,]*[0-9]+[^,]*){1}\}"
+Size  2:  846 - egrep "scoredReadings.*?\{([^,]*,[^,]*){1}([^,]*[0-9]+[^,]*){1}\}"
+Size  3:  284 - egrep "scoredReadings.*?\{([^,]*,[^,]*){2}([^,]*[0-9]+[^,]*){1}\}"
+Size  4:   80 - egrep "scoredReadings.*?\{([^,]*,[^,]*){3}([^,]*[0-9]+[^,]*){1}\}"
+Size  5:   26 - egrep "scoredReadings.*?\{([^,]*,[^,]*){4}([^,]*[0-9]+[^,]*){1}\}"
+Size  6:    4 - egrep "scoredReadings.*?\{([^,]*,[^,]*){5}([^,]*[0-9]+[^,]*){1}\}"
+Size  7:    1 - egrep "scoredReadings.*?\{([^,]*,[^,]*){6}([^,]*[0-9]+[^,]*){1}\}"
+Size  8:    0 - egrep "scoredReadings.*?\{([^,]*,[^,]*){7}([^,]*[0-9]+[^,]*){1}\}"
+Size  9:    1 - egrep "scoredReadings.*?\{([^,]*,[^,]*){8}([^,]*[0-9]+[^,]*){1}\}"
+Size 10:    0 - egrep "scoredReadings.*?\{([^,]*,[^,]*){9}([^,]*[0-9]+[^,]*){1}\}"
+Total  : 3102
+
+
+Todo Analysis:
+----------------
+Hard kanji (>=4):  112 -> rote learn that shit
+Easy kanji (0|1): 1860 -> 60%   
+Reg. kanji (2|3): 1130 -> 36%  
+
+Word Analysis:
+1860+1692+852+320+130+24+7+9 = 4894!! (24,4% of 20k)
+
+
+
+
+--- Only top 1250:
+Size   0:    7
+Size   1:  347  
+Size   2:  558
+Size   3:  230
+Size   4:   77
+Size   5:   25
+Size   6:    4
+Size   7:    1
+Size   8:    0
+Size   9:    1
+Size  10:    0
+Total:  : 1250
+
+

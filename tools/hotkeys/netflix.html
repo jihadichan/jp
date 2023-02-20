@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+    <meta charset='UTF-8'>
+    <title>Title</title>
+    <script type='application/javascript' src='https://code.jquery.com/jquery-3.5.1.min.js'></script>
+</head>
+<body>
+<label class='lln-translit-option' style=''>
+    <span class='lln-label-text'>Show Transliterations:</span>
+
+    <select id='transliterationsJa'>
+        <option value='ORIG'>No transliterations</option>
+        <option value='ORIG+ROMAJI'>Romaji</option>
+        <option value='ORIG+HIRAGANA'>Hiragana</option>
+    </select><br>
+</label>
+<label>
+    <span class='lln-label-text'>Hide Subtitles</span>
+
+    <select id='hideSubs'>
+        <option value='OFF'>Disabled</option>
+        <option value='HT'>Hide translations</option>
+        <option value='HB'>Hide both</option>
+    </select>
+    <span class='tippy lln-info-btn' id='blurTranslations-tt' data-tippy-content='Hide the translation when the video is playing. Click the text or press [e] to reveal the translation.'>
+                                <span class='svg-span svg-info-tooltip'></span>
+                            </span>
+</label><br>
+<label id='showHT-label' class='lln-hide-on-yt' style=''>
+    <span class='lln-label-text'>Show Human Translation</span>
+
+    <input type='checkbox' id='showHT' class='lln-toggle' checked=''>
+
+    <span id='HTNotice' class='show' style='display: none;'>Not Available.</span>
+
+    <span class='tippy lln-info-btn' id='showHT-tt' data-tippy-content='Show a human translation of the source subtitles in your language, if available.' tabindex='0'>
+                                <span class='svg-span svg-info-tooltip'></span>
+                            </span>
+
+</label>
+
+<script type='application/javascript'>
+    var english = $('#showHT');
+    var hiragana = $('#transliterationsJa');
+    var isHiraganaActive = hiragana.val() !== 'ORIG';
+    var kanji = $('#hideSubs');
+    var isKanjiActive = hiragana.val() !== 'OFF';
+
+    var info = '' +
+        'English (J): ' + (english.length === 0 ? 'Couldn\'t find element\n' : 'Should work.\n') +
+        'Hiragana (K): ' + (hiragana.length === 0 ? 'Couldn\'t find element\n' : 'Should work.\n') +
+        'Kanji (L): ' + (kanji.length === 0 ? 'Couldn\'t find element\n' : 'Should work.\n');
+    alert(info);
+
+    document.onkeyup = function(e) {
+        if (e.code === 'KeyJ') {
+            english.trigger('click'); // Show english
+        }
+        if (e.code === 'KeyK') {
+            if(isHiraganaActive) {
+                hiragana.val('ORIG').trigger('change');
+                isHiraganaActive = false;
+            } else {
+                hiragana.val('ORIG+HIRAGANA').trigger('change');
+                isHiraganaActive = true;
+            }
+        }
+        if (e.code === 'KeyL') {
+            if(isHiraganaActive) {
+                kanji.val('OFF').trigger('change');
+                isHiraganaActive = false;
+            } else {
+                kanji.val('HB').trigger('change');
+                isHiraganaActive = true;
+            }
+        }
+    }
+</script>
+</body>
+</html>
