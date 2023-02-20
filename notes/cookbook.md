@@ -6,6 +6,13 @@
 
 
 
+## Backups
+
+- UberKanji is in `uk/backups`. The `.apkg` should work, but the CSV is also there to be sure. Media is in `media/`
+- UberVocab is in Google Drive, `*.stuff@gmail.com`. Also in `us/backups`, read the `restore.md`
+
+
+
 ## Anki
 
 
